@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+/* Direction 1 "Market fresh" (DECISIONS 2026-11-18). Zones are also told apart by shape + label, never colour alone. */
+:root {
+  --paper: #FBF8F3;
+  --card: #FFFFFF;
+  --ink: #1E2A23;
+  --muted: #5F675F;
+  --line: #ECE5DA;
+  --chip: #F3EDE3;
+  --brand: #2E8B57;
+  --brand-ink: #237047;
+  --soft: #E7F3EC;
+  --low: #3A9B66;
+  --mid: #E8A93A;
+  --high: #DE6B55;
+  --mid-ink: #8A5A00;
+  --high-ink: #A63D2A;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #131A16;
+    --card: #1A231E;
+    --ink: #EEE9DF;
+    --muted: #A7AFA6;
+    --line: #2A352E;
+    --chip: #222C26;
+    --brand: #4CB27A;
+    --brand-ink: #7CCB9E;
+    --soft: #1E3328;
+    --low: #4CB27A;
+    --mid: #F0B43A;
+    --high: #E8735F;
+    --mid-ink: #F3C66B;
+    --high-ink: #F19A89;
+  }
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-chip: var(--chip);
+  --color-brand: var(--brand);
+  --color-brand-ink: var(--brand-ink);
+  --color-soft: var(--soft);
+  --color-low: var(--low);
+  --color-mid: var(--mid);
+  --color-high: var(--high);
+  --color-mid-ink: var(--mid-ink);
+  --color-high-ink: var(--high-ink);
+  --font-sans: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-display-face), ui-sans-serif, system-ui, sans-serif;
+  --radius-card: 20px;
+}
+
+html { -webkit-text-size-adjust: 100%; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-sans); font-size: 17px; line-height: 1.55; }
+h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.02em; line-height: 1.15; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 6px; }
+.skip-link { position: absolute; left: -999px; top: 8px; background: var(--ink); color: var(--paper); padding: 8px 12px; border-radius: 8px; z-index: 50; }
+.skip-link:focus { left: 8px; }
+.below-fold { content-visibility: auto; contain-intrinsic-size: auto 600px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; scroll-behavior: auto !important; } }
+@media print {
+  header[data-site], footer[data-site], .no-print { display: none !important; }
+  body { background: #fff; color: #000; font-size: 12px; }
+}

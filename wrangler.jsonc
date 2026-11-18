@@ -1,0 +1,15 @@
+{
+  // Cloudflare Workers config for isitlowfodmap.com. Owner steps come in docs/setup/ before launch.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "isitlowfodmap",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
+  "observability": { "enabled": true },
+  // No spare workers.dev copy for Google to find. Custom domain routes are added on deploy day.
+  "workers_dev": false,
+  "preview_urls": false
+  // Email list (printable PDF): once the D1 database exists, add it here:
+  // , "d1_databases": [{ "binding": "EMAILS", "database_name": "isitlowfodmap-emails", "database_id": "<id>", "migrations_dir": "migrations" }]
+}

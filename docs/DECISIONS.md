@@ -99,3 +99,6 @@ Owner: "research and lmk". Claude's call after research, open to owner change: *
 - **Audience fit:** the main reader is anxious and newly told to "try low FODMAP" (track 01). Warm paper, friendly flat food illustrations and a calm green fit better than clinical white.
 - **Borrowed from direction 2:** below the answer card, sources, stacking and details use hairline rows instead of more cards, so pages stay uncluttered.
 - **Tokens:** paper #FBF8F3, ink #1E2A23, green #2E8B57, amber #E8A93A, coral #DE6B55. Outfit for headings and the wordmark, DM Sans for body. Radius 20 px for cards, pills for chips and buttons. Zones also differ by shape and label (decided earlier).
+
+## M1 plan approved (owner, 2026-11-18)
+Owner chose "Yes, build M1". Direction 1 "Market fresh" plus direction 2's hairline rows is confirmed. Build per `docs/plans/M1-foundation.md`.

@@ -1,0 +1,58 @@
+{
+  "nav": { "foods": "All foods", "regions": "Regions", "check": "Meal check", "printable": "Printable list", "how": "How we check", "menu": "Menu", "close": "Close menu", "search": "Check a food" },
+  "footer": {
+    "disclaimer": "Education, not medical advice. Low FODMAP is a short, guided diet. Your own tolerance after reintroduction matters most.",
+    "notAffiliated": "Not affiliated with Monash University or FODMAP Friendly.",
+    "rights": "© {year} {company}",
+    "groups": { "explore": "Explore", "trust": "How we work", "legal": "Legal" },
+    "changes": "What changed", "disclaimerLink": "Disclaimer", "privacy": "Privacy", "terms": "Terms", "contact": "Report a mistake"
+  },
+  "tier": {
+    "lab-tested": "Lab-tested",
+    "depends-on-amount": "Depends on amount",
+    "high": "High",
+    "estimated": "Estimated from ingredients",
+    "unknown": "No lab data yet"
+  },
+  "zone": { "low": "Low", "moderate": "Moderate", "high": "High", "untested": "Not tested" },
+  "food": {
+    "title": "Is {name} low FODMAP?",
+    "tryInstead": "Try instead",
+    "addToMeal": "Add {name} to a meal check",
+    "forms": "By form",
+    "changed": "What changed",
+    "disagree": "Sources disagree",
+    "stacking": "Stacking",
+    "phases": "The 3 diet phases",
+    "phasesText": "This guide is for the elimination phase (2–6 weeks). Then you reintroduce one FODMAP group at a time, and keep what you tolerate.",
+    "sources": "Sources",
+    "faq": "Questions",
+    "related": "Related foods",
+    "checked": "Checked {date}",
+    "report": "Spotted a mistake or something out of date? Tell us. We aim to fix factual errors within two working days.",
+    "slider": "Portion",
+    "sliderHelp": "Drag to see how the answer changes with the amount."
+  },
+  "doctor": {
+    "title": "See a doctor first if",
+    "items": ["you see blood in your stool or it turns black", "you're losing weight without trying", "symptoms wake you at night", "symptoms are new and you're over 45–50", "you have a family history of bowel cancer, coeliac disease or IBD"],
+    "note": "These need checking before you change your diet. A FODMAP-trained dietitian can guide the diet itself."
+  },
+  "checker": {
+    "placeholder": "Check a food, e.g. avocado",
+    "noResults": "We haven't checked “{q}” yet.",
+    "mealTitle": "Meal check",
+    "mealHelp": "Add 2–5 foods with amounts. We add up each FODMAP group as an estimate.",
+    "add": "Add",
+    "remove": "Remove {name}",
+    "estimate": "Estimate from each food's lab data. Stacking hasn't been lab-tested as a meal.",
+    "empty": "Add a food to start."
+  },
+  "email": {
+    "title": "Get the printable list",
+    "text": "One page, by food group, with grams. Free.",
+    "label": "Email",
+    "button": "Send me the list",
+    "note": "We'll only email about the list and site updates. Unsubscribe any time."
+  }
+}
