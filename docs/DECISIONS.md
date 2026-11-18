@@ -87,3 +87,15 @@ Owner: "i like rounder". The logo is **A3**: `isitlowfodmap` in **Outfit**, with
 
 ## Interview complete (2026-11-18)
 19 questions over 4 batches. Next: 3 identity directions side by side (logo, colours, type, sample food page) with scores → owner picks → `docs/plans/M1-foundation.md`.
+
+## Identity direction (owner delegated, 2026-11-18)
+Owner: "research and lmk". Claude's call after research, open to owner change: **Direction 1 "Market fresh"**, with one idea borrowed from direction 2.
+- **Evidence:** competitor food pages screenshotted at phone size on 2026-11-18 (`research/competitors/`):
+  - Fig: a plain grey text box, no grams above the fold.
+  - Gourmend and George Eats: editorial serif, which direction 2 would blend into.
+  - FODMAP Everyday and Karlijn's Kitchen: photo-heavy blogs with newsletter and supplement pushes.
+  - Monash: navy and institutional, with a chat widget.
+  - Nobody shows a warm, illustrated page with the answer in grams at the top. That gap is direction 1.
+- **Audience fit:** the main reader is anxious and newly told to "try low FODMAP" (track 01). Warm paper, friendly flat food illustrations and a calm green fit better than clinical white.
+- **Borrowed from direction 2:** below the answer card, sources, stacking and details use hairline rows instead of more cards, so pages stay uncluttered.
+- **Tokens:** paper #FBF8F3, ink #1E2A23, green #2E8B57, amber #E8A93A, coral #DE6B55. Outfit for headings and the wordmark, DM Sans for body. Radius 20 px for cards, pills for chips and buttons. Zones also differ by shape and label (decided earlier).
