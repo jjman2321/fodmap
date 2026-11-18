@@ -59,3 +59,8 @@ Owner: "also use dataforseo so we know how we can rank so good". The keys alread
 
 ## Interview format (owner, 2026-11-18)
 Owner: "for question do it with the interactive claude questions". Remaining questions are asked with the interactive picker.
+
+## Logo, checker, Monash quotes, DataForSEO: owner unsure (owner, 2026-11-18)
+Owner: "not sure tbh research and gimme more ideas" and "u can use higgsfield if needed".
+- 6 more logo mark concepts made with Higgsfield (1.5 credits): `docs/design-refs/logo/more-ideas.png`. All avoid traffic-light dots, which Monash's own app uses.
+- First US volume finding (DataForSEO, 2026-11-18): about 300 foods get 100+ searches a month each, roughly 200k a month in total. US demand for Middle Eastern foods is small (hummus 1,300, lentils 1,000, pistachio 720, couscous 320, falafel 110, halloumi 40, labneh 30), so the 30 Middle Eastern slots go to the ones with real volume. Data: `research/dataforseo/us-search-volume-2026-11-18.csv`.
