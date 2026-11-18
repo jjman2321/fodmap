@@ -48,5 +48,14 @@ Owner: "no name". No personal name on any page, byline or About page.
 - **Repo:** "Build in 'fodmap'". Build in `jjman2321/fodmap` (it can be renamed on GitHub later).
 - **Name/logo:** owner: "show me #1 + #2? and how to make 10/10". Comparison sheet made: `docs/design-refs/logo/logo-options.png`. Waiting for the pick.
 
+## Batch 2 answers (owner, 2026-11-18)
+- **Logo:** owner: "combine the gauge with the lowercase one". The wordmark is `isitlowfodmap` in a bold sans, with the "o" in "low" drawn as an open-bottom green/amber/red portion gauge. The gauge alone is the tab and app icon. Sheet: `docs/design-refs/logo/logo-combined.png`. Colour variant pending (green "low" vs all ink). A pro polish pass comes later (letter fit, 16 px icon, colour-blind check).
+- **First ~150 pages:** "Top + Middle East + contested". About 70 most-searched foods, 30 Middle Eastern and Egyptian foods, 20 contested foods, 20 "X vs Y" pages. Final list chosen with DataForSEO data.
+- **Dietitian reviewer:** owner: "just cite etc". No reviewer for now. Trust comes from sources next to every number, a methodology page, a changelog and correction links. The reviewer system is built switched off (PeptideTrack pattern) in case one is added later. Said once: weaker for Google on a health topic; owner accepts.
+- **Units:** "Grams + household measure". "Low up to 75 g (about ½ cup)". US spelling, with UK/AU names as aliases.
+
+## SEO data (owner, 2026-11-18)
+Owner: "also use dataforseo so we know how we can rank so good". The keys already exist in the environment (`DATAFORSEO_LOGIN` / `DATAFORSEO_PASSWORD`). The balance was $0.22 (trial credit) on 2026-11-18. $0.18 was spent on US Google search volumes for 3,000 FODMAP queries. Results go in `research/dataforseo/`.
+
 ## Interview format (owner, 2026-11-18)
 Owner: "for question do it with the interactive claude questions". Remaining questions are asked with the interactive picker.
