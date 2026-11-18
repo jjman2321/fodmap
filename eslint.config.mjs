@@ -14,6 +14,8 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
     // Node scripts (CommonJS) run outside the app.
     "scripts/**",
+    ".open-next/**",
+    ".wrangler/**",
   ]),
 ]);
 

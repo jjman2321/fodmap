@@ -12,7 +12,7 @@ const GROUPS = [
 
 export function SiteFooter() {
   return (
-    <footer data-site className="below-fold mt-16 border-t border-line">
+    <footer data-site className="mt-16 border-t border-line">
       <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 md:grid-cols-4">
         <div className="text-[20px]"><Wordmark /></div>
         {GROUPS.map((g) => (

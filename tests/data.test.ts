@@ -6,7 +6,7 @@ import en from "@/messages/en.json";
 
 const DAY = 86_400_000;
 // Copy lint (LESSONS §7): health claims we never make.
-const BANNED = [/\bcures?\b/i, /\btreats?\b/i, /safe for ibs/i, /ibs[- ]friendly/i, /\bcertified\b/i, /monash[- ]approved/i, /\bguaranteed?\b/i];
+const BANNED = [/\bsafe\b/i, /\bcures?\b/i, /\btreats?\b/i, /safe for ibs/i, /ibs[- ]friendly/i, /\bcertified\b/i, /monash[- ]approved/i, /\bguaranteed?\b/i];
 
 describe("data rules (DECISIONS §0)", () => {
   it("has seed foods", () => expect(foods.length).toBeGreaterThanOrEqual(5));

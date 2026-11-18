@@ -1,0 +1,2677 @@
+[
+  {
+    "food": "Garlic",
+    "slug": "garlic",
+    "group": "seed",
+    "verdict": "high",
+    "verdict_note": "Fresh garlic is high FODMAP even in small amounts; no public low-FODMAP gram serve found for fresh garlic.",
+    "thresholds": [
+      {
+        "form": "fresh garlic",
+        "low_up_to_g": null,
+        "moderate_from_g": null,
+        "high_from_g": 3,
+        "household": "approx. 1 small clove (household equivalent not stated by Monash)",
+        "source_ids": [
+          "MON_FRUCTANS_2020"
+        ],
+        "note": "Monash cites 3 g of garlic as an amount 'considered high in fructans'. No low serve published publicly."
+      },
+      {
+        "form": "pickled garlic",
+        "low_up_to_g": 3,
+        "moderate_from_g": 29,
+        "high_from_g": null,
+        "household": "1 clove",
+        "source_ids": [
+          "GE_TABBOULEH",
+          "GE_PICKLED_GARLIC"
+        ],
+        "note": "Secondary (George Eats) attributing to Monash; moderate group given as fructose. Not verified against a primary source."
+      },
+      {
+        "form": "garlic-infused oil",
+        "low_up_to_g": null,
+        "moderate_from_g": null,
+        "high_from_g": null,
+        "household": "1 tablespoon (20 g) shown as a green serve in a Monash example meal",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "fructans"
+    ],
+    "lab_values": [
+      {
+        "value": "17.4 g fructans per 100 g fresh weight",
+        "source_ids": [
+          "PAPER_MOLECULES_2023",
+          "PAPER_NUTRIENTS_2026"
+        ],
+        "confidence": "medium-high",
+        "note": "Two peer-reviewed papers cite Muir et al. 2007 for garlic = 17.4 g/100 g; matches the top of the range in the Muir abstract. Muir's own table was NOT accessed (paywalled)."
+      },
+      {
+        "value": "Highest-fructan vegetables (garlic, artichoke, shallots, leek bulb, onion): 1.2-17.4 g/100 g fw",
+        "source_ids": [
+          "PAPER_MUIR_2007"
+        ],
+        "confidence": "high"
+      },
+      {
+        "value": "Pickling lowered FODMAP content by 89-97% in onion, beetroot and garlic",
+        "source_ids": [
+          "MON_VEGAN_2018",
+          "PAPER_TUCK_2018"
+        ],
+        "confidence": "high"
+      }
+    ],
+    "what_changed": [
+      {
+        "change": "Pickled garlic reportedly given a low-FODMAP serve (3 g) by Monash 'recently'",
+        "date": "not stated",
+        "source_ids": [
+          "GE_PICKLED_GARLIC"
+        ],
+        "status": "secondary, snippet only"
+      }
+    ],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Garlic-infused oil is low FODMAP because fructans dissolve in water, not fat.",
+        "source_ids": [
+          "MON_OILS_2023",
+          "MON_FAQ",
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "note": "Monash method: saute whole (not crushed) garlic pieces in oil 1-2 minutes, then remove and discard; the clove stays high FODMAP.",
+        "source_ids": [
+          "MON_FAQ"
+        ]
+      },
+      {
+        "note": "Removing garlic pieces works in oil-based dishes (stir-fry) but not in soups/stocks, where fructans leach into the water.",
+        "source_ids": [
+          "MON_MYTHS_2015"
+        ]
+      },
+      {
+        "note": "Garlic is a Monash fructan reintroduction challenge food; FODMAP Friendly's challenge goes from 1/4 clove up to 1 clove.",
+        "source_ids": [
+          "MON_STEP2_PDF",
+          "FF_REINTRO_2021"
+        ]
+      },
+      {
+        "note": "FODMAP Friendly also lists garlic as high FODMAP.",
+        "source_ids": [
+          "FF_LIST"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Garlic-infused oil",
+        "source_ids": [
+          "MON_STEP1_PDF",
+          "MON_FAQ"
+        ]
+      },
+      {
+        "swap": "Spring onion green tops (as garnish)",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Asafoetida powder",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "high (verdict); medium-high (17.4 g/100 g lab value)",
+    "gaps": [
+      "No public low-FODMAP gram serve for fresh garlic (only 'high at 3 g').",
+      "Muir 2007 full table (garlic row) not directly read; value confirmed via two citing papers.",
+      "Garlic powder thresholds not verified from an allowed source."
+    ],
+    "sources": [
+      {
+        "id": "MON_FRUCTANS_2020",
+        "url": "https://monashfodmap.com/blog/fructans-fodmap-reintroduction/",
+        "title": "Fructans & FODMAP reintroduction",
+        "publisher": "Monash FODMAP (Lyndal Collins, Dakota Rhys-Jones)",
+        "source_type": "primary",
+        "date": "2020-06-10",
+        "access": "fetched",
+        "quote": "e.g. 3g of garlic compared to 75g brussels sprouts"
+      },
+      {
+        "id": "MON_OILS_2023",
+        "url": "https://monashfodmap.com/blog/all-about-onion-garlic-and-infused-oils-on-the-low-fodmap-diet",
+        "title": "All about onion, garlic and infused oils on the low FODMAP diet",
+        "publisher": "Monash FODMAP blog (byline: Cobram Estate, a brand partner)",
+        "source_type": "primary",
+        "date": "2023-05-02",
+        "access": "fetched",
+        "quote": "The reason these oils are low FODMAP is because fructans are water soluble but not fat soluble.",
+        "note": "Hosted on Monash blog but authored by an oil brand; treat as Monash-published, commercially authored."
+      },
+      {
+        "id": "MON_FAQ",
+        "url": "https://www.monashfodmap.com/faq/",
+        "title": "Frequently asked questions",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "FODMAPs are not soluble in oil, so a great way to add flavour back to your foods is to use garlic-infused oil."
+      },
+      {
+        "id": "MON_MYTHS_2015",
+        "url": "https://monashfodmap.com/blog/cooking-with-onion-and-garlic-myths-and/",
+        "title": "Cooking with onion and garlic – myths and facts",
+        "publisher": "Monash FODMAP Team",
+        "source_type": "primary",
+        "date": "2015-06-01",
+        "access": "fetched",
+        "quote": "add a large piece of onion or a whole garlic clove and simply pull the pieces out"
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "MON_STEP2_PDF",
+        "url": "https://monashfodmap.com/documents/208/Monash_FODMAP_Resource_-_Step_2_Reintroduction.pdf",
+        "title": "A guide to reintroduction (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "Grain foods: Couscous (wheat), wheat pasta, puff pastry"
+      },
+      {
+        "id": "MON_VEGAN_2018",
+        "url": "https://www.monashfodmap.com/blog/new-research-fermentable-short-chain-carbohydrate-fodmap-content-common-plant-based-foods-and-processed-foods-suitable-vegetarian-and-vegan-based-eating-patterns-part-2/",
+        "title": "New research: FODMAP content of plant-based foods (part 2)",
+        "publisher": "Monash FODMAP (Dr CK Yao)",
+        "source_type": "primary",
+        "date": "2018-04-16",
+        "access": "fetched",
+        "quote": "FODMAP content being lowered by 89-97% in onion, beetroot and garlic"
+      },
+      {
+        "id": "PAPER_MUIR_2007",
+        "url": "https://doi.org/10.1021/jf070623x",
+        "title": "Muir JG et al. Fructan and free fructose content of common Australian vegetables and fruit. J Agric Food Chem 2007;55(16):6619-27. PMID 17625872",
+        "publisher": "J Agric Food Chem",
+        "source_type": "paper",
+        "date": "2007-07-11",
+        "access": "abstract only (Europe PMC API); full table not accessed",
+        "quote": "Vegetables with the highest quantity of fructans included garlic, artichoke, shallots, leek bulb, and onions (range, 1.2-17.4 g/100 g fw)."
+      },
+      {
+        "id": "PAPER_MOLECULES_2023",
+        "url": "https://doi.org/10.3390/molecules28041613",
+        "title": "Preparation, Structural Characterisation, and Bioactivities of Fructans: A Review. Molecules 2023 (PMC9967297)",
+        "publisher": "Molecules (MDPI)",
+        "source_type": "paper",
+        "date": "2023",
+        "access": "full text (Europe PMC)",
+        "quote": "shallots, Jerusalem artichoke, and garlic are rich sources of fructans, with contents of approximately 8.9, 12.2, and 17.4 g/100 g",
+        "note": "Cites Muir et al. 2007 (ref 16) for these values."
+      },
+      {
+        "id": "PAPER_NUTRIENTS_2026",
+        "url": "https://doi.org/10.3390/nu18050771",
+        "title": "Dietary Patterns in a Nationwide Cohort of Patients with Hereditary Fructose Intolerance. Nutrients 2026 (PMC12986441)",
+        "publisher": "Nutrients (MDPI)",
+        "source_type": "paper",
+        "date": "2026",
+        "access": "full text (Europe PMC)",
+        "quote": "garlic (17.4 g), leek (7.1 g), spring onion (6.3 g), white onion (1.8 g) and artichoke (1.2 g)",
+        "note": "Per 100 g; cites Muir et al. 2007 (ref 36)."
+      },
+      {
+        "id": "PAPER_TUCK_2018",
+        "url": "https://doi.org/10.1111/jhn.12546",
+        "title": "Tuck C et al. FODMAP content of common plant-based foods and processed foods suitable for vegetarian- and vegan-based eating patterns. J Hum Nutr Diet 2018. PMID 29473657",
+        "publisher": "J Hum Nutr Diet",
+        "source_type": "paper",
+        "date": "2018",
+        "access": "abstract (Europe PMC) + Monash blog summary",
+        "quote": "Food processing techniques that produced the greatest reduction in FODMAP content included pickling and canning."
+      },
+      {
+        "id": "FF_LIST",
+        "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+        "title": "What foods are high/low in FODMAPs",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "undated (footer ©2026)",
+        "access": "fetched",
+        "quote": "small amounts of canned lentils, chickpeas and butter beans",
+        "note": "Garlic, dried fruit, couscous, wheat bread, cashews, pistachios in high column; strawberries in low column."
+      },
+      {
+        "id": "FF_REINTRO_2021",
+        "url": "https://fodmapfriendly.com/blog-posts/reintroductionqu/",
+        "title": "All your FODMAP re-introduction questions answered",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "2021-10-27",
+        "access": "fetched",
+        "quote": "1/4 of a clove of garlic increasing to 1 clove of garlic"
+      },
+      {
+        "id": "GE_TABBOULEH",
+        "url": "https://georgeats.com/recipes/low-fodmap-tabbouleh/",
+        "title": "Low FODMAP tabbouleh",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-04",
+        "access": "fetched",
+        "quote": "Bulgur wheat, which is traditionally used in tabbouleh, is low FODMAP in 44g serves.",
+        "note": "88 g: high GOS and fructans. Cooked/uncooked not stated."
+      },
+      {
+        "id": "GE_PICKLED_GARLIC",
+        "url": "https://georgeats.com/recipes/low-fodmap-pickled-garlic/",
+        "title": "Low FODMAP pickled garlic",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "undated in snippet",
+        "access": "snippet only",
+        "quote": "Monash recently designated a 3g (1 clove) serve of pickled garlic as low FODMAP",
+        "note": "Tabbouleh page (fetched) repeats: low 3 g, moderate fructose at 29 g."
+      }
+    ]
+  },
+  {
+    "food": "Sweet potato",
+    "slug": "sweet-potato",
+    "group": "seed",
+    "verdict": "depends on amount",
+    "verdict_note": "Low at a 75 g standard serve; larger serves become moderate (now reported as fructans, formerly mannitol).",
+    "thresholds": [
+      {
+        "form": "sweet potato (form not stated; secondary sources disagree raw vs cooked)",
+        "low_up_to_g": 75,
+        "household": "1/2 cup (Monash 2016) / 1/3 cup (Karlijn 2025)",
+        "moderate_from_g": null,
+        "high_from_g": null,
+        "source_ids": [
+          "MON_SHOP_2025",
+          "MON_STACK_2016",
+          "KK_SWEETPOT"
+        ],
+        "note": "75 g = Monash 'standard serve' rated low (Feb 2025)."
+      },
+      {
+        "form": "orange or purple sweet potato (current, secondary)",
+        "low_up_to_g": 149,
+        "moderate_from_g": 150,
+        "high_from_g": null,
+        "group": "fructans",
+        "source_ids": [
+          "GE_POTATO",
+          "KK_SWEETPOT"
+        ],
+        "note": "George Eats (Aug 2026) gives max low 149 g, moderate fructans at 150 g; Karlijn (Sep 2025) also says moderate fructans from 150 g."
+      },
+      {
+        "form": "white sweet potato (current, secondary)",
+        "low_up_to_g": 139,
+        "moderate_from_g": 140,
+        "high_from_g": null,
+        "group": "fructans",
+        "source_ids": [
+          "GE_POTATO"
+        ]
+      },
+      {
+        "form": "sweet potato (OLD 2016 Monash data)",
+        "low_up_to_g": 75,
+        "moderate_from_g": "above 100",
+        "high_from_g": "above 112",
+        "group": "mannitol",
+        "source_ids": [
+          "MON_STACK_2016"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "fructans (current, per secondary sources)",
+      "mannitol (pre-2025 Monash classification)"
+    ],
+    "confirmed_wording": {
+      "source_id": "MON_STACK_2016",
+      "quotes": [
+        "A standard serve of sweet potato, ½ cup (75g), is low in FODMAPs, so given an overall green light on the app.",
+        "servings larger than 100g, contain moderate amounts of the polyol mannitol",
+        "servings more than 112g are high in mannitol."
+      ],
+      "note": "User's recollection (75 g low / moderate above 100 g / high above 112 g) is confirmed. The blog URL is /blog/fodmap-stacking-can-i-overeat-green/ (the longer slug 404s)."
+    },
+    "what_changed": [
+      {
+        "change": "Retest moved sweet potato from mannitol to fructans; moderate threshold moved from >100 g to 150 g",
+        "date": "2025 (exact date not given)",
+        "old": "75 g low; >100 g moderate mannitol; >112 g high mannitol (Monash blog 2016-10-11)",
+        "new": "75 g standard serve low; max low 149 g; moderate fructans from 150 g (secondary, 2025-2026)",
+        "source_ids": [
+          "MON_STACK_2016",
+          "KK_SWEETPOT",
+          "GE_POTATO"
+        ],
+        "status": "retest reported only by secondary sources; no Monash public post on it found. Consistent with Monash 2026 Step 2 PDF, whose mannitol challenge list no longer includes sweet potato (weak evidence)."
+      }
+    ],
+    "sources_disagree": [
+      {
+        "issue": "Raw vs cooked weight for the 75 g serve is not stated by Monash; secondary sites disagree.",
+        "source_ids": [
+          "MON_STACK_2016",
+          "MON_SHOP_2025"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "Monash suggests bulking sweet-potato soup out with parsnip, potato and carrot to keep it low FODMAP.",
+        "source_ids": [
+          "MON_STACK_2016"
+        ]
+      },
+      {
+        "note": "No longer a mannitol challenge food in Monash's 2026 reintroduction sheet (portobello mushroom, celery, sauerkraut listed instead).",
+        "source_ids": [
+          "MON_STEP2_PDF"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Mix sweet potato with regular potato (mash, fries)",
+        "source_ids": [
+          "KK_SWEETPOT"
+        ]
+      },
+      {
+        "swap": "Bulk dishes with parsnip, potato and carrot",
+        "source_ids": [
+          "MON_STACK_2016"
+        ]
+      }
+    ],
+    "confidence": "high (75 g low); medium (current group = fructans, 150 g moderate)",
+    "gaps": [
+      "No primary Monash publication of the 2025 retest found.",
+      "No high threshold published for the current data.",
+      "FODMAP Friendly figures not found."
+    ],
+    "sources": [
+      {
+        "id": "MON_STACK_2016",
+        "url": "https://monashfodmap.com/blog/fodmap-stacking-can-i-overeat-green/",
+        "title": "FODMAP stacking – can I overeat 'green' foods??",
+        "publisher": "Monash FODMAP (Dr Jaci Barrett, Lyndal Collins)",
+        "source_type": "primary",
+        "date": "2016-10-11",
+        "access": "fetched",
+        "quote": "A standard serve of sweet potato, ½ cup (75g), is low in FODMAPs, so given an overall green light on the app."
+      },
+      {
+        "id": "MON_SHOP_2025",
+        "url": "https://www.monashfodmap.com/blog/low-fodmap-shopping-list/",
+        "title": "Low FODMAP shopping list",
+        "publisher": "Monash FODMAP (Chloe Valentine)",
+        "source_type": "primary",
+        "date": "2025-02-03",
+        "access": "fetched",
+        "quote": "Low at 1 standard serve (75g / 2.65oz)",
+        "note": "Sweet potato listed under roots & tubers at this rating."
+      },
+      {
+        "id": "MON_STEP2_PDF",
+        "url": "https://monashfodmap.com/documents/208/Monash_FODMAP_Resource_-_Step_2_Reintroduction.pdf",
+        "title": "A guide to reintroduction (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "Grain foods: Couscous (wheat), wheat pasta, puff pastry"
+      },
+      {
+        "id": "KK_SWEETPOT",
+        "url": "https://www.karlijnskitchen.com/en/are-sweet-potatoes-low-fodmap/",
+        "title": "Are sweet potatoes low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2025-09-29",
+        "access": "fetched",
+        "quote": "Monash University retested sweet potatoes in 2025",
+        "note": "Low 75 g (1/3 cup); moderate fructans from 150 g."
+      },
+      {
+        "id": "GE_POTATO",
+        "url": "https://georgeats.com/posts/resources/are-potatoes-low-fodmap/",
+        "title": "Are potatoes low FODMAP?",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-12",
+        "access": "fetched",
+        "quote": "Orange sweet potatoes and purple sweet potatoes are low FODMAP in up to 149g serves."
+      }
+    ]
+  },
+  {
+    "food": "Avocado (Hass)",
+    "slug": "avocado",
+    "group": "seed",
+    "verdict": "depends on amount",
+    "verdict_note": "Low at about 60 g (Monash, per secondary sources); FODMAP Friendly reports no FODMAPs in ripe Hass.",
+    "thresholds": [
+      {
+        "form": "Hass avocado, flesh",
+        "low_up_to_g": 60,
+        "household": "about 3 tablespoons",
+        "moderate_from_g": 80,
+        "high_from_g": 90,
+        "group": "polyol (perseitol, displayed under sorbitol*)",
+        "source_ids": [
+          "KK_AVO",
+          "ALBY_AVO"
+        ],
+        "note": "Karlijn: 80 g (1/2 avocado) 'average' perseitol, 90 g+ 'large'. Secondary, attributed to Monash app (2024)."
+      },
+      {
+        "form": "Hass avocado (max low, secondary)",
+        "low_up_to_g": 79,
+        "moderate_from_g": 80,
+        "high_from_g": null,
+        "source_ids": [
+          "GE_HIFIBRE"
+        ],
+        "note": "George Eats Aug 2026; snippet only."
+      },
+      {
+        "form": "ripe Hass (FODMAP Friendly)",
+        "low_up_to_g": null,
+        "note": "FODMAP Friendly: no FODMAPs detected in ripe Hass; unripe Hass passed at 80 g.",
+        "source_ids": [
+          "FE_AVO",
+          "FE_DIFFER"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "polyols: perseitol (formerly reported as sorbitol)"
+    ],
+    "what_changed": [
+      {
+        "change": "Monash retest found perseitol (not sorbitol); low serve raised from 30 g to 60 g; wording now specifies Hass",
+        "date": "2024-02-26 (Monash blog); secondary updates March 2024",
+        "old": "30 g low (sorbitol)",
+        "new": "60 g low (perseitol)",
+        "source_ids": [
+          "MON_AVO_2024",
+          "KK_AVO",
+          "ALBY_AVO"
+        ],
+        "status": "mechanism primary; grams secondary (Monash blog gives no grams)"
+      },
+      {
+        "change": "FODMAP Friendly max serve history: 1000 g -> 80 g -> no FODMAPs detected (ripe Hass)",
+        "date": "not stated (2024 per FE)",
+        "source_ids": [
+          "FE_DIFFER",
+          "FE_AVO"
+        ],
+        "status": "secondary, snippet only"
+      }
+    ],
+    "sources_disagree": [
+      {
+        "issue": "Monash: 60 g low with moderate/high perseitol above ~80 g. FODMAP Friendly: no FODMAPs in ripe Hass; unripe Hass 80 g.",
+        "source_ids": [
+          "KK_AVO",
+          "FE_AVO",
+          "FE_DIFFER"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "Unripe avocado had MORE perseitol than ripe avocado in Monash testing.",
+        "source_ids": [
+          "MON_AVO_2024"
+        ]
+      },
+      {
+        "note": "Monash still encourages a separate food challenge with avocado; perseitol may trigger polyol-sensitive people.",
+        "source_ids": [
+          "MON_AVO_2024"
+        ]
+      },
+      {
+        "note": "Avocado no longer suitable as a sorbitol challenge food (Karlijn). FODMAP Friendly's 2021 sorbitol challenge still used avocado (1/4 to 3/4).",
+        "source_ids": [
+          "KK_AVO",
+          "FF_REINTRO_2021"
+        ]
+      }
+    ],
+    "swaps": [],
+    "confidence": "high (perseitol, 2024 change); medium (60 g / 80 g / 90 g numbers are secondary)",
+    "gaps": [
+      "Monash public blog gives no gram figures.",
+      "FODMAP Friendly figures are snippet-only (FODMAP Everyday 403).",
+      "No public source suggests swaps."
+    ],
+    "sources": [
+      {
+        "id": "MON_AVO_2024",
+        "url": "https://monashfodmap.com/blog/avocado-and-fodmaps-a-smashing-new-discovery/",
+        "title": "Avocado and FODMAPs – a smashing new discovery!",
+        "publisher": "Monash FODMAP Team",
+        "source_type": "primary",
+        "date": "2024-02-26",
+        "access": "fetched",
+        "quote": "unripe avocado actually had more perseitol than ripe avocado",
+        "note": "Says serving sizes and traffic lights were updated for perseitol but gives NO gram figures."
+      },
+      {
+        "id": "KK_AVO",
+        "url": "https://www.karlijnskitchen.com/?p=31586",
+        "title": "Is avocado low FODMAP?",
+        "publisher": "Karlijn's Kitchen (Karlijn Wever)",
+        "source_type": "secondary",
+        "date": "updated 2024-03-15",
+        "access": "fetched",
+        "quote": "The app now states that 60 grams of avocado is a safe low FODMAP portion.",
+        "note": "Attributes figures to Monash app."
+      },
+      {
+        "id": "ALBY_AVO",
+        "url": "https://alittlebityummy.com/?p=24265",
+        "title": "Research Update: Avocado & the Low FODMAP Diet",
+        "publisher": "A Little Bit Yummy (Alana Scott, reviewed Joanna Baker APD)",
+        "source_type": "secondary",
+        "date": "updated 2024-03-07",
+        "access": "fetched",
+        "quote": "60g (2.1oz) or about 3 tablespoons",
+        "note": "Old serve stated as 30 g; attributes to Monash."
+      },
+      {
+        "id": "GE_HIFIBRE",
+        "url": "https://georgeats.com/posts/resources/high-fibre-low-fodmap-foods-and-recipes/",
+        "title": "High fibre low FODMAP foods and recipes",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "2026 (thresholds stated as Aug 2026)",
+        "access": "snippet only",
+        "quote": "avocado is low FODMAP in serves of up to 79g",
+        "note": "Snippet also: at 80g moderate perseitol. Attributes to Monash."
+      },
+      {
+        "id": "FE_AVO",
+        "url": "https://www.fodmapeveryday.com/avocado-not-avocado/",
+        "title": "Avocado: not avocado?",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "2024 (per snippet)",
+        "access": "snippet only (403)",
+        "quote": "their current lab testing has found no FODMAPs in ripe Hass avocado",
+        "note": "Refers to FODMAP Friendly retest."
+      },
+      {
+        "id": "FE_DIFFER",
+        "url": "https://www.fodmapeveryday.com/when-monash-university-and-fodmap-friendly-low-fodmap-lab-test-results-differ/",
+        "title": "When Low FODMAP Lab Test Results Differ",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "undated in snippet",
+        "access": "snippet only (site returns 403 to fetch)",
+        "quote": "Avocado | was 30 g/now 60 g | 80 g | was 1000 g/then 80 g/then no FODMAPs detected",
+        "note": "Table columns appear to be Monash serve | FODMAP Friendly serve | FF max serve; column labels not confirmed."
+      },
+      {
+        "id": "FF_REINTRO_2021",
+        "url": "https://fodmapfriendly.com/blog-posts/reintroductionqu/",
+        "title": "All your FODMAP re-introduction questions answered",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "2021-10-27",
+        "access": "fetched",
+        "quote": "1/4 of a clove of garlic increasing to 1 clove of garlic"
+      }
+    ]
+  },
+  {
+    "food": "Tahini",
+    "slug": "tahini",
+    "group": "seed",
+    "verdict": "low",
+    "verdict_note": "Low at 2 tablespoons (30 g); large amounts become moderate in GOS, sooner for unhulled tahini.",
+    "thresholds": [
+      {
+        "form": "tahini, unhulled",
+        "low_up_to_g": 30,
+        "household": "2 tablespoons",
+        "source_ids": [
+          "MON_FIBRE_2021",
+          "MON_STACKEXPL_2022"
+        ],
+        "note": "Monash public 'low FODMAP serving size'."
+      },
+      {
+        "form": "hulled tahini (max low, secondary)",
+        "low_up_to_g": 183,
+        "moderate_from_g": 184,
+        "high_from_g": 217,
+        "group": "GOS",
+        "source_ids": [
+          "GE_TAHINI",
+          "FE_TAHINI"
+        ],
+        "note": "High figure from FODMAP Everyday snippet only."
+      },
+      {
+        "form": "unhulled tahini (max low, secondary)",
+        "low_up_to_g": 102,
+        "moderate_from_g": 103,
+        "high_from_g": 119,
+        "group": "GOS",
+        "source_ids": [
+          "GE_TAHINI",
+          "FE_TAHINI"
+        ],
+        "note": "High figure from FODMAP Everyday snippet only."
+      }
+    ],
+    "fodmap_groups": [
+      "GOS"
+    ],
+    "what_changed": [
+      {
+        "change": "An older FODMAP Everyday page reportedly says 1.5 tablespoons became moderate (suggests older, stricter data)",
+        "date": "unknown",
+        "source_ids": [
+          "FE_TAHINI"
+        ],
+        "status": "not verified"
+      }
+    ],
+    "sources_disagree": [
+      {
+        "issue": "FODMAP Everyday pages give slightly different upper thresholds (184/217 g vs 185/220 g hulled; 103/119 g vs 110/125 g unhulled). Likely rounding/cup conversions.",
+        "source_ids": [
+          "FE_TAHINI",
+          "GE_TAHINI"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "Monash links tahini to GOS in larger servings (stacking example: 30 g tahini green).",
+        "source_ids": [
+          "MON_STACKEXPL_2022"
+        ]
+      },
+      {
+        "note": "Hulled tahini tolerates far larger servings than unhulled.",
+        "source_ids": [
+          "GE_TAHINI"
+        ]
+      },
+      {
+        "note": "Monash's own hummus recipe uses hulled tahini.",
+        "source_ids": [
+          "MON_HUMMUS_RECIPE"
+        ]
+      }
+    ],
+    "swaps": [],
+    "confidence": "high (30 g low); medium (upper thresholds)",
+    "gaps": [
+      "No FODMAP Friendly tahini figure found.",
+      "Primary Monash source for the 183/102 g maxima not public."
+    ],
+    "sources": [
+      {
+        "id": "MON_FIBRE_2021",
+        "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+        "title": "Getting enough fibre",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2021-01-14",
+        "access": "fetched (curl, rows verified)",
+        "quote": "Tahini, sesame seed pulp, unhulled | 2 tablespoons (30g)",
+        "note": "Table of 'Low FODMAP Serving Size' rows: canned chickpea drained 1/4 cup (42g); lentil green boiled 1/4 cup (23g); bulgar uncooked 1/4 cup (44g); pomegranate 1/4 cup seeds (45g)."
+      },
+      {
+        "id": "MON_STACKEXPL_2022",
+        "url": "https://monashfodmap.com/blog/fodmap-stacking-explained/",
+        "title": "FODMAP stacking explained",
+        "publisher": "Monash FODMAP Team",
+        "source_type": "primary",
+        "date": "2022-10-03",
+        "access": "fetched",
+        "quote": "2 rice cakes (green light), 30g of tahini (green light)",
+        "note": "Links rice cakes/tahini/cherry tomatoes to fructans/GOS/fructose respectively in larger servings."
+      },
+      {
+        "id": "MON_HUMMUS_RECIPE",
+        "url": "https://monashfodmap.com/recipe/hummus/",
+        "title": "Hummus (recipe)",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated",
+        "access": "fetched",
+        "quote": "1/3 cup garlic infused olive oil",
+        "note": "Recipe: 400 g canned chickpeas, 1/2 cup hulled tahini (125 g), serves 6-8."
+      },
+      {
+        "id": "GE_TAHINI",
+        "url": "https://georgeats.com/posts/resources/is-tahini-low-fodmap/",
+        "title": "Is tahini low FODMAP?",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "reviewed Aug 2026",
+        "access": "fetched",
+        "quote": "Hulled tahini is low FODMAP in serves of up to 183g.",
+        "note": "Unhulled: up to 102g; above = moderate GOS. Attributes to Monash."
+      },
+      {
+        "id": "FE_TAHINI",
+        "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-tahini-chocolate-chunk-cookies/",
+        "title": "FODMAP Everyday tahini recipe pages",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "undated",
+        "access": "snippet only (403); exact FE page carrying these numbers not confirmed",
+        "quote": "Moderate FODMAP ¾ cup (184 g); High FODMAP 1 cup (217 g)",
+        "note": "Another FE page reportedly says 185 g/220 g (hulled), 110 g/125 g (unhulled)."
+      }
+    ]
+  },
+  {
+    "food": "Strawberries",
+    "slug": "strawberries",
+    "group": "seed",
+    "verdict": "depends on amount",
+    "verdict_note": "Low at 65 g (about 5 medium berries); moderate from 75 g; high from 100 g (excess fructose).",
+    "thresholds": [
+      {
+        "form": "fresh strawberries",
+        "low_up_to_g": 65,
+        "household": "5 medium strawberries",
+        "moderate_from_g": 75,
+        "moderate_household": "6 medium",
+        "high_from_g": 100,
+        "high_household": "8 medium",
+        "group": "excess fructose",
+        "source_ids": [
+          "MON_STRAW_2021"
+        ]
+      },
+      {
+        "form": "fresh strawberries (max low, secondary)",
+        "low_up_to_g": 74,
+        "moderate_from_g": 75,
+        "source_ids": [
+          "GE_STRAW"
+        ]
+      },
+      {
+        "form": "fresh strawberries (FODMAP Friendly)",
+        "low_up_to_g": 50,
+        "household": "about 3-5 berries",
+        "source_ids": [
+          "FE_STRAW"
+        ],
+        "note": "Snippet only."
+      }
+    ],
+    "fodmap_groups": [
+      "excess fructose"
+    ],
+    "what_changed": [
+      {
+        "change": "Monash retest: from 'eat freely' / very low FODMAP to low 65 g, moderate 75 g, high 100 g",
+        "date": "2021-12-14 (Monash blog; app updated around then). Note: often cited as 2022.",
+        "old": "no maximum serve ('eat freely'); old gram figure not verified",
+        "new": "65 g low / 75 g moderate / 100 g high",
+        "source_ids": [
+          "MON_STRAW_2021",
+          "ALBY_STRAW",
+          "KK_STRAW"
+        ]
+      },
+      {
+        "change": "FODMAP Friendly retest: from 10 medium berries (140 g) to 50 g",
+        "date": "Spring 2021",
+        "source_ids": [
+          "FE_STRAW"
+        ],
+        "status": "secondary, snippet only"
+      }
+    ],
+    "sources_disagree": [
+      {
+        "issue": "Monash 65 g low vs FODMAP Friendly 50 g low.",
+        "source_ids": [
+          "MON_STRAW_2021",
+          "FE_STRAW"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "Monash suggests higher fructose may partly reflect consumer preference for sweeter varieties; cold storage can also raise fructose.",
+        "source_ids": [
+          "MON_STRAW_2021",
+          "MON_RETEST_2022"
+        ]
+      },
+      {
+        "note": "If you already tolerate strawberries, Monash says there is no reason to change anything.",
+        "source_ids": [
+          "MON_STRAW_2021"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Other low-FODMAP fruits Monash lists: kiwi fruit, blueberries, orange, pineapple, mandarin, firm banana (general list, not strawberry-specific)",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "high",
+    "gaps": [
+      "Pre-2021 Monash gram figure (claims of 140-150 g) not verified.",
+      "FODMAP Friendly 50 g is snippet-only."
+    ],
+    "sources": [
+      {
+        "id": "MON_STRAW_2021",
+        "url": "https://web.archive.org/web/20240616111907/https://www.monashfodmap.com/blog/retested-foods-just-in-time-for-aussie-summer-strawberries-grapes/",
+        "title": "Retested Foods (just in time for Aussie Summer!) – Strawberries & Grapes",
+        "publisher": "Monash FODMAP (Lyndal Collins)",
+        "source_type": "primary",
+        "date": "2021-12-14",
+        "access": "archived copy (live URL now returns 404)",
+        "quote": "65g (5 medium strawberries) - Low FODMAP serve 75g (6 medium strawberries) - Moderate in FODMAPs (excess fructose)",
+        "note": "Original URL https://www.monashfodmap.com/blog/retested-foods-just-in-time-for-aussie-summer-strawberries-grapes/ returned 404 on 2026-11-18; text read from Wayback snapshot 2024-06-16."
+      },
+      {
+        "id": "MON_RETEST_2022",
+        "url": "https://monashfodmap.com/blog/retested-foods-why-fodmap-content-might-change/",
+        "title": "Retested Foods – Why FODMAP Content Might Change",
+        "publisher": "Monash FODMAP Team",
+        "source_type": "primary",
+        "date": "2022-12-02",
+        "access": "fetched",
+        "quote": "cold storage is another factor known to increase fructan production in plants"
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "ALBY_STRAW",
+        "url": "https://alittlebityummy.com/?p=14698",
+        "title": "Are Strawberries Still Low FODMAP? Monash University Serving Size Update",
+        "publisher": "A Little Bit Yummy",
+        "source_type": "secondary",
+        "date": "updated 2021-12-16",
+        "access": "fetched",
+        "quote": "an 'eat freely' food with very low levels of FODMAPs"
+      },
+      {
+        "id": "KK_STRAW",
+        "url": "https://www.karlijnskitchen.com/?p=38885",
+        "title": "Are strawberries low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2024-04-01",
+        "access": "fetched",
+        "quote": "no maximum serving for strawberries"
+      },
+      {
+        "id": "GE_STRAW",
+        "url": "https://georgeats.com/posts/resources/are-strawberries-low-fodmap/",
+        "title": "Are strawberries low FODMAP?",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "reviewed Aug 2026",
+        "access": "fetched",
+        "quote": "According to Monash, strawberries are low FODMAP in serves of up to 74g."
+      },
+      {
+        "id": "FE_STRAW",
+        "url": "https://www.fodmapeveryday.com/ingredients/strawberries/",
+        "title": "Strawberries (ingredient page)",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "undated",
+        "access": "snippet only (403)",
+        "quote": "As of Spring 2021 FODMAP Friendly re-tested strawberries and now recommend a serving size of 50 g",
+        "note": "Snippet also: FF earlier figure 10 medium berries (140 g)."
+      }
+    ]
+  },
+  {
+    "food": "Hummus",
+    "slug": "hummus",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Store-bought hummus is usually high (garlic plus chickpeas). Homemade with rinsed canned chickpeas and garlic-infused oil can be low in small portions.",
+    "thresholds": [
+      {
+        "form": "hummus",
+        "low_up_to_g": null,
+        "note": "No public lab-tested gram serve for hummus itself. Monash's low-FODMAP recipe (400 g canned chickpeas, 1/2 cup hulled tahini, 1/3 cup garlic-infused oil) serves 6-8.",
+        "source_ids": [
+          "MON_HUMMUS_RECIPE"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "GOS (chickpeas, tahini)",
+      "fructans (garlic; chickpeas reported to contain fructans)"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Monash: store-bought hummus is usually not FODMAP friendly.",
+        "source_ids": [
+          "MON_HUMMUS_BLOG"
+        ]
+      },
+      {
+        "note": "Monash's pumpkin-red pepper hummus dilutes chickpeas with vegetables to keep the load low.",
+        "source_ids": [
+          "MON_HUMMUS_BLOG"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Homemade hummus with garlic-infused oil instead of garlic",
+        "source_ids": [
+          "MON_HUMMUS_RECIPE",
+          "MON_HUMMUS_BLOG"
+        ]
+      },
+      {
+        "swap": "Monash roasted red pepper and pumpkin hummus",
+        "source_ids": [
+          "MON_HUMMUS_BLOG"
+        ]
+      }
+    ],
+    "confidence": "medium",
+    "gaps": [
+      "No lab-tested gram serve for hummus (homemade or commercial)."
+    ],
+    "sources": [
+      {
+        "id": "MON_HUMMUS_BLOG",
+        "url": "https://monashfodmap.com/blog/4-ways-to-enjoy-roasted-red-pepper",
+        "title": "Roasted red pepper & pumpkin hummus (blog)",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "Store-bought hummus is usually not FODMAP friendly."
+      },
+      {
+        "id": "MON_HUMMUS_RECIPE",
+        "url": "https://monashfodmap.com/recipe/hummus/",
+        "title": "Hummus (recipe)",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated",
+        "access": "fetched",
+        "quote": "1/3 cup garlic infused olive oil",
+        "note": "Recipe: 400 g canned chickpeas, 1/2 cup hulled tahini (125 g), serves 6-8."
+      }
+    ]
+  },
+  {
+    "food": "Chickpeas (canned vs dried)",
+    "slug": "chickpeas",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Canned, drained and rinsed chickpeas are low in small serves; dried/boiled chickpeas are far stricter.",
+    "thresholds": [
+      {
+        "form": "canned, drained",
+        "low_up_to_g": 42,
+        "household": "1/4 cup",
+        "source_ids": [
+          "MON_LEGUMES_2016",
+          "MON_FIBRE_2021",
+          "FF_FIVE_2020"
+        ],
+        "note": "Monash public serve (2016, repeated 2021). FODMAP Friendly also says 1/4 cup canned is low."
+      },
+      {
+        "form": "canned, drained (current, secondary)",
+        "low_up_to_g": 95,
+        "moderate_from_g": "above 95",
+        "group": "fructans",
+        "source_ids": [
+          "GE_BEANS"
+        ],
+        "note": "George Eats Aug 2026 ('current Monash thresholds'). Karlijn (May 2025) gives 80 g."
+      },
+      {
+        "form": "dried, boiled, drained (secondary)",
+        "low_up_to_g": 33,
+        "moderate_from_g": "above 33",
+        "group": "GOS",
+        "source_ids": [
+          "GE_BEANS"
+        ],
+        "note": "Karlijn (May 2025) gives 29 g."
+      }
+    ],
+    "fodmap_groups": [
+      "GOS",
+      "fructans (reported in recent data)"
+    ],
+    "what_changed": [
+      {
+        "change": "Canned chickpea serve appears to have risen from 42 g (Monash 2016/2021) to 80 g (Karlijn, May 2025) and 95 g with fructans as the limiting group (George Eats, Aug 2026)",
+        "date": "between 2021 and 2025; exact retest date not found",
+        "source_ids": [
+          "MON_FIBRE_2021",
+          "KK_BEANS",
+          "GE_BEANS"
+        ],
+        "status": "secondary; no Monash public post found"
+      }
+    ],
+    "sources_disagree": [
+      {
+        "issue": "Canned low serve: 42 g (Monash public blogs, FODMAP Friendly 1/4 cup) vs 80 g (Karlijn 2025) vs 95 g (George Eats 2026). Dried/boiled: 29 g vs 33 g.",
+        "source_ids": [
+          "MON_FIBRE_2021",
+          "FF_FIVE_2020",
+          "KK_BEANS",
+          "GE_BEANS"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "In canned legumes water-soluble GOS leach into the brine; discard brine and rinse.",
+        "source_ids": [
+          "MON_FAQ",
+          "MON_LEGUMES_2016"
+        ]
+      },
+      {
+        "note": "Dried then cooked chickpeas are considered high FODMAP; canned are lower.",
+        "source_ids": [
+          "FF_FIVE_2020",
+          "ALBY_CANNED"
+        ]
+      },
+      {
+        "note": "Canning was among the processing methods giving the largest FODMAP reductions.",
+        "source_ids": [
+          "PAPER_TUCK_2018"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Canned lentils",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Firm tofu",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "high (canned 42 g); low-medium (newer 80-95 g figures)",
+    "gaps": [
+      "No primary source for a chickpea retest.",
+      "Dried-chickpea grams only from secondary sources."
+    ],
+    "sources": [
+      {
+        "id": "MON_LEGUMES_2016",
+        "url": "https://www.monashfodmap.com/blog/including-legumes-on-low-fodmap-diet/",
+        "title": "Including legumes on a low FODMAP diet",
+        "publisher": "Monash FODMAP (Lyndal Collins)",
+        "source_type": "primary",
+        "date": "2016-10-18",
+        "access": "fetched",
+        "quote": "some oligos 'leach' out into the canning/cooking water and are removed when they are drained and rinsed"
+      },
+      {
+        "id": "MON_FIBRE_2021",
+        "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+        "title": "Getting enough fibre",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2021-01-14",
+        "access": "fetched (curl, rows verified)",
+        "quote": "Tahini, sesame seed pulp, unhulled | 2 tablespoons (30g)",
+        "note": "Table of 'Low FODMAP Serving Size' rows: canned chickpea drained 1/4 cup (42g); lentil green boiled 1/4 cup (23g); bulgar uncooked 1/4 cup (44g); pomegranate 1/4 cup seeds (45g)."
+      },
+      {
+        "id": "MON_FAQ",
+        "url": "https://www.monashfodmap.com/faq/",
+        "title": "Frequently asked questions",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "FODMAPs are not soluble in oil, so a great way to add flavour back to your foods is to use garlic-infused oil."
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "FF_FIVE_2020",
+        "url": "https://fodmapfriendly.com/blog-posts/high-or-low-fodmap-your-guide-to-five-foods-that-are-both/",
+        "title": "High or low FODMAP? Your guide to five foods that are both",
+        "publisher": "FODMAP Friendly (C. Barber, reviewed C. Duong)",
+        "source_type": "primary",
+        "date": "2020-08-05",
+        "access": "fetched",
+        "quote": "a ¼ cup serve of canned chickpeas is low FODMAP"
+      },
+      {
+        "id": "PAPER_TUCK_2018",
+        "url": "https://doi.org/10.1111/jhn.12546",
+        "title": "Tuck C et al. FODMAP content of common plant-based foods and processed foods suitable for vegetarian- and vegan-based eating patterns. J Hum Nutr Diet 2018. PMID 29473657",
+        "publisher": "J Hum Nutr Diet",
+        "source_type": "paper",
+        "date": "2018",
+        "access": "abstract (Europe PMC) + Monash blog summary",
+        "quote": "Food processing techniques that produced the greatest reduction in FODMAP content included pickling and canning."
+      },
+      {
+        "id": "KK_BEANS",
+        "url": "https://www.karlijnskitchen.com/en/what-beans-fodmap-diet/",
+        "title": "What beans are low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2025-05-24",
+        "access": "fetched",
+        "quote": "Chickpeas / garbanzo beans, canned: 5 1/2 tbsp (80 grams)",
+        "note": "No explicit attribution on page; site generally cites Monash."
+      },
+      {
+        "id": "GE_BEANS",
+        "url": "https://georgeats.com/recipes/low-fodmap-beans/",
+        "title": "Low FODMAP beans",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-08",
+        "access": "fetched",
+        "quote": "Canned and drained chickpeas are low FODMAP in serves of up to 95g",
+        "note": "States 'current Monash thresholds as of August 2026'."
+      },
+      {
+        "id": "ALBY_CANNED",
+        "url": "https://alittlebityummy.com/blog/canned-foods-fodmaps-whats-the-story/",
+        "title": "Canned Foods & FODMAPs: What's the Story?",
+        "publisher": "A Little Bit Yummy",
+        "source_type": "secondary",
+        "date": "updated 2023-10-03",
+        "access": "fetched",
+        "quote": "Dried chickpeas are considered high FODMAP, however, their canned counterparts are lower in FODMAPs."
+      }
+    ]
+  },
+  {
+    "food": "Halloumi",
+    "slug": "halloumi",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Monash lists haloumi as a moderate-lactose cheese; secondary sources give 40 g as the low serve.",
+    "thresholds": [
+      {
+        "form": "halloumi",
+        "low_up_to_g": 40,
+        "household": "about 2 slices",
+        "moderate_from_g": 60,
+        "high_from_g": 220,
+        "group": "lactose",
+        "source_ids": [
+          "KK_CHEESE",
+          "GE_HALLOUMI"
+        ],
+        "note": "Secondary, attributed to Monash. 220 g high figure is from a Karlijn search snippet only (fetched page confirmed 40 g and 60 g)."
+      }
+    ],
+    "fodmap_groups": [
+      "lactose"
+    ],
+    "what_changed": [],
+    "sources_disagree": [
+      {
+        "issue": "FODMAP Friendly halloumi serve reported as 15 g (max 25 g) by a non-whitelisted blog (rachelpaulsfood.com). Not verified.",
+        "source_ids": []
+      }
+    ],
+    "notes": [
+      {
+        "note": "Monash: 'Cheeses that contain moderate amounts of lactose are cream cheese, ricotta cheese and haloumi cheese.'",
+        "source_ids": [
+          "MON_FAQ"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Feta and hard/aged cheeses (low in lactose)",
+        "source_ids": [
+          "MON_FAQ",
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Lactose-free products / lactase supplement",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "medium",
+    "gaps": [
+      "No primary gram figure for halloumi.",
+      "FODMAP Friendly number not verified."
+    ],
+    "sources": [
+      {
+        "id": "MON_FAQ",
+        "url": "https://www.monashfodmap.com/faq/",
+        "title": "Frequently asked questions",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "FODMAPs are not soluble in oil, so a great way to add flavour back to your foods is to use garlic-infused oil."
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "KK_CHEESE",
+        "url": "https://www.karlijnskitchen.com/en/what-cheeses-are-low-fodmap/",
+        "title": "What cheeses are low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2024-06-02",
+        "access": "fetched",
+        "quote": "A low FODMAP serving is 40 grams.",
+        "note": "Halloumi; 60 g moderate lactose; author measured ~2 g lactose/100 g."
+      },
+      {
+        "id": "GE_HALLOUMI",
+        "url": "https://georgeats.com/recipes/lemon-potato-and-haloumi-bake/",
+        "title": "Lemon potato and haloumi bake",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "2025-2026",
+        "access": "snippet only",
+        "quote": "In 60g serves, it contains moderate amounts of lactose.",
+        "note": "Low serve 40 g (~2 slices), attributed to Monash."
+      }
+    ]
+  },
+  {
+    "food": "Pita bread (wheat)",
+    "slug": "pita-bread",
+    "group": "middle-eastern",
+    "verdict": "no public data",
+    "verdict_note": "No pita-specific public data. By analogy with wheat bread (inference, not tested): high at a typical serving, with only about 24 g of wheat bread rated low.",
+    "thresholds": [
+      {
+        "form": "wholemeal wheat bread (NOT pita)",
+        "low_up_to_g": 24,
+        "household": "1 slice",
+        "source_ids": [
+          "MON_SERVING_2017",
+          "KK_BREAD"
+        ],
+        "note": "Use only as an analogy; pita itself not found in public data."
+      }
+    ],
+    "fodmap_groups": [
+      "fructans",
+      "GOS (wheat)"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Wheat/rye/barley breads are listed high by both Monash and FODMAP Friendly.",
+        "source_ids": [
+          "MON_FOODLIST",
+          "FF_LIST"
+        ]
+      },
+      {
+        "note": "FODMAP Friendly: one slice wholemeal bread low, two slices high.",
+        "source_ids": [
+          "FF_FIVE_2020"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Spelt sourdough bread (2 slices)",
+        "source_ids": [
+          "MON_WHEAT_2015",
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Gluten-free bread (2 slices)",
+        "source_ids": [
+          "MON_WHEAT_2015",
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "low (pita-specific); high (wheat bread analogy)",
+    "gaps": [
+      "No public lab data for pita/flatbread."
+    ],
+    "sources": [
+      {
+        "id": "MON_SERVING_2017",
+        "url": "https://monashfodmap.com/blog/serving-size-and-fodmaps-why-it-so-important/",
+        "title": "Serving size and FODMAPs – why is it so important?",
+        "publisher": "Monash FODMAP (Lyndal Collins)",
+        "source_type": "primary",
+        "date": "2017-12-05",
+        "access": "fetched",
+        "quote": "24g (1 slice) wholemeal wheat bread rated low; typical 2 slices rated red",
+        "note": "Quote is a summary of two table cells, not verbatim prose."
+      },
+      {
+        "id": "MON_WHEAT_2015",
+        "url": "https://monashfodmap.com/blog/avoiding-wheat-how-strict-on-low-fodmap_10/",
+        "title": "Avoiding wheat on a low FODMAP diet",
+        "publisher": "Monash FODMAP Team",
+        "source_type": "primary",
+        "date": "2015-08-10",
+        "access": "fetched",
+        "quote": "2 slices spelt sourdough bread, 2 slices gluten free bread, 1 slice oat sourdough bread"
+      },
+      {
+        "id": "MON_FOODLIST",
+        "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+        "title": "High and low FODMAP foods",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "Cashews, pistachios",
+        "note": "Nuts row, high-FODMAP column; feta and hard cheeses in low dairy column; 'Most legumes/pulses' high."
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "FF_LIST",
+        "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+        "title": "What foods are high/low in FODMAPs",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "undated (footer ©2026)",
+        "access": "fetched",
+        "quote": "small amounts of canned lentils, chickpeas and butter beans",
+        "note": "Garlic, dried fruit, couscous, wheat bread, cashews, pistachios in high column; strawberries in low column."
+      },
+      {
+        "id": "FF_FIVE_2020",
+        "url": "https://fodmapfriendly.com/blog-posts/high-or-low-fodmap-your-guide-to-five-foods-that-are-both/",
+        "title": "High or low FODMAP? Your guide to five foods that are both",
+        "publisher": "FODMAP Friendly (C. Barber, reviewed C. Duong)",
+        "source_type": "primary",
+        "date": "2020-08-05",
+        "access": "fetched",
+        "quote": "a ¼ cup serve of canned chickpeas is low FODMAP"
+      },
+      {
+        "id": "KK_BREAD",
+        "url": "https://www.karlijnskitchen.com/?p=38741",
+        "title": "What bread is low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2024-02-24",
+        "access": "fetched",
+        "quote": "White wheat bread: 1 slice of 24 grams is low FODMAP."
+      }
+    ]
+  },
+  {
+    "food": "Dates (dried; fresh)",
+    "slug": "dates",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Dried dates are low at about 30 g (5 dates); Medjool low at 1 date (20 g). No public data for fresh dates.",
+    "thresholds": [
+      {
+        "form": "dried pitted dates",
+        "low_up_to_g": 30,
+        "household": "5 dates",
+        "moderate_from_g": 46,
+        "high_from_g": 61,
+        "group": "fructans + sorbitol",
+        "source_ids": [
+          "KK_DATES"
+        ],
+        "note": "Karlijn 2024: 46 g 'average' sorbitol and fructans; 61 g 'large' fructans."
+      },
+      {
+        "form": "dried pitted dates (max low, secondary)",
+        "low_up_to_g": 45,
+        "moderate_from_g": 46,
+        "source_ids": [
+          "GE_FRUITS"
+        ]
+      },
+      {
+        "form": "Medjool dates",
+        "low_up_to_g": 20,
+        "household": "1 date",
+        "moderate_from_g": 40,
+        "high_from_g": 60,
+        "source_ids": [
+          "KK_DATES"
+        ],
+        "note": "George Eats 2026: max low 39 g, moderate at 40 g."
+      },
+      {
+        "form": "fresh dates",
+        "low_up_to_g": null,
+        "note": "No public data found.",
+        "source_ids": []
+      }
+    ],
+    "fodmap_groups": [
+      "fructans",
+      "sorbitol"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Drying concentrates FODMAPs; Monash detected fructans in dried fruit that are absent from the same fresh fruit.",
+        "source_ids": [
+          "MON_FAQ"
+        ]
+      },
+      {
+        "note": "Dried fruit is in the high column of both Monash and FODMAP Friendly lists.",
+        "source_ids": [
+          "MON_FOODLIST",
+          "FF_LIST"
+        ]
+      }
+    ],
+    "swaps": [],
+    "confidence": "medium (all gram figures secondary, but two sites agree)",
+    "gaps": [
+      "No primary gram figure.",
+      "Fresh dates: no data.",
+      "FODMAP Friendly date figures not found."
+    ],
+    "sources": [
+      {
+        "id": "MON_FAQ",
+        "url": "https://www.monashfodmap.com/faq/",
+        "title": "Frequently asked questions",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "FODMAPs are not soluble in oil, so a great way to add flavour back to your foods is to use garlic-infused oil."
+      },
+      {
+        "id": "MON_FOODLIST",
+        "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+        "title": "High and low FODMAP foods",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "Cashews, pistachios",
+        "note": "Nuts row, high-FODMAP column; feta and hard cheeses in low dairy column; 'Most legumes/pulses' high."
+      },
+      {
+        "id": "FF_LIST",
+        "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+        "title": "What foods are high/low in FODMAPs",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "undated (footer ©2026)",
+        "access": "fetched",
+        "quote": "small amounts of canned lentils, chickpeas and butter beans",
+        "note": "Garlic, dried fruit, couscous, wheat bread, cashews, pistachios in high column; strawberries in low column."
+      },
+      {
+        "id": "KK_DATES",
+        "url": "https://www.karlijnskitchen.com/en/are-dates-low-fodmap/",
+        "title": "Are dates low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "published 2024-04-09",
+        "access": "fetched",
+        "quote": "A serving of 30 grams or 5 dates is low FODMAP.",
+        "note": "Medjool: 20 g (1 date) low. Attributes to Monash."
+      },
+      {
+        "id": "GE_FRUITS",
+        "url": "https://georgeats.com/posts/resources/low-fodmap-fruits-recipes-that-use-them/",
+        "title": "Low FODMAP fruits (+ recipes that use them)",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-12",
+        "access": "fetched",
+        "quote": "Pomegranate is low FODMAP in serves of up to 52g per person.",
+        "note": "Also dates: common pitted up to 45g, Medjool up to 39g."
+      }
+    ]
+  },
+  {
+    "food": "Couscous (wheat)",
+    "slug": "couscous",
+    "group": "middle-eastern",
+    "verdict": "high",
+    "verdict_note": "Monash and FODMAP Friendly list wheat couscous as high FODMAP. Monash uses it as a fructan challenge food. Gram threshold not verified.",
+    "thresholds": [
+      {
+        "form": "wheat couscous",
+        "low_up_to_g": null,
+        "note": "A '65 g cooked' low serve circulates only on low-quality sites; NOT verified.",
+        "source_ids": []
+      }
+    ],
+    "fodmap_groups": [
+      "fructans"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "'Wheat-based pasta and couscous' are listed as high FODMAP grains.",
+        "source_ids": [
+          "MON_STEP1_PDF",
+          "FF_LIST"
+        ]
+      },
+      {
+        "note": "Couscous (wheat) is a Monash fructan reintroduction challenge food.",
+        "source_ids": [
+          "MON_STEP2_PDF"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Rice",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Quinoa",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Gluten-free (e.g. corn) couscous (listed under gluten-free grains, no serve given)",
+        "source_ids": [
+          "MON_SHOP_2025"
+        ]
+      }
+    ],
+    "confidence": "high (verdict); none (grams)",
+    "gaps": [
+      "No verified gram threshold."
+    ],
+    "sources": [
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "MON_STEP2_PDF",
+        "url": "https://monashfodmap.com/documents/208/Monash_FODMAP_Resource_-_Step_2_Reintroduction.pdf",
+        "title": "A guide to reintroduction (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "Grain foods: Couscous (wheat), wheat pasta, puff pastry"
+      },
+      {
+        "id": "MON_SHOP_2025",
+        "url": "https://www.monashfodmap.com/blog/low-fodmap-shopping-list/",
+        "title": "Low FODMAP shopping list",
+        "publisher": "Monash FODMAP (Chloe Valentine)",
+        "source_type": "primary",
+        "date": "2025-02-03",
+        "access": "fetched",
+        "quote": "Low at 1 standard serve (75g / 2.65oz)",
+        "note": "Sweet potato listed under roots & tubers at this rating."
+      },
+      {
+        "id": "FF_LIST",
+        "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+        "title": "What foods are high/low in FODMAPs",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "undated (footer ©2026)",
+        "access": "fetched",
+        "quote": "small amounts of canned lentils, chickpeas and butter beans",
+        "note": "Garlic, dried fruit, couscous, wheat bread, cashews, pistachios in high column; strawberries in low column."
+      }
+    ]
+  },
+  {
+    "food": "Za'atar",
+    "slug": "zaatar",
+    "group": "middle-eastern",
+    "verdict": "no public data",
+    "verdict_note": "The blend has not been tested in any public source. Commercial blends vary, and their additives were not verified.",
+    "thresholds": [
+      {
+        "form": "sesame seeds (component)",
+        "low_up_to_g": 51,
+        "moderate_from_g": 52,
+        "group": "fructans",
+        "source_ids": [
+          "GE_NUTS"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "unknown for blend"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "FODMAP Everyday says Monash has tested sumac, but marjoram has not been tested (snippet only).",
+        "source_ids": [
+          "FE_ZAATAR"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Homemade blend from individually tested ingredients (FODMAP Everyday recipe, 1 tbsp serve)",
+        "source_ids": [
+          "FE_ZAATAR"
+        ]
+      }
+    ],
+    "confidence": "low",
+    "gaps": [
+      "No lab data for za'atar.",
+      "Sumac grams not verified.",
+      "Claims that commercial blends add garlic/onion/wheat are unsourced."
+    ],
+    "sources": [
+      {
+        "id": "GE_NUTS",
+        "url": "https://georgeats.com/posts/resources/low-fodmap-nuts-and-seeds/",
+        "title": "Low FODMAP nuts and seeds",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-12",
+        "access": "fetched",
+        "quote": "Pistachios are low FODMAP in 5g serves, which is approximately 7 nuts.",
+        "note": "Sesame seeds low up to 51 g; moderate fructans at 52 g."
+      },
+      {
+        "id": "FE_ZAATAR",
+        "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-mediterranean-zaatar-spice/",
+        "title": "Low FODMAP Mediterranean za'atar spice",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "undated",
+        "access": "snippet only (403)",
+        "quote": "Monash University has lab tested sumac",
+        "note": "No gram serving visible in snippet; also says marjoram not formally tested by Monash."
+      }
+    ]
+  },
+  {
+    "food": "Labneh",
+    "slug": "labneh",
+    "group": "middle-eastern",
+    "verdict": "no public data",
+    "verdict_note": "Labneh is not tested in any public source. Related data: regular Greek yoghurt is low only at 23 g, and natural yoghurt is high lactose at 170 g.",
+    "thresholds": [
+      {
+        "form": "regular-fat Greek yoghurt (NOT labneh)",
+        "low_up_to_g": 23,
+        "moderate_from_g": 93,
+        "group": "lactose",
+        "source_ids": [
+          "GE_YOGHURT"
+        ]
+      },
+      {
+        "form": "natural yoghurt (NOT labneh)",
+        "high_from_g": 170,
+        "note": "8.5 g lactose per 170 g, rated high",
+        "source_ids": [
+          "MON_LACTOSE_2016"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "lactose (presumed)"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Straining removes some whey and lactose, but labneh's lactose content was not found in any public FODMAP source. Do not infer a serve.",
+        "source_ids": []
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Lactose-free plain yoghurt (low up to 500 g, secondary)",
+        "source_ids": [
+          "GE_YOGHURT"
+        ]
+      }
+    ],
+    "confidence": "low",
+    "gaps": [
+      "No lab data for labneh."
+    ],
+    "sources": [
+      {
+        "id": "GE_YOGHURT",
+        "url": "https://georgeats.com/recipes/low-fodmap-yoghurt-varieties-recipes/",
+        "title": "Low FODMAP yoghurt varieties",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated Aug 2026",
+        "access": "fetched",
+        "quote": "Regular fat Greek yoghurt is low FODMAP in 23g serves.",
+        "note": "93 g moderate lactose; lactose-free plain yoghurt low up to 500 g."
+      },
+      {
+        "id": "MON_LACTOSE_2016",
+        "url": "https://monashfodmap.com/blog/what-is-lactose-intolerance",
+        "title": "What is lactose intolerance?",
+        "publisher": "Monash FODMAP (Lyndal Collins)",
+        "source_type": "primary",
+        "date": "2016-04-10",
+        "access": "fetched",
+        "quote": "Feta Cheese | 0.13g | 125g | Low"
+      }
+    ]
+  },
+  {
+    "food": "Pomegranate",
+    "slug": "pomegranate",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Low at 1/4 cup of seeds (45 g).",
+    "thresholds": [
+      {
+        "form": "pomegranate seeds (arils), raw",
+        "low_up_to_g": 45,
+        "household": "1/4 cup seeds",
+        "source_ids": [
+          "MON_FIBRE_2021"
+        ]
+      },
+      {
+        "form": "pomegranate (max low, secondary)",
+        "low_up_to_g": 52,
+        "moderate_from_g": 53,
+        "group": "fructans",
+        "source_ids": [
+          "GE_FRUITS"
+        ]
+      },
+      {
+        "form": "pomegranate (FODMAP Friendly)",
+        "low_up_to_g": 66,
+        "source_ids": [
+          "FE_POMEGRANATE"
+        ],
+        "note": "Snippet only."
+      }
+    ],
+    "fodmap_groups": [
+      "fructans (per secondary source)"
+    ],
+    "what_changed": [],
+    "sources_disagree": [
+      {
+        "issue": "Monash 45 g vs FODMAP Friendly 66 g low serve.",
+        "source_ids": [
+          "MON_FIBRE_2021",
+          "FE_POMEGRANATE"
+        ]
+      }
+    ],
+    "notes": [],
+    "swaps": [],
+    "confidence": "high (45 g); medium (group, upper limits)",
+    "gaps": [
+      "FODMAP group only from a secondary source.",
+      "No high threshold.",
+      "Pomegranate juice/molasses not covered."
+    ],
+    "sources": [
+      {
+        "id": "MON_FIBRE_2021",
+        "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+        "title": "Getting enough fibre",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2021-01-14",
+        "access": "fetched (curl, rows verified)",
+        "quote": "Tahini, sesame seed pulp, unhulled | 2 tablespoons (30g)",
+        "note": "Table of 'Low FODMAP Serving Size' rows: canned chickpea drained 1/4 cup (42g); lentil green boiled 1/4 cup (23g); bulgar uncooked 1/4 cup (44g); pomegranate 1/4 cup seeds (45g)."
+      },
+      {
+        "id": "GE_FRUITS",
+        "url": "https://georgeats.com/posts/resources/low-fodmap-fruits-recipes-that-use-them/",
+        "title": "Low FODMAP fruits (+ recipes that use them)",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-12",
+        "access": "fetched",
+        "quote": "Pomegranate is low FODMAP in serves of up to 52g per person.",
+        "note": "Also dates: common pitted up to 45g, Medjool up to 39g."
+      },
+      {
+        "id": "FE_POMEGRANATE",
+        "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-roasted-delicata-squash-arugula-salad-with-goat-cheese-and-pomegranate/",
+        "title": "FODMAP Everyday pomegranate recipe",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "undated",
+        "access": "snippet only (403)",
+        "quote": "FODMAP Friendly lab testing says a low FODMAP serving size is 66 g"
+      }
+    ]
+  },
+  {
+    "food": "Pistachios",
+    "slug": "pistachios",
+    "group": "middle-eastern",
+    "verdict": "high",
+    "verdict_note": "High at a typical handful. Monash and FODMAP Friendly both list pistachios as high FODMAP; only a tiny serve (about 5 g) is reported as low.",
+    "thresholds": [
+      {
+        "form": "pistachios",
+        "low_up_to_g": 5,
+        "household": "about 7 nuts",
+        "moderate_from_g": 6,
+        "high_from_g": 30,
+        "group": "GOS (moderate); GOS + fructans (high)",
+        "source_ids": [
+          "GE_NUTS"
+        ],
+        "note": "Secondary, Aug 2026, attributed to Monash."
+      }
+    ],
+    "fodmap_groups": [
+      "GOS",
+      "fructans"
+    ],
+    "what_changed": [
+      {
+        "change": "Older George Eats snippet said high GOS at 11 g; current page says moderate at 6 g",
+        "date": "before Aug 2026",
+        "source_ids": [
+          "GE_NUTS"
+        ],
+        "status": "snippet only for old value"
+      }
+    ],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Listed high FODMAP by Monash ('Cashews, pistachios') and FODMAP Friendly.",
+        "source_ids": [
+          "MON_FOODLIST",
+          "FF_LIST",
+          "KK_NUTS"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Peanuts",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Macadamias",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "high (verdict); medium (grams)",
+    "gaps": [
+      "No primary gram figure."
+    ],
+    "sources": [
+      {
+        "id": "MON_FOODLIST",
+        "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+        "title": "High and low FODMAP foods",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "Cashews, pistachios",
+        "note": "Nuts row, high-FODMAP column; feta and hard cheeses in low dairy column; 'Most legumes/pulses' high."
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "FF_LIST",
+        "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+        "title": "What foods are high/low in FODMAPs",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "undated (footer ©2026)",
+        "access": "fetched",
+        "quote": "small amounts of canned lentils, chickpeas and butter beans",
+        "note": "Garlic, dried fruit, couscous, wheat bread, cashews, pistachios in high column; strawberries in low column."
+      },
+      {
+        "id": "GE_NUTS",
+        "url": "https://georgeats.com/posts/resources/low-fodmap-nuts-and-seeds/",
+        "title": "Low FODMAP nuts and seeds",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-12",
+        "access": "fetched",
+        "quote": "Pistachios are low FODMAP in 5g serves, which is approximately 7 nuts.",
+        "note": "Sesame seeds low up to 51 g; moderate fructans at 52 g."
+      },
+      {
+        "id": "KK_NUTS",
+        "url": "https://www.karlijnskitchen.com/?p=35090",
+        "title": "What nuts are low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2024-02-09",
+        "access": "fetched",
+        "quote": "The following kinds of nuts are high in FODMAPs and should be avoided",
+        "note": "Pistachios listed."
+      }
+    ]
+  },
+  {
+    "food": "Lentils (canned vs dried)",
+    "slug": "lentils",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Canned lentils are a Monash low-FODMAP alternative in small serves. Boiled (from dried) lentils are low only at about 1/4 cup (23 g).",
+    "thresholds": [
+      {
+        "form": "green lentils, boiled",
+        "low_up_to_g": 23,
+        "household": "1/4 cup",
+        "source_ids": [
+          "MON_FIBRE_2021"
+        ]
+      },
+      {
+        "form": "canned, drained (secondary)",
+        "low_up_to_g": 46,
+        "household": "about 1/4 cup",
+        "source_ids": [
+          "KK_BEANS",
+          "ALBY_CANNED"
+        ],
+        "note": "George Eats Aug 2026: up to 76 g, moderate GOS after."
+      },
+      {
+        "form": "red lentils, boiled (secondary)",
+        "low_up_to_g": 23,
+        "source_ids": [
+          "KK_BEANS"
+        ],
+        "note": "George Eats page gives both 36 g and 57 g (internally inconsistent)."
+      },
+      {
+        "form": "green lentils, boiled (secondary)",
+        "low_up_to_g": 29,
+        "source_ids": [
+          "KK_BEANS"
+        ],
+        "note": "George Eats 2026: up to 34 g."
+      }
+    ],
+    "fodmap_groups": [
+      "GOS",
+      "fructans"
+    ],
+    "what_changed": [
+      {
+        "change": "Secondary figures have drifted upward (canned 46 g to 76 g; green boiled 23 g to 29 g to 34 g); unclear whether this reflects retests or 'max low' vs 'standard serve' reporting",
+        "date": "2021-2026",
+        "source_ids": [
+          "MON_FIBRE_2021",
+          "KK_BEANS",
+          "GE_BEANS"
+        ],
+        "status": "not verified"
+      }
+    ],
+    "sources_disagree": [
+      {
+        "issue": "Canned lentils: 46 g (Karlijn 2025) vs 76 g (George Eats 2026). Red boiled: 23 g vs 36/57 g.",
+        "source_ids": [
+          "KK_BEANS",
+          "GE_BEANS"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "GOS leach into the canning brine; drain and rinse.",
+        "source_ids": [
+          "MON_FAQ"
+        ]
+      },
+      {
+        "note": "More than 30 min cooking reduced FODMAPs by 13% in lentils (32% in red kidney beans).",
+        "source_ids": [
+          "MON_VEGAN_2018",
+          "PAPER_TUCK_2018"
+        ]
+      },
+      {
+        "note": "FODMAP Friendly: small amounts of canned lentils are low.",
+        "source_ids": [
+          "FF_LIST"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Choose canned over dried lentils",
+        "source_ids": [
+          "MON_STEP1_PDF",
+          "MON_FAQ"
+        ]
+      },
+      {
+        "swap": "Firm tofu",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "high (23 g boiled green, canned lower); medium (canned grams)",
+    "gaps": [
+      "Canned lentil grams only from secondary sources."
+    ],
+    "sources": [
+      {
+        "id": "MON_FIBRE_2021",
+        "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+        "title": "Getting enough fibre",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2021-01-14",
+        "access": "fetched (curl, rows verified)",
+        "quote": "Tahini, sesame seed pulp, unhulled | 2 tablespoons (30g)",
+        "note": "Table of 'Low FODMAP Serving Size' rows: canned chickpea drained 1/4 cup (42g); lentil green boiled 1/4 cup (23g); bulgar uncooked 1/4 cup (44g); pomegranate 1/4 cup seeds (45g)."
+      },
+      {
+        "id": "MON_FAQ",
+        "url": "https://www.monashfodmap.com/faq/",
+        "title": "Frequently asked questions",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "FODMAPs are not soluble in oil, so a great way to add flavour back to your foods is to use garlic-infused oil."
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "MON_VEGAN_2018",
+        "url": "https://www.monashfodmap.com/blog/new-research-fermentable-short-chain-carbohydrate-fodmap-content-common-plant-based-foods-and-processed-foods-suitable-vegetarian-and-vegan-based-eating-patterns-part-2/",
+        "title": "New research: FODMAP content of plant-based foods (part 2)",
+        "publisher": "Monash FODMAP (Dr CK Yao)",
+        "source_type": "primary",
+        "date": "2018-04-16",
+        "access": "fetched",
+        "quote": "FODMAP content being lowered by 89-97% in onion, beetroot and garlic"
+      },
+      {
+        "id": "PAPER_TUCK_2018",
+        "url": "https://doi.org/10.1111/jhn.12546",
+        "title": "Tuck C et al. FODMAP content of common plant-based foods and processed foods suitable for vegetarian- and vegan-based eating patterns. J Hum Nutr Diet 2018. PMID 29473657",
+        "publisher": "J Hum Nutr Diet",
+        "source_type": "paper",
+        "date": "2018",
+        "access": "abstract (Europe PMC) + Monash blog summary",
+        "quote": "Food processing techniques that produced the greatest reduction in FODMAP content included pickling and canning."
+      },
+      {
+        "id": "FF_LIST",
+        "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+        "title": "What foods are high/low in FODMAPs",
+        "publisher": "FODMAP Friendly",
+        "source_type": "primary",
+        "date": "undated (footer ©2026)",
+        "access": "fetched",
+        "quote": "small amounts of canned lentils, chickpeas and butter beans",
+        "note": "Garlic, dried fruit, couscous, wheat bread, cashews, pistachios in high column; strawberries in low column."
+      },
+      {
+        "id": "KK_BEANS",
+        "url": "https://www.karlijnskitchen.com/en/what-beans-fodmap-diet/",
+        "title": "What beans are low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2025-05-24",
+        "access": "fetched",
+        "quote": "Chickpeas / garbanzo beans, canned: 5 1/2 tbsp (80 grams)",
+        "note": "No explicit attribution on page; site generally cites Monash."
+      },
+      {
+        "id": "GE_BEANS",
+        "url": "https://georgeats.com/recipes/low-fodmap-beans/",
+        "title": "Low FODMAP beans",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-08",
+        "access": "fetched",
+        "quote": "Canned and drained chickpeas are low FODMAP in serves of up to 95g",
+        "note": "States 'current Monash thresholds as of August 2026'."
+      },
+      {
+        "id": "ALBY_CANNED",
+        "url": "https://alittlebityummy.com/blog/canned-foods-fodmaps-whats-the-story/",
+        "title": "Canned Foods & FODMAPs: What's the Story?",
+        "publisher": "A Little Bit Yummy",
+        "source_type": "secondary",
+        "date": "updated 2023-10-03",
+        "access": "fetched",
+        "quote": "Dried chickpeas are considered high FODMAP, however, their canned counterparts are lower in FODMAPs."
+      }
+    ]
+  },
+  {
+    "food": "Feta",
+    "slug": "feta",
+    "group": "middle-eastern",
+    "verdict": "low",
+    "verdict_note": "Feta contains virtually no lactose in a typical serve (0.13 g lactose per 125 g).",
+    "thresholds": [
+      {
+        "form": "feta cheese",
+        "low_up_to_g": 125,
+        "note": "0.13 g lactose per 125 g serve, rated Low",
+        "source_ids": [
+          "MON_LACTOSE_2016"
+        ]
+      },
+      {
+        "form": "feta (max low, secondary)",
+        "low_up_to_g": 500,
+        "source_ids": [
+          "GE_FETA"
+        ],
+        "note": "Snippet only."
+      }
+    ],
+    "fodmap_groups": [
+      "lactose (negligible)"
+    ],
+    "what_changed": [],
+    "sources_disagree": [],
+    "notes": [
+      {
+        "note": "Monash FAQ lists feta among ripened cheeses that are low in lactose; feta is in Monash's low dairy column.",
+        "source_ids": [
+          "MON_FAQ",
+          "MON_FOODLIST"
+        ]
+      }
+    ],
+    "swaps": [],
+    "confidence": "high",
+    "gaps": [
+      "Sheep vs cow feta not distinguished.",
+      "FODMAP Friendly figure not found."
+    ],
+    "sources": [
+      {
+        "id": "MON_LACTOSE_2016",
+        "url": "https://monashfodmap.com/blog/what-is-lactose-intolerance",
+        "title": "What is lactose intolerance?",
+        "publisher": "Monash FODMAP (Lyndal Collins)",
+        "source_type": "primary",
+        "date": "2016-04-10",
+        "access": "fetched",
+        "quote": "Feta Cheese | 0.13g | 125g | Low"
+      },
+      {
+        "id": "MON_FAQ",
+        "url": "https://www.monashfodmap.com/faq/",
+        "title": "Frequently asked questions",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "FODMAPs are not soluble in oil, so a great way to add flavour back to your foods is to use garlic-infused oil."
+      },
+      {
+        "id": "MON_FOODLIST",
+        "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+        "title": "High and low FODMAP foods",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "Cashews, pistachios",
+        "note": "Nuts row, high-FODMAP column; feta and hard cheeses in low dairy column; 'Most legumes/pulses' high."
+      },
+      {
+        "id": "GE_FETA",
+        "url": "https://georgeats.com/recipes/winter-citrus-salad-with-feta-and-fennel/",
+        "title": "George Eats feta recipe pages",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "2025-2026",
+        "access": "snippet only; exact page not confirmed",
+        "quote": "Monash says it remains low FODMAP in serves of up to 500g"
+      }
+    ]
+  },
+  {
+    "food": "Ful medames (fava / broad beans)",
+    "slug": "ful-medames",
+    "group": "middle-eastern",
+    "verdict": "high",
+    "verdict_note": "Monash reportedly has no low-FODMAP serve for broad beans. FODMAP Friendly reportedly allows only about 21 g. The dish itself (often made with garlic) is untested.",
+    "thresholds": [
+      {
+        "form": "broad beans (Monash)",
+        "low_up_to_g": null,
+        "note": "'Monash does not have a low FODMAP threshold for broad beans' (secondary)",
+        "source_ids": [
+          "GE_BEANS"
+        ]
+      },
+      {
+        "form": "broad beans (FODMAP Friendly)",
+        "low_up_to_g": 21,
+        "group": "fructose (as reported)",
+        "source_ids": [
+          "GE_BEANS"
+        ],
+        "note": "Secondary citing FODMAP Friendly."
+      }
+    ],
+    "fodmap_groups": [
+      "GOS (legumes generally, per Monash)",
+      "fructose (FODMAP Friendly broad beans, as reported)"
+    ],
+    "what_changed": [],
+    "sources_disagree": [
+      {
+        "issue": "Monash: no low serve. FODMAP Friendly: 21 g max low.",
+        "source_ids": [
+          "GE_BEANS"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "Most legumes/pulses are high FODMAP (Monash list).",
+        "source_ids": [
+          "MON_FOODLIST"
+        ]
+      },
+      {
+        "note": "Karlijn lists broad/fava beans under beans to avoid.",
+        "source_ids": [
+          "KK_BEANS"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Canned lentils",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Small serve of canned, rinsed chickpeas",
+        "source_ids": [
+          "MON_FIBRE_2021"
+        ]
+      }
+    ],
+    "confidence": "medium",
+    "gaps": [
+      "No primary source for broad bean data.",
+      "Canned ful medames untested.",
+      "FODMAP group for fava beans unclear."
+    ],
+    "sources": [
+      {
+        "id": "MON_FOODLIST",
+        "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+        "title": "High and low FODMAP foods",
+        "publisher": "Monash FODMAP",
+        "source_type": "primary",
+        "date": "undated (footer ©2019)",
+        "access": "fetched",
+        "quote": "Cashews, pistachios",
+        "note": "Nuts row, high-FODMAP column; feta and hard cheeses in low dairy column; 'Most legumes/pulses' high."
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "MON_FIBRE_2021",
+        "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+        "title": "Getting enough fibre",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2021-01-14",
+        "access": "fetched (curl, rows verified)",
+        "quote": "Tahini, sesame seed pulp, unhulled | 2 tablespoons (30g)",
+        "note": "Table of 'Low FODMAP Serving Size' rows: canned chickpea drained 1/4 cup (42g); lentil green boiled 1/4 cup (23g); bulgar uncooked 1/4 cup (44g); pomegranate 1/4 cup seeds (45g)."
+      },
+      {
+        "id": "GE_BEANS",
+        "url": "https://georgeats.com/recipes/low-fodmap-beans/",
+        "title": "Low FODMAP beans",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-08",
+        "access": "fetched",
+        "quote": "Canned and drained chickpeas are low FODMAP in serves of up to 95g",
+        "note": "States 'current Monash thresholds as of August 2026'."
+      },
+      {
+        "id": "KK_BEANS",
+        "url": "https://www.karlijnskitchen.com/en/what-beans-fodmap-diet/",
+        "title": "What beans are low FODMAP?",
+        "publisher": "Karlijn's Kitchen",
+        "source_type": "secondary",
+        "date": "updated 2025-05-24",
+        "access": "fetched",
+        "quote": "Chickpeas / garbanzo beans, canned: 5 1/2 tbsp (80 grams)",
+        "note": "No explicit attribution on page; site generally cites Monash."
+      }
+    ]
+  },
+  {
+    "food": "Sumac",
+    "slug": "sumac",
+    "group": "middle-eastern",
+    "verdict": "no public data",
+    "verdict_note": "FODMAP Everyday says Monash has tested sumac, but no public gram figure was found.",
+    "thresholds": [],
+    "fodmap_groups": [
+      "unknown"
+    ],
+    "what_changed": [],
+    "sources_disagree": [
+      {
+        "issue": "Some low-quality sites claim sumac is untested; FODMAP Everyday says it was tested. Neither gives a verified gram value.",
+        "source_ids": [
+          "FE_ZAATAR"
+        ]
+      }
+    ],
+    "notes": [],
+    "swaps": [],
+    "confidence": "low",
+    "gaps": [
+      "The '1 teaspoon (2 g) low' figure circulates on low-quality sites; NOT verified."
+    ],
+    "sources": [
+      {
+        "id": "FE_ZAATAR",
+        "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-mediterranean-zaatar-spice/",
+        "title": "Low FODMAP Mediterranean za'atar spice",
+        "publisher": "FODMAP Everyday",
+        "source_type": "secondary",
+        "date": "undated",
+        "access": "snippet only (403)",
+        "quote": "Monash University has lab tested sumac",
+        "note": "No gram serving visible in snippet; also says marjoram not formally tested by Monash."
+      }
+    ]
+  },
+  {
+    "food": "Bulgur (bourghal)",
+    "slug": "bulgur",
+    "group": "middle-eastern",
+    "verdict": "depends on amount",
+    "verdict_note": "Low at 1/4 cup (44 g); a full serve is high in oligos.",
+    "thresholds": [
+      {
+        "form": "bulgur, uncooked (per Monash label)",
+        "low_up_to_g": 44,
+        "household": "1/4 cup",
+        "source_ids": [
+          "MON_FIBRE_2021"
+        ]
+      },
+      {
+        "form": "bulgur (form not stated, secondary)",
+        "low_up_to_g": 44,
+        "high_from_g": 88,
+        "group": "GOS + fructans",
+        "source_ids": [
+          "GE_TABBOULEH"
+        ]
+      }
+    ],
+    "fodmap_groups": [
+      "fructans",
+      "GOS"
+    ],
+    "what_changed": [],
+    "sources_disagree": [
+      {
+        "issue": "Monash labels the 44 g serve 'uncooked'; several secondary sites describe 44 g as cooked.",
+        "source_ids": [
+          "MON_FIBRE_2021",
+          "GE_TABBOULEH"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "note": "Monash 2014: bourghal is parboiled cracked wheat; a full serve is high in oligos.",
+        "source_ids": [
+          "MON_BOURGHAL_2014"
+        ]
+      },
+      {
+        "note": "Monash 2016: some grains rate red/amber at a full serve but green at a half serve; bourghul is in that list.",
+        "source_ids": [
+          "MON_GRAINS_2016"
+        ]
+      }
+    ],
+    "swaps": [
+      {
+        "swap": "Quinoa (e.g. quinoa tabbouleh)",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      },
+      {
+        "swap": "Rice",
+        "source_ids": [
+          "MON_STEP1_PDF"
+        ]
+      }
+    ],
+    "confidence": "high (44 g low); medium (88 g high)",
+    "gaps": [
+      "Cooked vs uncooked ambiguity."
+    ],
+    "sources": [
+      {
+        "id": "MON_FIBRE_2021",
+        "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+        "title": "Getting enough fibre",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2021-01-14",
+        "access": "fetched (curl, rows verified)",
+        "quote": "Tahini, sesame seed pulp, unhulled | 2 tablespoons (30g)",
+        "note": "Table of 'Low FODMAP Serving Size' rows: canned chickpea drained 1/4 cup (42g); lentil green boiled 1/4 cup (23g); bulgar uncooked 1/4 cup (44g); pomegranate 1/4 cup seeds (45g)."
+      },
+      {
+        "id": "MON_BOURGHAL_2014",
+        "url": "https://web.archive.org/web/20190922210439/https://www.monashfodmap.com/blog/bourghal-newly-tested-for-fodmap-content/",
+        "title": "Bourghal: newly tested for FODMAP content",
+        "publisher": "Monash FODMAP Team",
+        "source_type": "primary",
+        "date": "2014-11-11",
+        "access": "archived copy (live URL returns 404)",
+        "quote": "In one full serving size it contains high amounts of oligos"
+      },
+      {
+        "id": "MON_GRAINS_2016",
+        "url": "https://monashfodmap.com/blog/grains-low-fodmap-diet/",
+        "title": "Grain-based foods on a low FODMAP diet",
+        "publisher": "Monash FODMAP (Dr Jane Varney)",
+        "source_type": "primary",
+        "date": "2016-08-16",
+        "access": "fetched",
+        "quote": "rated red/amber at a full serve, but green (low FODMAP) at a half serve"
+      },
+      {
+        "id": "MON_STEP1_PDF",
+        "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+        "title": "Monash FODMAP Resource – Step 1 Low FODMAP Diet (PDF)",
+        "publisher": "Monash University, Dept of Gastroenterology",
+        "source_type": "primary",
+        "date": "©2026",
+        "access": "fetched (pdftotext)",
+        "quote": "fructans are water-soluable but not oil-soluble"
+      },
+      {
+        "id": "GE_TABBOULEH",
+        "url": "https://georgeats.com/recipes/low-fodmap-tabbouleh/",
+        "title": "Low FODMAP tabbouleh",
+        "publisher": "George Eats",
+        "source_type": "secondary",
+        "date": "updated 2026-08-04",
+        "access": "fetched",
+        "quote": "Bulgur wheat, which is traditionally used in tabbouleh, is low FODMAP in 44g serves.",
+        "note": "88 g: high GOS and fructans. Cooked/uncooked not stated."
+      }
+    ]
+  }
+]

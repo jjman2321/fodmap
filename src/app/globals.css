@@ -16,6 +16,9 @@
   --high: #DE6B55;
   --mid-ink: #8A5A00;
   --high-ink: #A63D2A;
+  /* Buttons: white text needs ≥ 4.5:1, in both modes. */
+  --btn: #26794B;
+  --btn-hover: #1F653E;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -45,6 +48,8 @@
   --color-chip: var(--chip);
   --color-brand: var(--brand);
   --color-brand-ink: var(--brand-ink);
+  --color-btn: var(--btn);
+  --color-btn-hover: var(--btn-hover);
   --color-soft: var(--soft);
   --color-low: var(--low);
   --color-mid: var(--mid);
@@ -58,8 +63,11 @@
 
 html { -webkit-text-size-adjust: 100%; }
 body { background: var(--paper); color: var(--ink); font-family: var(--font-sans); font-size: 17px; line-height: 1.55; }
-h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.02em; line-height: 1.15; }
-a { color: inherit; }
+/* In the base layer so Tailwind utilities (text-white on buttons…) win. */
+@layer base {
+  h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.02em; line-height: 1.15; }
+  a { color: inherit; }
+}
 :focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 6px; }
 .skip-link { position: absolute; left: -999px; top: 8px; background: var(--ink); color: var(--paper); padding: 8px 12px; border-radius: 8px; z-index: 50; }
 .skip-link:focus { left: 8px; }

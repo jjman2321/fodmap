@@ -6,7 +6,7 @@ import { REGIONS, getRegion } from "@/data/regions";
 import { FoodArt } from "@/components/FoodArt";
 import { ZoneChip } from "@/components/ZoneChip";
 import { Row } from "@/components/Row";
-import { headline } from "@/lib/verdict";
+import { headline, subline } from "@/lib/verdict";
 import { JsonLd, breadcrumbs } from "@/lib/jsonld";
 
 export const dynamicParams = false;
@@ -29,9 +29,9 @@ export default async function RegionPage({ params }: { params: Promise<{ slug: s
       <ul className="mt-6 grid gap-3 sm:grid-cols-2">
         {list.map((f) => { const h = headline(f); return (
           <li key={f.slug}><Link href={`/food/${f.slug}`} className="flex items-center gap-3 rounded-[var(--radius-card)] border border-line bg-card p-3 hover:border-brand">
-            <FoodArt name={f.illustration} size={52} /><span className="flex-1"><span className="block font-medium">{f.name[0].toUpperCase() + f.name.slice(1)}</span><span className="text-[13px] text-muted">{f.answer.split(". ")[0]}.</span></span><ZoneChip zone={h.zone} label={h.chip} /></Link></li>); })}
+            <FoodArt name={f.illustration} size={52} /><span className="flex-1"><span className="block font-medium">{f.name[0].toUpperCase() + f.name.slice(1)}</span><span className="text-[13px] text-muted">{subline(f)}</span></span><ZoneChip zone={h.zone} label={h.chip} /></Link></li>); })}
       </ul>
-      <div className="below-fold mt-8">
+      <div className="mt-8">
         <Row title="Eating out: what to ask">
           <dl className="grid gap-3 sm:grid-cols-2">{r.eatingOut.map((e) => (<div key={e.title} className="rounded-2xl bg-chip p-4"><dt className="font-semibold">{e.title}</dt><dd className="mt-1 text-[15px]">{e.text}</dd></div>))}</dl>
         </Row>

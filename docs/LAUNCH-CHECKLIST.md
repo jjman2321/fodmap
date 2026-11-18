@@ -10,6 +10,10 @@
 - [ ] **You:** turn on Cloudflare Web Analytics; confirm "Block AI bots" is off
 - [ ] **You:** optional DataForSEO top-up ($50) for difficulty and AI Overview research
 
+- [ ] **You:** confirm the 2 snippet-only facts on your phone (STATUS → Open questions)
+- [ ] **Claude:** Lighthouse ≥ 95 on phone settings (median of 3) for home, a food page and the hub
+- [ ] **Claude:** legal wording review list for privacy/terms (they say "draft" until you approve)
+
 ## Launch day
 - [ ] **You:** delete `SITE_INDEXING` and retry the build
 - [ ] **Both:** Search Console (Domain property) + sitemap; Bing Webmaster Tools import; request indexing for ~10 key pages

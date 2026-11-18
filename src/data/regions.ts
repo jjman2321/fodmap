@@ -6,7 +6,7 @@ export const REGIONS: Region[] = [
     slug: "middle-eastern",
     name: "Middle Eastern",
     title: "Middle Eastern foods: which are low FODMAP?",
-    intro: "Tahini, hummus, halloumi, dates, pita and more, with the amounts in grams. Many Middle Eastern dishes are built on garlic, onion and chickpeas, so portion size matters more than the dish name.",
+    intro: "Tahini, hummus, chickpeas, lentils, feta and pomegranate, with the amounts in grams. More foods are added after checking. Many Middle Eastern dishes are built on garlic, onion and chickpeas, so portion size matters more than the dish name.",
     eatingOut: [
       { title: "Sauces and dips", text: "Garlic sauce (toum) and most hummus contain garlic. Plain tahini is the safer dip to ask for." },
       { title: "Grills", text: "Grilled meat, chicken and fish are FODMAP-free on their own. Ask whether the marinade has garlic or onion." },

@@ -70,9 +70,9 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
           </ul>
         </section>
       )}
-      <Link href={`/check?add=${food.slug}`} className="no-print mt-4 block rounded-full bg-brand px-5 py-3.5 text-center font-semibold text-white hover:bg-brand-ink">{fmt(m.food.addToMeal, { name: food.name })}</Link>
+      <Link href={`/check?add=${food.slug}`} className="no-print mt-4 block rounded-full bg-btn px-5 py-3.5 text-center font-semibold text-white hover:bg-btn-hover">{fmt(m.food.addToMeal, { name: food.name })}</Link>
 
-      <div className="below-fold mt-8">
+      <div className="mt-8">
         {food.servings.length > 1 && (
           <Row title={m.food.forms}>
             <table className="w-full text-[15px]"><thead><tr className="text-left text-muted"><th className="py-1 font-medium">Form</th><th className="font-medium">Low up to</th><th className="font-medium">High from</th></tr></thead>

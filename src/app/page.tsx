@@ -25,10 +25,10 @@ export default function Home() {
         </ul>
       </section>
 
-      <section className="below-fold mt-10 grid gap-3 sm:grid-cols-3" aria-label="Tools">
+      <section className="mt-10 grid gap-3 sm:grid-cols-3" aria-label="Tools">
         {[
           ["/check", "Meal check", "Add 2–5 foods and see if their FODMAPs stack up."],
-          ["/region/middle-eastern", "Middle Eastern foods", "Tahini, hummus, halloumi, dates and more."],
+          ["/region/middle-eastern", "Middle Eastern foods", "Tahini, hummus, chickpeas, lentils and more."],
           ["/printable", "Printable list", "One page, by food group, with grams."],
         ].map(([href, t, d]) => (
           <Link key={href} href={href} className="rounded-[var(--radius-card)] bg-soft p-4 hover:outline hover:outline-brand">
@@ -36,7 +36,7 @@ export default function Home() {
         ))}
       </section>
 
-      <section className="below-fold mt-10 border-t border-line pt-6" aria-labelledby="how">
+      <section className="mt-10 border-t border-line pt-6" aria-labelledby="how">
         <h2 id="how" className="text-[20px] font-semibold">How we check</h2>
         <ul className="mt-2 space-y-1 text-[16px]">
           <li>Every number links to a public source: a lab paper or the testing lab&apos;s own public posts.</li>

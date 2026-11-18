@@ -1,8 +1,42 @@
 # Manual tests
 
 Your click-through list. One section per feature. Test on phone and laptop, in light and dark mode.
+Preview: run locally (see STATUS "How to run") until Cloudflare is connected.
 
-_Nothing to test yet: no pages built._
+## M1: foundation (2026-11-18)
+
+### Home + search
+- [ ] Open `/`. You see "Is it low FODMAP?", a search box and 10 checked foods with a coloured chip each.
+- [ ] Type `gar` → Garlic appears with "■ High" and "Try instead: Garlic-infused oil, Spring onion greens, Asafoetida".
+- [ ] Type `zaatar` → "We haven't checked "zaatar" yet."
+- [ ] Type `houmous` (UK spelling) → Hummus appears.
+
+### Food page (try `/food/sweet-potato`)
+- [ ] Green chip "Low up to 75 g" and a one-paragraph answer in grams.
+- [ ] Drag the portion slider: 75 g says **● Low**; 90 g says **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
+- [ ] Tap a small [1] → it jumps to the matching source at the bottom; the link opens Monash's page.
+- [ ] "What changed" explains the 2025 retest reported by dietitian sites.
+- [ ] "See a doctor first if" box is there, calm amber, not red.
+- [ ] "Add sweet potato to a meal check" opens the meal check with sweet potato already added.
+
+### Meal check (`/check`)
+- [ ] Add tahini, chickpeas and lentils. The "GOS" row turns **▲ May add up** once their amounts together pass one low serving.
+- [ ] Remove a food with ×. Add garlic → "Fructans ■ High".
+
+### Middle Eastern hub (`/region/middle-eastern`)
+- [ ] 7 foods with chips and a short line each; "Eating out: what to ask" tips at the bottom.
+
+### Printable list (`/printable`)
+- [ ] "Print or save as PDF" opens your print dialog; the printout has no header, footer or email box.
+- [ ] The email form says "The email list opens soon" (the list isn't connected yet; that's expected).
+
+### Everywhere
+- [ ] Phone menu (☰) opens and closes; Escape closes it on a laptop.
+- [ ] Footer has the disclaimer line, "Not affiliated with Monash University or FODMAP Friendly" and © Grasp Labs LLC.
+
+## Known issues
+- Food search only knows the 10 checked foods (more come in M2).
+- Email list returns "opens soon" until the D1 database is set up.
 
 ## Reporting a problem
 Send a screenshot, what you clicked, the page address, phone or laptop, and light or dark mode.
