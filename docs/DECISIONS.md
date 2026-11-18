@@ -78,3 +78,12 @@ Owner: "i like rounder". The logo is **A3**: `isitlowfodmap` in **Outfit**, with
 - **Monash / FODMAP Friendly public statements:** "Yes, short + linked". One attributed sentence per source from public material (blog, papers, press) with a link. Never from their apps. A "Not affiliated with Monash University or FODMAP Friendly" line in the footer, plus links to their apps.
 - **Email:** "Free printable list". Email in exchange for the printable low FODMAP list (PDF), shown after the answer, never as a pop-up. Stored in Cloudflare D1, welcome email through Resend.
 - **Going live to Google:** "ASAP, ~100 pages". Indexable as soon as the first ~100 pages pass quality checks, aiming for mid-December 2026, before the January diet peak.
+
+## Batch 4 answers (owner, 2026-11-18)
+- **Languages:** "English only, decide in 3 mo". US English at launch, all UI text in `src/messages/en.json` from day one. The next language is picked from Search Console data around Feb–Mar 2027, with real reviewed translations only.
+- **Analytics:** "Cloudflare Web Analytics". Cookieless, dashboard switch, no banner. Plus Google Search Console, Bing Webmaster Tools, and Sentry for errors.
+- **Disclaimer:** "Short + red-flag line". One quiet line per page, a footer line, a short `/disclaimer` page, and a calm "See a doctor first if…" box (bleeding, weight loss without trying, night symptoms, new symptoms after 45–50) on key pages.
+- **Domain / Cloudflare:** owner: "we'll do this at the end yeah". The DNS move and Workers connection go in the launch checklist.
+
+## Interview complete (2026-11-18)
+19 questions over 4 batches. Next: 3 identity directions side by side (logo, colours, type, sample food page) with scores → owner picks → `docs/plans/M1-foundation.md`.
