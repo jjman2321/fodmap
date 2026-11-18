@@ -69,3 +69,6 @@ Owner: "not sure tbh research and gimme more ideas" and "u can use higgsfield if
 Owner: "dont like it just use the lowercase version it fits our niche and just make it clean and different".
 - **Superseded:** the gauge "o" and all 6 icon marks are dropped. The logo is the lowercase wordmark `isitlowfodmap` only, with no separate symbol.
 - 6 clean lowercase treatments for the pick: `docs/design-refs/logo/lowercase-options.png`.
+
+## Wordmark chosen (owner, 2026-11-18)
+Owner: "i like rounder". The logo is **A3**: `isitlowfodmap` in **Outfit**, with "isit" and "fodmap" at weight 300 in ink (#1E2A23) and "low" at weight 700 in green (#2E8B57; #4CB27A on dark). The tab/app icon is a green rounded tile with "low" in white. Sheet: `docs/design-refs/logo/a-refined.png`. Outfit also becomes the heading font candidate for the identity directions.
