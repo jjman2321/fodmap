@@ -30,3 +30,23 @@ Source: `MMTEST/research/ibs-app-2026-11/ISITLOWFODMAP-NEW-CHAT-PROMPT.md` (bran
 ## Interview answers
 
 _(Added below as the owner answers, batch by batch.)_
+
+## Look and feel references (owner, 2026-11-18)
+Owner: "from mobbin i like monarch, tripadvisor, givingli, mindtrip, buy me a coffee, lassie, ease etc but make sure everything fits our icp and target audience".
+- What these share (checked on Mobbin): warm off-white or white backgrounds, lots of space, one confident accent colour, rounded cards and pill chips, a search box as the hero (Tripadvisor, Mindtrip), a soft serif headline over a clean sans body (Monarch), friendly flat illustration (Lassie, Givingli, Buy Me a Coffee).
+- Fit to the audience: the main reader is a woman aged 20–45, newly told to "try low FODMAP" and overwhelmed (research track 01, persona B1/B3). So the look should be **warm and reassuring rather than clinical**, with the food-science precision kept in the numbers and diagrams. This replaces option A/B/C from batch 1; the 3 identity directions will all sit inside this warm, friendly, search-first family.
+- References: [Monarch](https://mobbin.com/screens/f988984b-caf0-46e4-82d6-cfc2b70ccd15), [Mindtrip explore](https://mobbin.com/screens/fcbb9c94-6246-4c32-a4c1-55784f78426a), [Mindtrip detail](https://mobbin.com/screens/e6ebda06-534d-4104-82e9-8da850243e07), [Tripadvisor](https://mobbin.com/screens/f4cf4e82-4d0b-4e44-95c5-aee2116a697d).
+
+## Owner's name on pages (owner, 2026-11-18)
+Owner: "no name". No personal name on any page, byline or About page.
+- Risk said once: Google holds health pages to a higher standard and looks for a named author. Owner accepts it.
+- How we make up for it: a "How we check foods" methodology page, a source and test date next to every number, a public changelog, and a real dietitian reviewer named only once they truly review pages. The publisher is shown as Grasp Labs LLC.
+
+## Batch 1 answers (owner, 2026-11-18)
+- **Traffic-light colours:** "Tuned + shapes + labels". Softer accessible green / amber / red, each with its own shape and a text label ("Low up to 75 g"). Red means "high at this amount", never "bad food".
+- **Tone:** "Calm expert friend". Short plain sentences, grams first, says when sources disagree or data is missing.
+- **Repo:** "Build in 'fodmap'". Build in `jjman2321/fodmap` (it can be renamed on GitHub later).
+- **Name/logo:** owner: "show me #1 + #2? and how to make 10/10". Comparison sheet made: `docs/design-refs/logo/logo-options.png`. Waiting for the pick.
+
+## Interview format (owner, 2026-11-18)
+Owner: "for question do it with the interactive claude questions". Remaining questions are asked with the interactive picker.
