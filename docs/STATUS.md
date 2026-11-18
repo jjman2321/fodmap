@@ -10,7 +10,7 @@ Start of every session: read this file, then `docs/DECISIONS.md` (it wins over a
 - No code yet.
 
 ## Next
-1. ⏳ 3 identity directions side by side (colours, type, sample garlic page) → owner picks.
+1. ⏳ 3 identity directions sent (`docs/designs/identity/directions.png`) → waiting for owner pick.
 2. `docs/plans/M1-foundation.md` (files, data model, page template, tests) → wait for OK.
 3. Clickable designs: home + checker, garlic, Middle Eastern hub, printable list (phone + desktop) → wait for approval.
 4. Build: foundation, data pipeline, first ~100 pages, technical SEO. Go indexable around mid-December.
