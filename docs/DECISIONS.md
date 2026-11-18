@@ -72,3 +72,9 @@ Owner: "dont like it just use the lowercase version it fits our niche and just m
 
 ## Wordmark chosen (owner, 2026-11-18)
 Owner: "i like rounder". The logo is **A3**: `isitlowfodmap` in **Outfit**, with "isit" and "fodmap" at weight 300 in ink (#1E2A23) and "low" at weight 700 in green (#2E8B57; #4CB27A on dark). The tab/app icon is a green rounded tile with "low" in white. Sheet: `docs/design-refs/logo/a-refined.png`. Outfit also becomes the heading font candidate for the identity directions.
+
+## Batch 3 answers (owner, 2026-11-18)
+- **Checker at launch:** all four. Portion slider, meal stacker, swap finder, and eating out by cuisine. The cuisine guides tie into the regional hubs.
+- **Monash / FODMAP Friendly public statements:** "Yes, short + linked". One attributed sentence per source from public material (blog, papers, press) with a link. Never from their apps. A "Not affiliated with Monash University or FODMAP Friendly" line in the footer, plus links to their apps.
+- **Email:** "Free printable list". Email in exchange for the printable low FODMAP list (PDF), shown after the answer, never as a pop-up. Stored in Cloudflare D1, welcome email through Resend.
+- **Going live to Google:** "ASAP, ~100 pages". Indexable as soon as the first ~100 pages pass quality checks, aiming for mid-December 2026, before the January diet peak.
