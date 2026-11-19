@@ -6,7 +6,7 @@ export const ZONE_STYLE: Record<Zone, { shape: string; cls: string; bar: string 
   low: { shape: "●", cls: "bg-low/15 text-brand-ink", bar: "bg-low" },
   moderate: { shape: "▲", cls: "bg-mid/20 text-mid-ink", bar: "bg-mid" },
   high: { shape: "■", cls: "bg-high/15 text-high-ink", bar: "bg-high" },
-  untested: { shape: "○", cls: "bg-chip text-muted", bar: "bg-[repeating-linear-gradient(135deg,var(--line)_0_6px,transparent_6px_12px)]" },
+  untested: { shape: "○", cls: "bg-chip text-muted", bar: "bg-line" },
 };
 
 export function ZoneChip({ zone, label }: { zone: Zone; label?: string }) {

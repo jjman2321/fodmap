@@ -133,3 +133,9 @@ Owner chose "1 · 3 traffic lights". The food page top is a big Yes / No (estima
 
 ## Verdict must say low or high (owner, 2026-11-19)
 Owner: "ppl must understand tho if its high or not etc". The big word is now **Low FODMAP** / **High FODMAP** (estimates: their own word, e.g. "Usually high", and a test blocks "low" in it), not a bare Yes/No. Tiles show "Low"/"High" plus the grams. Foods without lab data hide the portion slider.
+
+## Improve diagrams, cleaner home (owner, 2026-11-19)
+Owner: "not bad improve the diagrams and maybe on the home page aswell make it cleaner".
+- **Answer boxes:** each gets a bowl that fills with the amount (a third, two thirds, full), so "more food = more FODMAP" reads at a glance.
+- **Portion slider:** no stripes (untested is plain grey and labelled), a bigger readout, and tap buttons for the tested amounts.
+- **Home:** search plus "try" chips, calmer tiles (picture, name, one Low/High pill), and one quiet row of links instead of extra cards and paragraphs.

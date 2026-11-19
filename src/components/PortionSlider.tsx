@@ -19,15 +19,16 @@ export function PortionSlider({ serving, start }: { serving: Serving; start?: nu
   const step = serving.scaleMaxG <= 20 ? 0.5 : serving.scaleMaxG <= 60 ? 1 : 5;
   const groups = serving.groups.map((x) => GROUP_LABEL[x]).join(" + ");
   const segs = bands(serving);
+  const picks = [serving.lowMaxG, serving.moderateFromG, serving.highFromG].filter((x): x is number => x !== null);
   const ticks = [0, serving.lowMaxG ?? serving.highFromG, serving.scaleMaxG]
     .filter((t): t is number => t !== null && t <= serving.scaleMaxG)
     .filter((t, i, a) => a.indexOf(t) === i)
     .filter((t, i, a) => i === 0 || (t - a[i - 1]) / serving.scaleMaxG >= 0.09 || t === serving.scaleMaxG);
   return (
     <div>
-      <div className="flex items-baseline justify-between gap-3">
-        <label htmlFor={id} className="text-[15px] font-semibold">{m.food.slider}: <span className="tabular-nums">{g} g</span></label>
-        <span role="status" aria-live="polite" className={`rounded-full px-2.5 py-0.5 text-[14px] font-semibold ${ZONE_STYLE[z].cls}`}>
+      <div className="flex items-center justify-between gap-3">
+        <label htmlFor={id} className="font-display text-[32px] font-extrabold leading-none tracking-[-0.03em] tabular-nums">{g} g<span className="sr-only"> portion</span></label>
+        <span role="status" aria-live="polite" className={`rounded-full px-3 py-1.5 text-[16px] font-bold ${ZONE_STYLE[z].cls}`}>
           <span aria-hidden className="mr-1">{ZONE_STYLE[z].shape}</span>{m.zone[z]}{z !== "untested" && z !== "low" && groups ? ` in ${groups.toLowerCase()}` : ""}
         </span>
       </div>
@@ -46,6 +47,12 @@ export function PortionSlider({ serving, start }: { serving: Serving; start?: nu
       <div className="relative mt-1 h-4 text-[12px] text-muted tabular-nums" aria-hidden>
         {ticks.map((t, i) => (<span key={t} className="absolute whitespace-nowrap" style={{ left: `${(t / serving.scaleMaxG) * 100}%`, transform: i === 0 ? "none" : i === ticks.length - 1 ? "translateX(-100%)" : "translateX(-50%)" }}>{t} g</span>))}
       </div>
+      {picks.length > 1 && (
+        <div className="mt-4 flex flex-wrap gap-2" aria-label="Tested amounts">
+          {picks.map((p) => (<button key={p} type="button" onClick={() => setG(p)} aria-pressed={g === p}
+            className={`rounded-full border px-3 py-1.5 text-[14px] font-semibold tabular-nums ${g === p ? "border-ink bg-ink text-paper" : "border-line bg-card hover:border-brand"}`}>{p} g</button>))}
+        </div>
+      )}
     </div>
   );
 }

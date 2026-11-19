@@ -6,15 +6,15 @@ Preview: run locally (see STATUS "How to run") until Cloudflare is connected.
 ## M1: foundation (2026-11-18)
 
 ### Home + search
-- [ ] Open `/`. You see "Is it low FODMAP?", a search box and 10 food tiles, each with a picture and its low amount in big numbers.
+- [ ] Open `/`. You see "Is it low FODMAP?", a search box, "Try: garlic · avocado · hummus · sweet potato", then 10 food tiles (picture, name, one Low/High pill), then 3 quiet links.
 - [ ] Type `gar` → Garlic appears with "■ High" and "Try instead: Garlic-infused oil, Spring onion greens, Asafoetida".
 - [ ] Type `zaatar` → "We haven't checked "zaatar" yet."
 - [ ] Type `houmous` (UK spelling) → Hummus appears.
 
 ### Food page (try `/food/sweet-potato`)
-- [ ] Big green **Low FODMAP**, then "In a portion up to 75 g (about ½ cup). High from 112 g.", then 3 boxes: ● Low 75 g / ▲ Moderate 100 g / ■ High 112 g+.
+- [ ] Big green **Low FODMAP**, then "In a portion up to 75 g (about ½ cup). High from 112 g.", then 3 boxes with bowls that fill up: ● Low 75 g / ▲ Moderate 100 g / ■ High 112 g+.
 - [ ] `/food/garlic` says big red **High FODMAP**; `/food/hummus` says **Usually high** and has no portion slider.
-- [ ] Under "Check your portion", the scale has thick coloured segments with Low / High labels under them. Drag it: 75 g says **● Low**; 90 g **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
+- [ ] Under "Check your portion": a big gram number, a coloured scale (grey = not tested), and buttons 75 g / 100 g / 112 g that jump the slider. The scale has thick coloured segments with Low / High labels under them. Drag it: 75 g says **● Low**; 90 g **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
 - [ ] Tap a small [1] → it jumps to the matching source at the bottom; the link opens Monash's page.
 - [ ] "What changed" explains the 2025 retest reported by dietitian sites.
 - [ ] "See a doctor first if" box is there, calm amber, not red.
