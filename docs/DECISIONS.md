@@ -111,3 +111,13 @@ Owner picked "Looks mid" on the M1 screenshots. Claude's diagnosis:
 4. Every block is the same white card, and the home page is 10 identical rows.
 
 3 food-page hero options were mocked up: `docs/designs/m1-polish/hero-options.png`. A "Big answer" (BitePal/Oura) 9/10, B "Picture header" (Julienne) 8/10, C "Portion plate" 7.5/10. Waiting for the pick.
+
+## Food page hero: A "Big answer" (owner, 2026-11-19)
+Owner chose "A Big answer". The grams are the biggest thing on the page ("75 g", household measure beside it), with a thick, labelled, segmented scale under it. Every food gets its own drawing; home and hub are redone in the same style. Based on BitePal and Oura (Mobbin).
+
+## Visuals not clear enough (owner, 2026-11-19)
+Owner: "the visuals aren't clear enough as well".
+- **New illustration set:** made with Higgsfield (GPT Image 2.6, 0.25 credits each) in one style: thick ink outline, flat fills, cream background, instantly recognisable. Z Image (cheaper) was tested and was less clear. Recraft vector costs 2.5 credits each, too much for ~3,500 foods.
+- **Style prompt:** "Flat vector food illustration of …, instantly recognizable. Thick dark ink outline (#1E2A23), simple flat colour fills with one soft shadow tone, no gradients, no text, no plate. Centered on a plain warm cream background (#FBF8F3) with generous empty padding. Friendly modern editorial illustration style, crisp shapes, readable at small sizes."
+- **Done:** garlic, chickpeas, sweet potato, avocado, strawberries, tahini, hummus (480 px WebP, 9–20 KB each, `public/art/`).
+- **Waiting on Higgsfield credits:** pomegranate, lentils and feta (about 0.75 credits) still use the simple drawings. M2's ~100 foods need about 25 credits.

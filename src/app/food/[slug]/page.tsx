@@ -5,7 +5,7 @@ import { citedSources, foods, getFood, related, sameGroup } from "@/data";
 import { GROUP_LABEL } from "@/data/schema";
 import { FoodArt } from "@/components/FoodArt";
 import { PortionSlider } from "@/components/PortionSlider";
-import { ZoneChip } from "@/components/ZoneChip";
+import { BigAnswer } from "@/components/BigAnswer";
 import { DoctorBox } from "@/components/DoctorBox";
 import { Row } from "@/components/Row";
 import { fmt, messages as m } from "@/lib/i18n";
@@ -28,7 +28,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function FoodPage({ params }: { params: Promise<{ slug: string }> }) {
   const food = getFood((await params).slug);
   if (!food) notFound();
-  const h = headline(food);
   const main = food.servings[0];
   const cited = citedSources(food);
   const n = (id: string) => cited.findIndex((s) => s.id === id) + 1;
@@ -44,20 +43,21 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
         { "@type": "Article", headline: title, description: food.answer, datePublished: food.published, dateModified: food.checked, author: { "@id": ORG_ID }, publisher: { "@id": ORG_ID }, mainEntityOfPage: abs(`/food/${food.slug}`),
           about: { "@type": "Thing", name: food.name }, citation: cited.map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url, publisher: s.publisher })) },
       ]} />
-      <nav aria-label="Breadcrumb" className="text-[13px] text-muted"><Link href="/foods" className="hover:text-ink">Foods</Link> › {CATEGORY_LABEL[food.category]}</nav>
-
-      <div className="mt-3 flex items-center gap-4">
-        <FoodArt name={food.illustration} size={88} />
-        <h1 className="text-[32px] font-semibold sm:text-[40px]">{title}</h1>
+      <div className="flex items-start justify-between gap-4">
+        <div>
+          <nav aria-label="Breadcrumb" className="text-[13px] text-muted"><Link href="/foods" className="hover:text-ink">Foods</Link> › {CATEGORY_LABEL[food.category]}</nav>
+          <h1 className="mt-2 text-[30px] font-semibold sm:text-[42px]">{title}</h1>
+        </div>
+        <FoodArt name={food.illustration} size={104} priority />
       </div>
 
-      <section aria-label="Answer" className="mt-5 rounded-[var(--radius-card)] border border-line bg-card p-5">
-        <div className="flex flex-wrap items-center gap-2"><ZoneChip zone={h.zone} label={h.chip} /><span className="text-sm text-muted">{main.form}</span></div>
-        <p className="mt-3 text-[18px] leading-relaxed">{food.answer}{cite(main.sourceIds)}</p>
+      <section aria-label="Answer" className="mt-5 rounded-[var(--radius-card)] border border-line bg-card p-5 sm:p-6">
+        <BigAnswer food={food} />
+        <p className="mt-3 text-[17px] leading-relaxed">{food.answer}{cite(main.sourceIds)}</p>
         <div className="mt-5"><PortionSlider serving={main} /></div>
-        <ul className="mt-4 flex flex-wrap gap-2 text-[13px]">
+        <ul className="mt-5 flex flex-wrap gap-2 text-[13px]">
           {food.groups.map((g) => (<li key={g} className="rounded-full bg-chip px-2.5 py-1">{GROUP_LABEL[g]}</li>))}
-          <li className="rounded-full bg-chip px-2.5 py-1">{m.tier[food.tier]}</li>
+          <li className="rounded-full bg-chip px-2.5 py-1">{m.tier[food.tier]} · {main.form}</li>
           <li className="rounded-full bg-chip px-2.5 py-1">{fmt(m.food.checked, { date: fmtDate(food.checked) })}</li>
         </ul>
       </section>

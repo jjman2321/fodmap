@@ -6,7 +6,10 @@ import { bands, zoneFor } from "@/lib/fodmap";
 import { ZONE_STYLE } from "./ZoneChip";
 import { messages as m } from "@/lib/i18n";
 
-// The signature diagram. Server-rendered with the start amount, so the HTML already carries the answer.
+const SHORT = { low: "Low", moderate: "Mod", high: "High", untested: "Untested" } as const;
+
+// The signature scale (DECISIONS 2026-11-19, option A): thick segments with labels, based on BitePal/Oura.
+// Server-rendered at the start amount, so the HTML already carries the answer.
 export function PortionSlider({ serving, start }: { serving: Serving; start?: number }) {
   const id = useId();
   const first = start ?? serving.lowMaxG ?? serving.highFromG ?? Math.round(serving.scaleMaxG / 2);
@@ -15,27 +18,34 @@ export function PortionSlider({ serving, start }: { serving: Serving; start?: nu
   const pct = (g / serving.scaleMaxG) * 100;
   const step = serving.scaleMaxG <= 20 ? 0.5 : serving.scaleMaxG <= 60 ? 1 : 5;
   const groups = serving.groups.map((x) => GROUP_LABEL[x]).join(" + ");
+  const segs = bands(serving);
+  const ticks = [0, serving.lowMaxG ?? serving.highFromG, serving.scaleMaxG]
+    .filter((t): t is number => t !== null && t <= serving.scaleMaxG)
+    .filter((t, i, a) => a.indexOf(t) === i)
+    .filter((t, i, a) => i === 0 || (t - a[i - 1]) / serving.scaleMaxG >= 0.09 || t === serving.scaleMaxG);
   return (
     <div>
       <div className="flex items-baseline justify-between gap-3">
-        <label htmlFor={id} className="text-sm font-semibold">{m.food.slider}: <span className="tabular-nums">{g} g</span></label>
-        <span role="status" aria-live="polite" className="text-sm">
-          <span aria-hidden className="mr-1">{ZONE_STYLE[z].shape}</span>
-          <b>{m.zone[z]}</b>{z !== "untested" && z !== "low" && groups ? ` in ${groups.toLowerCase()}` : ""}
+        <label htmlFor={id} className="text-[15px] font-semibold">{m.food.slider}: <span className="tabular-nums">{g} g</span></label>
+        <span role="status" aria-live="polite" className={`rounded-full px-2.5 py-0.5 text-[14px] font-semibold ${ZONE_STYLE[z].cls}`}>
+          <span aria-hidden className="mr-1">{ZONE_STYLE[z].shape}</span>{m.zone[z]}{z !== "untested" && z !== "low" && groups ? ` in ${groups.toLowerCase()}` : ""}
         </span>
       </div>
-      <div className="relative mt-3 h-4">
-        <div className="absolute inset-0 flex overflow-hidden rounded-full" aria-hidden>
-          {bands(serving).map((b) => (<div key={b.zone + b.from} className={ZONE_STYLE[b.zone].bar} style={{ width: `${(b.to - b.from) * 100}%` }} />))}
+      <div className="relative mt-4 h-5">
+        <div className="absolute inset-0 flex gap-1" aria-hidden>
+          {segs.map((b, i) => (<div key={b.zone + b.from} className={`${ZONE_STYLE[b.zone].bar} ${i === 0 ? "rounded-l-full" : "rounded-l-[4px]"} ${i === segs.length - 1 ? "rounded-r-full" : "rounded-r-[4px]"}`} style={{ flexGrow: b.to - b.from, flexBasis: 0 }} />))}
         </div>
-        <div aria-hidden className="pointer-events-none absolute top-1/2 h-7 w-7 -translate-x-1/2 -translate-y-1/2 rounded-full border-[3px] border-ink bg-card shadow" style={{ left: `${pct}%` }} />
+        <div aria-hidden className="pointer-events-none absolute top-1/2 h-8 w-8 -translate-x-1/2 -translate-y-1/2 rounded-full border-[3px] border-ink bg-card shadow-md" style={{ left: `${pct}%` }} />
         <input id={id} type="range" min={0} max={serving.scaleMaxG} step={step} value={g} onChange={(e) => setG(Number(e.target.value))}
           aria-valuetext={`${g} grams: ${m.zone[z]}`} className="absolute inset-0 h-full w-full cursor-pointer opacity-0" />
       </div>
-      <div className="mt-2 flex justify-between text-[12.5px] text-muted tabular-nums" aria-hidden>
-        <span>0 g</span>{serving.lowMaxG !== null && <span>{serving.lowMaxG} g</span>}<span>{serving.scaleMaxG} g</span>
+      <div className="mt-2 flex gap-1 text-[12.5px] font-semibold" aria-hidden>
+        {segs.map((b) => (<span key={b.zone + b.from} className={`truncate ${b.zone === "low" ? "text-brand-ink" : b.zone === "moderate" ? "text-mid-ink" : b.zone === "high" ? "text-high-ink" : "text-muted"}`} style={{ flexGrow: b.to - b.from, flexBasis: 0 }}>
+          {b.to - b.from >= (b.zone === "untested" ? 0.24 : 0.12) ? `${ZONE_STYLE[b.zone].shape} ${SHORT[b.zone]}` : ""}</span>))}
       </div>
-      <p className="mt-1 text-[12.5px] text-muted">{m.food.sliderHelp}</p>
+      <div className="relative mt-1 h-4 text-[12px] text-muted tabular-nums" aria-hidden>
+        {ticks.map((t, i) => (<span key={t} className="absolute whitespace-nowrap" style={{ left: `${(t / serving.scaleMaxG) * 100}%`, transform: i === 0 ? "none" : i === ticks.length - 1 ? "translateX(-100%)" : "translateX(-50%)" }}>{t} g</span>))}
+      </div>
     </div>
   );
 }

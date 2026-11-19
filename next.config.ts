@@ -16,6 +16,8 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   // Busy build machines timed pages out on earlier sites.
   staticPageGenerationTimeout: 180,
+  // Pictures are pre-sized WebP files in public/art; no image server on the Worker.
+  images: { unoptimized: true },
   async redirects() {
     return [{ source: "/:path*", has: [{ type: "host", value: "www.isitlowfodmap.com" }], destination: "https://isitlowfodmap.com/:path*", permanent: true }];
   },

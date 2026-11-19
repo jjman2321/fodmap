@@ -6,14 +6,14 @@ Preview: run locally (see STATUS "How to run") until Cloudflare is connected.
 ## M1: foundation (2026-11-18)
 
 ### Home + search
-- [ ] Open `/`. You see "Is it low FODMAP?", a search box and 10 checked foods with a coloured chip each.
+- [ ] Open `/`. You see "Is it low FODMAP?", a search box and 10 food tiles, each with a picture and its low amount in big numbers.
 - [ ] Type `gar` → Garlic appears with "■ High" and "Try instead: Garlic-infused oil, Spring onion greens, Asafoetida".
 - [ ] Type `zaatar` → "We haven't checked "zaatar" yet."
 - [ ] Type `houmous` (UK spelling) → Hummus appears.
 
 ### Food page (try `/food/sweet-potato`)
-- [ ] Green chip "Low up to 75 g" and a one-paragraph answer in grams.
-- [ ] Drag the portion slider: 75 g says **● Low**; 90 g says **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
+- [ ] "LOW UP TO" then a big **75 g** with "about ½ cup" beside it, and a picture of sweet potato top right.
+- [ ] The scale has thick coloured segments with Low / High labels under them. Drag it: 75 g says **● Low**; 90 g **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
 - [ ] Tap a small [1] → it jumps to the matching source at the bottom; the link opens Monash's page.
 - [ ] "What changed" explains the 2025 retest reported by dietitian sites.
 - [ ] "See a doctor first if" box is there, calm amber, not red.

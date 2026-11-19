@@ -1,7 +1,7 @@
 import type { FoodInput } from "../schema";
 
 const food: FoodInput = {
-  slug: "hummus", name: "hummus", aliases: ["houmous", "hommus", "humus"], category: "condiments", regions: ["middle-eastern", "mediterranean"], illustration: "bowl",
+  slug: "hummus", name: "hummus", aliases: ["houmous", "hommus", "humus"], category: "condiments", regions: ["middle-eastern", "mediterranean"], illustration: "hummus",
   tier: "estimated",
   answer: "Usually not when store-bought: most hummus combines chickpeas with garlic, and Monash says shop hummus is usually not FODMAP friendly. No lab has published a tested serve. Homemade with rinsed canned chickpeas and garlic-infused oil is the lower-FODMAP route.",
   groups: ["gos", "fructans"],

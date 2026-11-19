@@ -1,27 +1,23 @@
 import Link from "next/link";
 import { foods } from "@/data";
 import { FoodSearch } from "@/components/FoodSearch";
-import { FoodArt } from "@/components/FoodArt";
-import { ZoneChip } from "@/components/ZoneChip";
+import { FoodTile } from "@/components/FoodTile";
 import { checkerIndex } from "@/lib/index-data";
-import { headline } from "@/lib/verdict";
 import { JsonLd } from "@/lib/jsonld";
 
 export default function Home() {
   const items = checkerIndex();
   return (
-    <div className="mx-auto max-w-3xl px-4 pt-10">
+    <div className="mx-auto max-w-5xl px-4 pt-10">
       <JsonLd graph={[]} />
       <h1 className="text-center text-[38px] font-semibold sm:text-[52px]">Is it low FODMAP?</h1>
       <p className="mx-auto mt-3 max-w-xl text-center text-[18px] text-muted">The amount in grams, which FODMAP, and where every number comes from.</p>
-      <div className="mt-7"><FoodSearch items={items} /></div>
+      <div className="mx-auto mt-7 max-w-2xl"><FoodSearch items={items} /></div>
 
-      <section className="mt-8" aria-labelledby="popular">
-        <h2 id="popular" className="text-[15px] font-semibold text-muted">Checked foods</h2>
-        <ul className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {foods.map((f) => { const h = headline(f); return (
-            <li key={f.slug}><Link href={`/food/${f.slug}`} className="flex items-center gap-3 rounded-[var(--radius-card)] border border-line bg-card p-3 hover:border-brand">
-              <FoodArt name={f.illustration} size={48} /><span className="flex-1 font-medium">{f.name[0].toUpperCase() + f.name.slice(1)}</span><ZoneChip zone={h.zone} label={h.chip} /></Link></li>); })}
+      <section className="mt-10" aria-labelledby="popular">
+        <h2 id="popular" className="text-[22px] font-semibold">Checked foods</h2>
+        <ul className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+          {foods.map((f) => (<li key={f.slug}><FoodTile food={f} /></li>))}
         </ul>
       </section>
 
@@ -36,7 +32,7 @@ export default function Home() {
         ))}
       </section>
 
-      <section className="mt-10 border-t border-line pt-6" aria-labelledby="how">
+      <section className="mx-auto mt-10 max-w-3xl border-t border-line pt-6" aria-labelledby="how">
         <h2 id="how" className="text-[20px] font-semibold">How we check</h2>
         <ul className="mt-2 space-y-1 text-[16px]">
           <li>Every number links to a public source: a lab paper or the testing lab&apos;s own public posts.</li>

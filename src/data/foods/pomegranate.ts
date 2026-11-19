@@ -1,7 +1,7 @@
 import type { FoodInput } from "../schema";
 
 const food: FoodInput = {
-  slug: "pomegranate", name: "pomegranate", aliases: ["pomegranate seeds", "pomegranate arils"], category: "fruit", regions: ["middle-eastern", "south-asian"], illustration: "strawberries",
+  slug: "pomegranate", name: "pomegranate", aliases: ["pomegranate seeds", "pomegranate arils"], category: "fruit", regions: ["middle-eastern", "south-asian"], illustration: "pomegranate",
   tier: "lab-tested",
   answer: "Yes, as a topping. A quarter cup of pomegranate seeds (45 g) is low in Monash's published fibre guide. The FODMAP that limits it is reported as fructans.",
   groups: ["fructans"],

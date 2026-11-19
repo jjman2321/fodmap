@@ -1,7 +1,7 @@
 import type { FoodInput } from "../schema";
 
 const food: FoodInput = {
-  slug: "chickpeas", name: "chickpeas", aliases: ["chickpea", "garbanzo beans", "chick peas", "canned chickpeas"], category: "legumes", regions: ["middle-eastern", "south-asian", "mediterranean"], illustration: "bowl",
+  slug: "chickpeas", name: "chickpeas", aliases: ["chickpea", "garbanzo beans", "chick peas", "canned chickpeas"], category: "legumes", regions: ["middle-eastern", "south-asian", "mediterranean"], illustration: "chickpeas",
   tier: "lab-tested",
   answer: "Canned chickpeas are, in a small serve. Monash and FODMAP Friendly both list a quarter cup (42 g), drained and rinsed, as low. Chickpeas cooked from dry are far higher in GOS.",
   groups: ["gos"],

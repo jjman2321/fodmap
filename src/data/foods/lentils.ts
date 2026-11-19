@@ -1,7 +1,7 @@
 import type { FoodInput } from "../schema";
 
 const food: FoodInput = {
-  slug: "lentils", name: "lentils", aliases: ["lentil", "green lentils", "red lentils", "canned lentils"], category: "legumes", regions: ["middle-eastern", "south-asian", "mediterranean"], illustration: "bowl",
+  slug: "lentils", name: "lentils", aliases: ["lentil", "green lentils", "red lentils", "canned lentils"], category: "legumes", regions: ["middle-eastern", "south-asian", "mediterranean"], illustration: "lentils",
   tier: "lab-tested",
   answer: "In small amounts. Boiled green lentils are low at a quarter cup (23 g) in Monash's fibre guide. Canned lentils, drained and rinsed, allow a bit more, because GOS wash out into the can liquid.",
   groups: ["gos"],

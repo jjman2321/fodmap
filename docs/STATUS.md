@@ -12,7 +12,7 @@ Start of every session: read this file, then `docs/DECISIONS.md` (it wins over a
 - Not measured yet: Lighthouse speed (planned for M3, median of 3 on phone settings).
 
 ## Next
-1. ⏳ Owner reviews the M1 screenshots → changes or approval.
+1. ⏳ Owner reviews M1 v2 (big-answer hero, new pictures, tiles): `docs/designs/m1/review-phone-v2.png`.
 2. M2: pick ~100 foods from DataForSEO volumes + the plan mix; research and verify each; build in batches with a 10% manual sample.
 3. M3: technical SEO pass, Lighthouse ≥ 95, Cloudflare setup guide, launch (target mid-December).
 
@@ -27,6 +27,7 @@ npx opennextjs-cloudflare build && npx wrangler deploy --dry-run --outdir /tmp/w
 ```
 
 ## Open questions
+- Higgsfield credits are used up (0.08 left). About 1 credit finishes M1's pictures (pomegranate, lentils, feta); about 25 cover M2's ~100 foods.
 - DataForSEO top-up ($50 minimum; $0.04 left) for difficulty, top-10 competitors, AI Overviews, UK/AU volumes.
 - Facts seen only in search snippets (FODMAP Everyday blocks automated reading): avocado (FODMAP Friendly: no FODMAPs in ripe Hass) and pomegranate (FODMAP Friendly 66 g). Owner to open those two pages on a phone and confirm, or we drop them.
 

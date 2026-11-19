@@ -8,7 +8,7 @@ import "./globals.css";
 
 // Body text first: preloaded, size-matched fallback so nothing jumps.
 const body = DM_Sans({ variable: "--font-body", subsets: ["latin"], display: "optional" });
-const display = Outfit({ variable: "--font-display-face", subsets: ["latin"], weight: ["300", "500", "600", "700"], display: "swap" });
+const display = Outfit({ variable: "--font-display-face", subsets: ["latin"], weight: ["300", "500", "600", "700", "800"], display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),

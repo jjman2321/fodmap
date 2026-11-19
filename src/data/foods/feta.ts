@@ -1,7 +1,7 @@
 import type { FoodInput } from "../schema";
 
 const food: FoodInput = {
-  slug: "feta", name: "feta", aliases: ["feta cheese"], category: "dairy", regions: ["middle-eastern", "mediterranean"], illustration: "bowl",
+  slug: "feta", name: "feta", aliases: ["feta cheese"], category: "dairy", regions: ["middle-eastern", "mediterranean"], illustration: "feta",
   tier: "lab-tested",
   answer: "Yes. Feta has almost no lactose: Monash measured just 0.13 g of lactose in a 125 g serve and rates it low. Like other ripened cheeses, most of the lactose is gone by the time it's eaten.",
   groups: ["lactose"],
