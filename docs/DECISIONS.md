@@ -147,3 +147,8 @@ Owner: "no dont display the details on home page they should click to see". Home
 Owner: "yeah add all the foods ig and make the site 10/10".
 - **Scale, said once:** "all foods" (~3,500) at once would trigger Google's scaled-content rules. M2 adds ~115 foods (~125 total) chosen from DataForSEO volumes plus the Middle Eastern gaps; later batches follow Search Console data.
 - **"10/10" means:** every number sourced, a clear picture per food, category hubs, Lighthouse ≥ 95, and the technical SEO done. It gets scored honestly at the end of M2/M3.
+
+## Data presentation choices from M2 research (Claude, 2026-11-19; owner can overrule)
+- **Units:** milks and drinks are shown in ml, as the sources measure them (1 ml ≈ 1 g; noted on each serving).
+- **No-FODMAP foods:** plain meat, fish, eggs and plain olive oil show "Low FODMAP: contains no FODMAPs, any amount". There's no invented gram limit, and they add nothing to the meal check.
+- **Lab rating without grams:** e.g. kefir, which Monash rates high without a serve size. It shows "High FODMAP" with "normal serve" and no portion slider, instead of being treated as an estimate.
