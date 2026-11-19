@@ -4432,8 +4432,8 @@
     "form": "wheat pasta, cooked",
     "lowMaxG": 74,
     "moderateFromG": null,
-    "highFromG": 148,
-    "scaleMaxG": 210,
+    "highFromG": null,
+    "scaleMaxG": 111,
     "groups": [
      "fructans"
     ],
@@ -4442,7 +4442,7 @@
      "b1-mon-10foods-2015",
      "b4-ff-wheatbread-2017"
     ],
-    "note": "Monash rates the full serve, twice the 74 g half serve, red. We show it as high from 148 g."
+    "note": "Monash rates a full serve (twice this half-cup) as high, without printing the grams."
    }
   ],
   "changes": [],
