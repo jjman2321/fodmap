@@ -6,8 +6,8 @@ Preview: run locally (see STATUS "How to run") until Cloudflare is connected.
 ## M1: foundation (2026-11-18)
 
 ### Home + search
-- [ ] Open `/`. You see "Is it low FODMAP?", a search box, "Try: garlic · avocado · hummus · sweet potato", then 10 food tiles (picture, name, one Low/High pill), then 3 quiet links.
-- [ ] Type `gar` → Garlic appears with "■ High" and "Try instead: Garlic-infused oil, Spring onion greens, Asafoetida".
+- [ ] Open `/`. You see "Is it low FODMAP?", a search box, "Try: garlic · avocado · hummus · sweet potato", then 10 food tiles (picture and name only, no answer), then 3 quiet links.
+- [ ] Type `gar` → "Garlic →" appears; tapping it opens the garlic page.
 - [ ] Type `zaatar` → "We haven't checked "zaatar" yet."
 - [ ] Type `houmous` (UK spelling) → Hummus appears.
 

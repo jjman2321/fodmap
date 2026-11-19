@@ -28,7 +28,7 @@ export default function Home() {
           <Link href="/foods" className="text-[15px] text-brand-ink">See all →</Link>
         </div>
         <ul className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-          {foods.map((f) => (<li key={f.slug}><FoodTile food={f} /></li>))}
+          {foods.map((f) => (<li key={f.slug}><FoodTile food={f} showAnswer={false} /></li>))}
         </ul>
       </section>
 

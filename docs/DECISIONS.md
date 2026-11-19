@@ -139,3 +139,6 @@ Owner: "not bad improve the diagrams and maybe on the home page aswell make it c
 - **Answer boxes:** each gets a bowl that fills with the amount (a third, two thirds, full), so "more food = more FODMAP" reads at a glance.
 - **Portion slider:** no stripes (untested is plain grey and labelled), a bigger readout, and tap buttons for the tested amounts.
 - **Home:** search plus "try" chips, calmer tiles (picture, name, one Low/High pill), and one quiet row of links instead of extra cards and paragraphs.
+
+## No answers on the home page (owner, 2026-11-19)
+Owner: "no dont display the details on home page they should click to see". Home tiles and search results show only the picture and name; the answer lives on the food page. (The Middle Eastern hub keeps its Low/High pills for now.)

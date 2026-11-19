@@ -2,7 +2,6 @@
 import Link from "next/link";
 import { useId, useState } from "react";
 import { matches, type IndexItem } from "@/lib/match";
-import { ZONE_STYLE } from "./ZoneChip";
 import { fmt, messages as m } from "@/lib/i18n";
 
 // Search + instant answer + swap finder. Results are plain links, so it works with a keyboard and screen readers.
@@ -26,11 +25,8 @@ export function FoodSearch({ items, autoFocus = false }: { items: IndexItem[]; a
             <li key={it.slug} className="rounded-2xl border border-line bg-card px-4 py-3">
               <Link href={`/food/${it.slug}`} className="flex items-center justify-between gap-3">
                 <span className="text-[17px] font-medium">{it.name[0].toUpperCase() + it.name.slice(1)}</span>
-                <span className="text-[14px] font-semibold"><span aria-hidden className="mr-1">{ZONE_STYLE[it.zone as keyof typeof ZONE_STYLE].shape}</span>{it.chip}</span>
+                <span aria-hidden className="text-muted">→</span>
               </Link>
-              {it.zone === "high" && it.swaps.length > 0 && (
-                <p className="mt-1.5 text-[14px] text-muted">{m.food.tryInstead}: {it.swaps.map((s, i) => (<span key={s.name}>{i ? ", " : ""}{s.slug ? <Link href={`/food/${s.slug}`} className="text-brand-ink underline">{s.name}</Link> : s.name}</span>))}</p>
-              )}
             </li>
           ))}
         </ul>
