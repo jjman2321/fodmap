@@ -35,8 +35,20 @@ Preview: run locally (see STATUS "How to run") until Cloudflare is connected.
 - [ ] Phone menu (☰) opens and closes; Escape closes it on a laptop.
 - [ ] Footer has the disclaimer line, "Not affiliated with Monash University or FODMAP Friendly" and © Grasp Labs LLC.
 
+## M2: 143 foods (2026-11-19)
+- [ ] Home says "All 143 foods →" and shows "Popular checks" plus "Browse by type" with counts.
+- [ ] `/category/fruit` lists 23 fruits with a pill each.
+- [ ] `/food/cherries`: title "Are cherries low FODMAP?", amber **Small amounts only**, "Low FODMAP only up to 20 g".
+- [ ] `/food/celery`: amber **Moderate FODMAP**, "Moderate at 75 g … No low amount found."
+- [ ] `/food/oat-milk`: amounts in **ml** (104 ml low, 250 ml+ high).
+- [ ] `/food/chicken`: **Low FODMAP**, "contains no FODMAPs", box "No FODMAPs · any amount", no slider.
+- [ ] `/food/butter`: box "Trace lactose · normal amounts".
+- [ ] `/food/green-tea`: says "Lab-tested, amount not public", never "not lab-tested".
+- [ ] `/food/zaatar`: grey **Not tested**, no "Watch for" group.
+- [ ] Meal check: add chicken + garlic → only "Fructans ■ High" appears (chicken adds nothing).
+
 ## Known issues
-- Food search only knows the 10 checked foods (more come in M2).
+- 136 foods show a letter tile until their picture is made (needs Higgsfield credits).
 - Email list returns "opens soon" until the D1 database is set up.
 
 ## Reporting a problem
