@@ -5,7 +5,7 @@ import { citedSources, foods, getFood, related, sameGroup } from "@/data";
 import { GROUP_LABEL } from "@/data/schema";
 import { FoodArt } from "@/components/FoodArt";
 import { PortionSlider } from "@/components/PortionSlider";
-import { BigAnswer } from "@/components/BigAnswer";
+import { AnswerCard } from "@/components/AnswerCard";
 import { DoctorBox } from "@/components/DoctorBox";
 import { Row } from "@/components/Row";
 import { fmt, messages as m } from "@/lib/i18n";
@@ -51,28 +51,25 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
         <FoodArt name={food.illustration} size={104} priority />
       </div>
 
-      <section aria-label="Answer" className="mt-5 rounded-[var(--radius-card)] border border-line bg-card p-5 sm:p-6">
-        <BigAnswer food={food} />
-        <p className="mt-3 text-[17px] leading-relaxed">{food.answer}{cite(main.sourceIds)}</p>
-        <div className="mt-5"><PortionSlider serving={main} /></div>
-        <ul className="mt-5 flex flex-wrap gap-2 text-[13px]">
-          {food.groups.map((g) => (<li key={g} className="rounded-full bg-chip px-2.5 py-1">{GROUP_LABEL[g]}</li>))}
-          <li className="rounded-full bg-chip px-2.5 py-1">{m.tier[food.tier]} · {main.form}</li>
-          <li className="rounded-full bg-chip px-2.5 py-1">{fmt(m.food.checked, { date: fmtDate(food.checked) })}</li>
-        </ul>
-      </section>
-
-      {food.swaps.length > 0 && (
-        <section className="mt-4 rounded-[var(--radius-card)] border border-line bg-card p-5">
-          <h2 className="text-lg font-semibold">{m.food.tryInstead}</h2>
-          <ul className="mt-3 flex flex-wrap gap-2">
-            {food.swaps.map((s) => (<li key={s.name}>{s.slug ? <Link href={`/food/${s.slug}`} className="inline-flex rounded-full bg-soft px-3 py-1.5 text-[14px] font-medium text-brand-ink">● {s.name}</Link> : <span className="inline-flex rounded-full bg-soft px-3 py-1.5 text-[14px] font-medium text-brand-ink">● {s.name}</span>}</li>))}
-          </ul>
-        </section>
-      )}
-      <Link href={`/check?add=${food.slug}`} className="no-print mt-4 block rounded-full bg-btn px-5 py-3.5 text-center font-semibold text-white hover:bg-btn-hover">{fmt(m.food.addToMeal, { name: food.name })}</Link>
+      <AnswerCard food={food} cite={cite} />
 
       <div className="mt-8">
+        {food.tier !== "estimated" && food.tier !== "unknown" && (
+          <Row title="Check your portion">
+            <PortionSlider serving={main} />
+          </Row>
+        )}
+        {food.swaps.length > 0 && (
+          <Row title={m.food.tryInstead}>
+            <ul className="flex flex-wrap gap-2">
+              {food.swaps.map((s) => (<li key={s.name}>{s.slug ? <Link href={`/food/${s.slug}`} className="inline-flex rounded-full bg-soft px-3 py-1.5 text-[14px] font-medium text-brand-ink">{s.name}</Link> : <span className="inline-flex rounded-full bg-soft px-3 py-1.5 text-[14px] font-medium text-brand-ink">{s.name}</span>}</li>))}
+            </ul>
+          </Row>
+        )}
+        <Row title="In detail">
+          <p>{food.answer}{cite(main.sourceIds)}</p>
+          <p className="mt-2 text-[15px] text-muted">{m.tier[food.tier]} · {main.form} · {fmt(m.food.checked, { date: fmtDate(food.checked) })} · <Link href={`/check?add=${food.slug}`} className="text-brand-ink underline">{fmt(m.food.addToMeal, { name: food.name })}</Link></p>
+        </Row>
         {food.servings.length > 1 && (
           <Row title={m.food.forms}>
             <table className="w-full text-[15px]"><thead><tr className="text-left text-muted"><th className="py-1 font-medium">Form</th><th className="font-medium">Low up to</th><th className="font-medium">High from</th></tr></thead>

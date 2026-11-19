@@ -48,6 +48,8 @@ export const Food = z.object({
   illustration: z.string(),
   tier: Tier,
   answer: z.string().min(20).max(320), // the first sentence(s), our words; quoted by AI answers
+  // Only for foods without lab data: the plain one-word answer and line shown in the hero ("Usually not").
+  estimateAnswer: z.object({ word: z.string().max(14), line: z.string().max(120) }).optional(),
   groups: z.array(Group),
   servings: z.array(Serving).min(1),
   changes: z.array(z.object({ date: z.string(), text: z.string(), sourceIds: z.array(z.string()).min(1) })).default([]),

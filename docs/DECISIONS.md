@@ -127,3 +127,9 @@ Owner: "nah needs work again feels kinda cluttered and does actual answer the fo
 - **Diagnosis:** the page opens with "LOW UP TO 75 g", not a yes/no, and the first screen holds too much (long paragraph, busy bar with a striped part, 3 chips, swaps card, button).
 - **Proposal:** a big Yes / No / Small amounts only, one line with the grams, then 3 traffic-light boxes (Low / Moderate / High, each with its grams). Everything else moves below the answer.
 - Mock-ups: `docs/designs/m1-clarity/answer-options.png`. Option 1 (3 traffic lights) 9.5/10, option 2 (simple bar) 8/10. Waiting for the pick.
+
+## Answer-first hero: option 1 (owner, 2026-11-19)
+Owner chose "1 · 3 traffic lights". The food page top is a big Yes / No (estimated foods get their own word, e.g. "Usually not"), one sentence with the grams, then Low / Moderate / High boxes each with its grams, then one "watch for" line with the source. The portion slider, swaps and details move below. Tiles lead with Yes/No too.
+
+## Verdict must say low or high (owner, 2026-11-19)
+Owner: "ppl must understand tho if its high or not etc". The big word is now **Low FODMAP** / **High FODMAP** (estimates: their own word, e.g. "Usually high", and a test blocks "low" in it), not a bare Yes/No. Tiles show "Low"/"High" plus the grams. Foods without lab data hide the portion slider.

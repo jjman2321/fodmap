@@ -12,8 +12,9 @@ Preview: run locally (see STATUS "How to run") until Cloudflare is connected.
 - [ ] Type `houmous` (UK spelling) → Hummus appears.
 
 ### Food page (try `/food/sweet-potato`)
-- [ ] "LOW UP TO" then a big **75 g** with "about ½ cup" beside it, and a picture of sweet potato top right.
-- [ ] The scale has thick coloured segments with Low / High labels under them. Drag it: 75 g says **● Low**; 90 g **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
+- [ ] Big green **Low FODMAP**, then "In a portion up to 75 g (about ½ cup). High from 112 g.", then 3 boxes: ● Low 75 g / ▲ Moderate 100 g / ■ High 112 g+.
+- [ ] `/food/garlic` says big red **High FODMAP**; `/food/hummus` says **Usually high** and has no portion slider.
+- [ ] Under "Check your portion", the scale has thick coloured segments with Low / High labels under them. Drag it: 75 g says **● Low**; 90 g **○ Not tested**; 105 g **▲ Moderate**; 120 g **■ High**.
 - [ ] Tap a small [1] → it jumps to the matching source at the bottom; the link opens Monash's page.
 - [ ] "What changed" explains the 2025 retest reported by dietitian sites.
 - [ ] "See a doctor first if" box is there, calm amber, not red.
