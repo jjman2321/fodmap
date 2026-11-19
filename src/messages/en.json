@@ -12,7 +12,8 @@
     "depends-on-amount": "Depends on amount",
     "high": "High",
     "estimated": "Estimated from ingredients",
-    "unknown": "No lab data yet"
+    "unknown": "No lab data yet",
+    "amount-not-public": "Lab-tested, amount not public"
   },
   "zone": { "low": "Low", "moderate": "Moderate", "high": "High", "untested": "Not tested" },
   "food": {

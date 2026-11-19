@@ -1,5 +1,5 @@
 # M2 import report
 
-Imported 35 foods and 28 new sources from 2 batch files.
+Imported 110 foods and 141 new sources from 6 batch files.
 
 No problems.

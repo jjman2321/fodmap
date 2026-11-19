@@ -1,0 +1,2183 @@
+{
+  "sources": [
+    {
+      "id": "b4-mon-grains-2016",
+      "kind": "public-statement",
+      "title": "Grain-based foods on a low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/grains-low-fodmap-diet/",
+      "published": "16 Aug 2016",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-nontrad-2017",
+      "kind": "public-statement",
+      "title": "Using non-traditional cereals and grains",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/using-non-traditional-cereals-and-grains/",
+      "published": "7 Aug 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-wheat-2015",
+      "kind": "public-statement",
+      "title": "Avoiding wheat on a low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/avoiding-wheat-how-strict-on-low-fodmap_10/",
+      "published": "10 Aug 2015",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-10foods-2015",
+      "kind": "public-statement",
+      "title": "10 foods you didn't know you could eat on a low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/10-foods-you-didnt-know-you-could-eat/",
+      "published": "25 May 2015",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-serving-2017",
+      "kind": "public-statement",
+      "title": "Serving size and FODMAPs: why is it so important?",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/serving-size-and-fodmaps-why-it-so-important/",
+      "published": "5 Dec 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-sourdough-2017",
+      "kind": "public-statement",
+      "title": "Sourdough processing and FODMAPs",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/sourdough-processing-fodmaps/",
+      "published": "8 Nov 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-sprouting-2017",
+      "kind": "public-statement",
+      "title": "Sprouting: does it reduce the FODMAP content of foods?",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/sprouting-does-it-reduce-fodmap-content/",
+      "published": "28 Mar 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-mon-bourghal-2014",
+      "kind": "public-statement",
+      "title": "Bourghal: newly tested for FODMAP content (archived copy)",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://web.archive.org/web/20190922210439/https://www.monashfodmap.com/blog/bourghal-newly-tested-for-fodmap-content/",
+      "published": "11 Nov 2014",
+      "accessed": "2026-11-18"
+    },
+    {
+      "id": "b4-mon-step2",
+      "kind": "public-statement",
+      "title": "Step 2: a guide to FODMAP reintroduction (patient resource, PDF)",
+      "publisher": "Monash University",
+      "url": "https://monashfodmap.com/documents/208/Monash_FODMAP_Resource_-_Step_2_Reintroduction.pdf",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ff-wheatbread-2017",
+      "kind": "public-statement",
+      "title": "How can wheat bread be low FODMAP bread? Your burning questions answered",
+      "publisher": "FODMAP Friendly",
+      "url": "https://fodmapfriendly.com/blog-posts/how-can-wheat-bread-be-low-fodmap-your-questions-answered/",
+      "published": "7 Dec 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-biesiekierski-2011",
+      "kind": "paper",
+      "title": "Quantification of fructans, galacto-oligosaccharides and other short-chain carbohydrates in processed grains and cereals (Biesiekierski et al., J Hum Nutr Diet 24:154)",
+      "publisher": "Wiley",
+      "url": "https://doi.org/10.1111/j.1365-277X.2010.01139.x",
+      "doi": "10.1111/j.1365-277X.2010.01139.x",
+      "published": "2011",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-pejcz-2024",
+      "kind": "paper",
+      "title": "Fructan concentrations in cooked cereal grains as a nutritional consideration for low-FODMAP diet (Pejcz et al., Molecules 29:282)",
+      "publisher": "MDPI",
+      "url": "https://doi.org/10.3390/molecules29020282",
+      "doi": "10.3390/molecules29020282",
+      "published": "2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-off-falafel",
+      "kind": "dataset",
+      "title": "Open Food Facts: products matching 'falafel' (ingredient lists, ODbL)",
+      "publisher": "Open Food Facts",
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=falafel&search_simple=1",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-kk-bread",
+      "kind": "secondary",
+      "title": "What bread is low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/what-bread-is-low-fodmap/",
+      "published": "updated 24 Feb 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-alby-sourdough",
+      "kind": "secondary",
+      "title": "What sourdough breads are low FODMAP?",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/what-sourdough-bread-is-low-fodmap/",
+      "published": "updated 26 Sep 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-scarlata-sourdough-2015",
+      "kind": "secondary",
+      "title": "Let's talk about sourdough bread and FODMAPs",
+      "publisher": "Kate Scarlata RDN",
+      "url": "https://blog.katescarlata.com/2015/11/10/lets-talk-about-sourdough-bread-fodmaps/",
+      "published": "10 Nov 2015",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-kk-oats",
+      "kind": "secondary",
+      "title": "Are oats low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/are-oats-low-fodmap/",
+      "published": "updated 24 Feb 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-alby-rice",
+      "kind": "secondary",
+      "title": "Rice and the low FODMAP diet",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/rice-the-low-fodmap-diet/",
+      "published": "updated 28 Sep 2023",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-rice",
+      "kind": "secondary",
+      "title": "Is rice low FODMAP?",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/posts/resources/is-rice-low-fodmap/",
+      "published": "updated 11 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-fibre",
+      "kind": "secondary",
+      "title": "High fibre low FODMAP foods and recipes",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/posts/resources/high-fibre-low-fodmap-foods-and-recipes/",
+      "published": "updated 31 Jul 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-kk-flours",
+      "kind": "secondary",
+      "title": "What flours are low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/what-flours-are-low-fodmap/",
+      "published": "updated 20 Jan 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-kk-corn",
+      "kind": "secondary",
+      "title": "Is corn low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-corn-low-fodmap/",
+      "published": "updated 9 Feb 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-tacos",
+      "kind": "secondary",
+      "title": "Low FODMAP fish tacos",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/recipes/low-fodmap-fish-tacos/",
+      "published": "updated 4 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-fe-tortilla",
+      "kind": "secondary",
+      "title": "Dining out with IBS: Mexican and Tex-Mex (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/dining-out-with-ibs-mexican-tex-mex",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-fe-barley",
+      "kind": "secondary",
+      "title": "Pearl barley serving size (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/?p=14330",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-tabbouleh",
+      "kind": "secondary",
+      "title": "Low FODMAP tabbouleh",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/recipes/low-fodmap-tabbouleh/",
+      "published": "updated 4 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-nhs-cuh",
+      "kind": "secondary",
+      "title": "Low FODMAP diet: reducing fermentable carbohydrates in your diet (patient leaflet, version 2)",
+      "publisher": "Cambridge University Hospitals NHS Foundation Trust",
+      "url": "https://www.cuh.nhs.uk/patient-information/low-fodmap-diet-reducing-fermentable-carbohydrates-in-your-diet/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-kk-cheese",
+      "kind": "secondary",
+      "title": "What cheeses are low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/what-cheeses-are-low-fodmap/",
+      "published": "updated 2 Jun 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-yoghurt",
+      "kind": "secondary",
+      "title": "Low FODMAP yoghurt varieties",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/recipes/low-fodmap-yoghurt-varieties-recipes/",
+      "published": "updated 2 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-nuts",
+      "kind": "secondary",
+      "title": "Low FODMAP nuts and seeds",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/posts/resources/low-fodmap-nuts-and-seeds/",
+      "published": "updated 12 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-ge-falafel",
+      "kind": "secondary",
+      "title": "Low FODMAP falafel (gluten free, baked or fried)",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/gluten-free/low-fodmap-falafel-gluten-free-baked-or-fried/",
+      "published": "updated 4 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-alby-falafel",
+      "kind": "secondary",
+      "title": "Low FODMAP falafel (recipe, dietitian reviewed)",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/recipe/en-us/low-fodmap-falafel/",
+      "published": "updated 2 Jul 2025",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b4-fe-zaatar",
+      "kind": "secondary",
+      "title": "Low FODMAP Mediterranean za'atar spice (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-mediterranean-zaatar-spice/",
+      "accessed": "2026-11-19"
+    }
+  ],
+  "foods": [
+    {
+      "slug": "sourdough-bread",
+      "name": "sourdough bread",
+      "aliases": [
+        "sourdough",
+        "white sourdough",
+        "wheat sourdough",
+        "wholemeal sourdough"
+      ],
+      "category": "grains",
+      "regions": [
+        "global"
+      ],
+      "illustration": "sourdough-bread",
+      "tier": "lab-tested",
+      "answer": "Yes, at about 2 slices. FODMAP sites citing Monash's tests put white wheat sourdough low at 109 g (2 slices) and wholemeal wheat sourdough at 97 g. The long rise lets the starter's yeast and bacteria break down much of the fructan in the flour.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "white wheat sourdough",
+          "lowMaxG": 109,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 160,
+          "groups": [
+            "fructans"
+          ],
+          "household": "2 slices",
+          "sourceIds": [
+            "b4-kk-bread",
+            "b4-alby-sourdough"
+          ],
+          "note": "Weights come from FODMAP sites that cite Monash. Monash's own posts say tested sourdoughs meet its low criteria but don't print the grams."
+        },
+        {
+          "form": "wholemeal wheat sourdough",
+          "lowMaxG": 97,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 140,
+          "groups": [
+            "fructans"
+          ],
+          "household": "2 slices",
+          "sourceIds": [
+            "b4-kk-bread",
+            "b4-alby-sourdough"
+          ]
+        },
+        {
+          "form": "oat sourdough",
+          "lowMaxG": 26,
+          "moderateFromG": 52,
+          "highFromG": null,
+          "scaleMaxG": 75,
+          "groups": [
+            "gos"
+          ],
+          "household": "1 slice",
+          "sourceIds": [
+            "b4-alby-sourdough",
+            "b4-kk-bread",
+            "b4-mon-wheat-2015"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "date": "2015",
+          "text": "Kate Scarlata reported that Monash had tested US white and wholemeal wheat sourdoughs and found 2 slices low. Before that, spelt sourdough was the main sourdough with a published low serve.",
+          "sourceIds": [
+            "b4-scarlata-sourdough-2015",
+            "b4-mon-wheat-2015"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Spelt sourdough: Monash's 2015 post lists 2 slices as low but gives no weight, while Karlijn's Kitchen lists 41 g (2.5 slices). Slice size varies a lot between loaves, so weighing helps.",
+          "sourceIds": [
+            "b4-mon-wheat-2015",
+            "b4-kk-bread"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash explains two reasons sourdough can be low: spelt flour starts with less fructan than modern wheat, and a proving time of often more than 12 hours lets the culture ferment the FODMAPs.",
+          "sourceIds": [
+            "b4-mon-sourdough-2017"
+          ]
+        },
+        {
+          "text": "Both Monash's shopping list and FODMAP Friendly's food list put sourdough bread on the low side.",
+          "sourceIds": [
+            "mon-shop-2025",
+            "ff-list"
+          ]
+        },
+        {
+          "text": "Check the label for honey or high fructose corn syrup, and look for a sourdough starter or culture in the ingredients.",
+          "sourceIds": [
+            "b4-alby-sourdough",
+            "b4-scarlata-sourdough-2015"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Gluten-free bread"
+        },
+        {
+          "name": "Spelt sourdough"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is supermarket sourdough low FODMAP?",
+          "a": "Only if it's made with a real starter and a long rise. Look for a sourdough culture on the ingredient list and skip loaves sweetened with honey."
+        },
+        {
+          "q": "Can I eat sourdough toast at every meal?",
+          "a": "Monash serve sizes are per meal, so a low serve at breakfast and another at dinner is how the diet is set up. Leave a few hours between them."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "oats",
+      "name": "oats",
+      "aliases": [
+        "rolled oats",
+        "oatmeal",
+        "porridge oats",
+        "quick oats",
+        "old-fashioned oats"
+      ],
+      "category": "grains",
+      "regions": [
+        "global"
+      ],
+      "illustration": "oats",
+      "tier": "lab-tested",
+      "answer": "Yes, in a half-cup serve. Monash lists ½ cup of uncooked rolled oats (52 g) as a low FODMAP serve. Quick oats have a smaller reported low serve of 23 g, and larger bowls add GOS and fructans.",
+      "groups": [
+        "fructans",
+        "gos"
+      ],
+      "servings": [
+        {
+          "form": "rolled oats, uncooked",
+          "lowMaxG": 52,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 80,
+          "groups": [
+            "fructans",
+            "gos"
+          ],
+          "household": "½ cup",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        },
+        {
+          "form": "quick oats, uncooked",
+          "lowMaxG": 23,
+          "moderateFromG": 47,
+          "highFromG": null,
+          "scaleMaxG": 70,
+          "groups": [
+            "gos",
+            "fructans"
+          ],
+          "sourceIds": [
+            "b4-kk-oats"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "date": "2015 → 2021",
+          "text": "Monash's 2015 wheat-swap table suggested ¼ cup of oats. Its 2021 fibre guide lists ½ cup (52 g) of rolled oats as the low serve.",
+          "sourceIds": [
+            "b4-mon-wheat-2015",
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Karlijn's Kitchen notes that Quaker quick oats are listed low at 40 g while generic quick oats are low only at 23 g. A tested brand can differ from the average.",
+          "sourceIds": [
+            "b4-kk-oats"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "In Monash's lab analysis of 55 grain products, oats were at the low end for fructans, about 0.11 g per portion.",
+          "sourceIds": [
+            "b4-biesiekierski-2011"
+          ]
+        },
+        {
+          "text": "Monash says oats contain gluten but are fairly low in FODMAPs, so they fit a low FODMAP diet in the right serve.",
+          "sourceIds": [
+            "mon-faq"
+          ]
+        },
+        {
+          "text": "A ½ cup serve of rolled oats adds about 5 g of fibre.",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Quinoa flakes"
+        },
+        {
+          "name": "Rice flakes"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is oatmeal low FODMAP?",
+          "a": "Yes, if you keep to about ½ cup of dry rolled oats and cook them with a low FODMAP milk. Honey and dried fruit on top add FODMAPs."
+        },
+        {
+          "q": "Are overnight oats low FODMAP?",
+          "a": "Soaking doesn't change the oat serve, so stay near ½ cup dry. The yogurt, milk and fruit you add count too."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "rice",
+      "name": "rice",
+      "aliases": [
+        "white rice",
+        "basmati rice",
+        "jasmine rice",
+        "cooked rice",
+        "arborio rice"
+      ],
+      "category": "grains",
+      "regions": [
+        "global",
+        "east-asian",
+        "south-asian",
+        "middle-eastern"
+      ],
+      "illustration": "rice",
+      "tier": "lab-tested",
+      "answer": "Yes. Rice is one of the easiest low FODMAP staples. Monash researchers found no measurable fructan in it, and A Little Bit Yummy, citing Monash, gives 1 cup of cooked white rice (190 g) as the serve. Newer reports put the low amount much higher.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "white rice, cooked",
+          "lowMaxG": 190,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 280,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 cup",
+          "sourceIds": [
+            "b4-alby-rice"
+          ],
+          "note": "A typical serve, not a limit: later reports rate much more as low."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats (checked August 2026) reports that Monash now rates cooked white, jasmine, basmati and arborio rice low up to 500 g.",
+          "sourceIds": [
+            "b4-ge-rice"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "In Monash's 2011 analysis of grain foods, rice had 0 g of fructan per portion, the lowest of all products tested.",
+          "sourceIds": [
+            "b4-biesiekierski-2011"
+          ]
+        },
+        {
+          "text": "A 2024 lab study of cooked grains found white long-grain, basmati, jasmine and arborio rice all below the 0.3 g fructan cut-off per serve.",
+          "sourceIds": [
+            "b4-pejcz-2024"
+          ]
+        },
+        {
+          "text": "Rice snacks are different: rice cakes are reported to turn moderate in fructans from about 35 g (5 cakes), probably from processing.",
+          "sourceIds": [
+            "b4-ge-rice"
+          ]
+        },
+        {
+          "text": "Rice is on the low list of both Monash and FODMAP Friendly.",
+          "sourceIds": [
+            "mon-step1",
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Brown rice",
+          "slug": "brown-rice"
+        },
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are rice cakes low FODMAP?",
+          "a": "Only a few. Sources differ, from 2 cakes to about 34 g, and larger amounts become moderate or high in fructans."
+        },
+        {
+          "q": "Is sushi rice low FODMAP?",
+          "a": "Sushi rice was below the fructan cut-off in a 2024 lab study. Watch the extras, like large amounts of avocado."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "brown-rice",
+      "name": "brown rice",
+      "aliases": [
+        "wholegrain rice",
+        "whole grain rice",
+        "cooked brown rice"
+      ],
+      "category": "grains",
+      "regions": [
+        "global",
+        "east-asian",
+        "south-asian"
+      ],
+      "illustration": "brown-rice",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash's fibre guide lists 1 cup of cooked brown rice (180 g) as a low FODMAP serve, and it adds about 3 g of fibre. Brown rice holds a little more fructan than white rice in lab tests, but a normal bowl is still low.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "brown rice, boiled",
+          "lowMaxG": 180,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 260,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 cup cooked",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats (August 2026) reports a much larger low amount for cooked brown rice: up to 500 g.",
+          "sourceIds": [
+            "b4-ge-rice",
+            "b4-ge-fibre"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "In a 2024 study of cooked grains, brown rice had the most fructan of the rice types tested.",
+          "sourceIds": [
+            "b4-pejcz-2024"
+          ]
+        },
+        {
+          "text": "Brown rice is on Monash's list of whole grains it has tested and found low.",
+          "sourceIds": [
+            "b4-mon-grains-2016"
+          ]
+        },
+        {
+          "text": "Brown rice flour is a different story: it's reported as moderate in fructans at 100 g.",
+          "sourceIds": [
+            "b4-ge-rice"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "White rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is brown rice better than white rice for IBS?",
+          "a": "Both have low FODMAP serves. Brown rice has more fibre, which helps some people and bothers others, so a dietitian can help you choose."
+        },
+        {
+          "q": "Is brown rice pasta low FODMAP?",
+          "a": "It's reported low up to about 421 g cooked, with moderate fructans in bigger serves."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "quinoa",
+      "name": "quinoa",
+      "aliases": [
+        "white quinoa",
+        "red quinoa",
+        "black quinoa",
+        "quinoa grain"
+      ],
+      "category": "grains",
+      "regions": [
+        "global",
+        "latin-american"
+      ],
+      "illustration": "quinoa",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash lists 1 cup of quinoa cooked in water (155 g) as a low FODMAP serve, with about 3 g of fibre. Quinoa flakes, flour and pasta were also tested low, so it's a handy swap for couscous or bulgur.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "quinoa, cooked in water",
+          "lowMaxG": 155,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 220,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 cup cooked",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats (August 2026) reports much larger low amounts: up to 500 g for white and black quinoa and 421 g for red quinoa, which turns moderate in fructans from 422 g.",
+          "sourceIds": [
+            "b4-ge-fibre"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's list of whole grains tested low includes quinoa grain, flakes, flour and pasta.",
+          "sourceIds": [
+            "b4-mon-grains-2016"
+          ]
+        },
+        {
+          "text": "Monash's wheat-swap table suggests 1 cup of quinoa flakes or 1 cup of quinoa pasta.",
+          "sourceIds": [
+            "b4-mon-wheat-2015"
+          ]
+        },
+        {
+          "text": "Monash suggests rinsing quinoa, then simmering it for 10 to 12 minutes.",
+          "sourceIds": [
+            "b4-mon-nontrad-2017"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Buckwheat",
+          "slug": "buckwheat"
+        },
+        {
+          "name": "Millet",
+          "slug": "millet"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is quinoa tabbouleh low FODMAP?",
+          "a": "Using quinoa instead of bulgur is a common low FODMAP version. Check the rest of the salad, especially any onion."
+        },
+        {
+          "q": "Is red quinoa different?",
+          "a": "It's reported to have a slightly smaller upper limit than white or black quinoa, but a normal 1 cup serve is fine on the published data."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "pasta",
+      "name": "wheat pasta",
+      "aliases": [
+        "pasta",
+        "spaghetti",
+        "penne",
+        "macaroni",
+        "regular pasta"
+      ],
+      "category": "grains",
+      "regions": [
+        "global",
+        "mediterranean"
+      ],
+      "illustration": "pasta",
+      "tier": "lab-tested",
+      "answer": "Only a small bowl. Monash rates ½ cup of cooked wheat pasta (74 g) low, but a full serve, twice that, is rated high in fructans. Gluten-free or quinoa pasta, at about 1 cup, lets you eat a normal plate.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "wheat pasta, cooked",
+          "lowMaxG": 74,
+          "moderateFromG": null,
+          "highFromG": 148,
+          "scaleMaxG": 210,
+          "groups": [
+            "fructans"
+          ],
+          "household": "½ cup cooked",
+          "sourceIds": [
+            "b4-mon-10foods-2015",
+            "b4-ff-wheatbread-2017"
+          ],
+          "note": "Monash rates the full serve, twice the 74 g half serve, red. We show it as high from 148 g."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "FODMAP Friendly also says ½ cup of wheat pasta is low enough in fructans to count as low.",
+          "sourceIds": [
+            "b4-ff-wheatbread-2017"
+          ]
+        },
+        {
+          "text": "Wheat pasta is on Monash's list of high FODMAP grains at a usual serve, and it's one of the foods used to test fructans in the reintroduction step.",
+          "sourceIds": [
+            "mon-step1",
+            "b4-mon-step2"
+          ]
+        },
+        {
+          "text": "Monash's swap table suggests 1 cup of gluten-free or quinoa pasta instead.",
+          "sourceIds": [
+            "b4-mon-wheat-2015"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Gluten-free pasta"
+        },
+        {
+          "name": "Rice noodles"
+        },
+        {
+          "name": "Quinoa pasta",
+          "slug": "quinoa"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is gluten-free pasta low FODMAP?",
+          "a": "Usually, and Monash suggests a 1 cup serve. Check the label, because some gluten-free products use soy or legume flours, which are higher."
+        },
+        {
+          "q": "Can I just eat less regular pasta?",
+          "a": "Yes. Half a cup cooked is low, so a small side of wheat pasta works during the elimination phase."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "buckwheat",
+      "name": "buckwheat",
+      "aliases": [
+        "buckwheat groats",
+        "kasha",
+        "buckwheat flour"
+      ],
+      "category": "grains",
+      "regions": [
+        "global"
+      ],
+      "illustration": "buckwheat",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash lists ¾ cup of cooked buckwheat groats (135 g) as a low FODMAP serve, giving about 7 g of fibre. Despite the name it isn't wheat, and buckwheat flour is reported low at 100 g.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "buckwheat groats, cooked",
+          "lowMaxG": 135,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 190,
+          "groups": [
+            "fructans"
+          ],
+          "household": "¾ cup cooked",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        },
+        {
+          "form": "buckwheat flour",
+          "lowMaxG": 100,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 200,
+          "groups": [
+            "fructans"
+          ],
+          "household": "⅔ cup",
+          "sourceIds": [
+            "b4-kk-flours",
+            "b4-ge-fibre"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "For buckwheat flour, Monash gives no upper limit, while the FODMAP Friendly app is reported to list it low up to 143 g.",
+          "sourceIds": [
+            "b4-ge-fibre"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's list of whole grains tested low includes buckwheat kernels and flour.",
+          "sourceIds": [
+            "b4-mon-grains-2016"
+          ]
+        },
+        {
+          "text": "In a 2024 lab study, white and roasted buckwheat groats were both below the 0.3 g fructan cut-off per serve.",
+          "sourceIds": [
+            "b4-pejcz-2024"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Millet",
+          "slug": "millet"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is buckwheat a kind of wheat?",
+          "a": "No. Despite the name, buckwheat isn't wheat, and Monash lists it among low FODMAP grains with a generous serve."
+        },
+        {
+          "q": "Are buckwheat pancakes low FODMAP?",
+          "a": "Buckwheat flour itself is low at 100 g. Check the rest of the recipe: regular milk and wheat flour add FODMAPs."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "couscous",
+      "name": "couscous",
+      "aliases": [
+        "wheat couscous",
+        "cous cous",
+        "pearl couscous",
+        "Israeli couscous"
+      ],
+      "category": "grains",
+      "regions": [
+        "middle-eastern",
+        "african",
+        "mediterranean"
+      ],
+      "illustration": "couscous",
+      "tier": "lab-tested",
+      "answer": "No, wheat couscous is high in fructans. In a 2024 lab study, a 50 g dry serve held about 1 g of fructans, over three times the low cut-off, and Monash and FODMAP Friendly both list couscous as high. Quinoa, rice or gluten-free couscous are swaps.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "wheat couscous, dry (before cooking)",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": 50,
+          "scaleMaxG": 70,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b4-pejcz-2024",
+            "mon-step1",
+            "ff-list"
+          ],
+          "note": "Measured at 1.02 g of fructans per 50 g dry serve; the low cut-off is 0.3 g. No public low serve was found."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "In Monash's 2011 analysis of 55 grain foods, couscous had the most fructan per portion, 1.12 g.",
+          "sourceIds": [
+            "b4-biesiekierski-2011"
+          ]
+        },
+        {
+          "text": "Monash uses wheat couscous as one of its test foods for fructans in the reintroduction step.",
+          "sourceIds": [
+            "b4-mon-step2"
+          ]
+        },
+        {
+          "text": "Monash's shopping list includes gluten-free couscous among low FODMAP grains; check its ingredients first.",
+          "sourceIds": [
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Millet",
+          "slug": "millet"
+        },
+        {
+          "name": "Gluten-free couscous"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is pearl (Israeli) couscous low FODMAP?",
+          "a": "It's also made from wheat, so expect it to behave like regular couscous. No public lab result exists for it."
+        },
+        {
+          "q": "How much couscous can I have?",
+          "a": "No low serve has been published. A 50 g dry portion was already well above the fructan cut-off in testing."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "barley",
+      "name": "barley",
+      "aliases": [
+        "pearl barley",
+        "pearled barley",
+        "barley grain"
+      ],
+      "category": "grains",
+      "regions": [
+        "global",
+        "middle-eastern"
+      ],
+      "illustration": "barley",
+      "tier": "lab-tested",
+      "answer": "Mostly no. Monash groups barley with wheat and rye as high-fructan grains, and its lab rated plain barley grain red. Sprouting changed that: sprouted barley tested low. Some sites report a tiny low serve of cooked pearl barley, but we couldn't verify it.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "pearl barley, cooked",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b4-mon-wheat-2015",
+            "b4-mon-sprouting-2017"
+          ],
+          "note": "No verified gram figures. Monash rates a standard serve of barley high in fructans."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "A FODMAP Everyday page is reported to list ⅛ cup (28 g) of cooked pearl barley as low. We only saw this in a search result and couldn't open the page.",
+          "sourceIds": [
+            "b4-fe-barley"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "When Monash sprouted barley grain, its FODMAP content fell enough to change the rating from red to green.",
+          "sourceIds": [
+            "b4-mon-sprouting-2017"
+          ]
+        },
+        {
+          "text": "An NHS low FODMAP diet sheet lists pearl barley as a food to avoid but sprouted pearl barley as a suitable alternative.",
+          "sourceIds": [
+            "b4-nhs-cuh"
+          ]
+        },
+        {
+          "text": "A 2024 lab study found fine pearl barley groats second only to couscous for fructan among the grains it tested.",
+          "sourceIds": [
+            "b4-pejcz-2024"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        },
+        {
+          "name": "Buckwheat",
+          "slug": "buckwheat"
+        },
+        {
+          "name": "Sprouted barley"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is barley soup low FODMAP?",
+          "a": "Usually not. A bowl holds far more barley than the small serve some sites report. Rice or sprouted barley are lower-FODMAP options."
+        },
+        {
+          "q": "Is barley gluten-free?",
+          "a": "No, barley contains gluten. On a low FODMAP diet the issue is its fructans, not the gluten."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "corn-tortillas",
+      "name": "corn tortillas",
+      "aliases": [
+        "corn tortilla",
+        "maize tortillas",
+        "soft corn tortillas",
+        "taco tortillas"
+      ],
+      "category": "grains",
+      "regions": [
+        "latin-american"
+      ],
+      "illustration": "corn-tortillas",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash has tested corn tortillas and lists them low. George Eats, citing Monash's figures as of August 2026, puts tortillas with added gum or fibre low up to 133 g (about 5½ tortillas), with moderate fructans above that. Older guides said 2 to 3 tortillas.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "corn tortillas, with added gum or fibre",
+          "lowMaxG": 133,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 190,
+          "groups": [
+            "fructans"
+          ],
+          "household": "about 5½ tortillas",
+          "sourceIds": [
+            "b4-ge-tacos"
+          ],
+          "note": "This is a reported upper low amount, not the older standard serve of 2 tortillas."
+        },
+        {
+          "form": "corn tortillas, no added gum or fibre",
+          "lowMaxG": 425,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 600,
+          "groups": [
+            "fructans"
+          ],
+          "household": "about 20 tortillas",
+          "sourceIds": [
+            "b4-ge-tacos"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "Karlijn's Kitchen (2024) lists 2 tortillas as low with added gum or fibre and 3 tortillas without. Other sites give these as 47 g and 57 g.",
+          "sourceIds": [
+            "b4-kk-corn",
+            "b4-fe-tortilla"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Corn tortilla is on Monash's list of whole grain foods it has tested and found low.",
+          "sourceIds": [
+            "b4-mon-grains-2016"
+          ]
+        },
+        {
+          "text": "Monash suggests corn tortillas for wraps, sandwiches and pizza bases.",
+          "sourceIds": [
+            "b4-mon-nontrad-2017"
+          ]
+        },
+        {
+          "text": "Blue corn tortillas are reported low up to 370 g, with moderate GOS and fructans in larger amounts.",
+          "sourceIds": [
+            "b4-ge-tacos"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Gluten-free wraps"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are hard taco shells low FODMAP?",
+          "a": "Hard corn taco shells are reported low even in large amounts. The fillings, like seasoning mixes with garlic or onion, are the bigger risk."
+        },
+        {
+          "q": "Are flour tortillas low FODMAP?",
+          "a": "Wheat flour tortillas aren't covered by this data. Wheat breads are high at usual serves, so corn is the usual swap."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "millet",
+      "name": "millet",
+      "aliases": [
+        "hulled millet",
+        "millet grain",
+        "millet flour"
+      ],
+      "category": "grains",
+      "regions": [
+        "african",
+        "south-asian",
+        "global"
+      ],
+      "illustration": "millet",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash has tested millet grain and flour and lists both as low FODMAP, though it hasn't published the grain's serve in grams on its website. Millet flour is reported low at 100 g (⅔ cup).",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "millet flour",
+          "lowMaxG": 100,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 140,
+          "groups": [
+            "fructans"
+          ],
+          "household": "⅔ cup",
+          "sourceIds": [
+            "b4-kk-flours",
+            "b4-mon-grains-2016"
+          ],
+          "note": "No FODMAP group is named for millet; fructans are shown as the usual grain FODMAP."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash's list of whole grains tested low includes millet grain and millet flour.",
+          "sourceIds": [
+            "b4-mon-grains-2016"
+          ]
+        },
+        {
+          "text": "Monash suggests boiling millet for about 15 minutes, then draining and rinsing it, for salads or porridge.",
+          "sourceIds": [
+            "b4-mon-nontrad-2017"
+          ]
+        },
+        {
+          "text": "An NHS low FODMAP diet sheet lists millet among suitable grains.",
+          "sourceIds": [
+            "b4-nhs-cuh"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Buckwheat",
+          "slug": "buckwheat"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can millet replace couscous?",
+          "a": "Yes. Cooked millet has a similar small-grain feel, and unlike wheat couscous it's a tested low FODMAP grain."
+        },
+        {
+          "q": "How much cooked millet is low FODMAP?",
+          "a": "Monash lists it as low but its public pages don't give the grams. Some sites say 1 cup cooked; we couldn't confirm that."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "bulgur",
+      "name": "bulgur",
+      "aliases": [
+        "bulgur wheat",
+        "bulghur",
+        "burghul",
+        "bourghal",
+        "cracked wheat"
+      ],
+      "category": "grains",
+      "regions": [
+        "middle-eastern",
+        "mediterranean"
+      ],
+      "illustration": "bulgur",
+      "tier": "lab-tested",
+      "answer": "In small amounts. Monash lists ¼ cup of bulgur (44 g, uncooked weight) as a low FODMAP serve, and a full serve, about 88 g, is high in GOS and fructans. That's enough for a light tabbouleh, not a big bowl.",
+      "groups": [
+        "fructans",
+        "gos"
+      ],
+      "servings": [
+        {
+          "form": "bulgur, uncooked weight",
+          "lowMaxG": 44,
+          "moderateFromG": null,
+          "highFromG": 88,
+          "scaleMaxG": 125,
+          "groups": [
+            "fructans",
+            "gos"
+          ],
+          "household": "¼ cup",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "b4-mon-bourghal-2014",
+            "b4-ge-tabbouleh"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "Monash labels the 44 g serve as uncooked bulgur. George Eats and other sites give 44 g without saying whether it's cooked or dry.",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "b4-ge-tabbouleh"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash describes bourghal as parboiled cracked wheat that is high in oligosaccharides at a full serve but low at half a serve.",
+          "sourceIds": [
+            "b4-mon-bourghal-2014"
+          ]
+        },
+        {
+          "text": "A 2024 lab study found less fructan in cooked bulgur than in other wheat groats, which the authors link to heat during processing.",
+          "sourceIds": [
+            "b4-pejcz-2024"
+          ]
+        },
+        {
+          "text": "Monash suggests soaking bulgur in boiling water for about 30 minutes, or boiling it for about 12 minutes.",
+          "sourceIds": [
+            "b4-mon-nontrad-2017"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Millet",
+          "slug": "millet"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is tabbouleh low FODMAP?",
+          "a": "It can be, if each portion has no more than ¼ cup (44 g) of dry bulgur and no onion. Quinoa is a common swap for a bigger serve."
+        },
+        {
+          "q": "Is bulgur the same as couscous?",
+          "a": "Both are wheat, but bulgur has a tested low serve and couscous doesn't. Bulgur also tested lower in fructan."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "pita-bread",
+      "name": "pita bread",
+      "aliases": [
+        "pita",
+        "pitta",
+        "pitta bread",
+        "Arabic bread",
+        "khubz",
+        "Lebanese bread"
+      ],
+      "category": "grains",
+      "regions": [
+        "middle-eastern",
+        "mediterranean"
+      ],
+      "illustration": "pita-bread",
+      "tier": "estimated",
+      "answer": "Probably not at a full pita. No lab has published a pita result, but pita is a wheat bread, and Monash rates wheat bread low only at about one slice (24 g). An NHS diet sheet lists pitta bread with foods to avoid. Gluten-free pita is the swap.",
+      "estimateAnswer": {
+        "word": "Probably high",
+        "line": "Not lab-tested. Pita is wheat bread, and wheat bread is low only at about 1 slice (24 g)."
+      },
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "wheat pita",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 100,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b4-mon-serving-2017",
+            "b4-nhs-cuh"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients. Based on wheat bread data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Wheat bread is on the high list of both Monash and FODMAP Friendly at a usual serve.",
+          "sourceIds": [
+            "mon-step1",
+            "ff-list"
+          ]
+        },
+        {
+          "text": "FODMAP Friendly says one slice of wholemeal bread is low but two slices are high.",
+          "sourceIds": [
+            "ff-five-2020"
+          ]
+        },
+        {
+          "text": "The NHS diet sheet suggests wheat-free or gluten-free pitta bread instead.",
+          "sourceIds": [
+            "b4-nhs-cuh"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Sourdough bread",
+          "slug": "sourdough-bread"
+        },
+        {
+          "name": "Corn tortillas",
+          "slug": "corn-tortillas"
+        },
+        {
+          "name": "Gluten-free pita"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How much pita can I eat?",
+          "a": "There's no tested amount. Going by wheat bread, a piece about the weight of one slice (24 g) is the closest guide."
+        },
+        {
+          "q": "Is wholemeal pita better?",
+          "a": "Not for FODMAPs. Wholemeal wheat bread has the same small low serve as white."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "zaatar",
+      "name": "za'atar",
+      "aliases": [
+        "zaatar",
+        "zatar",
+        "za atar",
+        "zahtar",
+        "zaatar spice"
+      ],
+      "category": "herbs-spices",
+      "regions": [
+        "middle-eastern"
+      ],
+      "illustration": "zaatar",
+      "tier": "estimated",
+      "answer": "Not tested as a blend. Za'atar is mostly dried herbs, sumac and sesame. Monash's shopping list includes dried herbs, most spices and sesame seeds, and a sprinkle uses very little, but no lab has published a serve. Check blends for garlic or onion.",
+      "estimateAnswer": {
+        "word": "Not tested",
+        "line": "No lab has tested the blend. Herbs and sesame are on Monash's low list; sumac has no public serve."
+      },
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "za'atar spice blend",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 20,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b4-ge-nuts"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Sesame seeds are reported low up to 51 g, far more than a sprinkle of za'atar holds.",
+          "sourceIds": [
+            "b4-ge-nuts"
+          ]
+        },
+        {
+          "text": "Monash's shopping list names dried and fresh herbs, and most spices except garlic and onion, as low FODMAP staples.",
+          "sourceIds": [
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Dried thyme"
+        },
+        {
+          "name": "Sesame seeds",
+          "slug": "sesame-seeds"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is manakish (za'atar bread) low FODMAP?",
+          "a": "The topping is a small amount, but the flatbread is usually wheat, which has only a small low serve."
+        },
+        {
+          "q": "Can I make my own za'atar?",
+          "a": "Yes. Mixing dried thyme, sesame seeds and sumac yourself lets you skip any garlic or onion powder."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "sumac",
+      "name": "sumac",
+      "aliases": [
+        "ground sumac",
+        "sumach",
+        "sumac spice"
+      ],
+      "category": "herbs-spices",
+      "regions": [
+        "middle-eastern"
+      ],
+      "illustration": "sumac",
+      "tier": "estimated",
+      "answer": "No public lab number. Monash's shopping list counts most spices as low FODMAP, apart from garlic and onion, and sumac is used by the pinch. But we found no published sumac serve, so it counts as untested here.",
+      "estimateAnswer": {
+        "word": "Not tested",
+        "line": "No public lab serve. Monash counts most spices as low, but hasn't published sumac."
+      },
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "ground sumac",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 10,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "mon-shop-2025"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients. The FODMAP group is unknown; fructans are shown as a placeholder."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "A FODMAP Everyday recipe is reported to say Monash has lab-tested sumac. We couldn't open that page, and no gram serve is public.",
+          "sourceIds": [
+            "b4-fe-zaatar"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's shopping list names most spices, except garlic and onion, as low FODMAP staples.",
+          "sourceIds": [
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Lemon zest",
+          "slug": "lemon"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can sumac replace onion?",
+          "a": "Sumac gives a tangy, lemony taste rather than onion flavour. For onion taste, onion- or garlic-infused oil fits better."
+        },
+        {
+          "q": "Is sumac the same as za'atar?",
+          "a": "No. Sumac is one spice; za'atar is a blend that usually includes sumac with herbs and sesame."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "falafel",
+      "name": "falafel",
+      "aliases": [
+        "felafel",
+        "falafels",
+        "ta'amiya",
+        "taameya"
+      ],
+      "category": "legumes",
+      "regions": [
+        "middle-eastern",
+        "african"
+      ],
+      "illustration": "falafel",
+      "tier": "estimated",
+      "answer": "Probably not, as usually made. Falafel uses soaked dried chickpeas or fava beans, not canned ones. Soaked, boiled chickpeas are low only at about 29 g, fava beans have no Monash low serve, and most packaged falafel also contains onion.",
+      "estimateAnswer": {
+        "word": "Probably high",
+        "line": "Not lab-tested. Soaked chickpeas or fava beans, plus onion in most packaged falafel."
+      },
+      "groups": [
+        "gos",
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "falafel (traditional or store-bought)",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 100,
+          "groups": [
+            "gos",
+            "fructans"
+          ],
+          "sourceIds": [
+            "b4-ge-falafel",
+            "ge-beans",
+            "b4-off-falafel"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Canned chickpeas have a bigger low serve, ¼ cup (42 g), because GOS leach into the can liquid.",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "mon-legumes-2016"
+          ]
+        },
+        {
+          "text": "Low FODMAP falafel recipes use canned chickpeas or edamame and suggest 3 to 4 pieces per person.",
+          "sourceIds": [
+            "b4-alby-falafel",
+            "b4-ge-falafel"
+          ]
+        },
+        {
+          "text": "Chickpea flour, often used to bind falafel, is reported high in small serves.",
+          "sourceIds": [
+            "b4-ge-falafel"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Canned chickpeas, rinsed",
+          "slug": "chickpeas"
+        },
+        {
+          "name": "Edamame",
+          "slug": "edamame"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How many falafel can I eat?",
+          "a": "There's no lab-tested amount for falafel. Dietitian recipes made with canned chickpeas or edamame suggest 3 to 4 pieces per person."
+        },
+        {
+          "q": "Is a falafel wrap low FODMAP?",
+          "a": "Probably not: the falafel and a wheat wrap or pita both add FODMAPs. A small homemade batch in a corn tortilla is a lower option."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "halloumi",
+      "name": "halloumi",
+      "aliases": [
+        "haloumi",
+        "hellim",
+        "halloumi cheese",
+        "grilled halloumi"
+      ],
+      "category": "dairy",
+      "regions": [
+        "middle-eastern",
+        "mediterranean"
+      ],
+      "illustration": "halloumi",
+      "tier": "lab-tested",
+      "answer": "Yes, in a small serve. Karlijn's Kitchen, citing Monash, and an NHS diet sheet both put halloumi low at 40 g (about 2 slices). Karlijn's Kitchen adds moderate lactose from 60 g and high from about 220 g. Monash calls haloumi a moderate-lactose cheese.",
+      "groups": [
+        "lactose"
+      ],
+      "servings": [
+        {
+          "form": "halloumi",
+          "lowMaxG": 40,
+          "moderateFromG": 60,
+          "highFromG": 220,
+          "scaleMaxG": 300,
+          "groups": [
+            "lactose"
+          ],
+          "household": "2 slices",
+          "sourceIds": [
+            "b4-kk-cheese",
+            "b4-nhs-cuh"
+          ],
+          "note": "Grams come from secondary sources; Monash's public pages give the rating but not the weights."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash's FAQ lists haloumi with cream cheese and ricotta as cheeses with moderate amounts of lactose.",
+          "sourceIds": [
+            "mon-faq"
+          ]
+        },
+        {
+          "text": "Karlijn's Kitchen found about 2 g of lactose per 100 g on the halloumi pack she checked.",
+          "sourceIds": [
+            "b4-kk-cheese"
+          ]
+        },
+        {
+          "text": "An NHS diet sheet suggests limiting halloumi to 2 slices (40 g).",
+          "sourceIds": [
+            "b4-nhs-cuh"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Feta",
+          "slug": "feta"
+        },
+        {
+          "name": "Mozzarella",
+          "slug": "mozzarella"
+        },
+        {
+          "name": "Cheddar",
+          "slug": "cheddar"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is halloumi lower in lactose than feta?",
+          "a": "No, feta has less. Monash measured just 0.13 g of lactose in 125 g of feta, while halloumi turns moderate from 60 g."
+        },
+        {
+          "q": "Does lactose matter for everyone?",
+          "a": "Only if you don't digest lactose well. Many people test this during the reintroduction step."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "labneh",
+      "name": "labneh",
+      "aliases": [
+        "labne",
+        "labni",
+        "lebneh",
+        "strained yogurt cheese"
+      ],
+      "category": "dairy",
+      "regions": [
+        "middle-eastern"
+      ],
+      "illustration": "labneh",
+      "tier": "estimated",
+      "answer": "Not tested. Labneh is yogurt strained until thick. Straining drains some whey, but no lab has published labneh's lactose level. Regular Greek yogurt, also strained, is low only at about 23 g, so keep portions small or make it from lactose-free yogurt.",
+      "estimateAnswer": {
+        "word": "Not tested",
+        "line": "No lab has tested labneh. Greek yogurt, also strained, is low only at about 23 g."
+      },
+      "groups": [
+        "lactose"
+      ],
+      "servings": [
+        {
+          "form": "labneh",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 60,
+          "groups": [
+            "lactose"
+          ],
+          "sourceIds": [
+            "b4-ge-yoghurt",
+            "mon-lactose-2016"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Regular-fat Greek yogurt is reported low at 23 g and moderate in lactose from 93 g.",
+          "sourceIds": [
+            "b4-ge-yoghurt"
+          ]
+        },
+        {
+          "text": "Monash rates a 170 g serve of natural yogurt high in lactose.",
+          "sourceIds": [
+            "mon-lactose-2016"
+          ]
+        },
+        {
+          "text": "Lactose-free plain yogurt is reported low up to 500 g.",
+          "sourceIds": [
+            "b4-ge-yoghurt"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Lactose-free yogurt"
+        },
+        {
+          "name": "Feta",
+          "slug": "feta"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I make labneh from lactose-free yogurt?",
+          "a": "Yes. Straining lactose-free yogurt the same way gives a thick spread without the lactose question."
+        },
+        {
+          "q": "Is labneh lower in lactose than yogurt?",
+          "a": "Probably somewhat, since some whey drains away, but nobody has published a lab number for it."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "freekeh",
+      "name": "freekeh",
+      "aliases": [
+        "frikeh",
+        "farik",
+        "green wheat",
+        "roasted green wheat"
+      ],
+      "category": "grains",
+      "regions": [
+        "middle-eastern"
+      ],
+      "illustration": "freekeh",
+      "tier": "estimated",
+      "answer": "Probably not. No lab has published a FODMAP result for freekeh, which is made from young wheat, and an NHS low FODMAP diet sheet puts it with barley and rye on the avoid list. Rice, quinoa and millet are tested swaps.",
+      "estimateAnswer": {
+        "word": "Probably high",
+        "line": "No public lab number. An NHS diet sheet lists freekeh with barley and rye to avoid."
+      },
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "freekeh",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 100,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b4-nhs-cuh"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash mentions freekeh among grain foods but doesn't include it in its list of grains tested low.",
+          "sourceIds": [
+            "b4-mon-grains-2016"
+          ]
+        },
+        {
+          "text": "Bulgur, another wheat grain, has a measured low serve of ¼ cup (44 g) uncooked.",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Quinoa",
+          "slug": "quinoa"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        },
+        {
+          "name": "Millet",
+          "slug": "millet"
+        },
+        {
+          "name": "Bulgur, small serve",
+          "slug": "bulgur"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is freekeh lower in FODMAPs than bulgur?",
+          "a": "Unknown: nobody has published a test. Bulgur at least has a measured low serve of ¼ cup (44 g) uncooked."
+        },
+        {
+          "q": "Can I have freekeh soup?",
+          "a": "We'd count it as probably high until it's tested. A rice or quinoa version is the lower-FODMAP option."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "ful-medames",
+      "name": "ful medames",
+      "aliases": [
+        "foul medames",
+        "ful",
+        "foul",
+        "fava bean stew",
+        "ful mudammas"
+      ],
+      "category": "legumes",
+      "regions": [
+        "middle-eastern",
+        "african"
+      ],
+      "illustration": "ful-medames",
+      "tier": "estimated",
+      "answer": "Probably not. Ful medames is a stew of fava (broad) beans, and Monash has no low FODMAP serve for broad beans. FODMAP Friendly is reported to allow only about 21 g. The dish itself has not been lab-tested.",
+      "estimateAnswer": {
+        "word": "Probably high",
+        "line": "Not lab-tested. It's mostly fava beans, which have no low serve in Monash's data."
+      },
+      "groups": [
+        "gos",
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "ful medames (fava bean stew)",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 150,
+          "groups": [
+            "gos",
+            "fructose"
+          ],
+          "sourceIds": [
+            "ge-beans",
+            "kk-beans"
+          ],
+          "note": "Not lab-tested. Estimated from its ingredients."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "Broad beans: no low serve in Monash's data versus up to 21 g in FODMAP Friendly's, where the FODMAP named is fructose.",
+          "sourceIds": [
+            "ge-beans"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Karlijn's Kitchen lists broad and fava beans among beans to avoid on the diet.",
+          "sourceIds": [
+            "kk-beans"
+          ]
+        },
+        {
+          "text": "Most legumes are high in GOS; canned lentils and chickpeas are the usual exceptions in small serves.",
+          "sourceIds": [
+            "mon-legumes-2016",
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Canned lentils",
+          "slug": "lentils"
+        },
+        {
+          "name": "Canned chickpeas, rinsed",
+          "slug": "chickpeas"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is canned ful lower in FODMAPs?",
+          "a": "Canning lowers GOS in some legumes because they leach into the liquid, but canned fava beans haven't been tested publicly."
+        },
+        {
+          "q": "What can I eat instead of ful for breakfast?",
+          "a": "Eggs, or a small serve of rinsed canned lentils or chickpeas with cumin and olive oil."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    }
+  ]
+}

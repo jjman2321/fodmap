@@ -1,0 +1,2180 @@
+{
+ "sources": [
+  {
+   "id": "mon-fibre-2021",
+   "kind": "public-statement",
+   "title": "Getting enough fibre on a low FODMAP diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+   "accessed": "2026-11-19",
+   "published": "14 Jan 2021"
+  },
+  {
+   "id": "mon-straw-2021",
+   "kind": "public-statement",
+   "title": "Retested foods just in time for Aussie summer: strawberries and grapes (archived copy)",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://web.archive.org/web/20240616111907/https://www.monashfodmap.com/blog/retested-foods-just-in-time-for-aussie-summer-strawberries-grapes/",
+   "published": "14 Dec 2021",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "mon-step1",
+   "kind": "public-statement",
+   "title": "Step 1: the low FODMAP diet (patient resource, PDF)",
+   "publisher": "Monash University",
+   "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "mon-faq",
+   "kind": "public-statement",
+   "title": "Frequently asked questions",
+   "publisher": "Monash University",
+   "url": "https://www.monashfodmap.com/faq/",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "mon-shop-2025",
+   "kind": "public-statement",
+   "title": "Low FODMAP shopping list",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/low-fodmap-shopping-list/",
+   "accessed": "2026-11-19",
+   "published": "3 Feb 2025"
+  },
+  {
+   "id": "ff-list",
+   "kind": "public-statement",
+   "title": "Foods high and low in FODMAPs",
+   "publisher": "FODMAP Friendly",
+   "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "ge-fruits",
+   "kind": "secondary",
+   "title": "Low FODMAP fruits",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/low-fodmap-fruits-recipes-that-use-them/",
+   "accessed": "2026-11-19",
+   "published": "updated 12 Aug 2026"
+  },
+  {
+   "id": "b3-mon-banana-2017",
+   "kind": "public-statement",
+   "title": "Update: bananas re-tested!",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/update-bananas-re-tested/",
+   "accessed": "2026-11-19",
+   "published": "16 May 2017"
+  },
+  {
+   "id": "b3-mon-info-2026",
+   "kind": "public-statement",
+   "title": "Treating IBS with a 3-step FODMAP diet (A4 info sheet, PDF)",
+   "publisher": "Monash University",
+   "url": "https://monashfodmap.com/documents/203/3-step_FODMAP_Diet_2026_A4_info_sheet.pdf",
+   "published": "2026",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b3-mon-hilo",
+   "kind": "public-statement",
+   "title": "High and low FODMAP foods",
+   "publisher": "Monash University",
+   "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b3-mon-retest-2022",
+   "kind": "public-statement",
+   "title": "Retested foods: why FODMAP content might change",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/retested-foods-why-fodmap-content-might-change/",
+   "accessed": "2026-11-19",
+   "published": "2 Dec 2022"
+  },
+  {
+   "id": "b3-mon-10foods-2015",
+   "kind": "public-statement",
+   "title": "10 foods you didn't know you could eat on a low FODMAP diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/10-foods-you-didnt-know-you-could-eat/",
+   "accessed": "2026-11-19",
+   "published": "25 May 2015"
+  },
+  {
+   "id": "b3-mon-berries-2015",
+   "kind": "public-statement",
+   "title": "Wild Scandinavian berries on a low FODMAP diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/wild-summer-berries-scandinavia/",
+   "accessed": "2026-11-19",
+   "published": "9 Jul 2015"
+  },
+  {
+   "id": "b3-mon-med-2016",
+   "kind": "public-statement",
+   "title": "A low FODMAP Mediterranean-style diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/a-low-fodmap-mediterranean-style-diet/",
+   "accessed": "2026-11-19",
+   "published": "25 Jun 2016"
+  },
+  {
+   "id": "b3-mon-fruit-2017",
+   "kind": "public-statement",
+   "title": "How to include plenty of fruit on a low FODMAP diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/how-to-include-plenty-of-fruit-on-low/",
+   "accessed": "2026-11-19",
+   "published": "26 Jun 2017"
+  },
+  {
+   "id": "b3-mon-summer-2025",
+   "kind": "public-statement",
+   "title": "Low FODMAP diet under the summer sun",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://www.monashfodmap.com/blog/low-fodmap-diet-under-the-summer-sun/",
+   "accessed": "2026-11-19",
+   "published": "13 Feb 2025"
+  },
+  {
+   "id": "b3-ff-fruit-2020",
+   "kind": "public-statement",
+   "title": "FODMAP Friendly fruit",
+   "publisher": "FODMAP Friendly",
+   "url": "https://fodmapfriendly.com/blog-posts/fodmap-friendly-fruit-fodmap-friendly/",
+   "accessed": "2026-11-19",
+   "published": "21 Jan 2020"
+  },
+  {
+   "id": "b3-ff-cherries-2015",
+   "kind": "public-statement",
+   "title": "Cherries and FODMAPs",
+   "publisher": "FODMAP Friendly",
+   "url": "https://fodmapfriendly.com/blog-posts/cherries-and-fodmaps/",
+   "accessed": "2026-11-19",
+   "published": "16 Dec 2015"
+  },
+  {
+   "id": "b3-dvd-stacking",
+   "kind": "secondary",
+   "title": "The low FODMAP food list by FODMAP category (stacking guide, metric, PDF v1.8)",
+   "publisher": "Diet vs Disease",
+   "url": "https://www.dietvsdisease.org/wp-content/uploads/Diet-vs-Disease-Stacking-Guide-Metric.pdf",
+   "accessed": "2026-11-19",
+   "published": "v1.8 Oct 2024; file dated Oct 2025"
+  },
+  {
+   "id": "b3-kk-fruits-2023",
+   "kind": "secondary",
+   "title": "Low FODMAP fruits",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/low-fodmap-fruits/",
+   "accessed": "2026-11-19",
+   "published": "updated 30 Jan 2023"
+  },
+  {
+   "id": "b3-kk-melon-2024",
+   "kind": "secondary",
+   "title": "Is melon low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/is-melon-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "3 Sep 2024"
+  },
+  {
+   "id": "b3-kk-coconut-2024",
+   "kind": "secondary",
+   "title": "Is coconut low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/is-coconut-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "updated 9 Feb 2024"
+  },
+  {
+   "id": "b3-kk-dates-2024",
+   "kind": "secondary",
+   "title": "Are dates low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/are-dates-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "9 Apr 2024"
+  },
+  {
+   "id": "b3-kk-pineapple-2024",
+   "kind": "secondary",
+   "title": "Is pineapple low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/is-pineapple-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "19 May 2024"
+  },
+  {
+   "id": "b3-kk-blueberries-2024",
+   "kind": "secondary",
+   "title": "Are blueberries low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/are-blueberries-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "28 May 2024"
+  },
+  {
+   "id": "b3-kk-veg-2025",
+   "kind": "secondary",
+   "title": "Low FODMAP vegetables",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/low-fodmap-vegetables/",
+   "accessed": "2026-11-19",
+   "published": "updated 30 Sep 2025"
+  },
+  {
+   "id": "b3-kk-oliebollen-2025",
+   "kind": "secondary",
+   "title": "Gluten-free oliebollen (Dutch doughnuts)",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/gluten-free-dutch-doughnuts/",
+   "accessed": "2026-11-19",
+   "published": "updated 27 Dec 2025"
+  },
+  {
+   "id": "b3-kk-raisinbuns",
+   "kind": "secondary",
+   "title": "Low FODMAP raisin buns",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/en/low-fodmap-raisin-buns/",
+   "accessed": "2026-11-19",
+   "published": "updated 20 Mar 2023"
+  },
+  {
+   "id": "b3-ge-banana-2026",
+   "kind": "secondary",
+   "title": "Are bananas low FODMAP?",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/are-bananas-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "updated 12 Aug 2026"
+  },
+  {
+   "id": "b3-ge-blueberries-2026",
+   "kind": "secondary",
+   "title": "Are blueberries low FODMAP?",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/are-blueberries-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "updated 11 Aug 2026"
+  },
+  {
+   "id": "b3-ge-apples-2026",
+   "kind": "secondary",
+   "title": "Are apples low FODMAP?",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/are-apples-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "updated 10 Aug 2026"
+  },
+  {
+   "id": "b3-ge-coconut-2026",
+   "kind": "secondary",
+   "title": "Is coconut low FODMAP?",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/is-coconut-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "updated 12 Aug 2026"
+  },
+  {
+   "id": "b3-ge-olives-2026",
+   "kind": "secondary",
+   "title": "Are olives low FODMAP?",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/are-olives-low-fodmap/",
+   "accessed": "2026-11-19",
+   "published": "updated 11 Aug 2026"
+  },
+  {
+   "id": "b3-alby-grapes-2024",
+   "kind": "secondary",
+   "title": "Research update: grapes and the low FODMAP diet",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://alittlebityummy.com/blog/research-update-grapes-and-the-low-fodmap-diet/",
+   "accessed": "2026-11-19",
+   "published": "11 Jul 2024"
+  },
+  {
+   "id": "b3-alby-fruit-2023",
+   "kind": "secondary",
+   "title": "How much fruit can I eat on the low FODMAP diet?",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://alittlebityummy.com/blog/how-much-fruit-can-i-eat-on-the-low-fodmap-diet/",
+   "accessed": "2026-11-19",
+   "published": "updated 6 Feb 2023"
+  },
+  {
+   "id": "b3-alby-summer",
+   "kind": "secondary",
+   "title": "What summer fruits are low FODMAP? And how much can you eat?",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://alittlebityummy.com/blog/what-summer-fruits-are-low-fodmap-and-how-much-can-you-eat/",
+   "accessed": "2026-11-19",
+   "published": "updated 9 Jul 2024"
+  },
+  {
+   "id": "b3-alby-app-2018",
+   "kind": "secondary",
+   "title": "Understanding the Monash low FODMAP app updates",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://alittlebityummy.com/blog/understanding-the-monash-low-fodmap-app-updates/",
+   "accessed": "2026-11-19",
+   "published": "updated 30 Aug 2018"
+  },
+  {
+   "id": "b3-season-grapes-2024",
+   "kind": "secondary",
+   "title": "Are grapes low FODMAP?",
+   "publisher": "Season Health (registered dietitians)",
+   "url": "https://www.seasonhealth.com/blog/are-grapes-low-fodmap",
+   "accessed": "2026-11-19",
+   "published": "22 Aug 2024"
+  },
+  {
+   "id": "b3-ward-grapes-2022",
+   "kind": "secondary",
+   "title": "FODMAP update: grapes and strawberries retested",
+   "publisher": "Ward Nutrition",
+   "url": "https://sparrow-triangle-y23g.squarespace.com/blog/fodmap-grapes-and-strawberries-retested",
+   "accessed": "2026-11-19",
+   "published": "15 Mar 2022"
+  }
+ ],
+ "foods": [
+  {
+   "slug": "banana",
+   "name": "banana",
+   "aliases": [
+    "bananas",
+    "firm banana",
+    "unripe banana",
+    "ripe banana",
+    "green banana"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "south-asian",
+    "latin-american",
+    "african"
+   ],
+   "illustration": "banana",
+   "tier": "lab-tested",
+   "answer": "Yes, if it's firm. A firm banana is low up to about 95 g and turns moderate in fructans from 100 g. Ripe bananas carry more fructans: about a third of one (37 g) is the low amount, and 47 g is moderate.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "firm (unripe) banana",
+     "lowMaxG": 95,
+     "moderateFromG": 100,
+     "highFromG": null,
+     "scaleMaxG": 140,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "b3-ge-banana-2026",
+      "mon-fibre-2021"
+     ]
+    },
+    {
+     "form": "ripe banana",
+     "lowMaxG": 37,
+     "moderateFromG": 47,
+     "highFromG": null,
+     "scaleMaxG": 70,
+     "groups": [
+      "fructans"
+     ],
+     "household": "about ⅓ banana",
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "b3-ge-banana-2026",
+      "b3-mon-banana-2017"
+     ]
+    }
+   ],
+   "changes": [
+    {
+     "date": "16 May 2017",
+     "text": "Monash retested bananas: ripe ones moved to high in fructans, firm ones stayed low. Monash links the change to cold storage and ripening, which raise fructans.",
+     "sourceIds": [
+      "b3-mon-banana-2017"
+     ]
+    },
+    {
+     "date": "after 2021",
+     "text": "Monash's 2021 fibre article listed one medium firm banana (100 g) as low. Newer dietitian listings give 95 g as low and 100 g as moderate, so we show the newer numbers.",
+     "sourceIds": [
+      "mon-fibre-2021",
+      "b3-dvd-stacking",
+      "b3-ge-banana-2026"
+     ]
+    }
+   ],
+   "disagreements": [
+    {
+     "text": "George Eats gives the most that stays low as 99 g for a firm banana and 46 g for a ripe one. Karlijn's Kitchen (2023) gave 35 g for ripe.",
+     "sourceIds": [
+      "b3-ge-banana-2026",
+      "b3-kk-fruits-2023"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "If ripe bananas don't bother you, Monash says there's no need to cut them out.",
+     "sourceIds": [
+      "b3-mon-banana-2017"
+     ]
+    },
+    {
+     "text": "FODMAP Friendly also rates unripe banana as low and says FODMAPs rise as the skin turns yellow and brown.",
+     "sourceIds": [
+      "b3-ff-fruit-2020",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Blueberries",
+     "slug": "blueberries"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    },
+    {
+     "name": "Orange",
+     "slug": "orange"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is banana bread low FODMAP?",
+     "a": "It depends on how much banana each slice holds and the flour. Recipes usually use ripe bananas, which have the smaller low amount, so check the banana per slice."
+    },
+    {
+     "q": "Are green bananas better than yellow ones?",
+     "a": "For FODMAPs, yes. Firm bananas have a much bigger low serve than ripe, spotty ones."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "grapes",
+   "name": "grapes",
+   "aliases": [
+    "grape",
+    "green grapes",
+    "red grapes",
+    "seedless grapes"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "mediterranean"
+   ],
+   "illustration": "grapes",
+   "tier": "lab-tested",
+   "answer": "Only a few. Monash cut the low serve in 2024 to 2 grapes: about 11 g of green grapes or 10 g of red. From about 15 grapes (75 g) they are high in excess fructose. Green grapes turn moderate at 15 g.",
+   "groups": [
+    "fructose"
+   ],
+   "servings": [
+    {
+     "form": "green or white seedless grapes",
+     "lowMaxG": 11,
+     "moderateFromG": 15,
+     "highFromG": 75,
+     "scaleMaxG": 105,
+     "groups": [
+      "fructose"
+     ],
+     "household": "2 grapes",
+     "sourceIds": [
+      "b3-season-grapes-2024",
+      "b3-dvd-stacking",
+      "ge-fruits"
+     ]
+    },
+    {
+     "form": "red seedless grapes",
+     "lowMaxG": 10,
+     "moderateFromG": 14,
+     "highFromG": 75,
+     "scaleMaxG": 105,
+     "groups": [
+      "fructose"
+     ],
+     "household": "2 grapes",
+     "sourceIds": [
+      "b3-season-grapes-2024",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "changes": [
+    {
+     "date": "14 Dec 2021",
+     "text": "Grapes used to be low in a 1 cup serve. Monash's 2021 retest set 6 grapes as low (32 g green, 28 g red) and 15 grapes (75 g) as high.",
+     "sourceIds": [
+      "mon-straw-2021",
+      "b3-ward-grapes-2022",
+      "b3-alby-grapes-2024"
+     ]
+    },
+    {
+     "date": "Jun 2024",
+     "text": "Monash retested again and lowered the low serve to 2 grapes; dietitian sites report that 3 or more already contain excess fructose.",
+     "sourceIds": [
+      "b3-alby-grapes-2024",
+      "b3-season-grapes-2024"
+     ]
+    }
+   ],
+   "disagreements": [
+    {
+     "text": "FODMAP Friendly's results, as reported by a dietitian site, are far more generous: 150 g of red seedless and 24 g of white seedless grapes.",
+     "sourceIds": [
+      "b3-season-grapes-2024"
+     ]
+    },
+    {
+     "text": "Karlijn's Kitchen's 2023 list still shows 30 g (6 grapes), which predates the 2024 retest.",
+     "sourceIds": [
+      "b3-kk-fruits-2023"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash thinks sweeter modern grape varieties may explain the extra fructose found in retests.",
+     "sourceIds": [
+      "b3-mon-retest-2022"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Blueberries",
+     "slug": "blueberries"
+    },
+    {
+     "name": "Cantaloupe",
+     "slug": "cantaloupe"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Why do some lists still say a cup of grapes is fine?",
+     "a": "They were printed before Monash's 2021 and 2024 retests. Newer Monash data allows only a couple of grapes."
+    },
+    {
+     "q": "Are raisins the same as grapes for FODMAPs?",
+     "a": "No. Drying concentrates the sugars, so raisins have their own, even smaller low amount."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "pineapple",
+   "name": "pineapple",
+   "aliases": [
+    "fresh pineapple",
+    "pineapples"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "latin-american"
+   ],
+   "illustration": "pineapple",
+   "tier": "lab-tested",
+   "answer": "Yes. One cup of chopped fresh pineapple (140 g) is low in Monash's published fibre guide. Fructans rise with bigger bowls, and a George Eats listing puts moderate at 195 g.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "fresh pineapple",
+     "lowMaxG": 140,
+     "moderateFromG": 195,
+     "highFromG": null,
+     "scaleMaxG": 270,
+     "groups": [
+      "fructans"
+     ],
+     "household": "1 cup chopped",
+     "sourceIds": [
+      "mon-fibre-2021",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Karlijn's Kitchen (2024) puts moderate at 200 g instead of 195 g. George Eats gives 194 g as the most that stays low.",
+     "sourceIds": [
+      "b3-kk-pineapple-2024",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Canned and dried pineapple have smaller low amounts than fresh. Karlijn's Kitchen lists about 97 g for canned in juice and 67 g in syrup, and says 25 g of dried is already moderate.",
+     "sourceIds": [
+      "b3-kk-pineapple-2024"
+     ]
+    },
+    {
+     "text": "Monash and FODMAP Friendly both list pineapple among their low FODMAP fruits.",
+     "sourceIds": [
+      "b3-mon-info-2026",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Papaya",
+     "slug": "papaya"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    },
+    {
+     "name": "Orange",
+     "slug": "orange"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is canned pineapple low FODMAP?",
+     "a": "In a smaller serve than fresh. Pineapple canned in syrup has the smallest low amount, so drain it and keep the portion modest."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "blueberries",
+   "name": "blueberries",
+   "aliases": [
+    "blueberry",
+    "frozen blueberries"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "blueberries",
+   "tier": "lab-tested",
+   "answer": "Yes, generously. After a 2022 retest Monash moved blueberries to low in a 1 cup serve, and dietitian sites report they stay low up to 500 g in its data. Monash and FODMAP Friendly both list them as low.",
+   "groups": [],
+   "servings": [
+    {
+     "form": "fresh or frozen blueberries",
+     "lowMaxG": 500,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 700,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b3-kk-blueberries-2024",
+      "b3-ge-blueberries-2026",
+      "b3-mon-hilo"
+     ],
+     "note": "500 g is the largest amount reported as still low, not a standard serve. No source names a limiting FODMAP at the amounts tested; the group shown is a placeholder."
+    }
+   ],
+   "changes": [
+    {
+     "date": "2022",
+     "text": "Blueberries used to be limited to about 20 berries. A 2022 Monash retest moved them to low in 1 cup serves.",
+     "sourceIds": [
+      "b3-alby-fruit-2023"
+     ]
+    }
+   ],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash suggests frozen berries as an easy way to keep low FODMAP fruit in the diet out of season, for example a handful on porridge.",
+     "sourceIds": [
+      "b3-mon-fruit-2017"
+     ]
+    },
+    {
+     "text": "Monash and FODMAP Friendly both list blueberries among their low FODMAP fruits.",
+     "sourceIds": [
+      "b3-mon-hilo",
+      "ff-list",
+      "mon-shop-2025"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Raspberries",
+     "slug": "raspberries"
+    },
+    {
+     "name": "Strawberries",
+     "slug": "strawberries"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are blueberry muffins low FODMAP?",
+     "a": "The blueberries aren't the problem. Most muffins use wheat flour and sometimes honey, so look for a recipe made with gluten-free flour."
+    },
+    {
+     "q": "Why did older lists say to limit blueberries?",
+     "a": "Those lists predate Monash's 2022 retest, which found a much larger low serve."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "dates",
+   "name": "dates",
+   "aliases": [
+    "date",
+    "medjool dates",
+    "dried dates",
+    "pitted dates"
+   ],
+   "category": "fruit",
+   "regions": [
+    "middle-eastern",
+    "african",
+    "south-asian"
+   ],
+   "illustration": "dates",
+   "tier": "lab-tested",
+   "answer": "In small amounts. About 5 dried pitted dates (30 g) are low, rising to moderate in sorbitol and fructans from 46 g. A single Medjool date (20 g) is low; two are moderate and three are high.",
+   "groups": [
+    "fructans",
+    "sorbitol"
+   ],
+   "servings": [
+    {
+     "form": "dried pitted dates",
+     "lowMaxG": 30,
+     "moderateFromG": 46,
+     "highFromG": 61,
+     "scaleMaxG": 85,
+     "groups": [
+      "fructans",
+      "sorbitol"
+     ],
+     "household": "5 dates",
+     "sourceIds": [
+      "b3-kk-dates-2024"
+     ]
+    },
+    {
+     "form": "Medjool dates",
+     "lowMaxG": 20,
+     "moderateFromG": 40,
+     "highFromG": 60,
+     "scaleMaxG": 85,
+     "groups": [
+      "fructans",
+      "sorbitol"
+     ],
+     "household": "1 date",
+     "sourceIds": [
+      "b3-kk-dates-2024",
+      "b3-dvd-stacking"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "George Eats gives the most that stays low as 45 g for common pitted dates and 39 g for Medjool.",
+     "sourceIds": [
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Drying concentrates the sugars, and Monash has found fructans in dried fruit that the fresh fruit doesn't have.",
+     "sourceIds": [
+      "mon-faq"
+     ]
+    },
+    {
+     "text": "Both Monash and FODMAP Friendly put dried fruit in their high column, which is why dates come with a small serve.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Maple syrup",
+     "slug": "maple-syrup"
+    },
+    {
+     "name": "Firm banana",
+     "slug": "banana"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are fresh dates low FODMAP?",
+     "a": "We haven't found published lab data for fresh dates, only for dried and Medjool."
+    },
+    {
+     "q": "Can I use dates in baking?",
+     "a": "Yes, if each serving keeps to the low amount. Divide the dates in the recipe by the number of portions."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "apple",
+   "name": "apple",
+   "aliases": [
+    "apples",
+    "pink lady apple",
+    "granny smith apple",
+    "green apple",
+    "red apple"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "apple",
+   "tier": "lab-tested",
+   "answer": "Not in a normal serve. Apples are high in excess fructose and sorbitol. Only a small piece is low: about 20 g of unpeeled Pink Lady. It turns moderate from 31 g, and one medium apple (200 g) is high.",
+   "groups": [
+    "fructose",
+    "sorbitol"
+   ],
+   "servings": [
+    {
+     "form": "Pink Lady apple, unpeeled",
+     "lowMaxG": 20,
+     "moderateFromG": 31,
+     "highFromG": 200,
+     "scaleMaxG": 280,
+     "groups": [
+      "fructose",
+      "sorbitol"
+     ],
+     "sourceIds": [
+      "b3-ge-apples-2026",
+      "b3-kk-fruits-2023",
+      "b3-dvd-stacking"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Granny Smith figures differ: Karlijn's Kitchen (2023) lists 25 g as low, while George Eats (2026) says unpeeled Granny Smith stays low up to 42 g.",
+     "sourceIds": [
+      "b3-kk-fruits-2023",
+      "b3-ge-apples-2026"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash names apples among the fruits richest in both excess fructose and sorbitol, and lists apple juice as high.",
+     "sourceIds": [
+      "b3-mon-hilo",
+      "b3-mon-info-2026"
+     ]
+    },
+    {
+     "text": "George Eats reports applesauce is low only in tiny amounts and reconstituted apple juice is high at half a glass.",
+     "sourceIds": [
+      "b3-ge-apples-2026"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Orange",
+     "slug": "orange"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is apple cider vinegar low FODMAP?",
+     "a": "Vinegar is a different food from the fruit. See our apple cider vinegar page for its tested amount."
+    },
+    {
+     "q": "Does peeling an apple help?",
+     "a": "Only a little. Peeled apples still have a very small low serve and are high at one medium fruit."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "raspberries",
+   "name": "raspberries",
+   "aliases": [
+    "raspberry",
+    "frozen raspberries"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "raspberries",
+   "tier": "lab-tested",
+   "answer": "Yes, in a small bowl. Monash lists about 30 raspberries (60 g) as a low serve. From 75 g they turn moderate in excess fructose, so keep to about a third of a cup per sitting.",
+   "groups": [
+    "fructose"
+   ],
+   "servings": [
+    {
+     "form": "fresh raspberries",
+     "lowMaxG": 60,
+     "moderateFromG": 75,
+     "highFromG": null,
+     "scaleMaxG": 105,
+     "groups": [
+      "fructose"
+     ],
+     "household": "30 berries",
+     "sourceIds": [
+      "mon-fibre-2021",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Karlijn's Kitchen and Diet vs Disease list 58 g. George Eats gives 74 g as the most that stays low.",
+     "sourceIds": [
+      "b3-kk-fruits-2023",
+      "b3-dvd-stacking",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "A Little Bit Yummy says Monash's 2026 data still puts the serve at about ⅓ cup (60 g), and suggests a scale since berry size varies.",
+     "sourceIds": [
+      "b3-alby-summer"
+     ]
+    },
+    {
+     "text": "Raspberries are a good fibre source within their low serve, according to Monash.",
+     "sourceIds": [
+      "mon-fibre-2021"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Blueberries",
+     "slug": "blueberries"
+    },
+    {
+     "name": "Strawberries",
+     "slug": "strawberries"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can I eat raspberries and strawberries together?",
+     "a": "Both are limited by excess fructose, so a full serve of each adds up. Half a serve of each is the cautious way."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "cherries",
+   "name": "cherries",
+   "aliases": [
+    "cherry",
+    "sweet cherries",
+    "fresh cherries"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "cherries",
+   "tier": "lab-tested",
+   "answer": "Mostly no. Cherries are high in sorbitol and excess fructose at a normal serve. A dietitian listing based on Monash data gives only 20 g of pitted fresh cherries as low.",
+   "groups": [
+    "sorbitol",
+    "fructose"
+   ],
+   "servings": [
+    {
+     "form": "fresh cherries, pitted",
+     "lowMaxG": 20,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 30,
+     "groups": [
+      "sorbitol",
+      "fructose"
+     ],
+     "sourceIds": [
+      "b3-dvd-stacking"
+     ],
+     "note": "No public source gives the moderate or high amount. Monash and FODMAP Friendly both list cherries as high."
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "FODMAP Friendly says fresh cherries are not low FODMAP and gives no smaller allowed amount.",
+     "sourceIds": [
+      "b3-ff-cherries-2015"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash names cherries among the fruits high in both excess fructose and sorbitol.",
+     "sourceIds": [
+      "b3-mon-hilo",
+      "b3-mon-info-2026"
+     ]
+    },
+    {
+     "text": "Karlijn's Kitchen puts cherries on its avoid list for the elimination phase, as the low amount is 20 g or less.",
+     "sourceIds": [
+      "b3-kk-fruits-2023"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Raspberries",
+     "slug": "raspberries"
+    },
+    {
+     "name": "Blueberries",
+     "slug": "blueberries"
+    },
+    {
+     "name": "Strawberries",
+     "slug": "strawberries"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are dried or canned cherries any better?",
+     "a": "We haven't found public lab data for them. Dried fruit usually concentrates FODMAPs, so don't assume it's lower."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "orange",
+   "name": "orange",
+   "aliases": [
+    "oranges",
+    "navel orange"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "mediterranean"
+   ],
+   "illustration": "orange",
+   "tier": "lab-tested",
+   "answer": "Yes. One medium peeled orange (130 g) is a low serve in Monash's published fibre guide. A George Eats listing puts moderate, from excess fructose, at 152 g.",
+   "groups": [
+    "fructose"
+   ],
+   "servings": [
+    {
+     "form": "navel orange, peeled",
+     "lowMaxG": 130,
+     "moderateFromG": 152,
+     "highFromG": null,
+     "scaleMaxG": 215,
+     "groups": [
+      "fructose"
+     ],
+     "household": "1 medium",
+     "sourceIds": [
+      "mon-fibre-2021",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "George Eats gives 151 g as the most that stays low and notes the Monash app now lists only navel oranges.",
+     "sourceIds": [
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Freshly squeezed orange juice has a much smaller low amount than the whole fruit: about 72 g in one dietitian listing.",
+     "sourceIds": [
+      "b3-dvd-stacking"
+     ]
+    },
+    {
+     "text": "Monash and FODMAP Friendly both list oranges among low FODMAP fruits.",
+     "sourceIds": [
+      "b3-mon-info-2026",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    },
+    {
+     "name": "Papaya",
+     "slug": "papaya"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is orange juice low FODMAP?",
+     "a": "Only a small glass. Juicing packs several oranges into one drink, so the whole fruit is the easier choice."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "cantaloupe",
+   "name": "cantaloupe",
+   "aliases": [
+    "rockmelon",
+    "rock melon",
+    "muskmelon",
+    "orange melon"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "cantaloupe",
+   "tier": "lab-tested",
+   "answer": "Yes. Monash's 2026 info sheet lists ¾ cup of cantaloupe (120 g) as low. Fructans rise with bigger slices, reaching moderate at about 150 g.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "fresh cantaloupe",
+     "lowMaxG": 120,
+     "moderateFromG": 150,
+     "highFromG": null,
+     "scaleMaxG": 210,
+     "groups": [
+      "fructans"
+     ],
+     "household": "¾ cup",
+     "sourceIds": [
+      "b3-mon-info-2026",
+      "b3-kk-melon-2024",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Diet vs Disease lists 121 g, and George Eats gives 149 g as the most that stays low.",
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "A Little Bit Yummy suggests cantaloupe as a swap for grapes on a cheese board since grapes were retested.",
+     "sourceIds": [
+      "b3-alby-grapes-2024"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Honeydew melon",
+     "slug": "honeydew"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    },
+    {
+     "name": "Papaya",
+     "slug": "papaya"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is cantaloupe lower in FODMAPs than watermelon?",
+     "a": "Yes, by a lot. Cantaloupe has a ¾ cup low serve, while watermelon is low only in a spoonful."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "mango",
+   "name": "mango",
+   "aliases": [
+    "mangoes",
+    "mangos",
+    "fresh mango"
+   ],
+   "category": "fruit",
+   "regions": [
+    "south-asian",
+    "latin-american",
+    "african"
+   ],
+   "illustration": "mango",
+   "tier": "lab-tested",
+   "answer": "No, except a bite. Mango is high in excess fructose. Newer dietitian listings based on Monash data give about 7 g as low and moderate from 9 g, far less than the 40 g quoted on older lists.",
+   "groups": [
+    "fructose"
+   ],
+   "servings": [
+    {
+     "form": "fresh mango",
+     "lowMaxG": 7,
+     "moderateFromG": 9,
+     "highFromG": null,
+     "scaleMaxG": 13,
+     "groups": [
+      "fructose"
+     ],
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "changes": [
+    {
+     "date": "2018 to 2024",
+     "text": "Older listings gave 40 g as low, 50 g as moderate and 140 g as high. Listings from late 2024 onward give about 7 g, so mango appears to have been retested.",
+     "sourceIds": [
+      "b3-alby-app-2018",
+      "b3-kk-fruits-2023",
+      "b3-dvd-stacking",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash names mango among the fruits particularly high in excess fructose. FODMAP Friendly also lists it as high.",
+     "sourceIds": [
+      "b3-mon-hilo",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Papaya",
+     "slug": "papaya"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is dried mango low FODMAP?",
+     "a": "We haven't found a public low amount for dried mango. Dried fruit concentrates sugars, so expect it to be higher than fresh."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "kiwi",
+   "name": "kiwi fruit",
+   "aliases": [
+    "kiwi",
+    "kiwifruit",
+    "green kiwi",
+    "gold kiwi",
+    "kiwis"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "kiwi",
+   "tier": "lab-tested",
+   "answer": "Yes. Two small peeled kiwi fruit (150 g) are a low serve for both green and gold kiwi in Monash's published fibre guide. Larger amounts add fructans.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "green kiwi fruit, peeled",
+     "lowMaxG": 150,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 210,
+     "groups": [
+      "fructans"
+     ],
+     "household": "2 small",
+     "sourceIds": [
+      "mon-fibre-2021",
+      "b3-dvd-stacking"
+     ]
+    },
+    {
+     "form": "gold kiwi fruit, peeled",
+     "lowMaxG": 150,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 210,
+     "groups": [
+      "fructans"
+     ],
+     "household": "2 small",
+     "sourceIds": [
+      "mon-fibre-2021"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "George Eats says green kiwi turns moderate in fructans only above 275 g and gold above 178 g. Karlijn's Kitchen (2023) listed 240 g (3 kiwis) of green as low.",
+     "sourceIds": [
+      "ge-fruits",
+      "b3-kk-fruits-2023"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Green kiwi is one of the higher-fibre low FODMAP fruits in Monash's fibre guide.",
+     "sourceIds": [
+      "mon-fibre-2021"
+     ]
+    },
+    {
+     "text": "FODMAP Friendly also rates 2 kiwi fruit as low and mentions them as a daily option for people prone to constipation.",
+     "sourceIds": [
+      "b3-ff-fruit-2020"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Orange",
+     "slug": "orange"
+    },
+    {
+     "name": "Blueberries",
+     "slug": "blueberries"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can I eat kiwi skin?",
+     "a": "We haven't found lab data for unpeeled kiwi. The tested serves are for peeled fruit."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "cranberries",
+   "name": "cranberries",
+   "aliases": [
+    "cranberry",
+    "dried cranberries",
+    "craisins",
+    "fresh cranberries"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "cranberries",
+   "tier": "lab-tested",
+   "answer": "Dried cranberries are low in a small handful: about 22 g in a recent dietitian listing based on Monash data. Monash says dried cranberries turn high only in larger serves. Fructans are the main FODMAP.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "dried cranberries",
+     "lowMaxG": 22,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 31,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "mon-faq"
+     ],
+     "note": "No public source gives the moderate or high amount."
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Low amounts for dried cranberries vary: 22 g (Diet vs Disease), 15 g (Karlijn's Kitchen, 2023) and a preliminary Monash figure of 1 tablespoon (9 g) from 2015.",
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "b3-kk-fruits-2023",
+      "b3-mon-berries-2015"
+     ]
+    },
+    {
+     "text": "For fresh cranberries, Karlijn's Kitchen lists 90 g as low and A Little Bit Yummy 50 g. We don't show a bar until the figures agree.",
+     "sourceIds": [
+      "b3-kk-fruits-2023",
+      "b3-alby-summer"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash suggests dried cranberries as a low FODMAP dried-fruit snack and lists cranberry juice among low FODMAP options.",
+     "sourceIds": [
+      "b3-mon-med-2016",
+      "b3-mon-hilo"
+     ]
+    },
+    {
+     "text": "Monash's 2015 berry analysis found cranberries contain fructans, so big servings are the thing to avoid.",
+     "sourceIds": [
+      "b3-mon-berries-2015"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Raisins (smaller serve)",
+     "slug": "raisins"
+    },
+    {
+     "name": "Pumpkin seeds",
+     "slug": "pumpkin-seeds"
+    },
+    {
+     "name": "Blueberries",
+     "slug": "blueberries"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is cranberry sauce low FODMAP?",
+     "a": "Monash publishes a cranberry sauce recipe for 16 servings that uses dried cranberries, blueberries and cranberry juice. Shop sauces vary, so check the label."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "lemon",
+   "name": "lemon",
+   "aliases": [
+    "lemons",
+    "lemon juice",
+    "fresh lemon juice"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "mediterranean",
+    "middle-eastern"
+   ],
+   "illustration": "lemon",
+   "tier": "lab-tested",
+   "answer": "Yes, for normal cooking amounts. Monash uses a tablespoon of fresh lemon juice (20 g) as a low serve in its meal example. Dietitian sites report it stays low in far larger amounts.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "fresh lemon juice",
+     "lowMaxG": 20,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 30,
+     "groups": [
+      "fructans"
+     ],
+     "household": "1 tablespoon",
+     "sourceIds": [
+      "mon-step1"
+     ],
+     "note": "20 g is Monash's example serve, not an upper limit."
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Diet vs Disease lists 21 mL, close to Monash's tablespoon. Others report far more: 125 g (Karlijn's Kitchen, 2023) and up to 177 g, with moderate fructans from 178 g (George Eats).",
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "b3-kk-fruits-2023",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash suggests a little cut lemon in water as a low FODMAP way to flavour drinks.",
+     "sourceIds": [
+      "b3-mon-summer-2025"
+     ]
+    },
+    {
+     "text": "George Eats reports lemon zest is low in amounts far beyond anything a recipe uses.",
+     "sourceIds": [
+      "ge-fruits"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Lime juice"
+    },
+    {
+     "name": "Apple cider vinegar",
+     "slug": "apple-cider-vinegar"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is lemon water low FODMAP?",
+     "a": "Yes. A squeeze of lemon in water is well under the tested amounts."
+    },
+    {
+     "q": "Is the whole lemon low FODMAP?",
+     "a": "Public data covers lemon juice and zest. We haven't found a figure for eating the whole fruit."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "papaya",
+   "name": "papaya",
+   "aliases": [
+    "papayas",
+    "pawpaw",
+    "paw paw",
+    "green papaya",
+    "yellow papaya"
+   ],
+   "category": "fruit",
+   "regions": [
+    "latin-american",
+    "south-asian",
+    "east-asian",
+    "african"
+   ],
+   "illustration": "papaya",
+   "tier": "lab-tested",
+   "answer": "Yes. Monash lists papaya among its low FODMAP fruits, and dietitian sites report that both green and yellow papaya stay low up to 500 g in its data. That makes it one of the most generous fruits.",
+   "groups": [],
+   "servings": [
+    {
+     "form": "fresh yellow or green papaya",
+     "lowMaxG": 500,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 700,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "ge-fruits",
+      "b3-kk-fruits-2023",
+      "mon-step1"
+     ],
+     "note": "500 g is the largest amount reported as still low, not a standard serve. No source names a limiting FODMAP at the amounts tested; the group shown is a placeholder."
+    }
+   ],
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash lists yellow papaya as a low FODMAP swap and includes papaya in its shopping list and summer fruit picks.",
+     "sourceIds": [
+      "mon-step1",
+      "mon-shop-2025",
+      "b3-mon-summer-2025"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    },
+    {
+     "name": "Cantaloupe",
+     "slug": "cantaloupe"
+    },
+    {
+     "name": "Kiwi fruit",
+     "slug": "kiwi"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is green papaya salad low FODMAP?",
+     "a": "The green papaya is. Thai-style dressings often add garlic and shallots, so ask for them to be left out or check the recipe."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "raisins",
+   "name": "raisins",
+   "aliases": [
+    "raisin",
+    "sultanas",
+    "golden raisins"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "middle-eastern",
+    "south-asian"
+   ],
+   "illustration": "raisins",
+   "tier": "lab-tested",
+   "answer": "Only a pinch. Recent dietitian listings based on Monash data give about 4 g of raisins as low, limited by excess fructose. Sultanas are listed at about 7 g. Older advice said a tablespoon (13 g).",
+   "groups": [
+    "fructose"
+   ],
+   "servings": [
+    {
+     "form": "raisins",
+     "lowMaxG": 4,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 6,
+     "groups": [
+      "fructose"
+     ],
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "b3-kk-oliebollen-2025"
+     ],
+     "note": "No public source gives the moderate or high amount."
+    },
+    {
+     "form": "sultanas",
+     "lowMaxG": 7,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 10,
+     "groups": [
+      "fructose",
+      "fructans"
+     ],
+     "sourceIds": [
+      "b3-dvd-stacking"
+     ],
+     "note": "No public source gives the moderate or high amount."
+    }
+   ],
+   "changes": [
+    {
+     "date": "2015 to 2025",
+     "text": "In 2015 Monash listed 1 tablespoon (13 g) of raisins as low at a half serve. Listings from 2024 and 2025 give 4 g, which suggests a retest.",
+     "sourceIds": [
+      "b3-mon-10foods-2015",
+      "b3-dvd-stacking",
+      "b3-kk-oliebollen-2025"
+     ]
+    }
+   ],
+   "disagreements": [
+    {
+     "text": "Karlijn's Kitchen still gives 13 g on an older recipe page but 4 g on a page updated in December 2025.",
+     "sourceIds": [
+      "b3-kk-raisinbuns",
+      "b3-kk-oliebollen-2025"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Drying concentrates sugars, and Monash has found fructans in dried fruit that the fresh fruit lacks.",
+     "sourceIds": [
+      "mon-faq"
+     ]
+    },
+    {
+     "text": "Both Monash and FODMAP Friendly put dried fruit in the high column.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Dried cranberries",
+     "slug": "cranberries"
+    },
+    {
+     "name": "Pumpkin seeds",
+     "slug": "pumpkin-seeds"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are raisins in cereal or baking a problem?",
+     "a": "They can be, because the low amount is tiny. Divide the raisins in a recipe by the servings to check."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "honeydew",
+   "name": "honeydew melon",
+   "aliases": [
+    "honeydew",
+    "honey melon",
+    "green melon"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global"
+   ],
+   "illustration": "honeydew",
+   "tier": "lab-tested",
+   "answer": "Yes, in a half-cup serve. About ½ cup of honeydew (90 g) is low. Fructans rise from 116 g (moderate), and a full cup (150 g) is high.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "fresh honeydew melon",
+     "lowMaxG": 90,
+     "moderateFromG": 116,
+     "highFromG": 150,
+     "scaleMaxG": 210,
+     "groups": [
+      "fructans"
+     ],
+     "household": "½ cup",
+     "sourceIds": [
+      "b3-kk-melon-2024",
+      "ge-fruits",
+      "b3-alby-summer"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Diet vs Disease lists 92 g. George Eats gives 115 g as the most that stays low.",
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [],
+   "swaps": [
+    {
+     "name": "Cantaloupe",
+     "slug": "cantaloupe"
+    },
+    {
+     "name": "Papaya",
+     "slug": "papaya"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is honeydew better than watermelon on a low FODMAP diet?",
+     "a": "Yes. Honeydew has a half-cup low serve, while watermelon is low only in a spoonful."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "olives",
+   "name": "olives",
+   "aliases": [
+    "olive",
+    "black olives",
+    "green olives",
+    "kalamata olives"
+   ],
+   "category": "fruit",
+   "regions": [
+    "mediterranean",
+    "middle-eastern"
+   ],
+   "illustration": "olives",
+   "tier": "lab-tested",
+   "answer": "Yes. Plain green and black olives are reported to stay low FODMAP up to 500 g in Monash's data, and FODMAP Friendly lists olives as low. Marinated olives are different: garlic or onion in the mix is the problem.",
+   "groups": [],
+   "servings": [
+    {
+     "form": "green or black olives, in brine",
+     "lowMaxG": 500,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 700,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b3-ge-olives-2026",
+      "b3-kk-veg-2025",
+      "ff-list"
+     ],
+     "note": "500 g is the largest amount reported as still low, far more than a normal portion. No source names a limiting FODMAP at the amounts tested; the group shown is a placeholder."
+    }
+   ],
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Check the label on marinated or stuffed olives: garlic and onion are common, and both are high in fructans.",
+     "sourceIds": [
+      "b3-ge-olives-2026"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Feta",
+     "slug": "feta"
+    },
+    {
+     "name": "Olive oil",
+     "slug": "olive-oil"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are Kalamata olives low FODMAP?",
+     "a": "We haven't found a separate lab result for Kalamata. Plain green and black olives tested low."
+    },
+    {
+     "q": "Is olive oil low FODMAP?",
+     "a": "Yes. See our olive oil page for the details."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "coconut",
+   "name": "coconut",
+   "aliases": [
+    "fresh coconut",
+    "coconut flesh",
+    "shredded coconut",
+    "desiccated coconut"
+   ],
+   "category": "fruit",
+   "regions": [
+    "south-asian",
+    "east-asian",
+    "latin-american",
+    "african"
+   ],
+   "illustration": "coconut",
+   "tier": "lab-tested",
+   "answer": "Yes, in measured amounts. ⅔ cup of fresh coconut flesh (64 g) is low in Monash's fibre guide, with sorbitol moderate from 96 g. Shredded coconut is low at ½ cup (30 g).",
+   "groups": [
+    "sorbitol"
+   ],
+   "servings": [
+    {
+     "form": "fresh coconut flesh",
+     "lowMaxG": 64,
+     "moderateFromG": 96,
+     "highFromG": null,
+     "scaleMaxG": 135,
+     "groups": [
+      "sorbitol"
+     ],
+     "household": "⅔ cup",
+     "sourceIds": [
+      "mon-fibre-2021",
+      "b3-kk-coconut-2024",
+      "b3-ge-coconut-2026"
+     ]
+    },
+    {
+     "form": "dried shredded (desiccated) coconut",
+     "lowMaxG": 30,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 42,
+     "groups": [
+      "sorbitol"
+     ],
+     "household": "½ cup",
+     "sourceIds": [
+      "b3-kk-coconut-2024",
+      "b3-dvd-stacking"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Diet vs Disease lists 81 g of fresh flesh as low, and George Eats gives 95 g as the most that stays low.",
+     "sourceIds": [
+      "b3-dvd-stacking",
+      "b3-ge-coconut-2026"
+     ]
+    },
+    {
+     "text": "For shredded coconut, Karlijn's Kitchen puts moderate at 45 g, but George Eats says 35 g.",
+     "sourceIds": [
+      "b3-kk-coconut-2024",
+      "b3-ge-coconut-2026"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Coconut flour is a different story: it's reported high in fructose, sorbitol and fructans at 100 g.",
+     "sourceIds": [
+      "b3-kk-coconut-2024",
+      "b3-ge-coconut-2026"
+     ]
+    },
+    {
+     "text": "Fresh coconut is one of the higher-fibre foods in Monash's low FODMAP fibre guide.",
+     "sourceIds": [
+      "mon-fibre-2021"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Coconut milk",
+     "slug": "coconut-milk"
+    },
+    {
+     "name": "Pumpkin seeds",
+     "slug": "pumpkin-seeds"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is coconut milk low FODMAP?",
+     "a": "It depends on the type and amount. See our coconut milk page."
+    },
+    {
+     "q": "Is coconut water low FODMAP?",
+     "a": "In a glass-sized serve, according to dietitian sites. Larger amounts add sorbitol and fructans."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  },
+  {
+   "slug": "watermelon",
+   "name": "watermelon",
+   "aliases": [
+    "water melon"
+   ],
+   "category": "fruit",
+   "regions": [
+    "global",
+    "middle-eastern"
+   ],
+   "illustration": "watermelon",
+   "tier": "lab-tested",
+   "answer": "No. Watermelon is high in excess fructose, and at 150 g also in mannitol and fructans. Only about 18 g, a few teaspoons, is low; it's moderate from 24 g and high from 150 g.",
+   "groups": [
+    "fructose",
+    "mannitol",
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "fresh watermelon",
+     "lowMaxG": 18,
+     "moderateFromG": 24,
+     "highFromG": 150,
+     "scaleMaxG": 210,
+     "groups": [
+      "fructose",
+      "mannitol",
+      "fructans"
+     ],
+     "household": "3 teaspoons",
+     "sourceIds": [
+      "b3-kk-melon-2024",
+      "ge-fruits",
+      "b3-dvd-stacking"
+     ]
+    }
+   ],
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "George Eats gives 23 g as the most that stays low.",
+     "sourceIds": [
+      "ge-fruits"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash and FODMAP Friendly both list watermelon in their high FODMAP fruit column.",
+     "sourceIds": [
+      "b3-mon-info-2026",
+      "ff-list"
+     ]
+    },
+    {
+     "text": "Monash names watermelon among the fruits particularly high in excess fructose.",
+     "sourceIds": [
+      "b3-mon-hilo"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Cantaloupe",
+     "slug": "cantaloupe"
+    },
+    {
+     "name": "Honeydew melon",
+     "slug": "honeydew"
+    },
+    {
+     "name": "Pineapple",
+     "slug": "pineapple"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can I have watermelon once I finish the elimination phase?",
+     "a": "If you tolerate fructose, mannitol and fructans in reintroduction, you may handle more. Test it on its own."
+    },
+    {
+     "q": "Is watermelon juice low FODMAP?",
+     "a": "We haven't found lab data for it. It comes from the same high-FODMAP fruit, so expect it to be high."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified"
+  }
+ ]
+}

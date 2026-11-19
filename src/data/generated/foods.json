@@ -1,5 +1,5770 @@
 [
  {
+  "slug": "broccoli",
+  "name": "broccoli",
+  "aliases": [
+   "broccoli florets",
+   "broccoli heads",
+   "broccoli stalks",
+   "calabrese"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "east-asian"
+  ],
+  "illustration": "broccoli",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve. Monash rates 75 g of whole broccoli (about ¾ cup) low. The heads are the gentler part; the stalks hold most of the excess fructose, so keep large servings of stalks alone small.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "whole broccoli, raw",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructose"
+    ],
+    "household": "about ¾ cup",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b1-mon-broc-2017"
+    ]
+   },
+   {
+    "form": "broccoli heads (florets) only",
+    "lowMaxG": 75,
+    "moderateFromG": 240,
+    "highFromG": null,
+    "scaleMaxG": 340,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-mon-broc-2017",
+     "b1-kk-broccoli"
+    ],
+    "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+   },
+   {
+    "form": "broccoli stalks only",
+    "lowMaxG": 45,
+    "moderateFromG": 50,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b1-kk-broccoli",
+     "b1-mon-broc-2017"
+    ],
+    "note": "Grams as reported by Karlijn's Kitchen from Monash's data. Monash's own post says to avoid more than 65 g of stalks alone if fructose bothers you."
+   }
+  ],
+  "changes": [
+   {
+    "date": "22 Nov 2017",
+    "text": "Monash retested broccoli and split it into heads and stalks. Excess fructose, mostly in the stalks, turned out to be the main FODMAP.",
+    "sourceIds": [
+     "b1-mon-broc-2017"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Monash calls whole broccoli and heads low at a typical 1 cup serve, but doesn't give that cup in grams. Elsewhere it lists 75 g as about ¾ cup, so a full cup is likely more than 75 g.",
+    "sourceIds": [
+     "b1-mon-broc-2017",
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Broccolini is the opposite of broccoli: its FODMAPs sit mostly in the heads, and its stalks are the lower part.",
+    "sourceIds": [
+     "b1-mon-broc-2017"
+    ]
+   },
+   {
+    "text": "In 2024 Monash lowered its fructose cut-off for vegetables, which shrank the low serve of broccolini heads from 58 g to 21 g.",
+    "sourceIds": [
+     "b1-mon-fructose-2024"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   },
+   {
+    "name": "Bok choy"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are broccoli stalks low FODMAP?",
+    "a": "Only in small amounts. The stalks carry most of broccoli's excess fructose, so use mostly florets or mix in whole broccoli."
+   },
+   {
+    "q": "Is frozen broccoli low FODMAP?",
+    "a": "No lab result for frozen broccoli was found in public sources. Weigh it like fresh broccoli and stick to the standard serve."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "corn",
+  "name": "corn",
+  "aliases": [
+   "sweet corn",
+   "sweetcorn",
+   "corn on the cob",
+   "corn kernels",
+   "maize"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "latin-american"
+  ],
+  "illustration": "corn",
+  "tier": "lab-tested",
+  "answer": "In small amounts. Monash rates half a cob of fresh sweet corn (38 g) low, while a whole cob is high, mainly from the polyol sorbitol. Canned corn kernels go further: Monash lists 75 g as a low serve.",
+  "groups": [
+   "sorbitol",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh sweet corn on the cob",
+    "lowMaxG": 38,
+    "moderateFromG": 63,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "sorbitol"
+    ],
+    "household": "½ cob",
+    "sourceIds": [
+     "b1-mon-10foods-2015",
+     "mon-fibre-2021",
+     "b1-kk-corn"
+    ],
+    "note": "The moderate amount is as reported by Karlijn's Kitchen from Monash's data. Monash says a whole cob is high."
+   },
+   {
+    "form": "canned corn kernels, drained",
+    "lowMaxG": 75,
+    "moderateFromG": 250,
+    "highFromG": null,
+    "scaleMaxG": 350,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-kk-corn"
+    ],
+    "note": "Monash's shopping list says \"corn kernels\" without naming canned or fresh; Karlijn's Kitchen gives 75 g for canned kernels and the moderate amount."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly agrees a whole cob is high in sorbitol and says canned kernels are low only in small serves, turning high in larger ones.",
+    "sourceIds": [
+     "ff-five-2020",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Corn grown for flour has less sorbitol and more starch, so corn tortillas, polenta and cornflour are a different story from sweet corn.",
+    "sourceIds": [
+     "ff-five-2020"
+    ]
+   },
+   {
+    "text": "Monash points out that sweet corn shows red at a full cob but green at half a cob, a good example of why serve size matters.",
+    "sourceIds": [
+     "b1-mon-veg-2015"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Corn tortillas",
+    "slug": "corn-tortillas"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   },
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is popcorn low FODMAP?",
+    "a": "Popcorn is a separate food from sweet corn. Monash's fibre guide lists plain commercial popcorn with a low serve; check the pack size and flavourings."
+   },
+   {
+    "q": "Are corn tortillas low FODMAP?",
+    "a": "Corn flour has far less sorbitol than sweet corn, so plain corn tortillas are usually a lower-FODMAP choice. Check labels for onion or garlic."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "tomatoes",
+  "name": "tomatoes",
+  "aliases": [
+   "tomato",
+   "cherry tomatoes",
+   "roma tomato",
+   "canned tomatoes",
+   "tinned tomatoes"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "mediterranean",
+   "middle-eastern"
+  ],
+  "illustration": "tomatoes",
+  "tier": "lab-tested",
+  "answer": "In small amounts. About half a medium tomato (65 g) is reported low, and 75 g is moderate in fructose. Monash rates 3 cherry tomatoes (45 g) low and lists canned tomato as low at 75 g.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "common tomato, raw",
+    "lowMaxG": 65,
+    "moderateFromG": 75,
+    "highFromG": null,
+    "scaleMaxG": 110,
+    "groups": [
+     "fructose"
+    ],
+    "household": "½ medium tomato",
+    "sourceIds": [
+     "b1-kk-tomatoes"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash's data."
+   },
+   {
+    "form": "cherry tomatoes, raw",
+    "lowMaxG": 45,
+    "moderateFromG": 60,
+    "highFromG": null,
+    "scaleMaxG": 90,
+    "groups": [
+     "fructose"
+    ],
+    "household": "3 medium cherry tomatoes",
+    "sourceIds": [
+     "mon-step1",
+     "mon-stackexpl-2022",
+     "b1-kk-tomatoes"
+    ],
+    "note": "Low amount from Monash; the moderate amount (4 cherry tomatoes) is as reported by Karlijn's Kitchen."
+   },
+   {
+    "form": "canned tomatoes",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 150,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly calls fresh tomatoes low and says they can be eaten freely, while Monash's Step 1 sheet lists tomato among higher-FODMAP foods.",
+    "sourceIds": [
+     "ff-five-2020",
+     "ff-list",
+     "mon-step1"
+    ]
+   },
+   {
+    "text": "For canned tomatoes, dietitian sites citing Monash give ½ cup (100 g) as the low serve, larger than the 75 g on Monash's shopping list. They also say moderate starts at 115 g or 132 g, depending on the site.",
+    "sourceIds": [
+     "b1-alby-canned",
+     "b1-kk-tomatoes",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "FODMAP Friendly found canned tomatoes higher in fructose than fresh, with a low serve of about ⅗ cup.",
+    "sourceIds": [
+     "ff-five-2020"
+    ]
+   },
+   {
+    "text": "A whole 400 g can split four ways keeps each plate near the low serve.",
+    "sourceIds": [
+     "b1-alby-canned"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   },
+   {
+    "name": "Bell pepper"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is tomato sauce low FODMAP?",
+    "a": "Plain tomato is fine in small amounts, but many pasta sauces add garlic and onion, which are high. Make your own with canned tomato and garlic-infused oil."
+   },
+   {
+    "q": "Are cherry tomatoes low FODMAP?",
+    "a": "Yes, at about 3 cherry tomatoes per meal. More than that adds up in fructose."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "potatoes",
+  "name": "potatoes",
+  "aliases": [
+   "potato",
+   "white potato",
+   "russet potato",
+   "red potato",
+   "spuds"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "potatoes",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates a standard 75 g serve of potato (half a medium) low and says potato stays low however much you eat. Dietitian sites report Monash's app shows potatoes low up to 500 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "white potato, unpeeled",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 200,
+    "groups": [
+     "fructans"
+    ],
+    "household": "½ medium",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "mon-shop-2025",
+     "mon-stack-2016"
+    ],
+    "note": "Monash says potato is low regardless of amount; 75 g is the standard serve, not a limit. The sources name no FODMAP that rises with the amount; fructans is shown only as a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Dietitian sites citing Monash's app report white, red and purple potatoes as low up to 500 g, the largest amount tested.",
+    "sourceIds": [
+     "ge-potato",
+     "b1-kk-potatoes"
+    ]
+   },
+   {
+    "text": "Monash suggests potato as a bulking vegetable to stretch higher-FODMAP foods, such as in sweet potato soup.",
+    "sourceIds": [
+     "mon-stack-2016"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Sweet potato",
+    "slug": "sweet-potato"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is mashed potato low FODMAP?",
+    "a": "Potato itself is. Watch the extras: use lactose-free milk or butter, and skip onion or garlic powder."
+   },
+   {
+    "q": "Are fries low FODMAP?",
+    "a": "Plain potato fries are fine. Check seasonings on store-bought fries, which can include onion or garlic."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cabbage",
+  "name": "cabbage",
+  "aliases": [
+   "white cabbage",
+   "green cabbage",
+   "common cabbage",
+   "savoy cabbage",
+   "coleslaw cabbage"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "east-asian"
+  ],
+  "illustration": "cabbage",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve. Monash lists 75 g of white (common) cabbage as low. Bigger servings are reported to turn moderate in sorbitol from about 100 g. Savoy cabbage was retested in 2025 and is now low at 75 g too.",
+  "groups": [
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "white (common) cabbage, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 100,
+    "highFromG": null,
+    "scaleMaxG": 140,
+    "groups": [
+     "sorbitol"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-kk-cabbage"
+    ],
+    "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+   },
+   {
+    "form": "savoy cabbage",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024"
+    ],
+    "note": "Monash rates it low at 1 serve, which it defines as 75 g of vegetable; it contains fructans in larger serves."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested savoy cabbage: it moved from high in fructans to low at a standard serve. Older dietitian pages still show only 40 g as low.",
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-kk-cabbage"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Fermenting changes cabbage: Monash found 1 cup of raw cabbage low but the same amount as sauerkraut high in mannitol.",
+    "sourceIds": [
+     "b1-mon-ferment-2017"
+    ]
+   },
+   {
+    "text": "Even at a low serve, savoy cabbage can still cause wind for some people, Monash says, because of parts of the plant that aren't FODMAPs.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Red cabbage",
+    "slug": "red-cabbage"
+   },
+   {
+    "name": "Bok choy"
+   },
+   {
+    "name": "Lettuce",
+    "slug": "lettuce"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is coleslaw low FODMAP?",
+    "a": "The cabbage is fine at a standard serve. Many coleslaw dressings add onion or garlic, so check the label or make your own."
+   },
+   {
+    "q": "Is sauerkraut low FODMAP?",
+    "a": "Not in a full cup: Monash found fermented cabbage high in mannitol. Only a small serving is listed as low."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "carrots",
+  "name": "carrots",
+  "aliases": [
+   "carrot",
+   "baby carrots",
+   "raw carrot"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "carrots",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates one medium carrot (75 g) low and names carrot as a vegetable with no upper limit, so it stays low in large serves. Dietitian sites report Monash's app shows carrots low up to 500 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "carrot, peeled, raw",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 200,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 medium",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "mon-shop-2025",
+     "mon-stack-2016"
+    ],
+    "note": "Monash says carrot has no upper limit; 75 g is the standard serve, not a limit. The sources name no FODMAP that rises with the amount; fructans is shown only as a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "George Eats, citing Monash, reports carrots low up to 500 g per person as of August 2026.",
+    "sourceIds": [
+     "b1-ge-carrots"
+    ]
+   },
+   {
+    "text": "Monash uses carrot to bulk out dishes built on foods with tighter limits, such as sweet potato.",
+    "sourceIds": [
+     "mon-stack-2016"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Potatoes",
+    "slug": "potatoes"
+   },
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is carrot cake low FODMAP?",
+    "a": "The carrots are fine. Regular carrot cake uses wheat flour and often raisins, so look for a recipe with low FODMAP flour."
+   },
+   {
+    "q": "Is carrot juice low FODMAP?",
+    "a": "No public lab result for carrot juice was found. Whole carrots are the tested form."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "green-beans",
+  "name": "green beans",
+  "aliases": [
+   "green bean",
+   "string beans",
+   "french beans",
+   "snap beans",
+   "haricots verts"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "green-beans",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve. Monash rates 15 green beans (75 g) low. Dietitian sites citing Monash report that 25 beans (125 g) carry a moderate amount of sorbitol, so pair them with other vegetables for a bigger plate.",
+  "groups": [
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "green beans, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 125,
+    "highFromG": null,
+    "scaleMaxG": 180,
+    "groups": [
+     "sorbitol"
+    ],
+    "household": "15 beans",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "kk-beans",
+     "b1-alby-portion"
+    ],
+    "note": "Low amount from Monash; the moderate amount is as reported by A Little Bit Yummy from Monash's data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Green beans appear on Monash's shopping list of low FODMAP vegetables at a 75 g serve.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Broccoli",
+    "slug": "broccoli"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   },
+   {
+    "name": "Zucchini"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is green bean casserole low FODMAP?",
+    "a": "The beans are fine at 15 per serve, but classic casseroles use onion and canned soup. A version with garlic-infused oil and lactose-free milk keeps it lower."
+   },
+   {
+    "q": "Are green beans legumes high in GOS like other beans?",
+    "a": "Fresh green beans are eaten as a pod vegetable; the FODMAP reported in larger serves is sorbitol, not GOS."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "mushrooms",
+  "name": "mushrooms",
+  "aliases": [
+   "mushroom",
+   "button mushrooms",
+   "white mushrooms",
+   "champignons",
+   "oyster mushrooms",
+   "portobello"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "east-asian"
+  ],
+  "illustration": "mushrooms",
+  "tier": "lab-tested",
+  "answer": "Mostly no. Fresh button mushrooms are high in mannitol, with only about 7 g reported as low. Oyster mushrooms are the exception: Monash lists 75 g as a low serve. Canned button mushrooms are reported low at 75 g.",
+  "groups": [
+   "mannitol",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh button mushrooms",
+    "lowMaxG": 7,
+    "moderateFromG": 10,
+    "highFromG": null,
+    "scaleMaxG": 40,
+    "groups": [
+     "mannitol",
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-kk-mushrooms",
+     "mon-step1"
+    ],
+    "note": "Grams as reported by Karlijn's Kitchen from Monash's data (Jan 2024). Monash lists button mushroom as a high FODMAP food."
+   },
+   {
+    "form": "oyster mushrooms",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 150,
+    "groups": [
+     "mannitol"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-kk-mushrooms"
+    ],
+    "note": "Karlijn's Kitchen reports that Monash gives no upper limit for oyster mushrooms."
+   },
+   {
+    "form": "canned button mushrooms in brine, drained",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "mannitol"
+    ],
+    "household": "1 cup",
+    "sourceIds": [
+     "b1-kk-mushrooms"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash's data."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash's retest found button mushrooms contain fructans as well as mannitol in larger serves, so it dropped them as the mannitol test food in favour of portobello.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "For canned button mushrooms, Karlijn's Kitchen reports 75 g (1 cup), while A Little Bit Yummy reports a serve of 6 mushrooms.",
+    "sourceIds": [
+     "b1-kk-mushrooms",
+     "b1-alby-canned"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names mushrooms as one of the vegetables richest in mannitol.",
+    "sourceIds": [
+     "b1-mon-where"
+    ]
+   },
+   {
+    "text": "In a 2026 Monash lab study, microwaving mushrooms in water for 3 minutes and draining them cut their FODMAPs by 58%, but not enough to make them low.",
+    "sourceIds": [
+     "b1-mon-micro-2026"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly also found many mushroom types high in mannitol, with shimeji much lower than shiitake or enoki.",
+    "sourceIds": [
+     "b1-ff-mush-2015"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Oyster mushrooms"
+   },
+   {
+    "name": "Eggplant",
+    "slug": "eggplant"
+   },
+   {
+    "name": "Zucchini"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are portobello mushrooms low FODMAP?",
+    "a": "No. Monash now uses portobello as its food for testing mannitol, because it contains mannitol and no other FODMAPs."
+   },
+   {
+    "q": "Are canned mushrooms lower in FODMAPs than fresh?",
+    "a": "Yes. Canning leaches water-soluble FODMAPs into the brine, so drained canned button mushrooms are reported low at a standard serve."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "peas",
+  "name": "peas",
+  "aliases": [
+   "green peas",
+   "garden peas",
+   "frozen peas",
+   "sugar snap peas",
+   "snow peas",
+   "mangetout"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "south-asian"
+  ],
+  "illustration": "peas",
+  "tier": "lab-tested",
+  "answer": "Green peas: no, not at a standard serve. Monash's 2025 retest rated 75 g of frozen green peas high in fructans. Sugar snap peas are different: Monash now rates a standard 75 g serve low.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "green peas, frozen",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": 75,
+    "scaleMaxG": 110,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024",
+     "mon-step1"
+    ],
+    "note": "Rated high at 1 serve (75 g), mainly fructans with trace GOS. Monash's public pages give no low amount for green peas."
+   },
+   {
+    "form": "sugar snap peas",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024"
+    ],
+    "note": "Low at 1 serve (75 g); contains fructans in larger serves."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested frozen green peas (still high, now mainly fructans rather than GOS) and sugar snap peas (from high in fructose to low at a standard serve).",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   },
+   {
+    "date": "3 Feb 2025",
+    "text": "Snow peas sit on Monash's low FODMAP shopping list at a 75 g serve. In 2015 Monash had listed only 5 pods (16 g) as low.",
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-mon-10foods-2015"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen, citing Monash, lists canned peas as low up to 54 g. We found no public Monash figure for canned peas.",
+    "sourceIds": [
+     "b1-kk-veglist"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's Step 1 sheet lists green peas among the higher-FODMAP vegetables to swap out.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly's public food list puts peas on the high side too.",
+    "sourceIds": [
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   },
+   {
+    "name": "Edamame"
+   },
+   {
+    "name": "Snow peas"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are snow peas low FODMAP?",
+    "a": "Monash's 2025 shopping list includes snow peas at a standard 75 g serve."
+   },
+   {
+    "q": "Is pea protein low FODMAP?",
+    "a": "Pea protein isolate is a separate product from whole peas, so the pea results here don't apply to it. Look for a brand that has been lab tested."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "celery",
+  "name": "celery",
+  "aliases": [
+   "celery stalk",
+   "celery sticks"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "celery",
+  "tier": "lab-tested",
+  "answer": "Not at a standard serve. Monash's 2025 retest rated a 75 g serve of celery stalk moderate in mannitol (it used to be high). Monash's public pages give no low amount, and dietitian sites disagree on one.",
+  "groups": [
+   "mannitol"
+  ],
+  "servings": [
+   {
+    "form": "celery stalk",
+    "lowMaxG": null,
+    "moderateFromG": 75,
+    "highFromG": null,
+    "scaleMaxG": 110,
+    "groups": [
+     "mannitol"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024"
+    ],
+    "note": "Rated moderate at 1 serve (75 g). No low amount is published outside Monash's app."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested celery stalk: at a standard serve it moved from high to moderate in mannitol. It remains Monash's suggested food for testing mannitol.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Before the retest, Karlijn's Kitchen (citing Monash) gave 10 g as low, moderate from 15 g and high from 75 g. Her list updated in Sep 2025 gives celery up to 51 g.",
+    "sourceIds": [
+     "b1-kk-celery",
+     "b1-kk-veglist"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names celery as one of the vegetables richest in mannitol.",
+    "sourceIds": [
+     "b1-mon-where"
+    ]
+   },
+   {
+    "text": "Celery leaves and celeriac (celery root) are reported to be much lower in FODMAPs than the stalk.",
+    "sourceIds": [
+     "b1-kk-celery"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   },
+   {
+    "name": "Fennel"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is celery juice low FODMAP?",
+    "a": "No public lab result for celery juice was found. Juicing concentrates a lot of stalk into one glass, so it is likely higher than a few sticks."
+   },
+   {
+    "q": "Can I use celery in soup?",
+    "a": "Monash's lab work shows FODMAPs are water-soluble and move into cooking water, so the broth carries celery's mannitol too. Keep the amount small."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "spinach",
+  "name": "spinach",
+  "aliases": [
+   "baby spinach",
+   "english spinach",
+   "spinach leaves"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "south-asian",
+   "middle-eastern"
+  ],
+  "illustration": "spinach",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates 1½ cups of baby spinach (75 g) low. Dietitian sites citing Monash report baby spinach turns moderate in fructans from 150 g, while mature (English) spinach stays low in much larger amounts.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "baby spinach, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 150,
+    "highFromG": null,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1½ cups",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b1-kk-spinach"
+    ],
+    "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+   },
+   {
+    "form": "English (mature) spinach, raw",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 150,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-kk-spinach"
+    ],
+    "note": "The sources name no FODMAP that rises with the amount; fructans is shown only as a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen's 2025 list says mature spinach is low up to 500 g, while Monash's public shopping list only gives the standard 75 g serve.",
+    "sourceIds": [
+     "b1-kk-veglist",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash lists a 75 g serve of baby spinach as adding about 3 g of fibre.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Kale",
+    "slug": "kale"
+   },
+   {
+    "name": "Lettuce",
+    "slug": "lettuce"
+   },
+   {
+    "name": "Bok choy"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is spinach in a smoothie low FODMAP?",
+    "a": "Yes, at around 1½ cups of baby spinach. The other ingredients, like fruit and milk, usually decide whether the smoothie is low."
+   },
+   {
+    "q": "Is saag or palak low FODMAP?",
+    "a": "The spinach is fine, but most recipes start with onion and garlic. A version with garlic-infused oil and asafoetida keeps it lower."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "beetroot",
+  "name": "beetroot",
+  "aliases": [
+   "beets",
+   "beet",
+   "red beet",
+   "pickled beetroot",
+   "canned beetroot"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "middle-eastern"
+  ],
+  "illustration": "beetroot",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve, after a 2025 retest. Monash now rates 75 g of fresh beetroot low, with GOS and fructans in larger serves. Pickled beetroot is also on Monash's low list at 75 g.",
+  "groups": [
+   "gos",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh beetroot",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024"
+    ],
+    "note": "Low at 1 serve (75 g); contains GOS and fructans in larger serves."
+   },
+   {
+    "form": "pickled beetroot",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025"
+    ],
+    "note": "Monash's shopping list names no FODMAP group here; the groups shown are the ones Monash found in fresh beetroot."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested fresh beetroot: it moved from high (GOS and fructans) to low at a standard serve, and is no longer a fructan test food.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "In Monash's lab work, pickling cut the FODMAP content of beetroot by 89–97%.",
+    "sourceIds": [
+     "mon-vegan-2018",
+     "tuck-2018"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly's public list agrees, placing beetroot among its low FODMAP vegetables.",
+    "sourceIds": [
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   },
+   {
+    "name": "Red cabbage",
+    "slug": "red-cabbage"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is beetroot juice low FODMAP?",
+    "a": "No public lab result for beetroot juice was found. A glass may hold more beetroot than the tested 75 g."
+   },
+   {
+    "q": "Is canned beetroot low FODMAP?",
+    "a": "Monash lists pickled beetroot at 75 g. We found no public result for plain canned beetroot; check the label for onion."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "asparagus",
+  "name": "asparagus",
+  "aliases": [
+   "asparagus spears",
+   "green asparagus"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "asparagus",
+  "tier": "lab-tested",
+  "answer": "No, not at a standard serve. Monash's 2025 retest still rates 75 g of asparagus high, now in fructose. Any low amount is small: dietitian sites citing Monash give from about ⅔ of a spear up to 42 g.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "green asparagus",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": 75,
+    "scaleMaxG": 110,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024",
+     "mon-step1"
+    ],
+    "note": "Rated high at 1 serve (75 g). No low amount is published by Monash outside its app."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested asparagus: still high at a standard serve, but now for fructose only (it used to be fructose and fructans).",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (Apr 2024, citing Monash) reports ⅔ of a spear as low, 1 spear as moderate in fructose and 5 spears high. Her list updated in Sep 2025 gives up to 42 g.",
+    "sourceIds": [
+     "b1-kk-asparagus",
+     "b1-kk-veglist"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "White asparagus has not been tested by Monash, according to Karlijn's Kitchen.",
+    "sourceIds": [
+     "b1-kk-asparagus"
+    ]
+   },
+   {
+    "text": "On FODMAP Friendly's public list, asparagus sits with the high FODMAP vegetables as well.",
+    "sourceIds": [
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   },
+   {
+    "name": "Zucchini"
+   },
+   {
+    "name": "Broccoli",
+    "slug": "broccoli"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Why is asparagus high FODMAP?",
+    "a": "It carries excess fructose: more fructose than glucose. Monash still uses asparagus as its fructose test food."
+   },
+   {
+    "q": "Is a single asparagus spear low FODMAP?",
+    "a": "Reports say one spear is already moderate in fructose, so keep it to a garnish if fructose bothers you."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cauliflower",
+  "name": "cauliflower",
+  "aliases": [
+   "cauliflower florets",
+   "cauliflower rice",
+   "purple cauliflower"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "south-asian",
+   "middle-eastern"
+  ],
+  "illustration": "cauliflower",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve, since a 2025 retest. Monash now rates 75 g of white cauliflower low, with fructans in larger serves. It used to be listed high in mannitol, so many older lists are out of date.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "white cauliflower",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024",
+     "b1-alby-cauli-2025"
+    ],
+    "note": "Rated low at Monash's standard 75 g serve; fructans build up in bigger portions."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested white cauliflower: it moved from high in mannitol to low at a standard serve, with fructans in larger serves.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   },
+   {
+    "date": "29 Oct 2026",
+    "text": "Monash says cauliflower was retested again and now has a larger low serve. It doesn't give the new amount publicly.",
+    "sourceIds": [
+     "b1-mon-swaps-2026"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's public list still puts cauliflower with the high FODMAP vegetables.",
+    "sourceIds": [
+     "ff-list",
+     "b1-mon-reintro-2025"
+    ]
+   },
+   {
+    "text": "A Little Bit Yummy reports both white and purple cauliflower as low at ¾ cup, without giving grams.",
+    "sourceIds": [
+     "b1-alby-cauli-2025"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash adds a caution: cauliflower has other gas-forming components besides FODMAPs, so a low rating doesn't rule out bloating.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Broccoli",
+    "slug": "broccoli"
+   },
+   {
+    "name": "Potatoes",
+    "slug": "potatoes"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is cauliflower rice low FODMAP?",
+    "a": "Yes, if the portion stays near 75 g of cauliflower. Pair it with plain rice for a bigger bowl."
+   },
+   {
+    "q": "Is cauliflower still a mannitol food?",
+    "a": "Not by Monash's 2025 data, which found fructans rather than mannitol. It is no longer suggested for testing mannitol."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cucumber",
+  "name": "cucumber",
+  "aliases": [
+   "cucumbers",
+   "continental cucumber",
+   "english cucumber",
+   "lebanese cucumber"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "middle-eastern",
+   "mediterranean"
+  ],
+  "illustration": "cucumber",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates 75 g of cucumber low. After its 2024 fructose review, Monash lists cucumber as moderate from 132 g and high from 178 g, so one cucumber in a big salad is worth weighing.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "continental cucumber, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 132,
+    "highFromG": 178,
+    "scaleMaxG": 250,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b1-mon-fructose-2024",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "22 Jul 2024",
+    "text": "Monash lowered its fructose cut-off for vegetables. Cucumber's moderate amount fell from 360 g to 132 g, and its high amount from 545 g to 178 g. The 75 g low serve did not change.",
+    "sourceIds": [
+     "b1-mon-fructose-2024"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash found small cucumbers and pickled gherkins both low at a standard serve.",
+    "sourceIds": [
+     "b1-mon-ferment-2017"
+    ]
+   },
+   {
+    "text": "Cucumber is on FODMAP Friendly's low list as well.",
+    "sourceIds": [
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lettuce",
+    "slug": "lettuce"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   },
+   {
+    "name": "Bell pepper"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are pickles low FODMAP?",
+    "a": "Monash rates pickled gherkins low at a standard serve. Check the brine for garlic or onion."
+   },
+   {
+    "q": "Is tzatziki low FODMAP?",
+    "a": "Cucumber is fine, but tzatziki usually has garlic and regular yogurt. Use lactose-free yogurt and garlic-infused oil."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "kale",
+  "name": "kale",
+  "aliases": [
+   "curly kale",
+   "lacinato kale",
+   "cavolo nero",
+   "tuscan kale"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "kale",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates ½ cup of chopped kale (75 g) low. Dietitian sites citing Monash report kale turns moderate in GOS only from about 222 g, so a generous handful fits easily.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "kale, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 222,
+    "highFromG": null,
+    "scaleMaxG": 310,
+    "groups": [
+     "gos"
+    ],
+    "household": "½ cup chopped",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "mon-shop-2025",
+     "b1-kk-kale"
+    ],
+    "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash lists kale among high-fibre low FODMAP foods, with about 2 g of fibre per 75 g serve.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Spinach",
+    "slug": "spinach"
+   },
+   {
+    "name": "Cabbage",
+    "slug": "cabbage"
+   },
+   {
+    "name": "Bok choy"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are kale chips low FODMAP?",
+    "a": "The kale is fine. Check flavoured store-bought chips for garlic or onion powder."
+   },
+   {
+    "q": "Is kale better raw or cooked on a low FODMAP diet?",
+    "a": "Both count the same by weight. Cooked kale shrinks, so weigh it raw."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "brussels-sprouts",
+  "name": "Brussels sprouts",
+  "aliases": [
+   "brussels sprouts",
+   "brussel sprouts",
+   "sprouts"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "brussels-sprouts",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve, following Monash's 2025 retest. It now rates 75 g of Brussels sprouts low, with fructans only in larger serves. In 2020 Monash had used 75 g of sprouts as an example of a high-fructan serve.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "Brussels sprouts",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "b1-mon-lights-2024"
+    ],
+    "note": "Green at a standard 75 g serve in Monash's 2025 testing; larger serves carry more fructans."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash retested Brussels sprouts: they moved from high in fructans to low at a standard serve, and are no longer a fructan test food.",
+    "sourceIds": [
+     "b1-mon-reintro-2025",
+     "mon-fructans-2020"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen's 2024 cabbage guide, written before the retest, gives only 50 g (2 to 3 sprouts) as low; her 2025 list shows 75 g.",
+    "sourceIds": [
+     "b1-kk-cabbage",
+     "b1-kk-veglist"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Sprouts may still be gassy for some people: Monash points to non-FODMAP components in them.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   },
+   {
+    "name": "Broccoli",
+    "slug": "broccoli"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How many Brussels sprouts are low FODMAP?",
+    "a": "Monash gives the low amount by weight, 75 g. Sprouts vary in size, so weigh them rather than counting."
+   },
+   {
+    "q": "Why do Brussels sprouts still make me gassy?",
+    "a": "Monash says sprouts contain other gas-forming parts besides FODMAPs, so some people react even at a low serve."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "butternut-squash",
+  "name": "butternut squash",
+  "aliases": [
+   "butternut pumpkin",
+   "butternut"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "butternut-squash",
+  "tier": "lab-tested",
+  "answer": "Only in small amounts. Dietitian sites citing Monash report about ⅓ cup (63 g) of butternut squash as low, moderate from 75 g and high from 85 g, from fructose and fructans. Kabocha (Japanese) pumpkin is the easier swap.",
+  "groups": [
+   "fructose",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "butternut squash, unpeeled (as tested)",
+    "lowMaxG": 63,
+    "moderateFromG": 75,
+    "highFromG": 85,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructose",
+     "fructans"
+    ],
+    "household": "about ⅓ cup",
+    "sourceIds": [
+     "b1-ge-pumpkin",
+     "b1-kk-pumpkin"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash's data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats says Monash has no listing for unpeeled butternut squash, yet gives the 63 g figure for unpeeled butternut on the same page; it is unclear whether the test was raw, cooked, peeled or unpeeled.",
+    "sourceIds": [
+     "b1-ge-pumpkin"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash lists kabocha (Japanese) pumpkin as a low FODMAP vegetable at a standard serve.",
+    "sourceIds": [
+     "mon-shop-2025",
+     "mon-step1"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Pumpkin (kabocha)"
+   },
+   {
+    "name": "Sweet potato",
+    "slug": "sweet-potato"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is butternut squash soup low FODMAP?",
+    "a": "Only if the squash per bowl stays small and the soup skips onion and garlic. Bulk it with carrot and potato."
+   },
+   {
+    "q": "Which pumpkin is lowest in FODMAPs?",
+    "a": "Kabocha (Japanese) pumpkin is on Monash's low list at a standard serve, so it handles bigger portions than butternut."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "eggplant",
+  "name": "eggplant",
+  "aliases": [
+   "aubergine",
+   "brinjal",
+   "eggplants"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "mediterranean",
+   "middle-eastern",
+   "south-asian"
+  ],
+  "illustration": "eggplant",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates 1 cup of eggplant (75 g) low. Larger amounts turn moderate and then high in the polyol sorbitol; dietitian sites citing Monash put the moderate step at about 178 g.",
+  "groups": [
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "eggplant, unpeeled",
+    "lowMaxG": 75,
+    "moderateFromG": 178,
+    "highFromG": null,
+    "scaleMaxG": 250,
+    "groups": [
+     "sorbitol"
+    ],
+    "household": "1 cup",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "mon-stack-2016",
+     "b1-kk-veglist"
+    ],
+    "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash uses eggplant as an example of a green food with an upper limit: bigger servings become amber, then red, for sorbitol.",
+    "sourceIds": [
+     "mon-stack-2016"
+    ]
+   },
+   {
+    "text": "Monash lists eggplant as low at a standard serve and suggests it as a plant-based \"steak\".",
+    "sourceIds": [
+     "b1-mon-swaps-2026"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Zucchini"
+   },
+   {
+    "name": "Bell pepper"
+   },
+   {
+    "name": "Tomatoes",
+    "slug": "tomatoes"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is baba ganoush low FODMAP?",
+    "a": "The eggplant is fine at about 1 cup, but baba ganoush usually has garlic. Make it with garlic-infused oil."
+   },
+   {
+    "q": "Does eggplant shrink when cooked?",
+    "a": "Yes, a lot. Weigh it raw so the portion matches the tested 75 g."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "lettuce",
+  "name": "lettuce",
+  "aliases": [
+   "iceberg lettuce",
+   "cos lettuce",
+   "romaine",
+   "butter lettuce",
+   "salad leaves"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "lettuce",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists 75 g of lettuce as a low serve. Butter lettuce is a little tighter: since Monash's 2024 fructose review its low serve is 65 g.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "lettuce (iceberg, cos and similar)",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 150,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-kk-veglist"
+    ],
+    "note": "No upper limit is published; fructose is the FODMAP Monash names for butter lettuce."
+   },
+   {
+    "form": "butter lettuce, raw",
+    "lowMaxG": 65,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b1-mon-fructose-2024"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "22 Jul 2024",
+    "text": "Monash lowered its fructose cut-off for vegetables, and butter lettuce's low serve fell from 75 g to 65 g.",
+    "sourceIds": [
+     "b1-mon-fructose-2024"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's Step 1 sheet suggests lettuce as a low FODMAP swap for higher-FODMAP vegetables.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly's lab, testing separately, also puts lettuce on its low list.",
+    "sourceIds": [
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Spinach",
+    "slug": "spinach"
+   },
+   {
+    "name": "Arugula"
+   },
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is a side salad low FODMAP?",
+    "a": "The leaves usually are. Dressings and toppings decide it: watch for onion, garlic and honey."
+   },
+   {
+    "q": "Is romaine low FODMAP?",
+    "a": "Monash's shopping list includes lettuce at 75 g; romaine (cos) is a common type of lettuce."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "red-cabbage",
+  "name": "red cabbage",
+  "aliases": [
+   "purple cabbage",
+   "red cabbages"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global"
+  ],
+  "illustration": "red-cabbage",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve. Monash rates ½ cup of red cabbage (75 g) low. Above 150 g it turns moderate in fructans, and above 180 g high, so a big slaw can add up.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "red cabbage",
+    "lowMaxG": 75,
+    "moderateFromG": 150,
+    "highFromG": 180,
+    "scaleMaxG": 250,
+    "groups": [
+     "fructans"
+    ],
+    "household": "½ cup",
+    "sourceIds": [
+     "mon-stack-2016",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Fermented red cabbage tested moderate at a standard serve in Monash's lab, while raw red cabbage was low.",
+    "sourceIds": [
+     "b1-mon-ferment-2017"
+    ]
+   },
+   {
+    "text": "Karlijn's Kitchen, citing Monash's app, reports the same 75 g low and 150 g moderate amounts.",
+    "sourceIds": [
+     "b1-kk-cabbage"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cabbage",
+    "slug": "cabbage"
+   },
+   {
+    "name": "Lettuce",
+    "slug": "lettuce"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is red cabbage slaw low FODMAP?",
+    "a": "Keep the red cabbage near ½ cup per person and use a dressing without onion or garlic."
+   },
+   {
+    "q": "Is red cabbage lower in FODMAPs than white cabbage?",
+    "a": "Both are low at 75 g. They differ in the FODMAP that rises: fructans in red cabbage, sorbitol in white."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "banana",
+  "name": "banana",
+  "aliases": [
+   "bananas",
+   "firm banana",
+   "unripe banana",
+   "ripe banana",
+   "green banana"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "south-asian",
+   "latin-american",
+   "african"
+  ],
+  "illustration": "banana",
+  "tier": "lab-tested",
+  "answer": "Yes, if it's firm. A firm banana is low up to about 95 g and turns moderate in fructans from 100 g. Ripe bananas carry more fructans: about a third of one (37 g) is the low amount, and 47 g is moderate.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "firm (unripe) banana",
+    "lowMaxG": 95,
+    "moderateFromG": 100,
+    "highFromG": null,
+    "scaleMaxG": 140,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "b3-ge-banana-2026",
+     "mon-fibre-2021"
+    ]
+   },
+   {
+    "form": "ripe banana",
+    "lowMaxG": 37,
+    "moderateFromG": 47,
+    "highFromG": null,
+    "scaleMaxG": 70,
+    "groups": [
+     "fructans"
+    ],
+    "household": "about ⅓ banana",
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "b3-ge-banana-2026",
+     "b3-mon-banana-2017"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "16 May 2017",
+    "text": "Monash retested bananas: ripe ones moved to high in fructans, firm ones stayed low. Monash links the change to cold storage and ripening, which raise fructans.",
+    "sourceIds": [
+     "b3-mon-banana-2017"
+    ]
+   },
+   {
+    "date": "after 2021",
+    "text": "Monash's 2021 fibre article listed one medium firm banana (100 g) as low. Newer dietitian listings give 95 g as low and 100 g as moderate, so we show the newer numbers.",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b3-dvd-stacking",
+     "b3-ge-banana-2026"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats gives the most that stays low as 99 g for a firm banana and 46 g for a ripe one. Karlijn's Kitchen (2023) gave 35 g for ripe.",
+    "sourceIds": [
+     "b3-ge-banana-2026",
+     "b3-kk-fruits-2023"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "If ripe bananas don't bother you, Monash says there's no need to cut them out.",
+    "sourceIds": [
+     "b3-mon-banana-2017"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly also rates unripe banana as low and says FODMAPs rise as the skin turns yellow and brown.",
+    "sourceIds": [
+     "b3-ff-fruit-2020",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Blueberries",
+    "slug": "blueberries"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   },
+   {
+    "name": "Orange",
+    "slug": "orange"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is banana bread low FODMAP?",
+    "a": "It depends on how much banana each slice holds and the flour. Recipes usually use ripe bananas, which have the smaller low amount, so check the banana per slice."
+   },
+   {
+    "q": "Are green bananas better than yellow ones?",
+    "a": "For FODMAPs, yes. Firm bananas have a much bigger low serve than ripe, spotty ones."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "grapes",
+  "name": "grapes",
+  "aliases": [
+   "grape",
+   "green grapes",
+   "red grapes",
+   "seedless grapes"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "grapes",
+  "tier": "lab-tested",
+  "answer": "Only a few. Monash cut the low serve in 2024 to 2 grapes: about 11 g of green grapes or 10 g of red. From about 15 grapes (75 g) they are high in excess fructose. Green grapes turn moderate at 15 g.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "green or white seedless grapes",
+    "lowMaxG": 11,
+    "moderateFromG": 15,
+    "highFromG": 75,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructose"
+    ],
+    "household": "2 grapes",
+    "sourceIds": [
+     "b3-season-grapes-2024",
+     "b3-dvd-stacking",
+     "ge-fruits"
+    ]
+   },
+   {
+    "form": "red seedless grapes",
+    "lowMaxG": 10,
+    "moderateFromG": 14,
+    "highFromG": 75,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructose"
+    ],
+    "household": "2 grapes",
+    "sourceIds": [
+     "b3-season-grapes-2024",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "14 Dec 2021",
+    "text": "Grapes used to be low in a 1 cup serve. Monash's 2021 retest set 6 grapes as low (32 g green, 28 g red) and 15 grapes (75 g) as high.",
+    "sourceIds": [
+     "mon-straw-2021",
+     "b3-ward-grapes-2022",
+     "b3-alby-grapes-2024"
+    ]
+   },
+   {
+    "date": "Jun 2024",
+    "text": "Monash retested again and lowered the low serve to 2 grapes; dietitian sites report that 3 or more already contain excess fructose.",
+    "sourceIds": [
+     "b3-alby-grapes-2024",
+     "b3-season-grapes-2024"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's results, as reported by a dietitian site, are far more generous: 150 g of red seedless and 24 g of white seedless grapes.",
+    "sourceIds": [
+     "b3-season-grapes-2024"
+    ]
+   },
+   {
+    "text": "Karlijn's Kitchen's 2023 list still shows 30 g (6 grapes), which predates the 2024 retest.",
+    "sourceIds": [
+     "b3-kk-fruits-2023"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash thinks sweeter modern grape varieties may explain the extra fructose found in retests.",
+    "sourceIds": [
+     "b3-mon-retest-2022"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Blueberries",
+    "slug": "blueberries"
+   },
+   {
+    "name": "Cantaloupe",
+    "slug": "cantaloupe"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Why do some lists still say a cup of grapes is fine?",
+    "a": "They were printed before Monash's 2021 and 2024 retests. Newer Monash data allows only a couple of grapes."
+   },
+   {
+    "q": "Are raisins the same as grapes for FODMAPs?",
+    "a": "No. Drying concentrates the sugars, so raisins have their own, even smaller low amount."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "pineapple",
+  "name": "pineapple",
+  "aliases": [
+   "fresh pineapple",
+   "pineapples"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "latin-american"
+  ],
+  "illustration": "pineapple",
+  "tier": "lab-tested",
+  "answer": "Yes. One cup of chopped fresh pineapple (140 g) is low in Monash's published fibre guide. Fructans rise with bigger bowls, and a George Eats listing puts moderate at 195 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh pineapple",
+    "lowMaxG": 140,
+    "moderateFromG": 195,
+    "highFromG": null,
+    "scaleMaxG": 270,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup chopped",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (2024) puts moderate at 200 g instead of 195 g. George Eats gives 194 g as the most that stays low.",
+    "sourceIds": [
+     "b3-kk-pineapple-2024",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Canned and dried pineapple have smaller low amounts than fresh. Karlijn's Kitchen lists about 97 g for canned in juice and 67 g in syrup, and says 25 g of dried is already moderate.",
+    "sourceIds": [
+     "b3-kk-pineapple-2024"
+    ]
+   },
+   {
+    "text": "Monash and FODMAP Friendly both list pineapple among their low FODMAP fruits.",
+    "sourceIds": [
+     "b3-mon-info-2026",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Papaya",
+    "slug": "papaya"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   },
+   {
+    "name": "Orange",
+    "slug": "orange"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is canned pineapple low FODMAP?",
+    "a": "In a smaller serve than fresh. Pineapple canned in syrup has the smallest low amount, so drain it and keep the portion modest."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "blueberries",
+  "name": "blueberries",
+  "aliases": [
+   "blueberry",
+   "frozen blueberries"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "blueberries",
+  "tier": "lab-tested",
+  "answer": "Yes, generously. After a 2022 retest Monash moved blueberries to low in a 1 cup serve, and dietitian sites report they stay low up to 500 g in its data. Monash and FODMAP Friendly both list them as low.",
+  "groups": [],
+  "servings": [
+   {
+    "form": "fresh or frozen blueberries",
+    "lowMaxG": 500,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 700,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b3-kk-blueberries-2024",
+     "b3-ge-blueberries-2026",
+     "b1-mon-where"
+    ],
+    "note": "500 g is the largest amount reported as still low, not a standard serve. No source names a limiting FODMAP at the amounts tested; the group shown is a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [
+   {
+    "date": "2022",
+    "text": "Blueberries used to be limited to about 20 berries. A 2022 Monash retest moved them to low in 1 cup serves.",
+    "sourceIds": [
+     "b3-alby-fruit-2023"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash suggests frozen berries as an easy way to keep low FODMAP fruit in the diet out of season, for example a handful on porridge.",
+    "sourceIds": [
+     "b3-mon-fruit-2017"
+    ]
+   },
+   {
+    "text": "Monash and FODMAP Friendly both list blueberries among their low FODMAP fruits.",
+    "sourceIds": [
+     "b1-mon-where",
+     "ff-list",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Raspberries",
+    "slug": "raspberries"
+   },
+   {
+    "name": "Strawberries",
+    "slug": "strawberries"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are blueberry muffins low FODMAP?",
+    "a": "The blueberries aren't the problem. Most muffins use wheat flour and sometimes honey, so look for a recipe made with gluten-free flour."
+   },
+   {
+    "q": "Why did older lists say to limit blueberries?",
+    "a": "Those lists predate Monash's 2022 retest, which found a much larger low serve."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "dates",
+  "name": "dates",
+  "aliases": [
+   "date",
+   "medjool dates",
+   "dried dates",
+   "pitted dates"
+  ],
+  "category": "fruit",
+  "regions": [
+   "middle-eastern",
+   "african",
+   "south-asian"
+  ],
+  "illustration": "dates",
+  "tier": "lab-tested",
+  "answer": "In small amounts. About 5 dried pitted dates (30 g) are low, rising to moderate in sorbitol and fructans from 46 g. A single Medjool date (20 g) is low; two are moderate and three are high.",
+  "groups": [
+   "fructans",
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "dried pitted dates",
+    "lowMaxG": 30,
+    "moderateFromG": 46,
+    "highFromG": 61,
+    "scaleMaxG": 85,
+    "groups": [
+     "fructans",
+     "sorbitol"
+    ],
+    "household": "5 dates",
+    "sourceIds": [
+     "b3-kk-dates-2024"
+    ]
+   },
+   {
+    "form": "Medjool dates",
+    "lowMaxG": 20,
+    "moderateFromG": 40,
+    "highFromG": 60,
+    "scaleMaxG": 85,
+    "groups": [
+     "fructans",
+     "sorbitol"
+    ],
+    "household": "1 date",
+    "sourceIds": [
+     "b3-kk-dates-2024",
+     "b3-dvd-stacking"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats gives the most that stays low as 45 g for common pitted dates and 39 g for Medjool.",
+    "sourceIds": [
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Drying concentrates the sugars, and Monash has found fructans in dried fruit that the fresh fruit doesn't have.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Both Monash and FODMAP Friendly put dried fruit in their high column, which is why dates come with a small serve.",
+    "sourceIds": [
+     "mon-step1",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Maple syrup",
+    "slug": "maple-syrup"
+   },
+   {
+    "name": "Firm banana",
+    "slug": "banana"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are fresh dates low FODMAP?",
+    "a": "We haven't found published lab data for fresh dates, only for dried and Medjool."
+   },
+   {
+    "q": "Can I use dates in baking?",
+    "a": "Yes, if each serving keeps to the low amount. Divide the dates in the recipe by the number of portions."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "apple",
+  "name": "apple",
+  "aliases": [
+   "apples",
+   "pink lady apple",
+   "granny smith apple",
+   "green apple",
+   "red apple"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "apple",
+  "tier": "lab-tested",
+  "answer": "Not in a normal serve. Apples are high in excess fructose and sorbitol. Only a small piece is low: about 20 g of unpeeled Pink Lady. It turns moderate from 31 g, and one medium apple (200 g) is high.",
+  "groups": [
+   "fructose",
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "Pink Lady apple, unpeeled",
+    "lowMaxG": 20,
+    "moderateFromG": 31,
+    "highFromG": 200,
+    "scaleMaxG": 280,
+    "groups": [
+     "fructose",
+     "sorbitol"
+    ],
+    "sourceIds": [
+     "b3-ge-apples-2026",
+     "b3-kk-fruits-2023",
+     "b3-dvd-stacking"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Granny Smith figures differ: Karlijn's Kitchen (2023) lists 25 g as low, while George Eats (2026) says unpeeled Granny Smith stays low up to 42 g.",
+    "sourceIds": [
+     "b3-kk-fruits-2023",
+     "b3-ge-apples-2026"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names apples among the fruits richest in both excess fructose and sorbitol, and lists apple juice as high.",
+    "sourceIds": [
+     "b1-mon-where",
+     "b3-mon-info-2026"
+    ]
+   },
+   {
+    "text": "George Eats reports applesauce is low only in tiny amounts and reconstituted apple juice is high at half a glass.",
+    "sourceIds": [
+     "b3-ge-apples-2026"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Orange",
+    "slug": "orange"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is apple cider vinegar low FODMAP?",
+    "a": "Vinegar is a different food from the fruit. See our apple cider vinegar page for its tested amount."
+   },
+   {
+    "q": "Does peeling an apple help?",
+    "a": "Only a little. Peeled apples still have a very small low serve and are high at one medium fruit."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "raspberries",
+  "name": "raspberries",
+  "aliases": [
+   "raspberry",
+   "frozen raspberries"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "raspberries",
+  "tier": "lab-tested",
+  "answer": "Yes, in a small bowl. Monash lists about 30 raspberries (60 g) as a low serve. From 75 g they turn moderate in excess fructose, so keep to about a third of a cup per sitting.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "fresh raspberries",
+    "lowMaxG": 60,
+    "moderateFromG": 75,
+    "highFromG": null,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructose"
+    ],
+    "household": "30 berries",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen and Diet vs Disease list 58 g. George Eats gives 74 g as the most that stays low.",
+    "sourceIds": [
+     "b3-kk-fruits-2023",
+     "b3-dvd-stacking",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "A Little Bit Yummy says Monash's 2026 data still puts the serve at about ⅓ cup (60 g), and suggests a scale since berry size varies.",
+    "sourceIds": [
+     "b3-alby-summer"
+    ]
+   },
+   {
+    "text": "Raspberries are a good fibre source within their low serve, according to Monash.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Blueberries",
+    "slug": "blueberries"
+   },
+   {
+    "name": "Strawberries",
+    "slug": "strawberries"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I eat raspberries and strawberries together?",
+    "a": "Both are limited by excess fructose, so a full serve of each adds up. Half a serve of each is the cautious way."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cherries",
+  "name": "cherries",
+  "aliases": [
+   "cherry",
+   "sweet cherries",
+   "fresh cherries"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "cherries",
+  "tier": "lab-tested",
+  "answer": "Mostly no. Cherries are high in sorbitol and excess fructose at a normal serve. A dietitian listing based on Monash data gives only 20 g of pitted fresh cherries as low.",
+  "groups": [
+   "sorbitol",
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "fresh cherries, pitted",
+    "lowMaxG": 20,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 30,
+    "groups": [
+     "sorbitol",
+     "fructose"
+    ],
+    "sourceIds": [
+     "b3-dvd-stacking"
+    ],
+    "note": "No public source gives the moderate or high amount. Monash and FODMAP Friendly both list cherries as high."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly says fresh cherries are not low FODMAP and gives no smaller allowed amount.",
+    "sourceIds": [
+     "b3-ff-cherries-2015"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names cherries among the fruits high in both excess fructose and sorbitol.",
+    "sourceIds": [
+     "b1-mon-where",
+     "b3-mon-info-2026"
+    ]
+   },
+   {
+    "text": "Karlijn's Kitchen puts cherries on its avoid list for the elimination phase, as the low amount is 20 g or less.",
+    "sourceIds": [
+     "b3-kk-fruits-2023"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Raspberries",
+    "slug": "raspberries"
+   },
+   {
+    "name": "Blueberries",
+    "slug": "blueberries"
+   },
+   {
+    "name": "Strawberries",
+    "slug": "strawberries"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are dried or canned cherries any better?",
+    "a": "We haven't found public lab data for them. Dried fruit usually concentrates FODMAPs, so don't assume it's lower."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "orange",
+  "name": "orange",
+  "aliases": [
+   "oranges",
+   "navel orange"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "orange",
+  "tier": "lab-tested",
+  "answer": "Yes. One medium peeled orange (130 g) is a low serve in Monash's published fibre guide. A George Eats listing puts moderate, from excess fructose, at 152 g.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "navel orange, peeled",
+    "lowMaxG": 130,
+    "moderateFromG": 152,
+    "highFromG": null,
+    "scaleMaxG": 215,
+    "groups": [
+     "fructose"
+    ],
+    "household": "1 medium",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats gives 151 g as the most that stays low and notes the Monash app now lists only navel oranges.",
+    "sourceIds": [
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Freshly squeezed orange juice has a much smaller low amount than the whole fruit: about 72 g in one dietitian listing.",
+    "sourceIds": [
+     "b3-dvd-stacking"
+    ]
+   },
+   {
+    "text": "Monash and FODMAP Friendly both list oranges among low FODMAP fruits.",
+    "sourceIds": [
+     "b3-mon-info-2026",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   },
+   {
+    "name": "Papaya",
+    "slug": "papaya"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is orange juice low FODMAP?",
+    "a": "Only a small glass. Juicing packs several oranges into one drink, so the whole fruit is the easier choice."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cantaloupe",
+  "name": "cantaloupe",
+  "aliases": [
+   "rockmelon",
+   "rock melon",
+   "muskmelon",
+   "orange melon"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "cantaloupe",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash's 2026 info sheet lists ¾ cup of cantaloupe (120 g) as low. Fructans rise with bigger slices, reaching moderate at about 150 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh cantaloupe",
+    "lowMaxG": 120,
+    "moderateFromG": 150,
+    "highFromG": null,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructans"
+    ],
+    "household": "¾ cup",
+    "sourceIds": [
+     "b3-mon-info-2026",
+     "b3-kk-melon-2024",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Diet vs Disease lists 121 g, and George Eats gives 149 g as the most that stays low.",
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "A Little Bit Yummy suggests cantaloupe as a swap for grapes on a cheese board since grapes were retested.",
+    "sourceIds": [
+     "b3-alby-grapes-2024"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Honeydew melon",
+    "slug": "honeydew"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   },
+   {
+    "name": "Papaya",
+    "slug": "papaya"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is cantaloupe lower in FODMAPs than watermelon?",
+    "a": "Yes, by a lot. Cantaloupe has a ¾ cup low serve, while watermelon is low only in a spoonful."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "mango",
+  "name": "mango",
+  "aliases": [
+   "mangoes",
+   "mangos",
+   "fresh mango"
+  ],
+  "category": "fruit",
+  "regions": [
+   "south-asian",
+   "latin-american",
+   "african"
+  ],
+  "illustration": "mango",
+  "tier": "lab-tested",
+  "answer": "No, except a bite. Mango is high in excess fructose. Newer dietitian listings based on Monash data give about 7 g as low and moderate from 9 g, far less than the 40 g quoted on older lists.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "fresh mango",
+    "lowMaxG": 7,
+    "moderateFromG": 9,
+    "highFromG": null,
+    "scaleMaxG": 13,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "2018 to 2024",
+    "text": "Older listings gave 40 g as low, 50 g as moderate and 140 g as high. Listings from late 2024 onward give about 7 g, so mango appears to have been retested.",
+    "sourceIds": [
+     "b3-alby-app-2018",
+     "b3-kk-fruits-2023",
+     "b3-dvd-stacking",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash names mango among the fruits particularly high in excess fructose. FODMAP Friendly also lists it as high.",
+    "sourceIds": [
+     "b1-mon-where",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Papaya",
+    "slug": "papaya"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is dried mango low FODMAP?",
+    "a": "We haven't found a public low amount for dried mango. Dried fruit concentrates sugars, so expect it to be higher than fresh."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "kiwi",
+  "name": "kiwi fruit",
+  "aliases": [
+   "kiwi",
+   "kiwifruit",
+   "green kiwi",
+   "gold kiwi",
+   "kiwis"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "kiwi",
+  "tier": "lab-tested",
+  "answer": "Yes. Two small peeled kiwi fruit (150 g) are a low serve for both green and gold kiwi in Monash's published fibre guide. Larger amounts add fructans.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "green kiwi fruit, peeled",
+    "lowMaxG": 150,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 small",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b3-dvd-stacking"
+    ]
+   },
+   {
+    "form": "gold kiwi fruit, peeled",
+    "lowMaxG": 150,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 small",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats says green kiwi turns moderate in fructans only above 275 g and gold above 178 g. Karlijn's Kitchen (2023) listed 240 g (3 kiwis) of green as low.",
+    "sourceIds": [
+     "ge-fruits",
+     "b3-kk-fruits-2023"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Green kiwi is one of the higher-fibre low FODMAP fruits in Monash's fibre guide.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly also rates 2 kiwi fruit as low and mentions them as a daily option for people prone to constipation.",
+    "sourceIds": [
+     "b3-ff-fruit-2020"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Orange",
+    "slug": "orange"
+   },
+   {
+    "name": "Blueberries",
+    "slug": "blueberries"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I eat kiwi skin?",
+    "a": "We haven't found lab data for unpeeled kiwi. The tested serves are for peeled fruit."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cranberries",
+  "name": "cranberries",
+  "aliases": [
+   "cranberry",
+   "dried cranberries",
+   "craisins",
+   "fresh cranberries"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "cranberries",
+  "tier": "lab-tested",
+  "answer": "Dried cranberries are low in a small handful: about 22 g in a recent dietitian listing based on Monash data. Monash says dried cranberries turn high only in larger serves. Fructans are the main FODMAP.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "dried cranberries",
+    "lowMaxG": 22,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 31,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "mon-faq"
+    ],
+    "note": "No public source gives the moderate or high amount."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Low amounts for dried cranberries vary: 22 g (Diet vs Disease), 15 g (Karlijn's Kitchen, 2023) and a preliminary Monash figure of 1 tablespoon (9 g) from 2015.",
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "b3-kk-fruits-2023",
+     "b3-mon-berries-2015"
+    ]
+   },
+   {
+    "text": "For fresh cranberries, Karlijn's Kitchen lists 90 g as low and A Little Bit Yummy 50 g. We don't show a bar until the figures agree.",
+    "sourceIds": [
+     "b3-kk-fruits-2023",
+     "b3-alby-summer"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash suggests dried cranberries as a low FODMAP dried-fruit snack and lists cranberry juice among low FODMAP options.",
+    "sourceIds": [
+     "b3-mon-med-2016",
+     "b1-mon-where"
+    ]
+   },
+   {
+    "text": "Monash's 2015 berry analysis found cranberries contain fructans, so big servings are the thing to avoid.",
+    "sourceIds": [
+     "b3-mon-berries-2015"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Raisins (smaller serve)",
+    "slug": "raisins"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   },
+   {
+    "name": "Blueberries",
+    "slug": "blueberries"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is cranberry sauce low FODMAP?",
+    "a": "Monash publishes a cranberry sauce recipe for 16 servings that uses dried cranberries, blueberries and cranberry juice. Shop sauces vary, so check the label."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "lemon",
+  "name": "lemon",
+  "aliases": [
+   "lemons",
+   "lemon juice",
+   "fresh lemon juice"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "mediterranean",
+   "middle-eastern"
+  ],
+  "illustration": "lemon",
+  "tier": "lab-tested",
+  "answer": "Yes, for normal cooking amounts. Monash uses a tablespoon of fresh lemon juice (20 g) as a low serve in its meal example. Dietitian sites report it stays low in far larger amounts.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh lemon juice",
+    "lowMaxG": 20,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 30,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 tablespoon",
+    "sourceIds": [
+     "mon-step1"
+    ],
+    "note": "20 g is Monash's example serve, not an upper limit."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Diet vs Disease lists 21 mL, close to Monash's tablespoon. Others report far more: 125 g (Karlijn's Kitchen, 2023) and up to 177 g, with moderate fructans from 178 g (George Eats).",
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "b3-kk-fruits-2023",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash suggests a little cut lemon in water as a low FODMAP way to flavour drinks.",
+    "sourceIds": [
+     "b3-mon-summer-2025"
+    ]
+   },
+   {
+    "text": "George Eats reports lemon zest is low in amounts far beyond anything a recipe uses.",
+    "sourceIds": [
+     "ge-fruits"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lime juice"
+   },
+   {
+    "name": "Apple cider vinegar",
+    "slug": "apple-cider-vinegar"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is lemon water low FODMAP?",
+    "a": "Yes. A squeeze of lemon in water is well under the tested amounts."
+   },
+   {
+    "q": "Is the whole lemon low FODMAP?",
+    "a": "Public data covers lemon juice and zest. We haven't found a figure for eating the whole fruit."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "papaya",
+  "name": "papaya",
+  "aliases": [
+   "papayas",
+   "pawpaw",
+   "paw paw",
+   "green papaya",
+   "yellow papaya"
+  ],
+  "category": "fruit",
+  "regions": [
+   "latin-american",
+   "south-asian",
+   "east-asian",
+   "african"
+  ],
+  "illustration": "papaya",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists papaya among its low FODMAP fruits, and dietitian sites report that both green and yellow papaya stay low up to 500 g in its data. That makes it one of the most generous fruits.",
+  "groups": [],
+  "servings": [
+   {
+    "form": "fresh yellow or green papaya",
+    "lowMaxG": 500,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 700,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "ge-fruits",
+     "b3-kk-fruits-2023",
+     "mon-step1"
+    ],
+    "note": "500 g is the largest amount reported as still low, not a standard serve. No source names a limiting FODMAP at the amounts tested; the group shown is a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash lists yellow papaya as a low FODMAP swap and includes papaya in its shopping list and summer fruit picks.",
+    "sourceIds": [
+     "mon-step1",
+     "mon-shop-2025",
+     "b3-mon-summer-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   },
+   {
+    "name": "Cantaloupe",
+    "slug": "cantaloupe"
+   },
+   {
+    "name": "Kiwi fruit",
+    "slug": "kiwi"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is green papaya salad low FODMAP?",
+    "a": "The green papaya is. Thai-style dressings often add garlic and shallots, so ask for them to be left out or check the recipe."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "raisins",
+  "name": "raisins",
+  "aliases": [
+   "raisin",
+   "sultanas",
+   "golden raisins"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "middle-eastern",
+   "south-asian"
+  ],
+  "illustration": "raisins",
+  "tier": "lab-tested",
+  "answer": "Only a pinch. Recent dietitian listings based on Monash data give about 4 g of raisins as low, limited by excess fructose. Sultanas are listed at about 7 g. Older advice said a tablespoon (13 g).",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "raisins",
+    "lowMaxG": 4,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 6,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "b3-kk-oliebollen-2025"
+    ],
+    "note": "No public source gives the moderate or high amount."
+   },
+   {
+    "form": "sultanas",
+    "lowMaxG": 7,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructose",
+     "fructans"
+    ],
+    "sourceIds": [
+     "b3-dvd-stacking"
+    ],
+    "note": "No public source gives the moderate or high amount."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2015 to 2025",
+    "text": "In 2015 Monash listed 1 tablespoon (13 g) of raisins as low at a half serve. Listings from 2024 and 2025 give 4 g, which suggests a retest.",
+    "sourceIds": [
+     "b1-mon-10foods-2015",
+     "b3-dvd-stacking",
+     "b3-kk-oliebollen-2025"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen still gives 13 g on an older recipe page but 4 g on a page updated in December 2025.",
+    "sourceIds": [
+     "b3-kk-raisinbuns",
+     "b3-kk-oliebollen-2025"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Drying concentrates sugars, and Monash has found fructans in dried fruit that the fresh fruit lacks.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Both Monash and FODMAP Friendly put dried fruit in the high column.",
+    "sourceIds": [
+     "mon-step1",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Dried cranberries",
+    "slug": "cranberries"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are raisins in cereal or baking a problem?",
+    "a": "They can be, because the low amount is tiny. Divide the raisins in a recipe by the servings to check."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "honeydew",
+  "name": "honeydew melon",
+  "aliases": [
+   "honeydew",
+   "honey melon",
+   "green melon"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global"
+  ],
+  "illustration": "honeydew",
+  "tier": "lab-tested",
+  "answer": "Yes, in a half-cup serve. About ½ cup of honeydew (90 g) is low. Fructans rise from 116 g (moderate), and a full cup (150 g) is high.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh honeydew melon",
+    "lowMaxG": 90,
+    "moderateFromG": 116,
+    "highFromG": 150,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructans"
+    ],
+    "household": "½ cup",
+    "sourceIds": [
+     "b3-kk-melon-2024",
+     "ge-fruits",
+     "b3-alby-summer"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Diet vs Disease lists 92 g. George Eats gives 115 g as the most that stays low.",
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [],
+  "swaps": [
+   {
+    "name": "Cantaloupe",
+    "slug": "cantaloupe"
+   },
+   {
+    "name": "Papaya",
+    "slug": "papaya"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is honeydew better than watermelon on a low FODMAP diet?",
+    "a": "Yes. Honeydew has a half-cup low serve, while watermelon is low only in a spoonful."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "olives",
+  "name": "olives",
+  "aliases": [
+   "olive",
+   "black olives",
+   "green olives",
+   "kalamata olives"
+  ],
+  "category": "fruit",
+  "regions": [
+   "mediterranean",
+   "middle-eastern"
+  ],
+  "illustration": "olives",
+  "tier": "lab-tested",
+  "answer": "Yes. Plain green and black olives are reported to stay low FODMAP up to 500 g in Monash's data, and FODMAP Friendly lists olives as low. Marinated olives are different: garlic or onion in the mix is the problem.",
+  "groups": [],
+  "servings": [
+   {
+    "form": "green or black olives, in brine",
+    "lowMaxG": 500,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 700,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b3-ge-olives-2026",
+     "b1-kk-veglist",
+     "ff-list"
+    ],
+    "note": "500 g is the largest amount reported as still low, far more than a normal portion. No source names a limiting FODMAP at the amounts tested; the group shown is a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Check the label on marinated or stuffed olives: garlic and onion are common, and both are high in fructans.",
+    "sourceIds": [
+     "b3-ge-olives-2026"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Feta",
+    "slug": "feta"
+   },
+   {
+    "name": "Olive oil",
+    "slug": "olive-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are Kalamata olives low FODMAP?",
+    "a": "We haven't found a separate lab result for Kalamata. Plain green and black olives tested low."
+   },
+   {
+    "q": "Is olive oil low FODMAP?",
+    "a": "Yes. See our olive oil page for the details."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "coconut",
+  "name": "coconut",
+  "aliases": [
+   "fresh coconut",
+   "coconut flesh",
+   "shredded coconut",
+   "desiccated coconut"
+  ],
+  "category": "fruit",
+  "regions": [
+   "south-asian",
+   "east-asian",
+   "latin-american",
+   "african"
+  ],
+  "illustration": "coconut",
+  "tier": "lab-tested",
+  "answer": "Yes, in measured amounts. ⅔ cup of fresh coconut flesh (64 g) is low in Monash's fibre guide, with sorbitol moderate from 96 g. Shredded coconut is low at ½ cup (30 g).",
+  "groups": [
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "fresh coconut flesh",
+    "lowMaxG": 64,
+    "moderateFromG": 96,
+    "highFromG": null,
+    "scaleMaxG": 135,
+    "groups": [
+     "sorbitol"
+    ],
+    "household": "⅔ cup",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b3-kk-coconut-2024",
+     "b3-ge-coconut-2026"
+    ]
+   },
+   {
+    "form": "dried shredded (desiccated) coconut",
+    "lowMaxG": 30,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 42,
+    "groups": [
+     "sorbitol"
+    ],
+    "household": "½ cup",
+    "sourceIds": [
+     "b3-kk-coconut-2024",
+     "b3-dvd-stacking"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Diet vs Disease lists 81 g of fresh flesh as low, and George Eats gives 95 g as the most that stays low.",
+    "sourceIds": [
+     "b3-dvd-stacking",
+     "b3-ge-coconut-2026"
+    ]
+   },
+   {
+    "text": "For shredded coconut, Karlijn's Kitchen puts moderate at 45 g, but George Eats says 35 g.",
+    "sourceIds": [
+     "b3-kk-coconut-2024",
+     "b3-ge-coconut-2026"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Coconut flour is a different story: it's reported high in fructose, sorbitol and fructans at 100 g.",
+    "sourceIds": [
+     "b3-kk-coconut-2024",
+     "b3-ge-coconut-2026"
+    ]
+   },
+   {
+    "text": "Fresh coconut is one of the higher-fibre foods in Monash's low FODMAP fibre guide.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Coconut milk",
+    "slug": "coconut-milk"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is coconut milk low FODMAP?",
+    "a": "It depends on the type and amount. See our coconut milk page."
+   },
+   {
+    "q": "Is coconut water low FODMAP?",
+    "a": "In a glass-sized serve, according to dietitian sites. Larger amounts add sorbitol and fructans."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "watermelon",
+  "name": "watermelon",
+  "aliases": [
+   "water melon"
+  ],
+  "category": "fruit",
+  "regions": [
+   "global",
+   "middle-eastern"
+  ],
+  "illustration": "watermelon",
+  "tier": "lab-tested",
+  "answer": "No. Watermelon is high in excess fructose, and at 150 g also in mannitol and fructans. Only about 18 g, a few teaspoons, is low; it's moderate from 24 g and high from 150 g.",
+  "groups": [
+   "fructose",
+   "mannitol",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh watermelon",
+    "lowMaxG": 18,
+    "moderateFromG": 24,
+    "highFromG": 150,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructose",
+     "mannitol",
+     "fructans"
+    ],
+    "household": "3 teaspoons",
+    "sourceIds": [
+     "b3-kk-melon-2024",
+     "ge-fruits",
+     "b3-dvd-stacking"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats gives 23 g as the most that stays low.",
+    "sourceIds": [
+     "ge-fruits"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash and FODMAP Friendly both list watermelon in their high FODMAP fruit column.",
+    "sourceIds": [
+     "b3-mon-info-2026",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Monash names watermelon among the fruits particularly high in excess fructose.",
+    "sourceIds": [
+     "b1-mon-where"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cantaloupe",
+    "slug": "cantaloupe"
+   },
+   {
+    "name": "Honeydew melon",
+    "slug": "honeydew"
+   },
+   {
+    "name": "Pineapple",
+    "slug": "pineapple"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I have watermelon once I finish the elimination phase?",
+    "a": "If you tolerate fructose, mannitol and fructans in reintroduction, you may handle more. Test it on its own."
+   },
+   {
+    "q": "Is watermelon juice low FODMAP?",
+    "a": "We haven't found lab data for it. It comes from the same high-FODMAP fruit, so expect it to be high."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "sourdough-bread",
+  "name": "sourdough bread",
+  "aliases": [
+   "sourdough",
+   "white sourdough",
+   "wheat sourdough",
+   "wholemeal sourdough"
+  ],
+  "category": "grains",
+  "regions": [
+   "global"
+  ],
+  "illustration": "sourdough-bread",
+  "tier": "lab-tested",
+  "answer": "Yes, at about 2 slices. FODMAP sites citing Monash's tests put white wheat sourdough low at 109 g (2 slices) and wholemeal wheat sourdough at 97 g. The long rise lets the starter's yeast and bacteria break down much of the fructan in the flour.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "white wheat sourdough",
+    "lowMaxG": 109,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 160,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 slices",
+    "sourceIds": [
+     "b4-kk-bread",
+     "b4-alby-sourdough"
+    ],
+    "note": "Weights come from FODMAP sites that cite Monash. Monash's own posts say tested sourdoughs meet its low criteria but don't print the grams."
+   },
+   {
+    "form": "wholemeal wheat sourdough",
+    "lowMaxG": 97,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 140,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 slices",
+    "sourceIds": [
+     "b4-kk-bread",
+     "b4-alby-sourdough"
+    ]
+   },
+   {
+    "form": "oat sourdough",
+    "lowMaxG": 26,
+    "moderateFromG": 52,
+    "highFromG": null,
+    "scaleMaxG": 75,
+    "groups": [
+     "gos"
+    ],
+    "household": "1 slice",
+    "sourceIds": [
+     "b4-alby-sourdough",
+     "b4-kk-bread",
+     "b4-mon-wheat-2015"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "2015",
+    "text": "Kate Scarlata reported that Monash had tested US white and wholemeal wheat sourdoughs and found 2 slices low. Before that, spelt sourdough was the main sourdough with a published low serve.",
+    "sourceIds": [
+     "b4-scarlata-sourdough-2015",
+     "b4-mon-wheat-2015"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Spelt sourdough: Monash's 2015 post lists 2 slices as low but gives no weight, while Karlijn's Kitchen lists 41 g (2.5 slices). Slice size varies a lot between loaves, so weighing helps.",
+    "sourceIds": [
+     "b4-mon-wheat-2015",
+     "b4-kk-bread"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash explains two reasons sourdough can be low: spelt flour starts with less fructan than modern wheat, and a proving time of often more than 12 hours lets the culture ferment the FODMAPs.",
+    "sourceIds": [
+     "b4-mon-sourdough-2017"
+    ]
+   },
+   {
+    "text": "Both Monash's shopping list and FODMAP Friendly's food list put sourdough bread on the low side.",
+    "sourceIds": [
+     "mon-shop-2025",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Check the label for honey or high fructose corn syrup, and look for a sourdough starter or culture in the ingredients.",
+    "sourceIds": [
+     "b4-alby-sourdough",
+     "b4-scarlata-sourdough-2015"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Gluten-free bread"
+   },
+   {
+    "name": "Spelt sourdough"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is supermarket sourdough low FODMAP?",
+    "a": "Only if it's made with a real starter and a long rise. Look for a sourdough culture on the ingredient list and skip loaves sweetened with honey."
+   },
+   {
+    "q": "Can I eat sourdough toast at every meal?",
+    "a": "Monash serve sizes are per meal, so a low serve at breakfast and another at dinner is how the diet is set up. Leave a few hours between them."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "oats",
+  "name": "oats",
+  "aliases": [
+   "rolled oats",
+   "oatmeal",
+   "porridge oats",
+   "quick oats",
+   "old-fashioned oats"
+  ],
+  "category": "grains",
+  "regions": [
+   "global"
+  ],
+  "illustration": "oats",
+  "tier": "lab-tested",
+  "answer": "Yes, in a half-cup serve. Monash lists ½ cup of uncooked rolled oats (52 g) as a low FODMAP serve. Quick oats have a smaller reported low serve of 23 g, and larger bowls add GOS and fructans.",
+  "groups": [
+   "fructans",
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "rolled oats, uncooked",
+    "lowMaxG": 52,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 80,
+    "groups": [
+     "fructans",
+     "gos"
+    ],
+    "household": "½ cup",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   },
+   {
+    "form": "quick oats, uncooked",
+    "lowMaxG": 23,
+    "moderateFromG": 47,
+    "highFromG": null,
+    "scaleMaxG": 70,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "sourceIds": [
+     "b4-kk-oats"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "2015 → 2021",
+    "text": "Monash's 2015 wheat-swap table suggested ¼ cup of oats. Its 2021 fibre guide lists ½ cup (52 g) of rolled oats as the low serve.",
+    "sourceIds": [
+     "b4-mon-wheat-2015",
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen notes that Quaker quick oats are listed low at 40 g while generic quick oats are low only at 23 g. A tested brand can differ from the average.",
+    "sourceIds": [
+     "b4-kk-oats"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "In Monash's lab analysis of 55 grain products, oats were at the low end for fructans, about 0.11 g per portion.",
+    "sourceIds": [
+     "b4-biesiekierski-2011"
+    ]
+   },
+   {
+    "text": "Monash says oats contain gluten but are fairly low in FODMAPs, so they fit a low FODMAP diet in the right serve.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "A ½ cup serve of rolled oats adds about 5 g of fibre.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Quinoa flakes"
+   },
+   {
+    "name": "Rice flakes"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is oatmeal low FODMAP?",
+    "a": "Yes, if you keep to about ½ cup of dry rolled oats and cook them with a low FODMAP milk. Honey and dried fruit on top add FODMAPs."
+   },
+   {
+    "q": "Are overnight oats low FODMAP?",
+    "a": "Soaking doesn't change the oat serve, so stay near ½ cup dry. The yogurt, milk and fruit you add count too."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "rice",
+  "name": "rice",
+  "aliases": [
+   "white rice",
+   "basmati rice",
+   "jasmine rice",
+   "cooked rice",
+   "arborio rice"
+  ],
+  "category": "grains",
+  "regions": [
+   "global",
+   "east-asian",
+   "south-asian",
+   "middle-eastern"
+  ],
+  "illustration": "rice",
+  "tier": "lab-tested",
+  "answer": "Yes. Rice is one of the easiest low FODMAP staples. Monash researchers found no measurable fructan in it, and A Little Bit Yummy, citing Monash, gives 1 cup of cooked white rice (190 g) as the serve. Newer reports put the low amount much higher.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "white rice, cooked",
+    "lowMaxG": 190,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 280,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup",
+    "sourceIds": [
+     "b4-alby-rice"
+    ],
+    "note": "A typical serve, not a limit: later reports rate much more as low."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats (checked August 2026) reports that Monash now rates cooked white, jasmine, basmati and arborio rice low up to 500 g.",
+    "sourceIds": [
+     "b4-ge-rice"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "In Monash's 2011 analysis of grain foods, rice had 0 g of fructan per portion, the lowest of all products tested.",
+    "sourceIds": [
+     "b4-biesiekierski-2011"
+    ]
+   },
+   {
+    "text": "A 2024 lab study of cooked grains found white long-grain, basmati, jasmine and arborio rice all below the 0.3 g fructan cut-off per serve.",
+    "sourceIds": [
+     "b4-pejcz-2024"
+    ]
+   },
+   {
+    "text": "Rice snacks are different: rice cakes are reported to turn moderate in fructans from about 35 g (5 cakes), probably from processing.",
+    "sourceIds": [
+     "b4-ge-rice"
+    ]
+   },
+   {
+    "text": "Rice is on the low list of both Monash and FODMAP Friendly.",
+    "sourceIds": [
+     "mon-step1",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Brown rice",
+    "slug": "brown-rice"
+   },
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are rice cakes low FODMAP?",
+    "a": "Only a few. Sources differ, from 2 cakes to about 34 g, and larger amounts become moderate or high in fructans."
+   },
+   {
+    "q": "Is sushi rice low FODMAP?",
+    "a": "Sushi rice was below the fructan cut-off in a 2024 lab study. Watch the extras, like large amounts of avocado."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "brown-rice",
+  "name": "brown rice",
+  "aliases": [
+   "wholegrain rice",
+   "whole grain rice",
+   "cooked brown rice"
+  ],
+  "category": "grains",
+  "regions": [
+   "global",
+   "east-asian",
+   "south-asian"
+  ],
+  "illustration": "brown-rice",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash's fibre guide lists 1 cup of cooked brown rice (180 g) as a low FODMAP serve, and it adds about 3 g of fibre. Brown rice holds a little more fructan than white rice in lab tests, but a normal bowl is still low.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "brown rice, boiled",
+    "lowMaxG": 180,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 260,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup cooked",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats (August 2026) reports a much larger low amount for cooked brown rice: up to 500 g.",
+    "sourceIds": [
+     "b4-ge-rice",
+     "b4-ge-fibre"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "In a 2024 study of cooked grains, brown rice had the most fructan of the rice types tested.",
+    "sourceIds": [
+     "b4-pejcz-2024"
+    ]
+   },
+   {
+    "text": "Brown rice is on Monash's list of whole grains it has tested and found low.",
+    "sourceIds": [
+     "b4-mon-grains-2016"
+    ]
+   },
+   {
+    "text": "Brown rice flour is a different story: it's reported as moderate in fructans at 100 g.",
+    "sourceIds": [
+     "b4-ge-rice"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "White rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is brown rice better than white rice for IBS?",
+    "a": "Both have low FODMAP serves. Brown rice has more fibre, which helps some people and bothers others, so a dietitian can help you choose."
+   },
+   {
+    "q": "Is brown rice pasta low FODMAP?",
+    "a": "It's reported low up to about 421 g cooked, with moderate fructans in bigger serves."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "quinoa",
+  "name": "quinoa",
+  "aliases": [
+   "white quinoa",
+   "red quinoa",
+   "black quinoa",
+   "quinoa grain"
+  ],
+  "category": "grains",
+  "regions": [
+   "global",
+   "latin-american"
+  ],
+  "illustration": "quinoa",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists 1 cup of quinoa cooked in water (155 g) as a low FODMAP serve, with about 3 g of fibre. Quinoa flakes, flour and pasta were also tested low, so it's a handy swap for couscous or bulgur.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "quinoa, cooked in water",
+    "lowMaxG": 155,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 220,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup cooked",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats (August 2026) reports much larger low amounts: up to 500 g for white and black quinoa and 421 g for red quinoa, which turns moderate in fructans from 422 g.",
+    "sourceIds": [
+     "b4-ge-fibre"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's list of whole grains tested low includes quinoa grain, flakes, flour and pasta.",
+    "sourceIds": [
+     "b4-mon-grains-2016"
+    ]
+   },
+   {
+    "text": "Monash's wheat-swap table suggests 1 cup of quinoa flakes or 1 cup of quinoa pasta.",
+    "sourceIds": [
+     "b4-mon-wheat-2015"
+    ]
+   },
+   {
+    "text": "Monash suggests rinsing quinoa, then simmering it for 10 to 12 minutes.",
+    "sourceIds": [
+     "b4-mon-nontrad-2017"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Buckwheat",
+    "slug": "buckwheat"
+   },
+   {
+    "name": "Millet",
+    "slug": "millet"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is quinoa tabbouleh low FODMAP?",
+    "a": "Using quinoa instead of bulgur is a common low FODMAP version. Check the rest of the salad, especially any onion."
+   },
+   {
+    "q": "Is red quinoa different?",
+    "a": "It's reported to have a slightly smaller upper limit than white or black quinoa, but a normal 1 cup serve is fine on the published data."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "pasta",
+  "name": "wheat pasta",
+  "aliases": [
+   "pasta",
+   "spaghetti",
+   "penne",
+   "macaroni",
+   "regular pasta"
+  ],
+  "category": "grains",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "pasta",
+  "tier": "lab-tested",
+  "answer": "Only a small bowl. Monash rates ½ cup of cooked wheat pasta (74 g) low, but a full serve, twice that, is rated high in fructans. Gluten-free or quinoa pasta, at about 1 cup, lets you eat a normal plate.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "wheat pasta, cooked",
+    "lowMaxG": 74,
+    "moderateFromG": null,
+    "highFromG": 148,
+    "scaleMaxG": 210,
+    "groups": [
+     "fructans"
+    ],
+    "household": "½ cup cooked",
+    "sourceIds": [
+     "b1-mon-10foods-2015",
+     "b4-ff-wheatbread-2017"
+    ],
+    "note": "Monash rates the full serve, twice the 74 g half serve, red. We show it as high from 148 g."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "FODMAP Friendly also says ½ cup of wheat pasta is low enough in fructans to count as low.",
+    "sourceIds": [
+     "b4-ff-wheatbread-2017"
+    ]
+   },
+   {
+    "text": "Wheat pasta is on Monash's list of high FODMAP grains at a usual serve, and it's one of the foods used to test fructans in the reintroduction step.",
+    "sourceIds": [
+     "mon-step1",
+     "b4-mon-step2"
+    ]
+   },
+   {
+    "text": "Monash's swap table suggests 1 cup of gluten-free or quinoa pasta instead.",
+    "sourceIds": [
+     "b4-mon-wheat-2015"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Gluten-free pasta"
+   },
+   {
+    "name": "Rice noodles"
+   },
+   {
+    "name": "Quinoa pasta",
+    "slug": "quinoa"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is gluten-free pasta low FODMAP?",
+    "a": "Usually, and Monash suggests a 1 cup serve. Check the label, because some gluten-free products use soy or legume flours, which are higher."
+   },
+   {
+    "q": "Can I just eat less regular pasta?",
+    "a": "Yes. Half a cup cooked is low, so a small side of wheat pasta works during the elimination phase."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "buckwheat",
+  "name": "buckwheat",
+  "aliases": [
+   "buckwheat groats",
+   "kasha",
+   "buckwheat flour"
+  ],
+  "category": "grains",
+  "regions": [
+   "global"
+  ],
+  "illustration": "buckwheat",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists ¾ cup of cooked buckwheat groats (135 g) as a low FODMAP serve, giving about 7 g of fibre. Despite the name it isn't wheat, and buckwheat flour is reported low at 100 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "buckwheat groats, cooked",
+    "lowMaxG": 135,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 190,
+    "groups": [
+     "fructans"
+    ],
+    "household": "¾ cup cooked",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   },
+   {
+    "form": "buckwheat flour",
+    "lowMaxG": 100,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 200,
+    "groups": [
+     "fructans"
+    ],
+    "household": "⅔ cup",
+    "sourceIds": [
+     "b4-kk-flours",
+     "b4-ge-fibre"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "For buckwheat flour, Monash gives no upper limit, while the FODMAP Friendly app is reported to list it low up to 143 g.",
+    "sourceIds": [
+     "b4-ge-fibre"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's list of whole grains tested low includes buckwheat kernels and flour.",
+    "sourceIds": [
+     "b4-mon-grains-2016"
+    ]
+   },
+   {
+    "text": "In a 2024 lab study, white and roasted buckwheat groats were both below the 0.3 g fructan cut-off per serve.",
+    "sourceIds": [
+     "b4-pejcz-2024"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Millet",
+    "slug": "millet"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is buckwheat a kind of wheat?",
+    "a": "No. Despite the name, buckwheat isn't wheat, and Monash lists it among low FODMAP grains with a generous serve."
+   },
+   {
+    "q": "Are buckwheat pancakes low FODMAP?",
+    "a": "Buckwheat flour itself is low at 100 g. Check the rest of the recipe: regular milk and wheat flour add FODMAPs."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "couscous",
+  "name": "couscous",
+  "aliases": [
+   "wheat couscous",
+   "cous cous",
+   "pearl couscous",
+   "Israeli couscous"
+  ],
+  "category": "grains",
+  "regions": [
+   "middle-eastern",
+   "african",
+   "mediterranean"
+  ],
+  "illustration": "couscous",
+  "tier": "lab-tested",
+  "answer": "No, wheat couscous is high in fructans. In a 2024 lab study, a 50 g dry serve held about 1 g of fructans, over three times the low cut-off, and Monash and FODMAP Friendly both list couscous as high. Quinoa, rice or gluten-free couscous are swaps.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "wheat couscous, dry (before cooking)",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": 50,
+    "scaleMaxG": 70,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b4-pejcz-2024",
+     "mon-step1",
+     "ff-list"
+    ],
+    "note": "Measured at 1.02 g of fructans per 50 g dry serve; the low cut-off is 0.3 g. No public low serve was found."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "In Monash's 2011 analysis of 55 grain foods, couscous had the most fructan per portion, 1.12 g.",
+    "sourceIds": [
+     "b4-biesiekierski-2011"
+    ]
+   },
+   {
+    "text": "Monash uses wheat couscous as one of its test foods for fructans in the reintroduction step.",
+    "sourceIds": [
+     "b4-mon-step2"
+    ]
+   },
+   {
+    "text": "Monash's shopping list includes gluten-free couscous among low FODMAP grains; check its ingredients first.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Millet",
+    "slug": "millet"
+   },
+   {
+    "name": "Gluten-free couscous"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is pearl (Israeli) couscous low FODMAP?",
+    "a": "It's also made from wheat, so expect it to behave like regular couscous. No public lab result exists for it."
+   },
+   {
+    "q": "How much couscous can I have?",
+    "a": "No low serve has been published. A 50 g dry portion was already well above the fructan cut-off in testing."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "barley",
+  "name": "barley",
+  "aliases": [
+   "pearl barley",
+   "pearled barley",
+   "barley grain"
+  ],
+  "category": "grains",
+  "regions": [
+   "global",
+   "middle-eastern"
+  ],
+  "illustration": "barley",
+  "tier": "lab-tested",
+  "answer": "Mostly no. Monash groups barley with wheat and rye as high-fructan grains, and its lab rated plain barley grain red. Sprouting changed that: sprouted barley tested low. Some sites report a tiny low serve of cooked pearl barley, but we couldn't verify it.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "pearl barley, cooked",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 120,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b4-mon-wheat-2015",
+     "b4-mon-sprouting-2017"
+    ],
+    "note": "No verified gram figures. Monash rates a standard serve of barley high in fructans."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "A FODMAP Everyday page is reported to list ⅛ cup (28 g) of cooked pearl barley as low. We only saw this in a search result and couldn't open the page.",
+    "sourceIds": [
+     "b4-fe-barley"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "When Monash sprouted barley grain, its FODMAP content fell enough to change the rating from red to green.",
+    "sourceIds": [
+     "b4-mon-sprouting-2017"
+    ]
+   },
+   {
+    "text": "An NHS low FODMAP diet sheet lists pearl barley as a food to avoid but sprouted pearl barley as a suitable alternative.",
+    "sourceIds": [
+     "b4-nhs-cuh"
+    ]
+   },
+   {
+    "text": "A 2024 lab study found fine pearl barley groats second only to couscous for fructan among the grains it tested.",
+    "sourceIds": [
+     "b4-pejcz-2024"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   },
+   {
+    "name": "Buckwheat",
+    "slug": "buckwheat"
+   },
+   {
+    "name": "Sprouted barley"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is barley soup low FODMAP?",
+    "a": "Usually not. A bowl holds far more barley than the small serve some sites report. Rice or sprouted barley are lower-FODMAP options."
+   },
+   {
+    "q": "Is barley gluten-free?",
+    "a": "No, barley contains gluten. On a low FODMAP diet the issue is its fructans, not the gluten."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "corn-tortillas",
+  "name": "corn tortillas",
+  "aliases": [
+   "corn tortilla",
+   "maize tortillas",
+   "soft corn tortillas",
+   "taco tortillas"
+  ],
+  "category": "grains",
+  "regions": [
+   "latin-american"
+  ],
+  "illustration": "corn-tortillas",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash has tested corn tortillas and lists them low. George Eats, citing Monash's figures as of August 2026, puts tortillas with added gum or fibre low up to 133 g (about 5½ tortillas), with moderate fructans above that. Older guides said 2 to 3 tortillas.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "corn tortillas, with added gum or fibre",
+    "lowMaxG": 133,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 190,
+    "groups": [
+     "fructans"
+    ],
+    "household": "about 5½ tortillas",
+    "sourceIds": [
+     "b4-ge-tacos"
+    ],
+    "note": "This is a reported upper low amount, not the older standard serve of 2 tortillas."
+   },
+   {
+    "form": "corn tortillas, no added gum or fibre",
+    "lowMaxG": 425,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 600,
+    "groups": [
+     "fructans"
+    ],
+    "household": "about 20 tortillas",
+    "sourceIds": [
+     "b4-ge-tacos"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (2024) lists 2 tortillas as low with added gum or fibre and 3 tortillas without. Other sites give these as 47 g and 57 g.",
+    "sourceIds": [
+     "b1-kk-corn",
+     "b4-fe-tortilla"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Corn tortilla is on Monash's list of whole grain foods it has tested and found low.",
+    "sourceIds": [
+     "b4-mon-grains-2016"
+    ]
+   },
+   {
+    "text": "Monash suggests corn tortillas for wraps, sandwiches and pizza bases.",
+    "sourceIds": [
+     "b4-mon-nontrad-2017"
+    ]
+   },
+   {
+    "text": "Blue corn tortillas are reported low up to 370 g, with moderate GOS and fructans in larger amounts.",
+    "sourceIds": [
+     "b4-ge-tacos"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Gluten-free wraps"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are hard taco shells low FODMAP?",
+    "a": "Hard corn taco shells are reported low even in large amounts. The fillings, like seasoning mixes with garlic or onion, are the bigger risk."
+   },
+   {
+    "q": "Are flour tortillas low FODMAP?",
+    "a": "Wheat flour tortillas aren't covered by this data. Wheat breads are high at usual serves, so corn is the usual swap."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "millet",
+  "name": "millet",
+  "aliases": [
+   "hulled millet",
+   "millet grain",
+   "millet flour"
+  ],
+  "category": "grains",
+  "regions": [
+   "african",
+   "south-asian",
+   "global"
+  ],
+  "illustration": "millet",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash has tested millet grain and flour and lists both as low FODMAP, though it hasn't published the grain's serve in grams on its website. Millet flour is reported low at 100 g (⅔ cup).",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "millet flour",
+    "lowMaxG": 100,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 140,
+    "groups": [
+     "fructans"
+    ],
+    "household": "⅔ cup",
+    "sourceIds": [
+     "b4-kk-flours",
+     "b4-mon-grains-2016"
+    ],
+    "note": "No FODMAP group is named for millet; fructans are shown as the usual grain FODMAP."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's list of whole grains tested low includes millet grain and millet flour.",
+    "sourceIds": [
+     "b4-mon-grains-2016"
+    ]
+   },
+   {
+    "text": "Monash suggests boiling millet for about 15 minutes, then draining and rinsing it, for salads or porridge.",
+    "sourceIds": [
+     "b4-mon-nontrad-2017"
+    ]
+   },
+   {
+    "text": "An NHS low FODMAP diet sheet lists millet among suitable grains.",
+    "sourceIds": [
+     "b4-nhs-cuh"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Buckwheat",
+    "slug": "buckwheat"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can millet replace couscous?",
+    "a": "Yes. Cooked millet has a similar small-grain feel, and unlike wheat couscous it's a tested low FODMAP grain."
+   },
+   {
+    "q": "How much cooked millet is low FODMAP?",
+    "a": "Monash lists it as low but its public pages don't give the grams. Some sites say 1 cup cooked; we couldn't confirm that."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "bulgur",
+  "name": "bulgur",
+  "aliases": [
+   "bulgur wheat",
+   "bulghur",
+   "burghul",
+   "bourghal",
+   "cracked wheat"
+  ],
+  "category": "grains",
+  "regions": [
+   "middle-eastern",
+   "mediterranean"
+  ],
+  "illustration": "bulgur",
+  "tier": "lab-tested",
+  "answer": "In small amounts. Monash lists ¼ cup of bulgur (44 g, uncooked weight) as a low FODMAP serve, and a full serve, about 88 g, is high in GOS and fructans. That's enough for a light tabbouleh, not a big bowl.",
+  "groups": [
+   "fructans",
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "bulgur, uncooked weight",
+    "lowMaxG": 44,
+    "moderateFromG": null,
+    "highFromG": 88,
+    "scaleMaxG": 125,
+    "groups": [
+     "fructans",
+     "gos"
+    ],
+    "household": "¼ cup",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b4-mon-bourghal-2014",
+     "b4-ge-tabbouleh"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Monash labels the 44 g serve as uncooked bulgur. George Eats and other sites give 44 g without saying whether it's cooked or dry.",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b4-ge-tabbouleh"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash describes bourghal as parboiled cracked wheat that is high in oligosaccharides at a full serve but low at half a serve.",
+    "sourceIds": [
+     "b4-mon-bourghal-2014"
+    ]
+   },
+   {
+    "text": "A 2024 lab study found less fructan in cooked bulgur than in other wheat groats, which the authors link to heat during processing.",
+    "sourceIds": [
+     "b4-pejcz-2024"
+    ]
+   },
+   {
+    "text": "Monash suggests soaking bulgur in boiling water for about 30 minutes, or boiling it for about 12 minutes.",
+    "sourceIds": [
+     "b4-mon-nontrad-2017"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Millet",
+    "slug": "millet"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is tabbouleh low FODMAP?",
+    "a": "It can be, if each portion has no more than ¼ cup (44 g) of dry bulgur and no onion. Quinoa is a common swap for a bigger serve."
+   },
+   {
+    "q": "Is bulgur the same as couscous?",
+    "a": "Both are wheat, but bulgur has a tested low serve and couscous doesn't. Bulgur also tested lower in fructan."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "pita-bread",
+  "name": "pita bread",
+  "aliases": [
+   "pita",
+   "pitta",
+   "pitta bread",
+   "Arabic bread",
+   "khubz",
+   "Lebanese bread"
+  ],
+  "category": "grains",
+  "regions": [
+   "middle-eastern",
+   "mediterranean"
+  ],
+  "illustration": "pita-bread",
+  "tier": "estimated",
+  "answer": "Probably not at a full pita. No lab has published a pita result, but pita is a wheat bread, and Monash rates wheat bread low only at about one slice (24 g). An NHS diet sheet lists pitta bread with foods to avoid. Gluten-free pita is the swap.",
+  "estimateAnswer": {
+   "word": "Probably high",
+   "line": "Not lab-tested. Pita is wheat bread, and wheat bread is low only at about 1 slice (24 g)."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "wheat pita",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b4-mon-serving-2017",
+     "b4-nhs-cuh"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients. Based on wheat bread data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Wheat bread is on the high list of both Monash and FODMAP Friendly at a usual serve.",
+    "sourceIds": [
+     "mon-step1",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly says one slice of wholemeal bread is low but two slices are high.",
+    "sourceIds": [
+     "ff-five-2020"
+    ]
+   },
+   {
+    "text": "The NHS diet sheet suggests wheat-free or gluten-free pitta bread instead.",
+    "sourceIds": [
+     "b4-nhs-cuh"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Sourdough bread",
+    "slug": "sourdough-bread"
+   },
+   {
+    "name": "Corn tortillas",
+    "slug": "corn-tortillas"
+   },
+   {
+    "name": "Gluten-free pita"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much pita can I eat?",
+    "a": "There's no tested amount. Going by wheat bread, a piece about the weight of one slice (24 g) is the closest guide."
+   },
+   {
+    "q": "Is wholemeal pita better?",
+    "a": "Not for FODMAPs. Wholemeal wheat bread has the same small low serve as white."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "zaatar",
+  "name": "za'atar",
+  "aliases": [
+   "zaatar",
+   "zatar",
+   "za atar",
+   "zahtar",
+   "zaatar spice"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "middle-eastern"
+  ],
+  "illustration": "zaatar",
+  "tier": "estimated",
+  "answer": "Not tested as a blend. Za'atar is mostly dried herbs, sumac and sesame. Monash's shopping list includes dried herbs, most spices and sesame seeds, and a sprinkle uses very little, but no lab has published a serve. Check blends for garlic or onion.",
+  "estimateAnswer": {
+   "word": "Not tested",
+   "line": "No lab has tested the blend. Herbs and sesame are on Monash's low list; sumac has no public serve."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "za'atar spice blend",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 20,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b4-ge-nuts"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Sesame seeds are reported low up to 51 g, far more than a sprinkle of za'atar holds.",
+    "sourceIds": [
+     "b4-ge-nuts"
+    ]
+   },
+   {
+    "text": "Monash's shopping list names dried and fresh herbs, and most spices except garlic and onion, as low FODMAP staples.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Dried thyme"
+   },
+   {
+    "name": "Sesame seeds",
+    "slug": "sesame-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is manakish (za'atar bread) low FODMAP?",
+    "a": "The topping is a small amount, but the flatbread is usually wheat, which has only a small low serve."
+   },
+   {
+    "q": "Can I make my own za'atar?",
+    "a": "Yes. Mixing dried thyme, sesame seeds and sumac yourself lets you skip any garlic or onion powder."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "sumac",
+  "name": "sumac",
+  "aliases": [
+   "ground sumac",
+   "sumach",
+   "sumac spice"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "middle-eastern"
+  ],
+  "illustration": "sumac",
+  "tier": "estimated",
+  "answer": "No public lab number. Monash's shopping list counts most spices as low FODMAP, apart from garlic and onion, and sumac is used by the pinch. But we found no published sumac serve, so it counts as untested here.",
+  "estimateAnswer": {
+   "word": "Not tested",
+   "line": "No public lab serve. Monash counts most spices as low, but hasn't published sumac."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "ground sumac",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients. The FODMAP group is unknown; fructans are shown as a placeholder.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "A FODMAP Everyday recipe is reported to say Monash has lab-tested sumac. We couldn't open that page, and no gram serve is public.",
+    "sourceIds": [
+     "b4-fe-zaatar"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's shopping list names most spices, except garlic and onion, as low FODMAP staples.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lemon zest",
+    "slug": "lemon"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can sumac replace onion?",
+    "a": "Sumac gives a tangy, lemony taste rather than onion flavour. For onion taste, onion- or garlic-infused oil fits better."
+   },
+   {
+    "q": "Is sumac the same as za'atar?",
+    "a": "No. Sumac is one spice; za'atar is a blend that usually includes sumac with herbs and sesame."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "falafel",
+  "name": "falafel",
+  "aliases": [
+   "felafel",
+   "falafels",
+   "ta'amiya",
+   "taameya"
+  ],
+  "category": "legumes",
+  "regions": [
+   "middle-eastern",
+   "african"
+  ],
+  "illustration": "falafel",
+  "tier": "estimated",
+  "answer": "Probably not, as usually made. Falafel uses soaked dried chickpeas or fava beans, not canned ones. Soaked, boiled chickpeas are low only at about 29 g, fava beans have no Monash low serve, and most packaged falafel also contains onion.",
+  "estimateAnswer": {
+   "word": "Probably high",
+   "line": "Not lab-tested. Soaked chickpeas or fava beans, plus onion in most packaged falafel."
+  },
+  "groups": [
+   "gos",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "falafel (traditional or store-bought)",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "sourceIds": [
+     "b4-ge-falafel",
+     "ge-beans",
+     "b4-off-falafel"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Canned chickpeas have a bigger low serve, ¼ cup (42 g), because GOS leach into the can liquid.",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "mon-legumes-2016"
+    ]
+   },
+   {
+    "text": "Low FODMAP falafel recipes use canned chickpeas or edamame and suggest 3 to 4 pieces per person.",
+    "sourceIds": [
+     "b4-alby-falafel",
+     "b4-ge-falafel"
+    ]
+   },
+   {
+    "text": "Chickpea flour, often used to bind falafel, is reported high in small serves.",
+    "sourceIds": [
+     "b4-ge-falafel"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Canned chickpeas, rinsed",
+    "slug": "chickpeas"
+   },
+   {
+    "name": "Edamame"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How many falafel can I eat?",
+    "a": "There's no lab-tested amount for falafel. Dietitian recipes made with canned chickpeas or edamame suggest 3 to 4 pieces per person."
+   },
+   {
+    "q": "Is a falafel wrap low FODMAP?",
+    "a": "Probably not: the falafel and a wheat wrap or pita both add FODMAPs. A small homemade batch in a corn tortilla is a lower option."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "halloumi",
+  "name": "halloumi",
+  "aliases": [
+   "haloumi",
+   "hellim",
+   "halloumi cheese",
+   "grilled halloumi"
+  ],
+  "category": "dairy",
+  "regions": [
+   "middle-eastern",
+   "mediterranean"
+  ],
+  "illustration": "halloumi",
+  "tier": "lab-tested",
+  "answer": "Yes, in a small serve. Karlijn's Kitchen, citing Monash, and an NHS diet sheet both put halloumi low at 40 g (about 2 slices). Karlijn's Kitchen adds moderate lactose from 60 g and high from about 220 g. Monash calls haloumi a moderate-lactose cheese.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "halloumi",
+    "lowMaxG": 40,
+    "moderateFromG": 60,
+    "highFromG": 220,
+    "scaleMaxG": 300,
+    "groups": [
+     "lactose"
+    ],
+    "household": "2 slices",
+    "sourceIds": [
+     "b4-kk-cheese",
+     "b4-nhs-cuh"
+    ],
+    "note": "Grams come from secondary sources; Monash's public pages give the rating but not the weights."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's FAQ lists haloumi with cream cheese and ricotta as cheeses with moderate amounts of lactose.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Karlijn's Kitchen found about 2 g of lactose per 100 g on the halloumi pack she checked.",
+    "sourceIds": [
+     "b4-kk-cheese"
+    ]
+   },
+   {
+    "text": "An NHS diet sheet suggests limiting halloumi to 2 slices (40 g).",
+    "sourceIds": [
+     "b4-nhs-cuh"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Feta",
+    "slug": "feta"
+   },
+   {
+    "name": "Mozzarella",
+    "slug": "mozzarella"
+   },
+   {
+    "name": "Cheddar",
+    "slug": "cheddar"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is halloumi lower in lactose than feta?",
+    "a": "No, feta has less. Monash measured just 0.13 g of lactose in 125 g of feta, while halloumi turns moderate from 60 g."
+   },
+   {
+    "q": "Does lactose matter for everyone?",
+    "a": "Only if you don't digest lactose well. Many people test this during the reintroduction step."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "labneh",
+  "name": "labneh",
+  "aliases": [
+   "labne",
+   "labni",
+   "lebneh",
+   "strained yogurt cheese"
+  ],
+  "category": "dairy",
+  "regions": [
+   "middle-eastern"
+  ],
+  "illustration": "labneh",
+  "tier": "estimated",
+  "answer": "Not tested. Labneh is yogurt strained until thick. Straining drains some whey, but no lab has published labneh's lactose level. Regular Greek yogurt, also strained, is low only at about 23 g, so keep portions small or make it from lactose-free yogurt.",
+  "estimateAnswer": {
+   "word": "Not tested",
+   "line": "No lab has tested labneh. Greek yogurt, also strained, is low only at about 23 g."
+  },
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "labneh",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "lactose"
+    ],
+    "sourceIds": [
+     "b4-ge-yoghurt",
+     "mon-lactose-2016"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Regular-fat Greek yogurt is reported low at 23 g and moderate in lactose from 93 g.",
+    "sourceIds": [
+     "b4-ge-yoghurt"
+    ]
+   },
+   {
+    "text": "Monash rates a 170 g serve of natural yogurt high in lactose.",
+    "sourceIds": [
+     "mon-lactose-2016"
+    ]
+   },
+   {
+    "text": "Lactose-free plain yogurt is reported low up to 500 g.",
+    "sourceIds": [
+     "b4-ge-yoghurt"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lactose-free yogurt"
+   },
+   {
+    "name": "Feta",
+    "slug": "feta"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I make labneh from lactose-free yogurt?",
+    "a": "Yes. Straining lactose-free yogurt the same way gives a thick spread without the lactose question."
+   },
+   {
+    "q": "Is labneh lower in lactose than yogurt?",
+    "a": "Probably somewhat, since some whey drains away, but nobody has published a lab number for it."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "freekeh",
+  "name": "freekeh",
+  "aliases": [
+   "frikeh",
+   "farik",
+   "green wheat",
+   "roasted green wheat"
+  ],
+  "category": "grains",
+  "regions": [
+   "middle-eastern"
+  ],
+  "illustration": "freekeh",
+  "tier": "estimated",
+  "answer": "Probably not. No lab has published a FODMAP result for freekeh, which is made from young wheat, and an NHS low FODMAP diet sheet puts it with barley and rye on the avoid list. Rice, quinoa and millet are tested swaps.",
+  "estimateAnswer": {
+   "word": "Probably high",
+   "line": "No public lab number. An NHS diet sheet lists freekeh with barley and rye to avoid."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "freekeh",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b4-nhs-cuh"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash mentions freekeh among grain foods but doesn't include it in its list of grains tested low.",
+    "sourceIds": [
+     "b4-mon-grains-2016"
+    ]
+   },
+   {
+    "text": "Bulgur, another wheat grain, has a measured low serve of ¼ cup (44 g) uncooked.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Quinoa",
+    "slug": "quinoa"
+   },
+   {
+    "name": "Rice",
+    "slug": "rice"
+   },
+   {
+    "name": "Millet",
+    "slug": "millet"
+   },
+   {
+    "name": "Bulgur, small serve",
+    "slug": "bulgur"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is freekeh lower in FODMAPs than bulgur?",
+    "a": "Unknown: nobody has published a test. Bulgur at least has a measured low serve of ¼ cup (44 g) uncooked."
+   },
+   {
+    "q": "Can I have freekeh soup?",
+    "a": "We'd count it as probably high until it's tested. A rice or quinoa version is the lower-FODMAP option."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "ful-medames",
+  "name": "ful medames",
+  "aliases": [
+   "foul medames",
+   "ful",
+   "foul",
+   "fava bean stew",
+   "ful mudammas"
+  ],
+  "category": "legumes",
+  "regions": [
+   "middle-eastern",
+   "african"
+  ],
+  "illustration": "ful-medames",
+  "tier": "estimated",
+  "answer": "Probably not. Ful medames is a stew of fava (broad) beans, and Monash has no low FODMAP serve for broad beans. FODMAP Friendly is reported to allow only about 21 g. The dish itself has not been lab-tested.",
+  "estimateAnswer": {
+   "word": "Probably high",
+   "line": "Not lab-tested. It's mostly fava beans, which have no low serve in Monash's data."
+  },
+  "groups": [
+   "gos",
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "ful medames (fava bean stew)",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 150,
+    "groups": [
+     "gos",
+     "fructose"
+    ],
+    "sourceIds": [
+     "ge-beans",
+     "kk-beans"
+    ],
+    "note": "Not lab-tested. Estimated from its ingredients."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Broad beans: no low serve in Monash's data versus up to 21 g in FODMAP Friendly's, where the FODMAP named is fructose.",
+    "sourceIds": [
+     "ge-beans"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Karlijn's Kitchen lists broad and fava beans among beans to avoid on the diet.",
+    "sourceIds": [
+     "kk-beans"
+    ]
+   },
+   {
+    "text": "Most legumes are high in GOS; canned lentils and chickpeas are the usual exceptions in small serves.",
+    "sourceIds": [
+     "mon-legumes-2016",
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Canned lentils",
+    "slug": "lentils"
+   },
+   {
+    "name": "Canned chickpeas, rinsed",
+    "slug": "chickpeas"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is canned ful lower in FODMAPs?",
+    "a": "Canning lowers GOS in some legumes because they leach into the liquid, but canned fava beans haven't been tested publicly."
+   },
+   {
+    "q": "What can I eat instead of ful for breakfast?",
+    "a": "Eggs, or a small serve of rinsed canned lentils or chickpeas with cumin and olive oil."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
   "slug": "peanut-butter",
   "name": "peanut butter",
   "aliases": [
@@ -145,7 +5910,7 @@
     "household": "10 nuts",
     "sourceIds": [
      "mon-fibre-2021",
-     "b5-ge-nuts",
+     "b4-ge-nuts",
      "b5-ge-almonds"
     ],
     "note": "The 12 g serve is Monash's own (2021). The moderate amount comes from George Eats, reporting Monash's current data."
@@ -156,7 +5921,7 @@
     "date": "2026",
     "text": "George Eats reports that Monash now lists almonds as low up to about 22 to 24 g (around 20 nuts), roughly double the older 10-nut serve.",
     "sourceIds": [
-     "b5-ge-nuts",
+     "b4-ge-nuts",
      "b5-ge-almonds"
     ]
    }
@@ -165,7 +5930,7 @@
    {
     "text": "George Eats gives 22 g on its nut list and 24 g on its almond page. Both say GOS becomes moderate at 25 g.",
     "sourceIds": [
-     "b5-ge-nuts",
+     "b4-ge-nuts",
      "b5-ge-almonds"
     ]
    },
@@ -269,14 +6034,14 @@
    {
     "text": "Monash and FODMAP Friendly both list peanuts with the low FODMAP nuts.",
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "ff-list"
     ]
    },
    {
     "text": "Monash names GOS and fructans as the main FODMAPs in nuts in general.",
     "sourceIds": [
-     "b5-mon-highlow"
+     "b1-mon-where"
     ]
    }
   ],
@@ -333,7 +6098,7 @@
     ],
     "household": "about 2 nuts",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
    },
@@ -348,7 +6113,7 @@
     ],
     "household": "about 10 nuts",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
    }
@@ -366,7 +6131,7 @@
    {
     "text": "Monash and FODMAP Friendly both put cashews in their high FODMAP nut lists.",
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "ff-list"
     ]
    },
@@ -439,7 +6204,7 @@
     "household": "10 nut halves",
     "sourceIds": [
      "mon-fibre-2021",
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "The moderate amount comes from George Eats, reporting Monash's current data."
    }
@@ -449,7 +6214,7 @@
     "date": "2026",
     "text": "George Eats reports that Monash's current walnut limits are much lower than the ones its app listed before.",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ]
    }
   ],
@@ -471,7 +6236,7 @@
    {
     "text": "Monash and FODMAP Friendly both list walnuts with the low FODMAP nuts.",
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "ff-list"
     ]
    }
@@ -533,7 +6298,7 @@
     ],
     "household": "about 7 nuts",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
    }
@@ -544,7 +6309,7 @@
    {
     "text": "Monash and FODMAP Friendly both put pistachios in their high FODMAP nut lists.",
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "ff-list",
      "b5-kk-nuts"
     ]
@@ -610,7 +6375,7 @@
      "fructans"
     ],
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "No gram serve is published on Monash's or FODMAP Friendly's own sites. This is the largest amount still reported low by George Eats from Monash data."
    }
@@ -628,8 +6393,8 @@
    {
     "text": "Pumpkin seeds appear in the low FODMAP column of Monash's food list and 3-step sheet, and of FODMAP Friendly's list.",
     "sourceIds": [
-     "b5-mon-highlow",
-     "b5-mon-3step",
+     "b1-mon-where",
+     "b3-mon-info-2026",
      "ff-list"
     ]
    },
@@ -693,7 +6458,7 @@
     "household": "2 tbsp",
     "sourceIds": [
      "mon-fibre-2021",
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "The moderate amount comes from George Eats, reporting Monash's current data."
    }
@@ -703,7 +6468,7 @@
    {
     "text": "George Eats reports both black and white chia as low up to 36 g, a little above Monash's standard 24 g serve.",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ]
    }
   ],
@@ -774,7 +6539,7 @@
     "household": "1 tbsp",
     "sourceIds": [
      "mon-fibre-2021",
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "The moderate amount comes from George Eats, reporting Monash's current data."
    }
@@ -784,7 +6549,7 @@
    {
     "text": "George Eats puts the most that stays low at 16 g, just above Monash's 15 g serve.",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ]
    }
   ],
@@ -798,7 +6563,7 @@
    {
     "text": "For plant-based baking, Monash suggests a flax egg: 1 tablespoon of flaxmeal mixed with 1 tablespoon of water.",
     "sourceIds": [
-     "b5-mon-plantswaps-2026"
+     "b1-mon-swaps-2026"
     ]
    }
   ],
@@ -850,7 +6615,7 @@
      "fructans"
     ],
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ],
     "note": "No gram serve is published on Monash's or FODMAP Friendly's own sites. This is the largest amount still reported low by George Eats from Monash data."
    }
@@ -937,7 +6702,7 @@
    {
     "text": "George Eats lists Monash's current serve as 30 g, smaller than the 40 g above, but reports moderate fructans only from 328 g.",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ]
    },
    {
@@ -951,7 +6716,7 @@
    {
     "text": "Monash and FODMAP Friendly both list macadamias with the low FODMAP nuts.",
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "ff-list"
     ]
    },
@@ -1090,7 +6855,7 @@
     "household": "¼ cup",
     "sourceIds": [
      "mon-fibre-2021",
-     "b5-ge-nuts",
+     "b4-ge-nuts",
      "b5-ge-almonds"
     ],
     "note": "The 24 g serve is Monash's own (2021). The moderate amount comes from George Eats, reporting Monash's current data."
@@ -1101,7 +6866,7 @@
     "date": "2026",
     "text": "George Eats reports a larger current low amount for almond meal: 33 g (about ⅓ cup) on its nut list.",
     "sourceIds": [
-     "b5-ge-nuts"
+     "b4-ge-nuts"
     ]
    }
   ],
@@ -1109,7 +6874,7 @@
    {
     "text": "George Eats gives 33 g on its nut list and up to 38 g on its almond page; both say GOS is moderate at 39 g.",
     "sourceIds": [
-     "b5-ge-nuts",
+     "b4-ge-nuts",
      "b5-ge-almonds"
     ]
    }
@@ -1127,7 +6892,8 @@
     "name": "Rice flour"
    },
    {
-    "name": "Oats"
+    "name": "Oats",
+    "slug": "oats"
    }
   ],
   "faq": [
@@ -1164,7 +6930,7 @@
     "scaleMaxG": 200,
     "groups": [],
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "mon-step1",
      "b5-mon-dairy-2018"
     ],
@@ -1244,7 +7010,7 @@
    {
     "text": "Karlijn's Kitchen suggests 40 g, based on her own reading of product labels, and finds 60 g holds an average amount of lactose.",
     "sourceIds": [
-     "b5-kk-cheese"
+     "b4-kk-cheese"
     ]
    }
   ],
@@ -1411,7 +7177,7 @@
     "household": "about ¼ cup",
     "sourceIds": [
      "b5-ge-mozz",
-     "b5-kk-cheese"
+     "b4-kk-cheese"
     ],
     "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
    }
@@ -1437,7 +7203,7 @@
    {
     "text": "Karlijn's Kitchen notes that lactose varies between brands and that buffalo mozzarella tends to have less than regular.",
     "sourceIds": [
-     "b5-kk-cheese"
+     "b4-kk-cheese"
     ]
    }
   ],
@@ -1491,7 +7257,7 @@
     "scaleMaxG": 80,
     "groups": [],
     "sourceIds": [
-     "b5-kk-cheese",
+     "b4-kk-cheese",
      "mon-faq"
     ],
     "note": "Close to lactose-free according to the sources; the amount shown is a normal portion, not a limit."
@@ -1578,13 +7344,13 @@
    {
     "text": "Karlijn's Kitchen warns that processed cheddar slices can be high in lactose, unlike block cheddar.",
     "sourceIds": [
-     "b5-kk-cheese"
+     "b4-kk-cheese"
     ]
    },
    {
     "text": "Hard cheeses sit in the low FODMAP column of Monash's food list and FODMAP Friendly's list.",
     "sourceIds": [
-     "b5-mon-highlow",
+     "b1-mon-where",
      "ff-list"
     ]
    }
@@ -1637,7 +7403,7 @@
      "lactose"
     ],
     "sourceIds": [
-     "b5-kk-cheese",
+     "b4-kk-cheese",
      "mon-lactose-2016"
     ],
     "note": "The low amount is reported by Karlijn's Kitchen; the moderate amount (2 g lactose in 80 g) is from Monash's own blog."
@@ -1782,7 +7548,7 @@
      "lactose"
     ],
     "sourceIds": [
-     "b5-kk-cheese"
+     "b4-kk-cheese"
     ],
     "note": "From Karlijn's Kitchen; we couldn't find a figure on Monash's or FODMAP Friendly's own sites."
    }
@@ -1793,7 +7559,7 @@
    {
     "text": "Karlijn's Kitchen measured about 2 g of lactose per 100 g in soft goat cheese and notes it varies by brand.",
     "sourceIds": [
-     "b5-kk-cheese"
+     "b4-kk-cheese"
     ]
    },
    {
@@ -1830,7 +7596,7 @@
    {
     "text": "In Monash's table of fermented foods, both milk and kefir are rated high. Fermenting milk into kefir didn't move it into the low group.",
     "sourceIds": [
-     "b6-mon-ferment-2017"
+     "b1-mon-ferment-2017"
     ]
    },
    {
@@ -1896,7 +7662,7 @@
      "lactose"
     ],
     "sourceIds": [
-     "b6-mon-ferment-2017",
+     "b1-mon-ferment-2017",
      "b6-alby-probiotic"
     ],
     "note": "Monash rates kefir high but has not published the serve size it tested, so no gram band is shown.",
@@ -2083,7 +7849,8 @@
      "b6-mon-dairyalt-2024"
     ],
     "note": "Source gives 250 ml; shown as grams, counting 1 ml as about 1 g. Monash's public posts don't name the FODMAP group; GOS is the one in almonds.",
-    "unit": "ml"
+    "unit": "ml",
+    "groupUnknown": true
    }
   ]
  },
@@ -2726,7 +8493,7 @@
    {
     "text": "Monash suggests mashed extra-firm tofu with turmeric as a stand-in for scrambled eggs.",
     "sourceIds": [
-     "b5-mon-plantswaps-2026"
+     "b1-mon-swaps-2026"
     ]
    }
   ],
@@ -2966,5 +8733,1267 @@
     "note": "The serve Monash uses in its example meal. No upper limit has been published."
    }
   ]
+ },
+ {
+  "slug": "honey",
+  "name": "honey",
+  "aliases": [
+   "clover honey",
+   "raw honey",
+   "runny honey"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global",
+   "middle-eastern"
+  ],
+  "illustration": "honey",
+  "tier": "lab-tested",
+  "answer": "Only a teaspoon. Honey carries a lot of excess fructose. Dietitian summaries of Monash data put 7 g (1 tsp) as low, 14 g as moderate and 28 g (1 tbsp) as high. Monash and FODMAP Friendly both list honey among the high FODMAP sweeteners.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "honey",
+    "lowMaxG": 7,
+    "moderateFromG": 14,
+    "highFromG": 28,
+    "scaleMaxG": 40,
+    "groups": [
+     "fructose"
+    ],
+    "household": "1 tsp",
+    "sourceIds": [
+     "b7-kk-honey",
+     "b7-ge-dressing"
+    ]
+   },
+   {
+    "form": "clover honey",
+    "lowMaxG": 3,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b7-ge-dressing"
+    ],
+    "note": "Only a low amount has been reported for clover honey."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's tests of a generic honey reportedly found no low amount at all, while Monash data allows 7 g. Different honeys and nectar sources may explain the gap.",
+    "sourceIds": [
+     "b7-fe-honey-snip",
+     "b7-kk-honey"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's food list names honey, next to high fructose corn syrup, as a high FODMAP sugar.",
+    "sourceIds": [
+     "b1-mon-where",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Honey holds more fructose than glucose. Monash explains that fructose is absorbed best when enough glucose comes with it, so honey is a common trigger for fructose malabsorption.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "The FODMAP content of honey probably varies with the plants the bees fed on. A Little Bit Yummy reports that both regular and clover honey turn high at a tablespoon.",
+    "sourceIds": [
+     "b7-alby-sweeteners"
+    ]
+   },
+   {
+    "text": "Some breads tested and approved as low FODMAP still list honey near the end of the ingredients. Per serve, the honey stays under the low amount.",
+    "sourceIds": [
+     "b7-kk-honey"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Maple syrup",
+    "slug": "maple-syrup"
+   },
+   {
+    "name": "Rice malt syrup"
+   },
+   {
+    "name": "Table sugar"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I put honey in my tea?",
+    "a": "A level teaspoon is within the low amount. A tablespoon is high in fructose, so switch to maple syrup or sugar for a sweeter cup."
+   },
+   {
+    "q": "Is manuka honey low FODMAP?",
+    "a": "We found no public lab result for manuka honey. Published amounts exist only for generic and clover honey."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "maple-syrup",
+  "name": "maple syrup",
+  "aliases": [
+   "pure maple syrup",
+   "maple"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global"
+  ],
+  "illustration": "maple-syrup",
+  "tier": "lab-tested",
+  "answer": "Yes. Pure maple syrup is low FODMAP at 2 tablespoons (50 g), based on Monash data reported by Karlijn's Kitchen, and both Monash and FODMAP Friendly list it as a low FODMAP sweetener. A dietitian's 2026 summary puts the move to moderate (fructans) at 55 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "pure maple syrup",
+    "lowMaxG": 50,
+    "moderateFromG": 55,
+    "highFromG": null,
+    "scaleMaxG": 80,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 tablespoons",
+    "sourceIds": [
+     "b7-kk-maple",
+     "b7-ge-dressing"
+    ],
+    "note": "The moderate amount (55 g) comes from George Eats' August 2026 summary of Monash data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats (August 2026) says Monash keeps maple syrup low up to 54 g, and that FODMAP Friendly lists it as low up to 1,000 ml.",
+    "sourceIds": [
+     "b7-ge-dressing"
+    ]
+   },
+   {
+    "text": "FODMAP Everyday reports a newer Monash listing with 1 tablespoon (20 ml) as the low serve and 2 tablespoons (40 ml) as moderate. We couldn't read this on a page ourselves.",
+    "sourceIds": [
+     "b7-fe-maple-snip"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's food list names maple syrup, table sugar and rice malt syrup as low FODMAP sweeteners, and suggests maple syrup for adding flavour.",
+    "sourceIds": [
+     "b1-mon-where",
+     "b7-mon-flavour-2015",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Buy real maple syrup. Maple-flavoured syrup is a different mix of sugars and wasn't covered by these tests.",
+    "sourceIds": [
+     "b7-alby-sweeteners"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Rice malt syrup"
+   },
+   {
+    "name": "Table sugar"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is maple syrup a good swap for honey?",
+    "a": "Yes. Its low serve (about 50 g) is much bigger than honey's single teaspoon (7 g)."
+   },
+   {
+    "q": "Is pancake syrup low FODMAP?",
+    "a": "Not necessarily. Pancake syrups are often corn syrup with maple flavouring, and high fructose corn syrup is a high FODMAP sugar. Check the label."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "soy-sauce",
+  "name": "soy sauce",
+  "aliases": [
+   "soya sauce",
+   "shoyu",
+   "light soy sauce",
+   "tamari"
+  ],
+  "category": "condiments",
+  "regions": [
+   "east-asian",
+   "global"
+  ],
+  "illustration": "soy-sauce",
+  "tier": "lab-tested",
+  "answer": "Yes. Soy sauce is low FODMAP at 2 tablespoons (42 g), based on Monash data reported by Karlijn's Kitchen, and Monash names it as a low FODMAP condiment. Sweet soy sauce (kecap manis) has a smaller low serve of 20 g. Its wheat matters for coeliac disease, not for FODMAPs.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "soy sauce",
+    "lowMaxG": 42,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 tablespoons",
+    "sourceIds": [
+     "b7-kk-soy",
+     "b7-alby-soy"
+    ],
+    "note": "Sources don't name a limiting FODMAP. Fructans is shown because soy sauce is brewed with wheat.",
+    "groupUnknown": true
+   },
+   {
+    "form": "sweet soy sauce (kecap manis)",
+    "lowMaxG": 20,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 40,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 tablespoon",
+    "sourceIds": [
+     "b7-kk-soy",
+     "b7-alby-soy"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash lists soy sauce among low FODMAP condiments, both on its food list and in its 2026 plant-based swaps.",
+    "sourceIds": [
+     "b1-mon-where",
+     "b1-mon-swaps-2026"
+    ]
+   },
+   {
+    "text": "Regular soy sauce contains wheat, so it isn't gluten free. Monash notes that wheat-based ingredients like this aren't high in fructans, so they fit a low FODMAP diet.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Soy sauce is made from fermented soybeans. Fermentation may break down much of the soybeans' oligosaccharides.",
+    "sourceIds": [
+     "b7-alby-condiments"
+    ]
+   },
+   {
+    "text": "Tamari, the wheat-free version, hasn't been tested separately. Because regular soy sauce is low, tamari probably is too.",
+    "sourceIds": [
+     "b7-kk-soy"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Tamari"
+   },
+   {
+    "name": "Miso paste",
+    "slug": "miso"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is tamari low FODMAP?",
+    "a": "It hasn't been tested on its own. It's soy sauce brewed without wheat, so it's likely similar. Check the label for onion or garlic."
+   },
+   {
+    "q": "Is soy sauce gluten free?",
+    "a": "Regular soy sauce contains wheat, so it isn't. That matters for coeliac disease, not for FODMAPs."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "ketchup",
+  "name": "ketchup",
+  "aliases": [
+   "tomato ketchup",
+   "tomato sauce",
+   "catsup"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global"
+  ],
+  "illustration": "ketchup",
+  "tier": "lab-tested",
+  "answer": "In small amounts. In Monash's 2014 tests, US ketchup was low at 13 g (1 sachet, about 2 tsp) and high at 26 g, from fructans. Australian tomato sauce was low at 13 g and moderate at 26 g. Onion or garlic powder in the recipe may be the cause.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "tomato ketchup (US)",
+    "lowMaxG": 13,
+    "moderateFromG": 19,
+    "highFromG": 26,
+    "scaleMaxG": 40,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 sachet (about 2 tsp)",
+    "sourceIds": [
+     "b7-alby-tomsauce"
+    ]
+   },
+   {
+    "form": "tomato sauce (Australian)",
+    "lowMaxG": 13,
+    "moderateFromG": 26,
+    "highFromG": null,
+    "scaleMaxG": 40,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 small sachets (about 2 tsp)",
+    "sourceIds": [
+     "b7-alby-tomsauce"
+    ],
+    "note": "Australian sachets were smaller than US ones, so compare by weight."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Ketchup sweetened with high fructose corn syrup and ketchup sweetened with sugar gave similar results.",
+    "sourceIds": [
+     "b7-alby-tomsauce"
+    ]
+   },
+   {
+    "text": "Half a cup of canned tomatoes is low FODMAP, so the tomato itself may not be the problem. Added onion and garlic powder are fructan sources.",
+    "sourceIds": [
+     "b7-alby-tomsauce"
+    ]
+   },
+   {
+    "text": "Only Australian and US sauces have been tested. Monash's original 2014 post is no longer online; the numbers here come from a dietitian-reviewed copy of its table.",
+    "sourceIds": [
+     "b7-alby-tomsauce"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Mustard",
+    "slug": "mustard"
+   },
+   {
+    "name": "Mayonnaise",
+    "slug": "mayonnaise"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is Heinz ketchup low FODMAP?",
+    "a": "No brand test is public. The tested US ketchups were low at one 13 g sachet; check the label for onion or garlic powder."
+   },
+   {
+    "q": "Why is ketchup high in large amounts?",
+    "a": "At bigger serves the tested ketchups had high fructans, probably from added onion or garlic powder rather than the tomatoes."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "mustard",
+  "name": "mustard",
+  "aliases": [
+   "dijon mustard",
+   "wholegrain mustard",
+   "yellow mustard"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "mustard",
+  "tier": "lab-tested",
+  "answer": "Yes, if it has no garlic or onion. Dijon mustard is low FODMAP at 1 tablespoon (23 g), per George Eats' 2026 summary of Monash data, and Monash lists mustard and Dijon among low FODMAP condiments. Mustard powder and mild German mustard turn moderate in larger amounts, from fructans.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "Dijon mustard",
+    "lowMaxG": 23,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 40,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 tablespoon",
+    "sourceIds": [
+     "b7-ge-dressing",
+     "b7-alby-condiments"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats says Monash now lists French Dijon and wholegrain mustard as low up to 500 g. Monash uses that kind of very large amount for foods with negligible FODMAPs, so the 23 g is a normal serve, not a limit.",
+    "sourceIds": [
+     "b7-ge-dressing",
+     "b7-alby-sugar-2026"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names mustard in its low FODMAP shopping list and Dijon mustard in its plant-based condiment swaps.",
+    "sourceIds": [
+     "mon-shop-2025",
+     "b1-mon-swaps-2026"
+    ]
+   },
+   {
+    "text": "Other mustards differ: mild German mustard is reported low up to 77 g and moderate for fructans from 78 g; mustard powder is low up to 7 g and moderate from 8 g.",
+    "sourceIds": [
+     "b7-ge-dressing"
+    ]
+   },
+   {
+    "text": "Some brands add garlic or onion powder, sometimes hidden under 'spices' or 'natural flavours'. Read the label.",
+    "sourceIds": [
+     "b7-alby-condiments",
+     "b7-ge-dressing"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Mayonnaise",
+    "slug": "mayonnaise"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is yellow mustard low FODMAP?",
+    "a": "Plain mustard is listed as low at 1 tablespoon. Skip any with garlic or onion powder in the ingredients."
+   },
+   {
+    "q": "Is honey mustard low FODMAP?",
+    "a": "It depends on how much honey it has, and no public test exists. Honey is low only at about a teaspoon."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "coffee",
+  "name": "coffee",
+  "aliases": [
+   "espresso",
+   "black coffee",
+   "instant coffee",
+   "decaf coffee"
+  ],
+  "category": "drinks",
+  "regions": [
+   "global",
+   "middle-eastern"
+  ],
+  "illustration": "coffee",
+  "tier": "lab-tested",
+  "answer": "Yes, black coffee is low FODMAP. Monash says coffee itself is low in FODMAPs, and dietitians report a single (30 ml) or double (60 ml) espresso as low in its tests. Watch the extras: regular milk adds lactose, some instant blends contain chicory, and coffee can stir the gut for other reasons.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "black espresso",
+    "lowMaxG": 60,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 90,
+    "groups": [
+     "fructans"
+    ],
+    "household": "double shot (60 ml)",
+    "sourceIds": [
+     "b7-kk-coffee",
+     "b7-alby-coffee",
+     "b7-mon-nonfodmap-2024"
+    ],
+    "note": "Measured in ml (1 ml counted as about 1 g). Sources don't name a FODMAP for plain coffee; fructans is shown as a placeholder.",
+    "unit": "ml",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Instant coffee amounts differ: Karlijn's Kitchen gives 1 full teaspoon in 230 ml of water as low, while FODMAP Everyday reports 2 heaped teaspoons (4 g). In 2013 Kate Scarlata reported Monash calling 2 teaspoons of some instant coffee okay.",
+    "sourceIds": [
+     "b7-kk-coffee",
+     "b7-fe-coffee-snip",
+     "b7-ks-bev-2013"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Even though coffee is low in FODMAPs, studies found both regular and decaf coffee speed up the muscles of the bowel, regular a bit more. Some people get cramps or urgency.",
+    "sourceIds": [
+     "b7-mon-nonfodmap-2024"
+    ]
+   },
+   {
+    "text": "About a quarter to 40% of people with IBS name coffee as a trigger, but there's little good evidence that cutting caffeine improves IBS. Monash suggests testing it with a dietitian.",
+    "sourceIds": [
+     "b7-mon-caffeine-2017"
+    ]
+   },
+   {
+    "text": "Some instant coffees and coffee substitutes contain chicory root, which is high FODMAP. Look for 100% coffee.",
+    "sourceIds": [
+     "b7-kk-coffee",
+     "b7-alby-coffee"
+    ]
+   },
+   {
+    "text": "For milky coffee, lactose-free milk, almond milk or soy milk made from soy protein keep it low FODMAP.",
+    "sourceIds": [
+     "b7-alby-coffee"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green tea",
+    "slug": "green-tea"
+   },
+   {
+    "name": "Decaf coffee"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is a latte low FODMAP?",
+    "a": "Only with a low-lactose milk such as lactose-free milk. Regular cow's milk adds lactose."
+   },
+   {
+    "q": "Does decaf help with IBS?",
+    "a": "It may a little. Both regular and decaf coffee stimulate the bowel, decaf slightly less."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "dark-chocolate",
+  "name": "dark chocolate",
+  "aliases": [
+   "dark choc",
+   "70% chocolate",
+   "bittersweet chocolate"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global"
+  ],
+  "illustration": "dark-chocolate",
+  "tier": "lab-tested",
+  "answer": "Yes, at a normal serve. Monash rates 30 g of dark chocolate (5 squares) as low FODMAP. Larger amounts add lactose from milk solids: a dietitian summary of Monash data puts 90 g at moderate. Milk and white chocolate have more lactose, so their low serves are smaller.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "dark chocolate",
+    "lowMaxG": 30,
+    "moderateFromG": 90,
+    "highFromG": null,
+    "scaleMaxG": 130,
+    "groups": [
+     "lactose"
+    ],
+    "household": "5 squares",
+    "sourceIds": [
+     "b7-mon-easter-2015",
+     "b7-alby-choc"
+    ],
+    "note": "The moderate amount (90 g) comes from A Little Bit Yummy's summary of Monash data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Reports on 85% dark chocolate conflict: one lists it low at 20 g, another low up to 350 g.",
+    "sourceIds": [
+     "b7-fe-darkchoc-snip"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash rated a 30 g serve of milk or white chocolate as moderate, with lactose the FODMAP. A Little Bit Yummy reports 20 g of either as low.",
+    "sourceIds": [
+     "b7-mon-easter-2015",
+     "b7-alby-choc"
+    ]
+   },
+   {
+    "text": "Monash and FODMAP Friendly both list dark chocolate among low FODMAP sweet options.",
+    "sourceIds": [
+     "b1-mon-where",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Carob is not a good swap: Monash says carob powder is very high in fructans, far more than cocoa.",
+    "sourceIds": [
+     "b7-mon-easter-2015"
+    ]
+   },
+   {
+    "text": "Check the label for inulin or chicory root, honey, agave, high fructose corn syrup or sugar alcohols. Soy lecithin is fine.",
+    "sourceIds": [
+     "b7-alby-choc"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Is milk chocolate low FODMAP?",
+    "a": "Only in small amounts. Monash rated a 30 g serve moderate for lactose; a smaller 20 g piece is reported low."
+   },
+   {
+    "q": "Is 85% dark chocolate low FODMAP?",
+    "a": "Reports on 85% bars disagree, so 30 g, the standard dark chocolate serve, is the best-supported amount."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "agave",
+  "name": "agave syrup",
+  "aliases": [
+   "agave nectar",
+   "agave"
+  ],
+  "category": "condiments",
+  "regions": [
+   "latin-american",
+   "global"
+  ],
+  "illustration": "agave",
+  "tier": "lab-tested",
+  "answer": "Barely. Agave syrup is very high in fructose: Karlijn's Kitchen, citing Monash data, gives just 5 g as the low amount and says a tablespoon holds a large amount of fructose. FODMAP Friendly lists agave as high. Maple syrup or rice malt syrup are the usual swaps.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "agave syrup",
+    "lowMaxG": 5,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 20,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b7-kk-maple",
+     "b7-kk-honey",
+     "b7-alby-sweeteners"
+    ],
+    "note": "A tablespoon is described as high in fructose, but no source we read gives its weight."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "A Little Bit Yummy reports that Monash rates agave high in serves bigger than 1 teaspoon, and that the syrup can be up to 90% fructose.",
+    "sourceIds": [
+     "b7-alby-sweeteners"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly's public food list puts agave next to honey and high fructose corn syrup as high FODMAP sweeteners.",
+    "sourceIds": [
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Maple syrup",
+    "slug": "maple-syrup"
+   },
+   {
+    "name": "Rice malt syrup"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is agave better than honey for IBS?",
+    "a": "No. Its low amount (5 g) is even smaller than honey's (7 g)."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "green-tea",
+  "name": "green tea",
+  "aliases": [
+   "sencha",
+   "green tea bag"
+  ],
+  "category": "drinks",
+  "regions": [
+   "east-asian",
+   "global"
+  ],
+  "illustration": "green-tea",
+  "tier": "amount-not-public",
+  "answer": "Probably fine. Dietitian sites report that Monash lab-tested plain green tea and rated it low FODMAP, but we couldn't read a public amount in grams or ml, so we don't show one yet. This covers brewed tea bags or leaves, not matcha or flavoured blends.",
+  "estimateAnswer": {
+   "word": "Likely fine",
+   "line": "Dietitians report Monash lab-tested plain green tea as a good pick, but we found no public amount to show."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "brewed green tea",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 300,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b7-alby-tea",
+     "b7-ks-tea-2017"
+    ],
+    "note": "Lab-tested, but we found no public amount to show. Fructans is shown because strong black and chai teas carry them.",
+    "unit": "ml"
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Everyday reports Monash rates 250 ml of strongly brewed green tea (1 bag) as low, and FODMAP Friendly passes 1 bag (1.5 g). We couldn't read these figures on a page ourselves.",
+    "sourceIds": [
+     "b7-fe-tea-snip"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Kate Scarlata, citing the Monash app, lists black, white, green and peppermint tea as low FODMAP, and fennel, chamomile and oolong as high.",
+    "sourceIds": [
+     "b7-ks-tea-2017"
+    ]
+   },
+   {
+    "text": "Green tea comes only from the Camellia sinensis plant. Herbal 'teas' vary a lot and are best limited early on.",
+    "sourceIds": [
+     "b7-alby-tea"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Peppermint tea"
+   },
+   {
+    "name": "Coffee",
+    "slug": "coffee"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is matcha low FODMAP?",
+    "a": "We found no public lab result for matcha. It's the whole ground leaf rather than a brew, so green tea results may not apply."
+   },
+   {
+    "q": "Does brewing strength matter?",
+    "a": "For black and chai tea it does: strong brews rate higher than weak ones. No public figure shows the same for green tea."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "kombucha",
+  "name": "kombucha",
+  "aliases": [
+   "fermented tea",
+   "booch"
+  ],
+  "category": "drinks",
+  "regions": [
+   "global",
+   "east-asian"
+  ],
+  "illustration": "kombucha",
+  "tier": "amount-not-public",
+  "answer": "It depends on the amount. Monash tested shop-bought kombucha and found fructans, and warns that a full serve may not suit people who react to them. It hasn't published a low amount outside its app, so we can't show one. Home brews weren't tested.",
+  "estimateAnswer": {
+   "word": "Depends",
+   "line": "Monash found fructans in shop-bought kombucha; a full serve may not suit everyone. No public amount yet."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "kombucha (shop-bought)",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 300,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b7-mon-ferment-2017"
+    ],
+    "note": "Lab-tested by Monash, but no public amount to show.",
+    "unit": "ml"
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Kvass, a cereal-based fermented drink tested at the same time, was low in FODMAPs in a single serve.",
+    "sourceIds": [
+     "b7-mon-ferment-2017"
+    ]
+   },
+   {
+    "text": "Kombucha is made from tea, sugar and a culture of bacteria and yeast, and may contain a small amount of alcohol.",
+    "sourceIds": [
+     "b7-mon-ferment-2017"
+    ]
+   },
+   {
+    "text": "Fermentation can lower fructans and GOS, but it doesn't always bring a food down to a low rating.",
+    "sourceIds": [
+     "b7-mon-proc-2017",
+     "b7-alby-acv"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green tea",
+    "slug": "green-tea"
+   },
+   {
+    "name": "Kvass"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I drink kombucha while cutting FODMAPs?",
+    "a": "A small glass may suit some people, but no public low amount exists. If you try it, keep the serve small and note how you feel."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "apple-cider-vinegar",
+  "name": "apple cider vinegar",
+  "aliases": [
+   "ACV",
+   "cider vinegar"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global"
+  ],
+  "illustration": "apple-cider-vinegar",
+  "tier": "lab-tested",
+  "answer": "Yes. Apple cider vinegar is low FODMAP at 2 tablespoons (40 g), per George Eats' August 2026 summary of Monash data, even though apples are high FODMAP. Its double fermentation seems to strip out most of the apple's fructose and sorbitol.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "apple cider vinegar",
+    "lowMaxG": 40,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "fructose"
+    ],
+    "household": "2 tablespoons",
+    "sourceIds": [
+     "b7-ge-dressing",
+     "b7-alby-acv"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats says Monash keeps most vinegars, including apple cider, low up to 500 g, an amount Monash uses for foods with negligible FODMAPs.",
+    "sourceIds": [
+     "b7-ge-dressing",
+     "b7-alby-sugar-2026"
+    ]
+   },
+   {
+    "text": "A summary of FODMAP Friendly data lists a smaller low serve of 20 ml for apple cider vinegar.",
+    "sourceIds": [
+     "b7-rp-condiments-snip"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's shopping list includes vinegar among low FODMAP sauces.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   },
+   {
+    "text": "A Monash dietitian has said fermentation lowers FODMAPs, but not always enough to change a food's rating. For apple cider vinegar it seems to be enough.",
+    "sourceIds": [
+     "b7-alby-acv"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "White wine vinegar"
+   },
+   {
+    "name": "Lemon juice",
+    "slug": "lemon"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is apple cider vinegar with 'the mother' low FODMAP?",
+    "a": "No separate test covers it. The 'mother' is strands of proteins, enzymes and bacteria left from fermentation."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "balsamic-vinegar",
+  "name": "balsamic vinegar",
+  "aliases": [
+   "balsamic",
+   "aceto balsamico"
+  ],
+  "category": "condiments",
+  "regions": [
+   "mediterranean",
+   "global"
+  ],
+  "illustration": "balsamic-vinegar",
+  "tier": "lab-tested",
+  "answer": "In small amounts. Balsamic vinegar is low FODMAP at 1 tablespoon and turns moderate for fructose at 2 tablespoons (42 g), per Monash data reported by A Little Bit Yummy and George Eats. It's the one common vinegar with a smaller low serve.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "balsamic vinegar",
+    "lowMaxG": 21,
+    "moderateFromG": 42,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "fructose"
+    ],
+    "household": "1 tablespoon",
+    "sourceIds": [
+     "b7-alby-condiments",
+     "b7-ge-dressing"
+    ],
+    "note": "21 g is 1 tablespoon by George Eats' measure (2 tablespoons = 42 g)."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats says Monash's data keeps balsamic low up to 41 g, just under the 42 g moderate amount. FODMAP Everyday also gives 21 g for 1 tablespoon.",
+    "sourceIds": [
+     "b7-ge-dressing",
+     "b7-fe-balsamic-snip"
+    ]
+   },
+   {
+    "text": "A summary of FODMAP Friendly data lists a larger low serve of 50 ml.",
+    "sourceIds": [
+     "b7-rp-condiments-snip"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "White, red wine, apple cider, malt and rice wine vinegars are all reported low at 40 g. Balsamic is the exception.",
+    "sourceIds": [
+     "b7-ge-dressing"
+    ]
+   },
+   {
+    "text": "If you use balsamic in a dressing, pair it with low-fructose salad ingredients so the fructose doesn't add up.",
+    "sourceIds": [
+     "b7-ge-dressing"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Apple cider vinegar",
+    "slug": "apple-cider-vinegar"
+   },
+   {
+    "name": "Red wine vinegar"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is balsamic glaze low FODMAP?",
+    "a": "We found no public lab figure for glaze. It's balsamic boiled down, often with sugar, so expect more fructose per spoon."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "mayonnaise",
+  "name": "mayonnaise",
+  "aliases": [
+   "mayo",
+   "Kewpie mayonnaise",
+   "light mayonnaise"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global"
+  ],
+  "illustration": "mayonnaise",
+  "tier": "lab-tested",
+  "answer": "Yes. Plain mayonnaise is low FODMAP at 2 tablespoons (40 g), per Karlijn's Kitchen's summary of Monash data, and Monash names mayonnaise as a low FODMAP condiment. Regular, light and Japanese mayo are reported low even in large amounts. Check the label for garlic or onion.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "mayonnaise (regular or light)",
+    "lowMaxG": 40,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 tablespoons",
+    "sourceIds": [
+     "b7-kk-mayo",
+     "b7-alby-condiments"
+    ],
+    "note": "Mayonnaise has very few FODMAPs; fructans is shown because garlic or onion added to some brands is the usual problem."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats reports that, as of August 2026, Monash lists regular, light and Japanese (Kewpie) mayonnaise as low up to 500 g. Monash uses that amount for foods with negligible FODMAPs, so 40 g is a normal serve, not a limit.",
+    "sourceIds": [
+     "b7-ge-aioli",
+     "b7-alby-sugar-2026"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names mayonnaise as a low FODMAP condiment on its food list and shopping list.",
+    "sourceIds": [
+     "b1-mon-where",
+     "mon-shop-2025"
+    ]
+   },
+   {
+    "text": "Some mayonnaise contains wheat-based thickeners. Monash says these aren't high in fructans, though they do contain gluten.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Vegan mayonnaise is less predictable: recipes often use fructose, onion or garlic powder, or legumes.",
+    "sourceIds": [
+     "b7-ge-aioli"
+    ]
+   },
+   {
+    "text": "'Spices' on a label can hide onion or garlic, and flavoured mayos are more likely to contain them.",
+    "sourceIds": [
+     "b7-kk-mayo",
+     "b7-alby-condiments"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Mustard",
+    "slug": "mustard"
+   },
+   {
+    "name": "Olive oil",
+    "slug": "olive-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is aioli low FODMAP?",
+    "a": "Classic aioli is made with garlic, so usually not. Versions made with garlic-infused oil avoid the garlic's fructans."
+   },
+   {
+    "q": "Is Kewpie mayo low FODMAP?",
+    "a": "Yes. George Eats reports that Monash lists Japanese mayonnaise as low even in large amounts."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "miso",
+  "name": "miso paste",
+  "aliases": [
+   "miso",
+   "white miso",
+   "shiro miso"
+  ],
+  "category": "condiments",
+  "regions": [
+   "east-asian"
+  ],
+  "illustration": "miso",
+  "tier": "lab-tested",
+  "answer": "In small amounts. Miso paste is low FODMAP at 12 g, per Karlijn's Kitchen and A Little Bit Yummy citing Monash data, and Monash lists miso among low FODMAP condiments. Check the label for added onion or garlic.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "miso paste",
+    "lowMaxG": 12,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 30,
+    "groups": [
+     "gos"
+    ],
+    "sourceIds": [
+     "b7-kk-soy",
+     "b7-alby-condiments"
+    ],
+    "note": "Sources disagree on the spoon size for 12 g, so we show grams only. They don't name the FODMAP; GOS is shown because miso is made from soybeans.",
+    "groupUnknown": true
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "The spoon size for 12 g differs: Karlijn's Kitchen calls it 2 tablespoons, A Little Bit Yummy's 2019 list says 2 sachets, and its 2025 soy guide says 1 tablespoon.",
+    "sourceIds": [
+     "b7-kk-soy",
+     "b7-alby-condiments",
+     "b7-alby-soy"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's 2026 plant-based swaps list miso paste next to soy sauce as a low FODMAP condiment.",
+    "sourceIds": [
+     "b1-mon-swaps-2026"
+    ]
+   },
+   {
+    "text": "Miso is fermented soybeans. Fermentation lets microbes feed on fructans and GOS, which lowers them.",
+    "sourceIds": [
+     "b7-mon-proc-2017",
+     "b7-alby-soy"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Soy sauce",
+    "slug": "soy-sauce"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is miso soup low FODMAP?",
+    "a": "Only if the miso per bowl stays near 12 g and the soup has no onion, garlic or other high FODMAP add-ins."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
  }
 ]

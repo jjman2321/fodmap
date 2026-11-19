@@ -1,19 +1,789 @@
 [
  {
-  "id": "b5-mon-highlow",
+  "id": "b1-mon-broc-2017",
   "kind": "public-statement",
-  "title": "Where FODMAPs are found in foods (high and low FODMAP foods)",
+  "title": "FODMAP content of broccoli and Broccolini: an update",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/newly-tested-and-retested-foods-broccoli-and-broccolini/",
+  "published": "22 Nov 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-fructose-2024",
+  "kind": "public-statement",
+  "title": "Fructose changes for vegetables in the Monash FODMAP app",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/fructose-changes-vegetables/",
+  "published": "22 Jul 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-reintro-2025",
+  "kind": "public-statement",
+  "title": "Reintroduction update (tables 1 and 3: retested foods)",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/reintroduction-update/",
+  "published": "28 Apr 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-lights-2024",
+  "kind": "public-statement",
+  "title": "Monash FODMAP app traffic lights: how are they determined?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/how-traffic-lights-are-determined/",
+  "published": "10 Sep 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-10foods-2015",
+  "kind": "public-statement",
+  "title": "10 foods you didn't know you could eat on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/10-foods-you-didnt-know-you-could-eat/",
+  "published": "25 May 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-veg-2015",
+  "kind": "public-statement",
+  "title": "Eating more vegetables on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/eating-more-vegetables-on-low-fodmap/",
+  "published": "19 Nov 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-ferment-2017",
+  "kind": "public-statement",
+  "title": "Fermented foods and FODMAPs",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/fermented-foods-and-fodmaps/",
+  "published": "25 Jan 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-swaps-2026",
+  "kind": "public-statement",
+  "title": "Low FODMAP plant-based swaps",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
+  "published": "29 Oct 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-micro-2026",
+  "kind": "public-statement",
+  "title": "Can microwaving fruits and vegetables reduce their FODMAP content? A laboratory study",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/can-microwaving-reduce-fodmap-content/",
+  "published": "29 May 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-mon-where",
+  "kind": "public-statement",
+  "title": "Where FODMAPs are found in foods",
   "publisher": "Monash University",
   "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
   "accessed": "2026-11-19"
  },
  {
-  "id": "b5-mon-3step",
+  "id": "b1-ff-mush-2015",
   "kind": "public-statement",
-  "title": "3-step FODMAP diet info sheet (2026, PDF)",
+  "title": "Mushrooms: high or low in FODMAPs?",
+  "publisher": "FODMAP Friendly",
+  "url": "https://fodmapfriendly.com/blog-posts/mushrooms-high-or-low-in-fodmaps/",
+  "published": "15 Sep 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-broccoli",
+  "kind": "secondary",
+  "title": "Is broccoli low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-broccoli-low-fodmap/",
+  "published": "19 Jan 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-corn",
+  "kind": "secondary",
+  "title": "Is corn low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-corn-low-fodmap/",
+  "published": "20 Feb 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-tomatoes",
+  "kind": "secondary",
+  "title": "Are tomatoes low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/are-tomatoes-low-fodmap/",
+  "published": "26 Jan 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-potatoes",
+  "kind": "secondary",
+  "title": "Are potatoes low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/are-potatoes-low-fodmap/",
+  "published": "4 Jun 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-cabbage",
+  "kind": "secondary",
+  "title": "Is cabbage low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-cabbage-low-fodmap/",
+  "published": "21 Apr 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-celery",
+  "kind": "secondary",
+  "title": "Is celery low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-celery-low-fodmap/",
+  "published": "2 Jul 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-spinach",
+  "kind": "secondary",
+  "title": "Is spinach low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-spinach-low-fodmap/",
+  "published": "updated 9 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-kale",
+  "kind": "secondary",
+  "title": "Is kale low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-kale-low-fodmap/",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-pumpkin",
+  "kind": "secondary",
+  "title": "Is pumpkin low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-pumpkin-low-fodmap/",
+  "published": "10 Sep 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-mushrooms",
+  "kind": "secondary",
+  "title": "Are mushrooms low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/mushrooms-low-fodmap/",
+  "published": "updated 9 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-asparagus",
+  "kind": "secondary",
+  "title": "Is asparagus low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/asparagus-fodmap/",
+  "published": "23 Apr 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-kk-veglist",
+  "kind": "secondary",
+  "title": "Low FODMAP vegetables",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/low-fodmap-vegetables/",
+  "published": "updated 30 Sep 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-alby-portion",
+  "kind": "secondary",
+  "title": "10 low FODMAP foods that need portion control",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/10-low-fodmap-foods-that-need-portion-control-the-foods-might-surprise-you/",
+  "published": "updated 28 Sep 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-alby-canned",
+  "kind": "secondary",
+  "title": "Canned foods and FODMAPs: what's the story?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/canned-foods-fodmaps-whats-the-story/",
+  "published": "updated 28 Sep 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-alby-cauli-2025",
+  "kind": "secondary",
+  "title": "Research update: cauliflower is low FODMAP",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/research-update-cauliflower-is-low-fodmap/",
+  "published": "4 Jun 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-ge-carrots",
+  "kind": "secondary",
+  "title": "Are carrots low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://www.georgeats.com/low-fodmap/are-carrots-low-fodmap/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b1-ge-pumpkin",
+  "kind": "secondary",
+  "title": "Is pumpkin low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/is-pumpkin-low-fodmap/",
+  "published": "updated 10 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-banana-2017",
+  "kind": "public-statement",
+  "title": "Update: bananas re-tested!",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/update-bananas-re-tested/",
+  "published": "16 May 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-info-2026",
+  "kind": "public-statement",
+  "title": "Treating IBS with a 3-step FODMAP diet (A4 info sheet, PDF)",
   "publisher": "Monash University",
   "url": "https://monashfodmap.com/documents/203/3-step_FODMAP_Diet_2026_A4_info_sheet.pdf",
   "published": "2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-retest-2022",
+  "kind": "public-statement",
+  "title": "Retested foods: why FODMAP content might change",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/retested-foods-why-fodmap-content-might-change/",
+  "published": "2 Dec 2022",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-berries-2015",
+  "kind": "public-statement",
+  "title": "Wild Scandinavian berries on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/wild-summer-berries-scandinavia/",
+  "published": "9 Jul 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-med-2016",
+  "kind": "public-statement",
+  "title": "A low FODMAP Mediterranean-style diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/a-low-fodmap-mediterranean-style-diet/",
+  "published": "25 Jun 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-fruit-2017",
+  "kind": "public-statement",
+  "title": "How to include plenty of fruit on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/how-to-include-plenty-of-fruit-on-low/",
+  "published": "26 Jun 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-mon-summer-2025",
+  "kind": "public-statement",
+  "title": "Low FODMAP diet under the summer sun",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/low-fodmap-diet-under-the-summer-sun/",
+  "published": "13 Feb 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ff-fruit-2020",
+  "kind": "public-statement",
+  "title": "FODMAP Friendly fruit",
+  "publisher": "FODMAP Friendly",
+  "url": "https://fodmapfriendly.com/blog-posts/fodmap-friendly-fruit-fodmap-friendly/",
+  "published": "21 Jan 2020",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ff-cherries-2015",
+  "kind": "public-statement",
+  "title": "Cherries and FODMAPs",
+  "publisher": "FODMAP Friendly",
+  "url": "https://fodmapfriendly.com/blog-posts/cherries-and-fodmaps/",
+  "published": "16 Dec 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-dvd-stacking",
+  "kind": "secondary",
+  "title": "The low FODMAP food list by FODMAP category (stacking guide, metric, PDF v1.8)",
+  "publisher": "Diet vs Disease",
+  "url": "https://www.dietvsdisease.org/wp-content/uploads/Diet-vs-Disease-Stacking-Guide-Metric.pdf",
+  "published": "v1.8 Oct 2024; file dated Oct 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-fruits-2023",
+  "kind": "secondary",
+  "title": "Low FODMAP fruits",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/low-fodmap-fruits/",
+  "published": "updated 30 Jan 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-melon-2024",
+  "kind": "secondary",
+  "title": "Is melon low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-melon-low-fodmap/",
+  "published": "3 Sep 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-coconut-2024",
+  "kind": "secondary",
+  "title": "Is coconut low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-coconut-low-fodmap/",
+  "published": "updated 9 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-dates-2024",
+  "kind": "secondary",
+  "title": "Are dates low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/are-dates-low-fodmap/",
+  "published": "9 Apr 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-pineapple-2024",
+  "kind": "secondary",
+  "title": "Is pineapple low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-pineapple-low-fodmap/",
+  "published": "19 May 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-blueberries-2024",
+  "kind": "secondary",
+  "title": "Are blueberries low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/are-blueberries-low-fodmap/",
+  "published": "28 May 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-oliebollen-2025",
+  "kind": "secondary",
+  "title": "Gluten-free oliebollen (Dutch doughnuts)",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/gluten-free-dutch-doughnuts/",
+  "published": "updated 27 Dec 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-kk-raisinbuns",
+  "kind": "secondary",
+  "title": "Low FODMAP raisin buns",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/low-fodmap-raisin-buns/",
+  "published": "updated 20 Mar 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ge-banana-2026",
+  "kind": "secondary",
+  "title": "Are bananas low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/are-bananas-low-fodmap/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ge-blueberries-2026",
+  "kind": "secondary",
+  "title": "Are blueberries low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/are-blueberries-low-fodmap/",
+  "published": "updated 11 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ge-apples-2026",
+  "kind": "secondary",
+  "title": "Are apples low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/are-apples-low-fodmap/",
+  "published": "updated 10 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ge-coconut-2026",
+  "kind": "secondary",
+  "title": "Is coconut low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/is-coconut-low-fodmap/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ge-olives-2026",
+  "kind": "secondary",
+  "title": "Are olives low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/are-olives-low-fodmap/",
+  "published": "updated 11 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-alby-grapes-2024",
+  "kind": "secondary",
+  "title": "Research update: grapes and the low FODMAP diet",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/research-update-grapes-and-the-low-fodmap-diet/",
+  "published": "11 Jul 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-alby-fruit-2023",
+  "kind": "secondary",
+  "title": "How much fruit can I eat on the low FODMAP diet?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/how-much-fruit-can-i-eat-on-the-low-fodmap-diet/",
+  "published": "updated 6 Feb 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-alby-summer",
+  "kind": "secondary",
+  "title": "What summer fruits are low FODMAP? And how much can you eat?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/what-summer-fruits-are-low-fodmap-and-how-much-can-you-eat/",
+  "published": "updated 9 Jul 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-alby-app-2018",
+  "kind": "secondary",
+  "title": "Understanding the Monash low FODMAP app updates",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/understanding-the-monash-low-fodmap-app-updates/",
+  "published": "updated 30 Aug 2018",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-season-grapes-2024",
+  "kind": "secondary",
+  "title": "Are grapes low FODMAP?",
+  "publisher": "Season Health (registered dietitians)",
+  "url": "https://www.seasonhealth.com/blog/are-grapes-low-fodmap",
+  "published": "22 Aug 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b3-ward-grapes-2022",
+  "kind": "secondary",
+  "title": "FODMAP update: grapes and strawberries retested",
+  "publisher": "Ward Nutrition",
+  "url": "https://sparrow-triangle-y23g.squarespace.com/blog/fodmap-grapes-and-strawberries-retested",
+  "published": "15 Mar 2022",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-grains-2016",
+  "kind": "public-statement",
+  "title": "Grain-based foods on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/grains-low-fodmap-diet/",
+  "published": "16 Aug 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-nontrad-2017",
+  "kind": "public-statement",
+  "title": "Using non-traditional cereals and grains",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/using-non-traditional-cereals-and-grains/",
+  "published": "7 Aug 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-wheat-2015",
+  "kind": "public-statement",
+  "title": "Avoiding wheat on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/avoiding-wheat-how-strict-on-low-fodmap_10/",
+  "published": "10 Aug 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-serving-2017",
+  "kind": "public-statement",
+  "title": "Serving size and FODMAPs: why is it so important?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/serving-size-and-fodmaps-why-it-so-important/",
+  "published": "5 Dec 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-sourdough-2017",
+  "kind": "public-statement",
+  "title": "Sourdough processing and FODMAPs",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/sourdough-processing-fodmaps/",
+  "published": "8 Nov 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-sprouting-2017",
+  "kind": "public-statement",
+  "title": "Sprouting: does it reduce the FODMAP content of foods?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/sprouting-does-it-reduce-fodmap-content/",
+  "published": "28 Mar 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-mon-bourghal-2014",
+  "kind": "public-statement",
+  "title": "Bourghal: newly tested for FODMAP content (archived copy)",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://web.archive.org/web/20190922210439/https://www.monashfodmap.com/blog/bourghal-newly-tested-for-fodmap-content/",
+  "published": "11 Nov 2014",
+  "accessed": "2026-11-18"
+ },
+ {
+  "id": "b4-mon-step2",
+  "kind": "public-statement",
+  "title": "Step 2: a guide to FODMAP reintroduction (patient resource, PDF)",
+  "publisher": "Monash University",
+  "url": "https://monashfodmap.com/documents/208/Monash_FODMAP_Resource_-_Step_2_Reintroduction.pdf",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ff-wheatbread-2017",
+  "kind": "public-statement",
+  "title": "How can wheat bread be low FODMAP bread? Your burning questions answered",
+  "publisher": "FODMAP Friendly",
+  "url": "https://fodmapfriendly.com/blog-posts/how-can-wheat-bread-be-low-fodmap-your-questions-answered/",
+  "published": "7 Dec 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-biesiekierski-2011",
+  "kind": "paper",
+  "title": "Quantification of fructans, galacto-oligosaccharides and other short-chain carbohydrates in processed grains and cereals (Biesiekierski et al., J Hum Nutr Diet 24:154)",
+  "publisher": "Wiley",
+  "url": "https://doi.org/10.1111/j.1365-277X.2010.01139.x",
+  "doi": "10.1111/j.1365-277X.2010.01139.x",
+  "published": "2011",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-pejcz-2024",
+  "kind": "paper",
+  "title": "Fructan concentrations in cooked cereal grains as a nutritional consideration for low-FODMAP diet (Pejcz et al., Molecules 29:282)",
+  "publisher": "MDPI",
+  "url": "https://doi.org/10.3390/molecules29020282",
+  "doi": "10.3390/molecules29020282",
+  "published": "2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-off-falafel",
+  "kind": "dataset",
+  "title": "Open Food Facts: products matching 'falafel' (ingredient lists, ODbL)",
+  "publisher": "Open Food Facts",
+  "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=falafel&search_simple=1",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-kk-bread",
+  "kind": "secondary",
+  "title": "What bread is low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/what-bread-is-low-fodmap/",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-alby-sourdough",
+  "kind": "secondary",
+  "title": "What sourdough breads are low FODMAP?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/what-sourdough-bread-is-low-fodmap/",
+  "published": "updated 26 Sep 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-scarlata-sourdough-2015",
+  "kind": "secondary",
+  "title": "Let's talk about sourdough bread and FODMAPs",
+  "publisher": "Kate Scarlata RDN",
+  "url": "https://blog.katescarlata.com/2015/11/10/lets-talk-about-sourdough-bread-fodmaps/",
+  "published": "10 Nov 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-kk-oats",
+  "kind": "secondary",
+  "title": "Are oats low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/are-oats-low-fodmap/",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-alby-rice",
+  "kind": "secondary",
+  "title": "Rice and the low FODMAP diet",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/rice-the-low-fodmap-diet/",
+  "published": "updated 28 Sep 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-rice",
+  "kind": "secondary",
+  "title": "Is rice low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/is-rice-low-fodmap/",
+  "published": "updated 11 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-fibre",
+  "kind": "secondary",
+  "title": "High fibre low FODMAP foods and recipes",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/high-fibre-low-fodmap-foods-and-recipes/",
+  "published": "updated 31 Jul 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-kk-flours",
+  "kind": "secondary",
+  "title": "What flours are low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/what-flours-are-low-fodmap/",
+  "published": "updated 20 Jan 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-tacos",
+  "kind": "secondary",
+  "title": "Low FODMAP fish tacos",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-fish-tacos/",
+  "published": "updated 4 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-fe-tortilla",
+  "kind": "secondary",
+  "title": "Dining out with IBS: Mexican and Tex-Mex (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/dining-out-with-ibs-mexican-tex-mex",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-fe-barley",
+  "kind": "secondary",
+  "title": "Pearl barley serving size (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/?p=14330",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-tabbouleh",
+  "kind": "secondary",
+  "title": "Low FODMAP tabbouleh",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-tabbouleh/",
+  "published": "updated 4 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-nhs-cuh",
+  "kind": "secondary",
+  "title": "Low FODMAP diet: reducing fermentable carbohydrates in your diet (patient leaflet, version 2)",
+  "publisher": "Cambridge University Hospitals NHS Foundation Trust",
+  "url": "https://www.cuh.nhs.uk/patient-information/low-fodmap-diet-reducing-fermentable-carbohydrates-in-your-diet/",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-kk-cheese",
+  "kind": "secondary",
+  "title": "What cheeses are low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/what-cheeses-are-low-fodmap/",
+  "published": "updated 2 Jun 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-yoghurt",
+  "kind": "secondary",
+  "title": "Low FODMAP yoghurt varieties",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-yoghurt-varieties-recipes/",
+  "published": "updated 2 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-nuts",
+  "kind": "secondary",
+  "title": "Low FODMAP nuts and seeds",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/low-fodmap-nuts-and-seeds/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-ge-falafel",
+  "kind": "secondary",
+  "title": "Low FODMAP falafel (gluten free, baked or fried)",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/gluten-free/low-fodmap-falafel-gluten-free-baked-or-fried/",
+  "published": "updated 4 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-alby-falafel",
+  "kind": "secondary",
+  "title": "Low FODMAP falafel (recipe, dietitian reviewed)",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/recipe/en-us/low-fodmap-falafel/",
+  "published": "updated 2 Jul 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b4-fe-zaatar",
+  "kind": "secondary",
+  "title": "Low FODMAP Mediterranean za'atar spice (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-mediterranean-zaatar-spice/",
   "accessed": "2026-11-19"
  },
  {
@@ -35,30 +805,12 @@
   "accessed": "2026-11-19"
  },
  {
-  "id": "b5-mon-plantswaps-2026",
-  "kind": "public-statement",
-  "title": "Low FODMAP plant-based swaps",
-  "publisher": "Monash University (FODMAP blog)",
-  "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
-  "published": "29 Oct 2026",
-  "accessed": "2026-11-19"
- },
- {
   "id": "b5-ff-lactose-2021",
   "kind": "public-statement",
   "title": "Lactose sensitivity: tolerating yoghurt, lactose free vs low lactose and FODMAP stacking",
   "publisher": "FODMAP Friendly",
   "url": "https://fodmapfriendly.com/blog-posts/lactose/",
   "published": "8 Sep 2021",
-  "accessed": "2026-11-19"
- },
- {
-  "id": "b5-ge-nuts",
-  "kind": "secondary",
-  "title": "Low FODMAP nuts and seeds",
-  "publisher": "George Eats",
-  "url": "https://georgeats.com/posts/resources/low-fodmap-nuts-and-seeds/",
-  "published": "updated 12 Aug 2026",
   "accessed": "2026-11-19"
  },
  {
@@ -125,15 +877,6 @@
   "accessed": "2026-11-19"
  },
  {
-  "id": "b5-kk-cheese",
-  "kind": "secondary",
-  "title": "What cheeses are low FODMAP?",
-  "publisher": "Karlijn's Kitchen",
-  "url": "https://www.karlijnskitchen.com/en/what-cheeses-are-low-fodmap/",
-  "published": "updated 2 Jun 2024",
-  "accessed": "2026-11-19"
- },
- {
   "id": "b5-alby-nuts",
   "kind": "secondary",
   "title": "What nuts are low FODMAP?",
@@ -188,15 +931,6 @@
   "accessed": "2026-11-19"
  },
  {
-  "id": "b6-mon-ferment-2017",
-  "kind": "public-statement",
-  "title": "Fermented foods and FODMAPs",
-  "publisher": "Monash University (FODMAP blog)",
-  "url": "https://monashfodmap.com/blog/fermented-foods-and-fodmaps/",
-  "published": "25 Jan 2017",
-  "accessed": "2026-11-19"
- },
- {
   "id": "b6-alby-milk",
   "kind": "secondary",
   "title": "Low FODMAP milk options",
@@ -248,6 +982,280 @@
   "publisher": "A Little Bit Yummy",
   "url": "https://alittlebityummy.com/?p=1997",
   "published": "updated 21 Aug 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-mon-flavour-2015",
+  "kind": "public-statement",
+  "title": "Adding flavour without adding symptoms",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/adding-flavour-without-adding-symptoms/",
+  "published": "19 Mar 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-mon-easter-2015",
+  "kind": "public-statement",
+  "title": "Low FODMAP Easter (chocolate serves)",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/happy-easter-low-fodmappers/",
+  "published": "4 Apr 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-mon-caffeine-2017",
+  "kind": "public-statement",
+  "title": "Does caffeine affect IBS symptoms?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/does-caffeine-affect-ibs-symptoms/",
+  "published": "21 Aug 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-mon-nonfodmap-2024",
+  "kind": "public-statement",
+  "title": "Non-FODMAP dietary triggers of IBS symptoms",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/non-fodmap-dietary-triggers-of-ibs-symptoms",
+  "published": "26 Mar 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-mon-ferment-2017",
+  "kind": "public-statement",
+  "title": "Fermented drinks and the low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/update-new-fermented-drinks-added-to/",
+  "published": "28 Feb 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-mon-proc-2017",
+  "kind": "public-statement",
+  "title": "Food processing and FODMAPs",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/food-processing-and-fodmaps-what-you/",
+  "published": "7 Feb 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-kk-honey",
+  "kind": "secondary",
+  "title": "Is honey low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-honey-low-fodmap/",
+  "published": "8 Mar 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-kk-maple",
+  "kind": "secondary",
+  "title": "Is maple syrup low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-maple-syrup-low-fodmap/",
+  "published": "9 Jul 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-kk-mayo",
+  "kind": "secondary",
+  "title": "Is mayonnaise low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-mayonnaise-low-fodmap/",
+  "published": "29 Oct 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-kk-soy",
+  "kind": "secondary",
+  "title": "Is soy low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-soy-low-fodmap/",
+  "published": "updated 10 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-kk-coffee",
+  "kind": "secondary",
+  "title": "Is coffee low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-coffee-low-fodmap/",
+  "published": "updated 9 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-tomsauce",
+  "kind": "secondary",
+  "title": "Are tomato sauce & ketchup low FODMAP? (table from Monash's 2014 blog post)",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/are-tomato-sauce-ketchup-low-fodmap/",
+  "published": "updated 13 Jan 2018",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-condiments",
+  "kind": "secondary",
+  "title": "8 condiments you might not know are low FODMAP",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/8-condiments-you-might-not-know-are-low-fodmap/",
+  "published": "updated 6 May 2019",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-choc",
+  "kind": "secondary",
+  "title": "What chocolate is low FODMAP? (update)",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/what-chocolate-is-low-fodmap-update/",
+  "published": "updated 30 Mar 2021",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-coffee",
+  "kind": "secondary",
+  "title": "Let's chat about coffee and IBS",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/lets-chat-about-coffee-and-ibs/",
+  "published": "updated 10 Nov 2020",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-acv",
+  "kind": "secondary",
+  "title": "Is apple cider vinegar low FODMAP?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/is-apple-cider-vinegar-low-fodmap/",
+  "published": "updated 24 Sep 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-sweeteners",
+  "kind": "secondary",
+  "title": "The ultimate guide to low FODMAP sugars & sweeteners",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/the-ultimate-guide-to-low-fodmap-sugars-sweeteners/",
+  "published": "updated 17 Mar 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-sugar-2026",
+  "kind": "secondary",
+  "title": "Is the low FODMAP diet sugar free? (interview with a Monash research dietitian)",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/is-the-low-fodmap-diet-sugar-free/",
+  "published": "updated 22 Jun 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-soy",
+  "kind": "secondary",
+  "title": "Confused about soy & the low FODMAP diet?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/confused-about-soy-the-low-fodmap-diet/",
+  "published": "updated 17 Jan 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-alby-tea",
+  "kind": "secondary",
+  "title": "How to choose a low FODMAP tea",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/how-to-choose-a-low-fodmap-tea/",
+  "published": "updated 21 Apr 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-ks-tea-2017",
+  "kind": "secondary",
+  "title": "What's in your cup? Tea and coffee options for the FODMAPer",
+  "publisher": "Kate Scarlata RDN",
+  "url": "https://blog.katescarlata.com/2017/02/06/whats-cup-tea-coffee-options-fodmaper/",
+  "published": "6 Feb 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-ks-bev-2013",
+  "kind": "secondary",
+  "title": "Monash beverage update",
+  "publisher": "Kate Scarlata RDN",
+  "url": "https://blog.katescarlata.com/2013/10/18/monash-beverage-update/",
+  "published": "18 Oct 2013",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-ge-dressing",
+  "kind": "secondary",
+  "title": "Low FODMAP salad dressing (vinegar, mustard, maple and honey thresholds)",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-salad-dressing/",
+  "published": "updated 17 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-ge-aioli",
+  "kind": "secondary",
+  "title": "Low FODMAP aioli (mayonnaise thresholds)",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-aioli-with-roasted-pickled-garlic/",
+  "published": "updated 5 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-fe-honey-snip",
+  "kind": "secondary",
+  "title": "Is honey low FODMAP? (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/is-honey-low-fodmap",
+  "published": "2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-fe-maple-snip",
+  "kind": "secondary",
+  "title": "Maple syrup (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/maple-syrup/",
+  "published": "updated Jun 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-fe-tea-snip",
+  "kind": "secondary",
+  "title": "Tea and FODMAPs (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/tea-fodmaps/",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-fe-coffee-snip",
+  "kind": "secondary",
+  "title": "You can have coffee on the low FODMAP diet, maybe (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/the-low-fodmap-diet-coffee-coffee-drinks",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-fe-darkchoc-snip",
+  "kind": "secondary",
+  "title": "All about dark chocolate and the low FODMAP diet (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/all-about-dark-chocolate-the-low-fodmap-diet/",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-fe-balsamic-snip",
+  "kind": "secondary",
+  "title": "Low FODMAP balsamic vinaigrette (search snippet)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-balsamic-vinaigrette/",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b7-rp-condiments-snip",
+  "kind": "secondary",
+  "title": "What condiments are low FODMAP? (search snippet)",
+  "publisher": "Rachel Pauls Food",
+  "url": "https://rachelpaulsfood.com/what-condiments-are-low-fodmap-can-i-have-ketchup-mayo-mustard-on-the-fodmap-diet/",
   "accessed": "2026-11-19"
  }
 ]

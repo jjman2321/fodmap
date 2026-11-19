@@ -3,6 +3,7 @@ import { GROUP_LABEL } from "@/lib/groups";
 import { verdict } from "@/lib/fodmap";
 import { Bowl } from "./Bowl";
 import { amt } from "@/lib/units";
+import { messages as m } from "@/lib/i18n";
 
 // Answer-first hero (DECISIONS 2026-11-19, option 1): a big Yes/No, one sentence with grams, 3 traffic lights.
 type Light = { tone: "low" | "mid" | "high" | "none"; label: string; grams: string; sub?: string; level: 0 | 1 | 2 | 3 };
@@ -17,6 +18,8 @@ export function answerWord(food: Food) {
   const v = verdict(food);
   if (v === "estimate" || v === "unknown") return { word: food.estimateAnswer?.word ?? "Not tested", tone: "none" as const };
   if (v === "high") return { word: "High FODMAP", tone: "high" as const };
+  if (v === "moderate") return { word: "Moderate FODMAP", tone: "mid" as const };
+  if (v === "small") return { word: "Small amounts only", tone: "mid" as const };
   return { word: "Low FODMAP", tone: "low" as const };
 }
 
@@ -24,9 +27,11 @@ export function AnswerCard({ food, cite }: { food: Food; cite: (ids: string[]) =
   const s = food.servings[0];
   const v = verdict(food);
   const { word, tone } = answerWord(food);
-  const groups = s.groups.map((g) => (g === "gos" ? "GOS" : GROUP_LABEL[g].toLowerCase())).join(" and ");
+  const groups = s.groupUnknown ? "not named by the sources" : s.groups.map((g) => (g === "gos" ? "GOS" : GROUP_LABEL[g].toLowerCase())).join(" and ");
   const amount = s.lowMaxG !== null ? `${amt(s, s.lowMaxG)}${s.household ? ` (${s.household})` : ""}` : "";
   const line =
+    v === "moderate" ? <>Moderate at <b>{amt(s, s.moderateFromG)}</b>, a standard serve. No low amount found.{s.highFromG ? <> High from {amt(s, s.highFromG)}.</> : null}</> :
+    v === "small" ? <>Low FODMAP only up to <b>{amount}</b>.{s.highFromG ? <> High from {amt(s, s.highFromG)}.</> : s.moderateFromG ? <> Moderate from {amt(s, s.moderateFromG)}.</> : null}</> :
     v === "depends" ? <>In a portion up to <b>{amount}</b>.{s.highFromG ? <> High from {amt(s, s.highFromG)}.</> : s.moderateFromG ? <> Moderate from {amt(s, s.moderateFromG)}.</> : null}</> :
     v === "free" ? <>{food.freeNote?.line ?? "It contains no FODMAPs, so the amount doesn't matter for FODMAPs."}</> :
     v === "low" ? <>At <b>{amount}</b>, the amount tested.</> :
@@ -46,7 +51,7 @@ export function AnswerCard({ food, cite }: { food: Food; cite: (ids: string[]) =
 
   return (
     <section aria-label="Answer" className="mt-5 rounded-[var(--radius-card)] border border-line bg-card p-5 sm:p-6">
-      <p className={`font-display text-[44px] font-extrabold leading-none tracking-[-0.035em] sm:text-[56px] ${textTone}`}>{word}</p>
+      <p className={`font-display font-extrabold leading-none tracking-[-0.035em] ${word.length > 12 ? "text-[38px] sm:text-[52px]" : "text-[44px] sm:text-[56px]"} ${textTone}`}>{word}</p>
       <p className="mt-2 text-[19px] leading-snug">{line}</p>
       {lights.length > 0 && (
       <ul className="mt-4 flex gap-2" aria-label="Amounts">
@@ -61,7 +66,7 @@ export function AnswerCard({ food, cite }: { food: Food; cite: (ids: string[]) =
       </ul>
       )}
       <p className="mt-4 text-[14px] text-muted">
-        {v === "free" ? <>Nothing to watch for FODMAPs</> : <>Watch for: <b className="text-ink">{groups}</b></>} · {v === "estimate" || v === "unknown" ? "Estimated from ingredients" : "Lab data"}{cite(s.sourceIds)}
+        {v === "free" ? <>Nothing to watch for FODMAPs</> : <>Watch for: <b className="text-ink">{groups}</b></>} · {v === "estimate" || v === "unknown" ? m.tier[food.tier] : "Lab data"}{cite(s.sourceIds)}
       </p>
     </section>
   );

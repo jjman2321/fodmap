@@ -10,15 +10,27 @@ export function zoneFor(s: Serving, g: number): Zone {
   return "untested";
 }
 
-export type Verdict = "low" | "depends" | "high" | "estimate" | "unknown" | "free";
+export type Verdict = "low" | "depends" | "high" | "estimate" | "unknown" | "free" | "small" | "moderate";
+
+// Rough typical serve per category (Monash's overall rating uses a typical serve, e.g. 75 g of vegetables).
+// If the low amount is under half of this, the answer is "Small amounts only" instead of a plain "Low FODMAP".
+export const TYPICAL: Record<string, number> = { vegetables: 75, fruit: 100, grains: 100, legumes: 75, "nuts-seeds": 30, dairy: 40, protein: 100, condiments: 15, "herbs-spices": 2, drinks: 250 };
+export function isSmallServe(food: Food): boolean {
+  const s = food.servings[0];
+  if (s.lowMaxG === null) return false;
+  const typical = s.unit === "ml" ? 250 : (TYPICAL[food.category] ?? 75);
+  return s.lowMaxG < typical / 2;
+}
 
 // The headline answer for the main form (first serving).
 export function verdict(food: Food): Verdict {
   if (food.noFodmaps) return "free";
-  if (food.tier === "estimated") return "estimate";
+  if (food.tier === "estimated" || food.tier === "amount-not-public") return "estimate";
   if (food.tier === "unknown") return "unknown";
   const s = food.servings[0];
+  if (s.lowMaxG === null && s.moderateFromG !== null && (s.highFromG === null || s.highFromG > s.moderateFromG)) return "moderate";
   if (s.lowMaxG === null) return "high";
+  if (isSmallServe(food)) return "small";
   if (s.highFromG === null && s.moderateFromG === null) return "low";
   return "depends";
 }
@@ -50,7 +62,7 @@ export function stack(items: MealItem[]): GroupLoad[] {
   for (const it of items) {
     const s = it.food.servings[it.servingIndex] ?? it.food.servings[0];
     const z = zoneFor(s, it.grams);
-    for (const g of s.groups) {
+    for (const g of s.groupUnknown ? [] : s.groups) {
       const cur = by.get(g) ?? { group: g, load: 0, foods: [], anyHigh: false };
       const load = s.lowMaxG ? it.grams / s.lowMaxG : Number.POSITIVE_INFINITY;
       cur.load += load;

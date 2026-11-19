@@ -18,12 +18,12 @@ describe("data rules (DECISIONS §0)", () => {
         for (const id of ids) expect(getSource(id), `${f.slug} cites unknown source ${id}`).toBeDefined();
       });
       it("only lab data may say low", () => {
-        if (f.tier === "estimated" || f.tier === "unknown") for (const s of f.servings) expect(s.lowMaxG, `${f.slug} ${s.form}`).toBeNull();
+        if (f.tier === "estimated" || f.tier === "unknown" || f.tier === "amount-not-public") for (const s of f.servings) expect(s.lowMaxG, `${f.slug} ${s.form}`).toBeNull();
         for (const s of f.servings) if (s.lowMaxG !== null) expect(getSource(s.sourceIds[0])!.kind).not.toBe("dataset");
       });
       it("an estimate's big word never says low", () => {
         if (f.estimateAnswer) expect(f.estimateAnswer.word.toLowerCase()).not.toMatch(/\blow\b/);
-        if (f.tier === "estimated") expect(f.estimateAnswer, `${f.slug} needs an estimateAnswer`).toBeDefined();
+        if (f.tier === "estimated" || f.tier === "amount-not-public") expect(f.estimateAnswer, `${f.slug} needs an estimateAnswer`).toBeDefined();
       });
       it("zones are in order and on the scale", () => {
         for (const s of f.servings) {

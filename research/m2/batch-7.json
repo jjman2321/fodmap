@@ -1,0 +1,1553 @@
+{
+  "sources": [
+    {
+      "id": "b7-mon-highlow",
+      "kind": "public-statement",
+      "title": "High and low FODMAP foods: where FODMAPs are found in foods",
+      "publisher": "Monash University",
+      "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-flavour-2015",
+      "kind": "public-statement",
+      "title": "Adding flavour without adding symptoms",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/adding-flavour-without-adding-symptoms/",
+      "published": "19 Mar 2015",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-easter-2015",
+      "kind": "public-statement",
+      "title": "Low FODMAP Easter (chocolate serves)",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/happy-easter-low-fodmappers/",
+      "published": "4 Apr 2015",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-caffeine-2017",
+      "kind": "public-statement",
+      "title": "Does caffeine affect IBS symptoms?",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/does-caffeine-affect-ibs-symptoms/",
+      "published": "21 Aug 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-nonfodmap-2024",
+      "kind": "public-statement",
+      "title": "Non-FODMAP dietary triggers of IBS symptoms",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/non-fodmap-dietary-triggers-of-ibs-symptoms",
+      "published": "26 Mar 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-ferment-2017",
+      "kind": "public-statement",
+      "title": "Fermented drinks and the low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/update-new-fermented-drinks-added-to/",
+      "published": "28 Feb 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-plant-2026",
+      "kind": "public-statement",
+      "title": "Low FODMAP plant-based swaps",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
+      "published": "29 Oct 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-mon-proc-2017",
+      "kind": "public-statement",
+      "title": "Food processing and FODMAPs",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/food-processing-and-fodmaps-what-you/",
+      "published": "7 Feb 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-kk-honey",
+      "kind": "secondary",
+      "title": "Is honey low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-honey-low-fodmap/",
+      "published": "8 Mar 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-kk-maple",
+      "kind": "secondary",
+      "title": "Is maple syrup low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-maple-syrup-low-fodmap/",
+      "published": "9 Jul 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-kk-mayo",
+      "kind": "secondary",
+      "title": "Is mayonnaise low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-mayonnaise-low-fodmap/",
+      "published": "29 Oct 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-kk-soy",
+      "kind": "secondary",
+      "title": "Is soy low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-soy-low-fodmap/",
+      "published": "updated 10 Feb 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-kk-coffee",
+      "kind": "secondary",
+      "title": "Is coffee low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-coffee-low-fodmap/",
+      "published": "updated 9 Feb 2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-tomsauce",
+      "kind": "secondary",
+      "title": "Are tomato sauce & ketchup low FODMAP? (table from Monash's 2014 blog post)",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/are-tomato-sauce-ketchup-low-fodmap/",
+      "published": "updated 13 Jan 2018",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-condiments",
+      "kind": "secondary",
+      "title": "8 condiments you might not know are low FODMAP",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/8-condiments-you-might-not-know-are-low-fodmap/",
+      "published": "updated 6 May 2019",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-choc",
+      "kind": "secondary",
+      "title": "What chocolate is low FODMAP? (update)",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/what-chocolate-is-low-fodmap-update/",
+      "published": "updated 30 Mar 2021",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-coffee",
+      "kind": "secondary",
+      "title": "Let's chat about coffee and IBS",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/lets-chat-about-coffee-and-ibs/",
+      "published": "updated 10 Nov 2020",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-acv",
+      "kind": "secondary",
+      "title": "Is apple cider vinegar low FODMAP?",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/is-apple-cider-vinegar-low-fodmap/",
+      "published": "updated 24 Sep 2016",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-sweeteners",
+      "kind": "secondary",
+      "title": "The ultimate guide to low FODMAP sugars & sweeteners",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/the-ultimate-guide-to-low-fodmap-sugars-sweeteners/",
+      "published": "updated 17 Mar 2023",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-sugar-2026",
+      "kind": "secondary",
+      "title": "Is the low FODMAP diet sugar free? (interview with a Monash research dietitian)",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/is-the-low-fodmap-diet-sugar-free/",
+      "published": "updated 22 Jun 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-soy",
+      "kind": "secondary",
+      "title": "Confused about soy & the low FODMAP diet?",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/confused-about-soy-the-low-fodmap-diet/",
+      "published": "updated 17 Jan 2025",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-alby-tea",
+      "kind": "secondary",
+      "title": "How to choose a low FODMAP tea",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/how-to-choose-a-low-fodmap-tea/",
+      "published": "updated 21 Apr 2025",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-ks-tea-2017",
+      "kind": "secondary",
+      "title": "What's in your cup? Tea and coffee options for the FODMAPer",
+      "publisher": "Kate Scarlata RDN",
+      "url": "https://blog.katescarlata.com/2017/02/06/whats-cup-tea-coffee-options-fodmaper/",
+      "published": "6 Feb 2017",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-ks-bev-2013",
+      "kind": "secondary",
+      "title": "Monash beverage update",
+      "publisher": "Kate Scarlata RDN",
+      "url": "https://blog.katescarlata.com/2013/10/18/monash-beverage-update/",
+      "published": "18 Oct 2013",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-ge-dressing",
+      "kind": "secondary",
+      "title": "Low FODMAP salad dressing (vinegar, mustard, maple and honey thresholds)",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/recipes/low-fodmap-salad-dressing/",
+      "published": "updated 17 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-ge-aioli",
+      "kind": "secondary",
+      "title": "Low FODMAP aioli (mayonnaise thresholds)",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/recipes/low-fodmap-aioli-with-roasted-pickled-garlic/",
+      "published": "updated 5 Aug 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-fe-honey-snip",
+      "kind": "secondary",
+      "title": "Is honey low FODMAP? (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/is-honey-low-fodmap",
+      "published": "2024",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-fe-maple-snip",
+      "kind": "secondary",
+      "title": "Maple syrup (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/ingredients/maple-syrup/",
+      "published": "updated Jun 2026",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-fe-tea-snip",
+      "kind": "secondary",
+      "title": "Tea and FODMAPs (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/tea-fodmaps/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-fe-coffee-snip",
+      "kind": "secondary",
+      "title": "You can have coffee on the low FODMAP diet, maybe (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/the-low-fodmap-diet-coffee-coffee-drinks",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-fe-darkchoc-snip",
+      "kind": "secondary",
+      "title": "All about dark chocolate and the low FODMAP diet (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/all-about-dark-chocolate-the-low-fodmap-diet/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-fe-balsamic-snip",
+      "kind": "secondary",
+      "title": "Low FODMAP balsamic vinaigrette (search snippet)",
+      "publisher": "FODMAP Everyday",
+      "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-balsamic-vinaigrette/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b7-rp-condiments-snip",
+      "kind": "secondary",
+      "title": "What condiments are low FODMAP? (search snippet)",
+      "publisher": "Rachel Pauls Food",
+      "url": "https://rachelpaulsfood.com/what-condiments-are-low-fodmap-can-i-have-ketchup-mayo-mustard-on-the-fodmap-diet/",
+      "accessed": "2026-11-19"
+    }
+  ],
+  "foods": [
+    {
+      "slug": "honey",
+      "name": "honey",
+      "aliases": [
+        "clover honey",
+        "raw honey",
+        "runny honey"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global",
+        "middle-eastern"
+      ],
+      "illustration": "honey",
+      "tier": "lab-tested",
+      "answer": "Only a teaspoon. Honey carries a lot of excess fructose. Dietitian summaries of Monash data put 7 g (1 tsp) as low, 14 g as moderate and 28 g (1 tbsp) as high. Monash and FODMAP Friendly both list honey among the high FODMAP sweeteners.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "honey",
+          "lowMaxG": 7,
+          "moderateFromG": 14,
+          "highFromG": 28,
+          "scaleMaxG": 40,
+          "groups": [
+            "fructose"
+          ],
+          "household": "1 tsp",
+          "sourceIds": [
+            "b7-kk-honey",
+            "b7-ge-dressing"
+          ]
+        },
+        {
+          "form": "clover honey",
+          "lowMaxG": 3,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 10,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "b7-ge-dressing"
+          ],
+          "note": "Only a low amount has been reported for clover honey."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "FODMAP Friendly's tests of a generic honey reportedly found no low amount at all, while Monash data allows 7 g. Different honeys and nectar sources may explain the gap.",
+          "sourceIds": [
+            "b7-fe-honey-snip",
+            "b7-kk-honey"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's food list names honey, next to high fructose corn syrup, as a high FODMAP sugar.",
+          "sourceIds": [
+            "b7-mon-highlow",
+            "ff-list"
+          ]
+        },
+        {
+          "text": "Honey holds more fructose than glucose. Monash explains that fructose is absorbed best when enough glucose comes with it, so honey is a common trigger for fructose malabsorption.",
+          "sourceIds": [
+            "mon-faq"
+          ]
+        },
+        {
+          "text": "The FODMAP content of honey probably varies with the plants the bees fed on. A Little Bit Yummy reports that both regular and clover honey turn high at a tablespoon.",
+          "sourceIds": [
+            "b7-alby-sweeteners"
+          ]
+        },
+        {
+          "text": "Some breads tested and approved as low FODMAP still list honey near the end of the ingredients. Per serve, the honey stays under the low amount.",
+          "sourceIds": [
+            "b7-kk-honey"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Maple syrup",
+          "slug": "maple-syrup"
+        },
+        {
+          "name": "Rice malt syrup"
+        },
+        {
+          "name": "Table sugar"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I put honey in my tea?",
+          "a": "A level teaspoon is within the low amount. A tablespoon is high in fructose, so switch to maple syrup or sugar for a sweeter cup."
+        },
+        {
+          "q": "Is manuka honey low FODMAP?",
+          "a": "We found no public lab result for manuka honey. Published amounts exist only for generic and clover honey."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "maple-syrup",
+      "name": "maple syrup",
+      "aliases": [
+        "pure maple syrup",
+        "maple"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global"
+      ],
+      "illustration": "maple-syrup",
+      "tier": "lab-tested",
+      "answer": "Yes. Pure maple syrup is low FODMAP at 2 tablespoons (50 g), based on Monash data reported by Karlijn's Kitchen, and both Monash and FODMAP Friendly list it as a low FODMAP sweetener. A dietitian's 2026 summary puts the move to moderate (fructans) at 55 g.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "pure maple syrup",
+          "lowMaxG": 50,
+          "moderateFromG": 55,
+          "highFromG": null,
+          "scaleMaxG": 80,
+          "groups": [
+            "fructans"
+          ],
+          "household": "2 tablespoons",
+          "sourceIds": [
+            "b7-kk-maple",
+            "b7-ge-dressing"
+          ],
+          "note": "The moderate amount (55 g) comes from George Eats' August 2026 summary of Monash data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats (August 2026) says Monash keeps maple syrup low up to 54 g, and that FODMAP Friendly lists it as low up to 1,000 ml.",
+          "sourceIds": [
+            "b7-ge-dressing"
+          ]
+        },
+        {
+          "text": "FODMAP Everyday reports a newer Monash listing with 1 tablespoon (20 ml) as the low serve and 2 tablespoons (40 ml) as moderate. We couldn't read this on a page ourselves.",
+          "sourceIds": [
+            "b7-fe-maple-snip"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's food list names maple syrup, table sugar and rice malt syrup as low FODMAP sweeteners, and suggests maple syrup for adding flavour.",
+          "sourceIds": [
+            "b7-mon-highlow",
+            "b7-mon-flavour-2015",
+            "ff-list"
+          ]
+        },
+        {
+          "text": "Buy real maple syrup. Maple-flavoured syrup is a different mix of sugars and wasn't covered by these tests.",
+          "sourceIds": [
+            "b7-alby-sweeteners"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Rice malt syrup"
+        },
+        {
+          "name": "Table sugar"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is maple syrup a good swap for honey?",
+          "a": "Yes. Its low serve (about 50 g) is much bigger than honey's single teaspoon (7 g)."
+        },
+        {
+          "q": "Is pancake syrup low FODMAP?",
+          "a": "Not necessarily. Pancake syrups are often corn syrup with maple flavouring, and high fructose corn syrup is a high FODMAP sugar. Check the label."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "soy-sauce",
+      "name": "soy sauce",
+      "aliases": [
+        "soya sauce",
+        "shoyu",
+        "light soy sauce",
+        "tamari"
+      ],
+      "category": "condiments",
+      "regions": [
+        "east-asian",
+        "global"
+      ],
+      "illustration": "soy-sauce",
+      "tier": "lab-tested",
+      "answer": "Yes. Soy sauce is low FODMAP at 2 tablespoons (42 g), based on Monash data reported by Karlijn's Kitchen, and Monash names it as a low FODMAP condiment. Sweet soy sauce (kecap manis) has a smaller low serve of 20 g. Its wheat matters for coeliac disease, not for FODMAPs.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "soy sauce",
+          "lowMaxG": 42,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 60,
+          "groups": [
+            "fructans"
+          ],
+          "household": "2 tablespoons",
+          "sourceIds": [
+            "b7-kk-soy",
+            "b7-alby-soy"
+          ],
+          "note": "Sources don't name a limiting FODMAP. Fructans is shown because soy sauce is brewed with wheat."
+        },
+        {
+          "form": "sweet soy sauce (kecap manis)",
+          "lowMaxG": 20,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 40,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 tablespoon",
+          "sourceIds": [
+            "b7-kk-soy",
+            "b7-alby-soy"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash lists soy sauce among low FODMAP condiments, both on its food list and in its 2026 plant-based swaps.",
+          "sourceIds": [
+            "b7-mon-highlow",
+            "b7-mon-plant-2026"
+          ]
+        },
+        {
+          "text": "Regular soy sauce contains wheat, so it isn't gluten free. Monash notes that wheat-based ingredients like this aren't high in fructans, so they fit a low FODMAP diet.",
+          "sourceIds": [
+            "mon-faq"
+          ]
+        },
+        {
+          "text": "Soy sauce is made from fermented soybeans. Fermentation may break down much of the soybeans' oligosaccharides.",
+          "sourceIds": [
+            "b7-alby-condiments"
+          ]
+        },
+        {
+          "text": "Tamari, the wheat-free version, hasn't been tested separately. Because regular soy sauce is low, tamari probably is too.",
+          "sourceIds": [
+            "b7-kk-soy"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Tamari"
+        },
+        {
+          "name": "Miso paste",
+          "slug": "miso"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is tamari low FODMAP?",
+          "a": "It hasn't been tested on its own. It's soy sauce brewed without wheat, so it's likely similar. Check the label for onion or garlic."
+        },
+        {
+          "q": "Is soy sauce gluten free?",
+          "a": "Regular soy sauce contains wheat, so it isn't. That matters for coeliac disease, not for FODMAPs."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "ketchup",
+      "name": "ketchup",
+      "aliases": [
+        "tomato ketchup",
+        "tomato sauce",
+        "catsup"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global"
+      ],
+      "illustration": "ketchup",
+      "tier": "lab-tested",
+      "answer": "In small amounts. In Monash's 2014 tests, US ketchup was low at 13 g (1 sachet, about 2 tsp) and high at 26 g, from fructans. Australian tomato sauce was low at 13 g and moderate at 26 g. Onion or garlic powder in the recipe may be the cause.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "tomato ketchup (US)",
+          "lowMaxG": 13,
+          "moderateFromG": 19,
+          "highFromG": 26,
+          "scaleMaxG": 40,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 sachet (about 2 tsp)",
+          "sourceIds": [
+            "b7-alby-tomsauce"
+          ]
+        },
+        {
+          "form": "tomato sauce (Australian)",
+          "lowMaxG": 13,
+          "moderateFromG": 26,
+          "highFromG": null,
+          "scaleMaxG": 40,
+          "groups": [
+            "fructans"
+          ],
+          "household": "2 small sachets (about 2 tsp)",
+          "sourceIds": [
+            "b7-alby-tomsauce"
+          ],
+          "note": "Australian sachets were smaller than US ones, so compare by weight."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Ketchup sweetened with high fructose corn syrup and ketchup sweetened with sugar gave similar results.",
+          "sourceIds": [
+            "b7-alby-tomsauce"
+          ]
+        },
+        {
+          "text": "Half a cup of canned tomatoes is low FODMAP, so the tomato itself may not be the problem. Added onion and garlic powder are fructan sources.",
+          "sourceIds": [
+            "b7-alby-tomsauce"
+          ]
+        },
+        {
+          "text": "Only Australian and US sauces have been tested. Monash's original 2014 post is no longer online; the numbers here come from a dietitian-reviewed copy of its table.",
+          "sourceIds": [
+            "b7-alby-tomsauce"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Mustard",
+          "slug": "mustard"
+        },
+        {
+          "name": "Mayonnaise",
+          "slug": "mayonnaise"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is Heinz ketchup low FODMAP?",
+          "a": "No brand test is public. The tested US ketchups were low at one 13 g sachet; check the label for onion or garlic powder."
+        },
+        {
+          "q": "Why is ketchup high in large amounts?",
+          "a": "At bigger serves the tested ketchups had high fructans, probably from added onion or garlic powder rather than the tomatoes."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "mustard",
+      "name": "mustard",
+      "aliases": [
+        "dijon mustard",
+        "wholegrain mustard",
+        "yellow mustard"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global",
+        "mediterranean"
+      ],
+      "illustration": "mustard",
+      "tier": "lab-tested",
+      "answer": "Yes, if it has no garlic or onion. Dijon mustard is low FODMAP at 1 tablespoon (23 g), per George Eats' 2026 summary of Monash data, and Monash lists mustard and Dijon among low FODMAP condiments. Mustard powder and mild German mustard turn moderate in larger amounts, from fructans.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "Dijon mustard",
+          "lowMaxG": 23,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 40,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 tablespoon",
+          "sourceIds": [
+            "b7-ge-dressing",
+            "b7-alby-condiments"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats says Monash now lists French Dijon and wholegrain mustard as low up to 500 g. Monash uses that kind of very large amount for foods with negligible FODMAPs, so the 23 g is a normal serve, not a limit.",
+          "sourceIds": [
+            "b7-ge-dressing",
+            "b7-alby-sugar-2026"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash names mustard in its low FODMAP shopping list and Dijon mustard in its plant-based condiment swaps.",
+          "sourceIds": [
+            "mon-shop-2025",
+            "b7-mon-plant-2026"
+          ]
+        },
+        {
+          "text": "Other mustards differ: mild German mustard is reported low up to 77 g and moderate for fructans from 78 g; mustard powder is low up to 7 g and moderate from 8 g.",
+          "sourceIds": [
+            "b7-ge-dressing"
+          ]
+        },
+        {
+          "text": "Some brands add garlic or onion powder, sometimes hidden under 'spices' or 'natural flavours'. Read the label.",
+          "sourceIds": [
+            "b7-alby-condiments",
+            "b7-ge-dressing"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Mayonnaise",
+          "slug": "mayonnaise"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is yellow mustard low FODMAP?",
+          "a": "Plain mustard is listed as low at 1 tablespoon. Skip any with garlic or onion powder in the ingredients."
+        },
+        {
+          "q": "Is honey mustard low FODMAP?",
+          "a": "It depends on how much honey it has, and no public test exists. Honey is low only at about a teaspoon."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "coffee",
+      "name": "coffee",
+      "aliases": [
+        "espresso",
+        "black coffee",
+        "instant coffee",
+        "decaf coffee"
+      ],
+      "category": "drinks",
+      "regions": [
+        "global",
+        "middle-eastern"
+      ],
+      "illustration": "coffee",
+      "tier": "lab-tested",
+      "answer": "Yes, black coffee is low FODMAP. Monash says coffee itself is low in FODMAPs, and dietitians report a single (30 ml) or double (60 ml) espresso as low in its tests. Watch the extras: regular milk adds lactose, some instant blends contain chicory, and coffee can stir the gut for other reasons.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "black espresso",
+          "lowMaxG": 60,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 90,
+          "groups": [
+            "fructans"
+          ],
+          "household": "double shot (60 ml)",
+          "sourceIds": [
+            "b7-kk-coffee",
+            "b7-alby-coffee",
+            "b7-mon-nonfodmap-2024"
+          ],
+          "note": "Measured in ml (1 ml counted as about 1 g). Sources don't name a FODMAP for plain coffee; fructans is shown as a placeholder."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "Instant coffee amounts differ: Karlijn's Kitchen gives 1 full teaspoon in 230 ml of water as low, while FODMAP Everyday reports 2 heaped teaspoons (4 g). In 2013 Kate Scarlata reported Monash calling 2 teaspoons of some instant coffee okay.",
+          "sourceIds": [
+            "b7-kk-coffee",
+            "b7-fe-coffee-snip",
+            "b7-ks-bev-2013"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Even though coffee is low in FODMAPs, studies found both regular and decaf coffee speed up the muscles of the bowel, regular a bit more. Some people get cramps or urgency.",
+          "sourceIds": [
+            "b7-mon-nonfodmap-2024"
+          ]
+        },
+        {
+          "text": "About a quarter to 40% of people with IBS name coffee as a trigger, but there's little good evidence that cutting caffeine improves IBS. Monash suggests testing it with a dietitian.",
+          "sourceIds": [
+            "b7-mon-caffeine-2017"
+          ]
+        },
+        {
+          "text": "Some instant coffees and coffee substitutes contain chicory root, which is high FODMAP. Look for 100% coffee.",
+          "sourceIds": [
+            "b7-kk-coffee",
+            "b7-alby-coffee"
+          ]
+        },
+        {
+          "text": "For milky coffee, lactose-free milk, almond milk or soy milk made from soy protein keep it low FODMAP.",
+          "sourceIds": [
+            "b7-alby-coffee"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Green tea",
+          "slug": "green-tea"
+        },
+        {
+          "name": "Decaf coffee"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is a latte low FODMAP?",
+          "a": "Only with a low-lactose milk such as lactose-free milk. Regular cow's milk adds lactose."
+        },
+        {
+          "q": "Does decaf help with IBS?",
+          "a": "It may a little. Both regular and decaf coffee stimulate the bowel, decaf slightly less."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "dark-chocolate",
+      "name": "dark chocolate",
+      "aliases": [
+        "dark choc",
+        "70% chocolate",
+        "bittersweet chocolate"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global"
+      ],
+      "illustration": "dark-chocolate",
+      "tier": "lab-tested",
+      "answer": "Yes, at a normal serve. Monash rates 30 g of dark chocolate (5 squares) as low FODMAP. Larger amounts add lactose from milk solids: a dietitian summary of Monash data puts 90 g at moderate. Milk and white chocolate have more lactose, so their low serves are smaller.",
+      "groups": [
+        "lactose"
+      ],
+      "servings": [
+        {
+          "form": "dark chocolate",
+          "lowMaxG": 30,
+          "moderateFromG": 90,
+          "highFromG": null,
+          "scaleMaxG": 130,
+          "groups": [
+            "lactose"
+          ],
+          "household": "5 squares",
+          "sourceIds": [
+            "b7-mon-easter-2015",
+            "b7-alby-choc"
+          ],
+          "note": "The moderate amount (90 g) comes from A Little Bit Yummy's summary of Monash data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "Reports on 85% dark chocolate conflict: one lists it low at 20 g, another low up to 350 g.",
+          "sourceIds": [
+            "b7-fe-darkchoc-snip"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash rated a 30 g serve of milk or white chocolate as moderate, with lactose the FODMAP. A Little Bit Yummy reports 20 g of either as low.",
+          "sourceIds": [
+            "b7-mon-easter-2015",
+            "b7-alby-choc"
+          ]
+        },
+        {
+          "text": "Monash and FODMAP Friendly both list dark chocolate among low FODMAP sweet options.",
+          "sourceIds": [
+            "b7-mon-highlow",
+            "ff-list"
+          ]
+        },
+        {
+          "text": "Carob is not a good swap: Monash says carob powder is very high in fructans, far more than cocoa.",
+          "sourceIds": [
+            "b7-mon-easter-2015"
+          ]
+        },
+        {
+          "text": "Check the label for inulin or chicory root, honey, agave, high fructose corn syrup or sugar alcohols. Soy lecithin is fine.",
+          "sourceIds": [
+            "b7-alby-choc"
+          ]
+        }
+      ],
+      "swaps": [],
+      "faq": [
+        {
+          "q": "Is milk chocolate low FODMAP?",
+          "a": "Only in small amounts. Monash rated a 30 g serve moderate for lactose; a smaller 20 g piece is reported low."
+        },
+        {
+          "q": "Is 85% dark chocolate low FODMAP?",
+          "a": "Reports on 85% bars disagree, so 30 g, the standard dark chocolate serve, is the best-supported amount."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "agave",
+      "name": "agave syrup",
+      "aliases": [
+        "agave nectar",
+        "agave"
+      ],
+      "category": "condiments",
+      "regions": [
+        "latin-american",
+        "global"
+      ],
+      "illustration": "agave",
+      "tier": "lab-tested",
+      "answer": "Barely. Agave syrup is very high in fructose: Karlijn's Kitchen, citing Monash data, gives just 5 g as the low amount and says a tablespoon holds a large amount of fructose. FODMAP Friendly lists agave as high. Maple syrup or rice malt syrup are the usual swaps.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "agave syrup",
+          "lowMaxG": 5,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 20,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "b7-kk-maple",
+            "b7-kk-honey",
+            "b7-alby-sweeteners"
+          ],
+          "note": "A tablespoon is described as high in fructose, but no source we read gives its weight."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "A Little Bit Yummy reports that Monash rates agave high in serves bigger than 1 teaspoon, and that the syrup can be up to 90% fructose.",
+          "sourceIds": [
+            "b7-alby-sweeteners"
+          ]
+        },
+        {
+          "text": "FODMAP Friendly's public food list puts agave next to honey and high fructose corn syrup as high FODMAP sweeteners.",
+          "sourceIds": [
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Maple syrup",
+          "slug": "maple-syrup"
+        },
+        {
+          "name": "Rice malt syrup"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is agave better than honey for IBS?",
+          "a": "No. Its low amount (5 g) is even smaller than honey's (7 g)."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "green-tea",
+      "name": "green tea",
+      "aliases": [
+        "sencha",
+        "green tea bag"
+      ],
+      "category": "drinks",
+      "regions": [
+        "east-asian",
+        "global"
+      ],
+      "illustration": "green-tea",
+      "tier": "estimated",
+      "answer": "Probably fine. Dietitian sites report that Monash lab-tested plain green tea and rated it low FODMAP, but we couldn't read a public amount in grams or ml, so we don't show one yet. This covers brewed tea bags or leaves, not matcha or flavoured blends.",
+      "estimateAnswer": {
+        "word": "Likely fine",
+        "line": "Dietitians report Monash lab-tested plain green tea as a good pick, but we found no public amount to show."
+      },
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "brewed green tea",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 300,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b7-alby-tea",
+            "b7-ks-tea-2017"
+          ],
+          "note": "Lab-tested, but we found no public amount to show. Fructans is shown because strong black and chai teas carry them."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "FODMAP Everyday reports Monash rates 250 ml of strongly brewed green tea (1 bag) as low, and FODMAP Friendly passes 1 bag (1.5 g). We couldn't read these figures on a page ourselves.",
+          "sourceIds": [
+            "b7-fe-tea-snip"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Kate Scarlata, citing the Monash app, lists black, white, green and peppermint tea as low FODMAP, and fennel, chamomile and oolong as high.",
+          "sourceIds": [
+            "b7-ks-tea-2017"
+          ]
+        },
+        {
+          "text": "Green tea comes only from the Camellia sinensis plant. Herbal 'teas' vary a lot and are best limited early on.",
+          "sourceIds": [
+            "b7-alby-tea"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Peppermint tea"
+        },
+        {
+          "name": "Coffee",
+          "slug": "coffee"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is matcha low FODMAP?",
+          "a": "We found no public lab result for matcha. It's the whole ground leaf rather than a brew, so green tea results may not apply."
+        },
+        {
+          "q": "Does brewing strength matter?",
+          "a": "For black and chai tea it does: strong brews rate higher than weak ones. No public figure shows the same for green tea."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "kombucha",
+      "name": "kombucha",
+      "aliases": [
+        "fermented tea",
+        "booch"
+      ],
+      "category": "drinks",
+      "regions": [
+        "global",
+        "east-asian"
+      ],
+      "illustration": "kombucha",
+      "tier": "estimated",
+      "answer": "It depends on the amount. Monash tested shop-bought kombucha and found fructans, and warns that a full serve may not suit people who react to them. It hasn't published a low amount outside its app, so we can't show one. Home brews weren't tested.",
+      "estimateAnswer": {
+        "word": "Depends",
+        "line": "Monash found fructans in shop-bought kombucha; a full serve may not suit everyone. No public amount yet."
+      },
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "kombucha (shop-bought)",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 300,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b7-mon-ferment-2017"
+          ],
+          "note": "Lab-tested by Monash, but no public amount to show."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Kvass, a cereal-based fermented drink tested at the same time, was low in FODMAPs in a single serve.",
+          "sourceIds": [
+            "b7-mon-ferment-2017"
+          ]
+        },
+        {
+          "text": "Kombucha is made from tea, sugar and a culture of bacteria and yeast, and may contain a small amount of alcohol.",
+          "sourceIds": [
+            "b7-mon-ferment-2017"
+          ]
+        },
+        {
+          "text": "Fermentation can lower fructans and GOS, but it doesn't always bring a food down to a low rating.",
+          "sourceIds": [
+            "b7-mon-proc-2017",
+            "b7-alby-acv"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Green tea",
+          "slug": "green-tea"
+        },
+        {
+          "name": "Kvass"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I drink kombucha while cutting FODMAPs?",
+          "a": "A small glass may suit some people, but no public low amount exists. If you try it, keep the serve small and note how you feel."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "apple-cider-vinegar",
+      "name": "apple cider vinegar",
+      "aliases": [
+        "ACV",
+        "cider vinegar"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global"
+      ],
+      "illustration": "apple-cider-vinegar",
+      "tier": "lab-tested",
+      "answer": "Yes. Apple cider vinegar is low FODMAP at 2 tablespoons (40 g), per George Eats' August 2026 summary of Monash data, even though apples are high FODMAP. Its double fermentation seems to strip out most of the apple's fructose and sorbitol.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "apple cider vinegar",
+          "lowMaxG": 40,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 60,
+          "groups": [
+            "fructose"
+          ],
+          "household": "2 tablespoons",
+          "sourceIds": [
+            "b7-ge-dressing",
+            "b7-alby-acv"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats says Monash keeps most vinegars, including apple cider, low up to 500 g, an amount Monash uses for foods with negligible FODMAPs.",
+          "sourceIds": [
+            "b7-ge-dressing",
+            "b7-alby-sugar-2026"
+          ]
+        },
+        {
+          "text": "A summary of FODMAP Friendly data lists a smaller low serve of 20 ml for apple cider vinegar.",
+          "sourceIds": [
+            "b7-rp-condiments-snip"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's shopping list includes vinegar among low FODMAP sauces.",
+          "sourceIds": [
+            "mon-shop-2025"
+          ]
+        },
+        {
+          "text": "A Monash dietitian has said fermentation lowers FODMAPs, but not always enough to change a food's rating. For apple cider vinegar it seems to be enough.",
+          "sourceIds": [
+            "b7-alby-acv"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "White wine vinegar"
+        },
+        {
+          "name": "Lemon juice",
+          "slug": "lemon"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is apple cider vinegar with 'the mother' low FODMAP?",
+          "a": "No separate test covers it. The 'mother' is strands of proteins, enzymes and bacteria left from fermentation."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "balsamic-vinegar",
+      "name": "balsamic vinegar",
+      "aliases": [
+        "balsamic",
+        "aceto balsamico"
+      ],
+      "category": "condiments",
+      "regions": [
+        "mediterranean",
+        "global"
+      ],
+      "illustration": "balsamic-vinegar",
+      "tier": "lab-tested",
+      "answer": "In small amounts. Balsamic vinegar is low FODMAP at 1 tablespoon and turns moderate for fructose at 2 tablespoons (42 g), per Monash data reported by A Little Bit Yummy and George Eats. It's the one common vinegar with a smaller low serve.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "balsamic vinegar",
+          "lowMaxG": 21,
+          "moderateFromG": 42,
+          "highFromG": null,
+          "scaleMaxG": 60,
+          "groups": [
+            "fructose"
+          ],
+          "household": "1 tablespoon",
+          "sourceIds": [
+            "b7-alby-condiments",
+            "b7-ge-dressing"
+          ],
+          "note": "21 g is 1 tablespoon by George Eats' measure (2 tablespoons = 42 g)."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats says Monash's data keeps balsamic low up to 41 g, just under the 42 g moderate amount. FODMAP Everyday also gives 21 g for 1 tablespoon.",
+          "sourceIds": [
+            "b7-ge-dressing",
+            "b7-fe-balsamic-snip"
+          ]
+        },
+        {
+          "text": "A summary of FODMAP Friendly data lists a larger low serve of 50 ml.",
+          "sourceIds": [
+            "b7-rp-condiments-snip"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "White, red wine, apple cider, malt and rice wine vinegars are all reported low at 40 g. Balsamic is the exception.",
+          "sourceIds": [
+            "b7-ge-dressing"
+          ]
+        },
+        {
+          "text": "If you use balsamic in a dressing, pair it with low-fructose salad ingredients so the fructose doesn't add up.",
+          "sourceIds": [
+            "b7-ge-dressing"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Apple cider vinegar",
+          "slug": "apple-cider-vinegar"
+        },
+        {
+          "name": "Red wine vinegar"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is balsamic glaze low FODMAP?",
+          "a": "We found no public lab figure for glaze. It's balsamic boiled down, often with sugar, so expect more fructose per spoon."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "mayonnaise",
+      "name": "mayonnaise",
+      "aliases": [
+        "mayo",
+        "Kewpie mayonnaise",
+        "light mayonnaise"
+      ],
+      "category": "condiments",
+      "regions": [
+        "global"
+      ],
+      "illustration": "mayonnaise",
+      "tier": "lab-tested",
+      "answer": "Yes. Plain mayonnaise is low FODMAP at 2 tablespoons (40 g), per Karlijn's Kitchen's summary of Monash data, and Monash names mayonnaise as a low FODMAP condiment. Regular, light and Japanese mayo are reported low even in large amounts. Check the label for garlic or onion.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "mayonnaise (regular or light)",
+          "lowMaxG": 40,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 60,
+          "groups": [
+            "fructans"
+          ],
+          "household": "2 tablespoons",
+          "sourceIds": [
+            "b7-kk-mayo",
+            "b7-alby-condiments"
+          ],
+          "note": "Mayonnaise has very few FODMAPs; fructans is shown because garlic or onion added to some brands is the usual problem."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats reports that, as of August 2026, Monash lists regular, light and Japanese (Kewpie) mayonnaise as low up to 500 g. Monash uses that amount for foods with negligible FODMAPs, so 40 g is a normal serve, not a limit.",
+          "sourceIds": [
+            "b7-ge-aioli",
+            "b7-alby-sugar-2026"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash names mayonnaise as a low FODMAP condiment on its food list and shopping list.",
+          "sourceIds": [
+            "b7-mon-highlow",
+            "mon-shop-2025"
+          ]
+        },
+        {
+          "text": "Some mayonnaise contains wheat-based thickeners. Monash says these aren't high in fructans, though they do contain gluten.",
+          "sourceIds": [
+            "mon-faq"
+          ]
+        },
+        {
+          "text": "Vegan mayonnaise is less predictable: recipes often use fructose, onion or garlic powder, or legumes.",
+          "sourceIds": [
+            "b7-ge-aioli"
+          ]
+        },
+        {
+          "text": "'Spices' on a label can hide onion or garlic, and flavoured mayos are more likely to contain them.",
+          "sourceIds": [
+            "b7-kk-mayo",
+            "b7-alby-condiments"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Mustard",
+          "slug": "mustard"
+        },
+        {
+          "name": "Olive oil",
+          "slug": "olive-oil"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is aioli low FODMAP?",
+          "a": "Classic aioli is made with garlic, so usually not. Versions made with garlic-infused oil avoid the garlic's fructans."
+        },
+        {
+          "q": "Is Kewpie mayo low FODMAP?",
+          "a": "Yes. George Eats reports that Monash lists Japanese mayonnaise as low even in large amounts."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "miso",
+      "name": "miso paste",
+      "aliases": [
+        "miso",
+        "white miso",
+        "shiro miso"
+      ],
+      "category": "condiments",
+      "regions": [
+        "east-asian"
+      ],
+      "illustration": "miso",
+      "tier": "lab-tested",
+      "answer": "In small amounts. Miso paste is low FODMAP at 12 g, per Karlijn's Kitchen and A Little Bit Yummy citing Monash data, and Monash lists miso among low FODMAP condiments. Check the label for added onion or garlic.",
+      "groups": [
+        "gos"
+      ],
+      "servings": [
+        {
+          "form": "miso paste",
+          "lowMaxG": 12,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 30,
+          "groups": [
+            "gos"
+          ],
+          "sourceIds": [
+            "b7-kk-soy",
+            "b7-alby-condiments"
+          ],
+          "note": "Sources disagree on the spoon size for 12 g, so we show grams only. They don't name the FODMAP; GOS is shown because miso is made from soybeans."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "The spoon size for 12 g differs: Karlijn's Kitchen calls it 2 tablespoons, A Little Bit Yummy's 2019 list says 2 sachets, and its 2025 soy guide says 1 tablespoon.",
+          "sourceIds": [
+            "b7-kk-soy",
+            "b7-alby-condiments",
+            "b7-alby-soy"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's 2026 plant-based swaps list miso paste next to soy sauce as a low FODMAP condiment.",
+          "sourceIds": [
+            "b7-mon-plant-2026"
+          ]
+        },
+        {
+          "text": "Miso is fermented soybeans. Fermentation lets microbes feed on fructans and GOS, which lowers them.",
+          "sourceIds": [
+            "b7-mon-proc-2017",
+            "b7-alby-soy"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Soy sauce",
+          "slug": "soy-sauce"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is miso soup low FODMAP?",
+          "a": "Only if the miso per bowl stays near 12 g and the soup has no onion, garlic or other high FODMAP add-ins."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    }
+  ]
+}

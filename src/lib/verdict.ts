@@ -9,6 +9,8 @@ export function headline(food: Food): { zone: Zone; chip: string; short: string 
   switch (verdict(food)) {
     case "free": return { zone: "low", chip: food.freeNote?.label ?? "No FODMAPs", short: food.freeNote ? "Only traces of FODMAPs" : "Contains no FODMAPs" };
     case "low": return { zone: "low", chip: `Low at ${amt(s, s.lowMaxG)}`, short: `Low at ${amt(s, s.lowMaxG)}` };
+    case "moderate": return { zone: "moderate", chip: "Moderate", short: `Moderate at ${amt(s, s.moderateFromG)}` };
+    case "small": return { zone: "moderate", chip: `Small amounts · ${amt(s, s.lowMaxG)}`, short: `Low only up to ${amt(s, s.lowMaxG)}` };
     case "depends": return { zone: "low", chip: `Low up to ${amt(s, s.lowMaxG)}`, short: `Low up to ${amt(s, s.lowMaxG)}` };
     case "high": return { zone: "high", chip: "High", short: "High, even in small amounts" };
     case "estimate": return { zone: "untested", chip: "Not lab-tested", short: "Not lab-tested yet" };

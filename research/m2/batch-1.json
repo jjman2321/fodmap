@@ -1,0 +1,2427 @@
+{
+  "sources": [
+    {
+      "id": "mon-shop-2025",
+      "kind": "public-statement",
+      "title": "Low FODMAP shopping list",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/low-fodmap-shopping-list/",
+      "accessed": "2026-11-19",
+      "published": "3 Feb 2025"
+    },
+    {
+      "id": "mon-fibre-2021",
+      "kind": "public-statement",
+      "title": "Getting enough fibre on a low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/getting-enough-fibre/",
+      "accessed": "2026-11-19",
+      "published": "14 Jan 2021"
+    },
+    {
+      "id": "mon-stack-2016",
+      "kind": "public-statement",
+      "title": "FODMAP stacking: can I overeat 'green' foods?",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/fodmap-stacking-can-i-overeat-green/",
+      "accessed": "2026-11-19",
+      "published": "11 Oct 2016"
+    },
+    {
+      "id": "mon-stackexpl-2022",
+      "kind": "public-statement",
+      "title": "FODMAP stacking explained",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/fodmap-stacking-explained/",
+      "accessed": "2026-11-19",
+      "published": "3 Oct 2022"
+    },
+    {
+      "id": "mon-fructans-2020",
+      "kind": "public-statement",
+      "title": "Fructans and FODMAP reintroduction",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/fructans-fodmap-reintroduction/",
+      "accessed": "2026-11-19",
+      "published": "10 Jun 2020"
+    },
+    {
+      "id": "mon-vegan-2018",
+      "kind": "public-statement",
+      "title": "New research: FODMAP content of common plant-based and processed foods (part 2)",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/new-research-fermentable-short-chain-carbohydrate-fodmap-content-common-plant-based-foods-and-processed-foods-suitable-vegetarian-and-vegan-based-eating-patterns-part-2/",
+      "accessed": "2026-11-19",
+      "published": "16 Apr 2018"
+    },
+    {
+      "id": "mon-step1",
+      "kind": "public-statement",
+      "title": "Step 1: the low FODMAP diet (patient resource, PDF)",
+      "publisher": "Monash University",
+      "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "ff-five-2020",
+      "kind": "public-statement",
+      "title": "High or low FODMAP? Your guide to five foods that are both",
+      "publisher": "FODMAP Friendly",
+      "url": "https://fodmapfriendly.com/blog-posts/high-or-low-fodmap-your-guide-to-five-foods-that-are-both/",
+      "published": "5 Aug 2020",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "ff-list",
+      "kind": "public-statement",
+      "title": "Foods high and low in FODMAPs",
+      "publisher": "FODMAP Friendly",
+      "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "tuck-2018",
+      "kind": "paper",
+      "title": "FODMAP content of plant-based and processed foods (Tuck et al., J Hum Nutr Diet)",
+      "publisher": "Wiley",
+      "url": "https://doi.org/10.1111/jhn.12546",
+      "doi": "10.1111/jhn.12546",
+      "published": "2018",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "kk-beans",
+      "kind": "secondary",
+      "title": "Which beans are allowed on the FODMAP diet?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/what-beans-fodmap-diet/",
+      "accessed": "2026-11-19",
+      "published": "updated 24 May 2025"
+    },
+    {
+      "id": "ge-potato",
+      "kind": "secondary",
+      "title": "Are potatoes low FODMAP?",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/posts/resources/are-potatoes-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "updated 12 Aug 2026"
+    },
+    {
+      "id": "b1-mon-broc-2017",
+      "kind": "public-statement",
+      "title": "FODMAP content of broccoli and Broccolini: an update",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://monashfodmap.com/blog/newly-tested-and-retested-foods-broccoli-and-broccolini/",
+      "accessed": "2026-11-19",
+      "published": "22 Nov 2017"
+    },
+    {
+      "id": "b1-mon-fructose-2024",
+      "kind": "public-statement",
+      "title": "Fructose changes for vegetables in the Monash FODMAP app",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/fructose-changes-vegetables/",
+      "accessed": "2026-11-19",
+      "published": "22 Jul 2024"
+    },
+    {
+      "id": "b1-mon-reintro-2025",
+      "kind": "public-statement",
+      "title": "Reintroduction update (tables 1 and 3: retested foods)",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/reintroduction-update/",
+      "accessed": "2026-11-19",
+      "published": "28 Apr 2025"
+    },
+    {
+      "id": "b1-mon-lights-2024",
+      "kind": "public-statement",
+      "title": "Monash FODMAP app traffic lights: how are they determined?",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/how-traffic-lights-are-determined/",
+      "accessed": "2026-11-19",
+      "published": "10 Sep 2024"
+    },
+    {
+      "id": "b1-mon-10foods-2015",
+      "kind": "public-statement",
+      "title": "10 foods you didn't know you could eat on a low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/10-foods-you-didnt-know-you-could-eat/",
+      "accessed": "2026-11-19",
+      "published": "25 May 2015"
+    },
+    {
+      "id": "b1-mon-veg-2015",
+      "kind": "public-statement",
+      "title": "Eating more vegetables on a low FODMAP diet",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/eating-more-vegetables-on-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "19 Nov 2015"
+    },
+    {
+      "id": "b1-mon-ferment-2017",
+      "kind": "public-statement",
+      "title": "Fermented foods and FODMAPs",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/fermented-foods-and-fodmaps/",
+      "accessed": "2026-11-19",
+      "published": "25 Jan 2017"
+    },
+    {
+      "id": "b1-mon-swaps-2026",
+      "kind": "public-statement",
+      "title": "Low FODMAP plant-based swaps",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
+      "accessed": "2026-11-19",
+      "published": "29 Oct 2026"
+    },
+    {
+      "id": "b1-mon-micro-2026",
+      "kind": "public-statement",
+      "title": "Can microwaving fruits and vegetables reduce their FODMAP content? A laboratory study",
+      "publisher": "Monash University (FODMAP blog)",
+      "url": "https://www.monashfodmap.com/blog/can-microwaving-reduce-fodmap-content/",
+      "accessed": "2026-11-19",
+      "published": "29 May 2026"
+    },
+    {
+      "id": "b1-mon-where",
+      "kind": "public-statement",
+      "title": "Where FODMAPs are found in foods",
+      "publisher": "Monash University",
+      "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b1-ff-mush-2015",
+      "kind": "public-statement",
+      "title": "Mushrooms: high or low in FODMAPs?",
+      "publisher": "FODMAP Friendly",
+      "url": "https://fodmapfriendly.com/blog-posts/mushrooms-high-or-low-in-fodmaps/",
+      "published": "15 Sep 2015",
+      "accessed": "2026-11-19"
+    },
+    {
+      "id": "b1-kk-broccoli",
+      "kind": "secondary",
+      "title": "Is broccoli low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-broccoli-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "19 Jan 2024"
+    },
+    {
+      "id": "b1-kk-corn",
+      "kind": "secondary",
+      "title": "Is corn low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-corn-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "20 Feb 2023"
+    },
+    {
+      "id": "b1-kk-tomatoes",
+      "kind": "secondary",
+      "title": "Are tomatoes low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/are-tomatoes-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "26 Jan 2024"
+    },
+    {
+      "id": "b1-kk-potatoes",
+      "kind": "secondary",
+      "title": "Are potatoes low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/are-potatoes-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "4 Jun 2024"
+    },
+    {
+      "id": "b1-kk-cabbage",
+      "kind": "secondary",
+      "title": "Is cabbage low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-cabbage-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "21 Apr 2024"
+    },
+    {
+      "id": "b1-kk-celery",
+      "kind": "secondary",
+      "title": "Is celery low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-celery-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "2 Jul 2024"
+    },
+    {
+      "id": "b1-kk-spinach",
+      "kind": "secondary",
+      "title": "Is spinach low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-spinach-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "updated 9 Feb 2024"
+    },
+    {
+      "id": "b1-kk-kale",
+      "kind": "secondary",
+      "title": "Is kale low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-kale-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "updated 24 Feb 2024"
+    },
+    {
+      "id": "b1-kk-pumpkin",
+      "kind": "secondary",
+      "title": "Is pumpkin low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/is-pumpkin-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "10 Sep 2024"
+    },
+    {
+      "id": "b1-kk-mushrooms",
+      "kind": "secondary",
+      "title": "Are mushrooms low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/mushrooms-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "updated 9 Feb 2024"
+    },
+    {
+      "id": "b1-kk-asparagus",
+      "kind": "secondary",
+      "title": "Is asparagus low FODMAP?",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/asparagus-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "23 Apr 2024"
+    },
+    {
+      "id": "b1-kk-veglist",
+      "kind": "secondary",
+      "title": "Low FODMAP vegetables",
+      "publisher": "Karlijn's Kitchen",
+      "url": "https://www.karlijnskitchen.com/en/low-fodmap-vegetables/",
+      "accessed": "2026-11-19",
+      "published": "updated 30 Sep 2025"
+    },
+    {
+      "id": "b1-alby-portion",
+      "kind": "secondary",
+      "title": "10 low FODMAP foods that need portion control",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/10-low-fodmap-foods-that-need-portion-control-the-foods-might-surprise-you/",
+      "accessed": "2026-11-19",
+      "published": "updated 28 Sep 2023"
+    },
+    {
+      "id": "b1-alby-canned",
+      "kind": "secondary",
+      "title": "Canned foods and FODMAPs: what's the story?",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/canned-foods-fodmaps-whats-the-story/",
+      "accessed": "2026-11-19",
+      "published": "updated 28 Sep 2023"
+    },
+    {
+      "id": "b1-alby-cauli-2025",
+      "kind": "secondary",
+      "title": "Research update: cauliflower is low FODMAP",
+      "publisher": "A Little Bit Yummy",
+      "url": "https://alittlebityummy.com/blog/research-update-cauliflower-is-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "4 Jun 2025"
+    },
+    {
+      "id": "b1-ge-carrots",
+      "kind": "secondary",
+      "title": "Are carrots low FODMAP?",
+      "publisher": "George Eats",
+      "url": "https://www.georgeats.com/low-fodmap/are-carrots-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "updated 12 Aug 2026"
+    },
+    {
+      "id": "b1-ge-pumpkin",
+      "kind": "secondary",
+      "title": "Is pumpkin low FODMAP?",
+      "publisher": "George Eats",
+      "url": "https://georgeats.com/posts/resources/is-pumpkin-low-fodmap/",
+      "accessed": "2026-11-19",
+      "published": "updated 10 Aug 2026"
+    }
+  ],
+  "foods": [
+    {
+      "slug": "broccoli",
+      "name": "broccoli",
+      "aliases": [
+        "broccoli florets",
+        "broccoli heads",
+        "broccoli stalks",
+        "calabrese"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "east-asian"
+      ],
+      "illustration": "broccoli",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve. Monash rates 75 g of whole broccoli (about ¾ cup) low. The heads are the gentler part; the stalks hold most of the excess fructose, so keep large servings of stalks alone small.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "whole broccoli, raw",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructose"
+          ],
+          "household": "about ¾ cup",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "b1-mon-broc-2017"
+          ]
+        },
+        {
+          "form": "broccoli heads (florets) only",
+          "lowMaxG": 75,
+          "moderateFromG": 240,
+          "highFromG": null,
+          "scaleMaxG": 340,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-mon-broc-2017",
+            "b1-kk-broccoli"
+          ],
+          "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+        },
+        {
+          "form": "broccoli stalks only",
+          "lowMaxG": 45,
+          "moderateFromG": 50,
+          "highFromG": null,
+          "scaleMaxG": 100,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "b1-kk-broccoli",
+            "b1-mon-broc-2017"
+          ],
+          "note": "Grams as reported by Karlijn's Kitchen from Monash's data. Monash's own post says to avoid more than 65 g of stalks alone if fructose bothers you."
+        }
+      ],
+      "changes": [
+        {
+          "date": "22 Nov 2017",
+          "text": "Monash retested broccoli and split it into heads and stalks. Excess fructose, mostly in the stalks, turned out to be the main FODMAP.",
+          "sourceIds": [
+            "b1-mon-broc-2017"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Monash calls whole broccoli and heads low at a typical 1 cup serve, but doesn't give that cup in grams. Elsewhere it lists 75 g as about ¾ cup, so a full cup is likely more than 75 g.",
+          "sourceIds": [
+            "b1-mon-broc-2017",
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Broccolini is the opposite of broccoli: its FODMAPs sit mostly in the heads, and its stalks are the lower part.",
+          "sourceIds": [
+            "b1-mon-broc-2017"
+          ]
+        },
+        {
+          "text": "In 2024 Monash lowered its fructose cut-off for vegetables, which shrank the low serve of broccolini heads from 58 g to 21 g.",
+          "sourceIds": [
+            "b1-mon-fructose-2024"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Green beans",
+          "slug": "green-beans"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        },
+        {
+          "name": "Bok choy",
+          "slug": "bok-choy"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are broccoli stalks low FODMAP?",
+          "a": "Only in small amounts. The stalks carry most of broccoli's excess fructose, so use mostly florets or mix in whole broccoli."
+        },
+        {
+          "q": "Is frozen broccoli low FODMAP?",
+          "a": "No lab result for frozen broccoli was found in public sources. Weigh it like fresh broccoli and stick to the standard serve."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "corn",
+      "name": "corn",
+      "aliases": [
+        "sweet corn",
+        "sweetcorn",
+        "corn on the cob",
+        "corn kernels",
+        "maize"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "latin-american"
+      ],
+      "illustration": "corn",
+      "tier": "lab-tested",
+      "answer": "In small amounts. Monash rates half a cob of fresh sweet corn (38 g) low, while a whole cob is high, mainly from the polyol sorbitol. Canned corn kernels go further: Monash lists 75 g as a low serve.",
+      "groups": [
+        "sorbitol",
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "fresh sweet corn on the cob",
+          "lowMaxG": 38,
+          "moderateFromG": 63,
+          "highFromG": null,
+          "scaleMaxG": 100,
+          "groups": [
+            "sorbitol"
+          ],
+          "household": "½ cob",
+          "sourceIds": [
+            "b1-mon-10foods-2015",
+            "mon-fibre-2021",
+            "b1-kk-corn"
+          ],
+          "note": "The moderate amount is as reported by Karlijn's Kitchen from Monash's data. Monash says a whole cob is high."
+        },
+        {
+          "form": "canned corn kernels, drained",
+          "lowMaxG": 75,
+          "moderateFromG": 250,
+          "highFromG": null,
+          "scaleMaxG": 350,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-kk-corn"
+          ],
+          "note": "Monash's shopping list says \"corn kernels\" without naming canned or fresh; Karlijn's Kitchen gives 75 g for canned kernels and the moderate amount."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "FODMAP Friendly agrees a whole cob is high in sorbitol and says canned kernels are low only in small serves, turning high in larger ones.",
+          "sourceIds": [
+            "ff-five-2020",
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Corn grown for flour has less sorbitol and more starch, so corn tortillas, polenta and cornflour are a different story from sweet corn.",
+          "sourceIds": [
+            "ff-five-2020"
+          ]
+        },
+        {
+          "text": "Monash points out that sweet corn shows red at a full cob but green at half a cob, a good example of why serve size matters.",
+          "sourceIds": [
+            "b1-mon-veg-2015"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Corn tortillas",
+          "slug": "corn-tortillas"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        },
+        {
+          "name": "Green beans",
+          "slug": "green-beans"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is popcorn low FODMAP?",
+          "a": "Popcorn is a separate food from sweet corn. Monash's fibre guide lists plain commercial popcorn with a low serve; check the pack size and flavourings."
+        },
+        {
+          "q": "Are corn tortillas low FODMAP?",
+          "a": "Corn flour has far less sorbitol than sweet corn, so plain corn tortillas are usually a lower-FODMAP choice. Check labels for onion or garlic."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "tomatoes",
+      "name": "tomatoes",
+      "aliases": [
+        "tomato",
+        "cherry tomatoes",
+        "roma tomato",
+        "canned tomatoes",
+        "tinned tomatoes"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "mediterranean",
+        "middle-eastern"
+      ],
+      "illustration": "tomatoes",
+      "tier": "lab-tested",
+      "answer": "In small amounts. About half a medium tomato (65 g) is reported low, and 75 g is moderate in fructose. Monash rates 3 cherry tomatoes (45 g) low and lists canned tomato as low at 75 g.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "common tomato, raw",
+          "lowMaxG": 65,
+          "moderateFromG": 75,
+          "highFromG": null,
+          "scaleMaxG": 110,
+          "groups": [
+            "fructose"
+          ],
+          "household": "½ medium tomato",
+          "sourceIds": [
+            "b1-kk-tomatoes"
+          ],
+          "note": "Grams as reported by dietitian sites from Monash's data."
+        },
+        {
+          "form": "cherry tomatoes, raw",
+          "lowMaxG": 45,
+          "moderateFromG": 60,
+          "highFromG": null,
+          "scaleMaxG": 90,
+          "groups": [
+            "fructose"
+          ],
+          "household": "3 medium cherry tomatoes",
+          "sourceIds": [
+            "mon-step1",
+            "mon-stackexpl-2022",
+            "b1-kk-tomatoes"
+          ],
+          "note": "Low amount from Monash; the moderate amount (4 cherry tomatoes) is as reported by Karlijn's Kitchen."
+        },
+        {
+          "form": "canned tomatoes",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 150,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "FODMAP Friendly calls fresh tomatoes low and says they can be eaten freely, while Monash's Step 1 sheet lists tomato among higher-FODMAP foods.",
+          "sourceIds": [
+            "ff-five-2020",
+            "ff-list",
+            "mon-step1"
+          ]
+        },
+        {
+          "text": "For canned tomatoes, dietitian sites citing Monash give ½ cup (100 g) as the low serve, larger than the 75 g on Monash's shopping list. They also say moderate starts at 115 g or 132 g, depending on the site.",
+          "sourceIds": [
+            "b1-alby-canned",
+            "b1-kk-tomatoes",
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "FODMAP Friendly found canned tomatoes higher in fructose than fresh, with a low serve of about ⅗ cup.",
+          "sourceIds": [
+            "ff-five-2020"
+          ]
+        },
+        {
+          "text": "A whole 400 g can split four ways keeps each plate near the low serve.",
+          "sourceIds": [
+            "b1-alby-canned"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Cucumber",
+          "slug": "cucumber"
+        },
+        {
+          "name": "Bell pepper",
+          "slug": "bell-pepper"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is tomato sauce low FODMAP?",
+          "a": "Plain tomato is fine in small amounts, but many pasta sauces add garlic and onion, which are high. Make your own with canned tomato and garlic-infused oil."
+        },
+        {
+          "q": "Are cherry tomatoes low FODMAP?",
+          "a": "Yes, at about 3 cherry tomatoes per meal. More than that adds up in fructose."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "potatoes",
+      "name": "potatoes",
+      "aliases": [
+        "potato",
+        "white potato",
+        "russet potato",
+        "red potato",
+        "spuds"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "potatoes",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash rates a standard 75 g serve of potato (half a medium) low and says potato stays low however much you eat. Dietitian sites report Monash's app shows potatoes low up to 500 g.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "white potato, unpeeled",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 200,
+          "groups": [
+            "fructans"
+          ],
+          "household": "½ medium",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "mon-shop-2025",
+            "mon-stack-2016"
+          ],
+          "note": "Monash says potato is low regardless of amount; 75 g is the standard serve, not a limit. The sources name no FODMAP that rises with the amount; fructans is shown only as a placeholder."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Dietitian sites citing Monash's app report white, red and purple potatoes as low up to 500 g, the largest amount tested.",
+          "sourceIds": [
+            "ge-potato",
+            "b1-kk-potatoes"
+          ]
+        },
+        {
+          "text": "Monash suggests potato as a bulking vegetable to stretch higher-FODMAP foods, such as in sweet potato soup.",
+          "sourceIds": [
+            "mon-stack-2016"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Sweet potato",
+          "slug": "sweet-potato"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is mashed potato low FODMAP?",
+          "a": "Potato itself is. Watch the extras: use lactose-free milk or butter, and skip onion or garlic powder."
+        },
+        {
+          "q": "Are fries low FODMAP?",
+          "a": "Plain potato fries are fine. Check seasonings on store-bought fries, which can include onion or garlic."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "cabbage",
+      "name": "cabbage",
+      "aliases": [
+        "white cabbage",
+        "green cabbage",
+        "common cabbage",
+        "savoy cabbage",
+        "coleslaw cabbage"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "east-asian"
+      ],
+      "illustration": "cabbage",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve. Monash lists 75 g of white (common) cabbage as low. Bigger servings are reported to turn moderate in sorbitol from about 100 g. Savoy cabbage was retested in 2025 and is now low at 75 g too.",
+      "groups": [
+        "sorbitol"
+      ],
+      "servings": [
+        {
+          "form": "white (common) cabbage, raw",
+          "lowMaxG": 75,
+          "moderateFromG": 100,
+          "highFromG": null,
+          "scaleMaxG": 140,
+          "groups": [
+            "sorbitol"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-kk-cabbage"
+          ],
+          "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+        },
+        {
+          "form": "savoy cabbage",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024"
+          ],
+          "note": "Monash rates it low at 1 serve, which it defines as 75 g of vegetable; it contains fructans in larger serves."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested savoy cabbage: it moved from high in fructans to low at a standard serve. Older dietitian pages still show only 40 g as low.",
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-kk-cabbage"
+          ]
+        }
+      ],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Fermenting changes cabbage: Monash found 1 cup of raw cabbage low but the same amount as sauerkraut high in mannitol.",
+          "sourceIds": [
+            "b1-mon-ferment-2017"
+          ]
+        },
+        {
+          "text": "Even at a low serve, savoy cabbage can still cause wind for some people, Monash says, because of parts of the plant that aren't FODMAPs.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Red cabbage",
+          "slug": "red-cabbage"
+        },
+        {
+          "name": "Bok choy",
+          "slug": "bok-choy"
+        },
+        {
+          "name": "Lettuce",
+          "slug": "lettuce"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is coleslaw low FODMAP?",
+          "a": "The cabbage is fine at a standard serve. Many coleslaw dressings add onion or garlic, so check the label or make your own."
+        },
+        {
+          "q": "Is sauerkraut low FODMAP?",
+          "a": "Not in a full cup: Monash found fermented cabbage high in mannitol. Only a small serving is listed as low."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "carrots",
+      "name": "carrots",
+      "aliases": [
+        "carrot",
+        "baby carrots",
+        "raw carrot"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "carrots",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash rates one medium carrot (75 g) low and names carrot as a vegetable with no upper limit, so it stays low in large serves. Dietitian sites report Monash's app shows carrots low up to 500 g.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "carrot, peeled, raw",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 200,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1 medium",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "mon-shop-2025",
+            "mon-stack-2016"
+          ],
+          "note": "Monash says carrot has no upper limit; 75 g is the standard serve, not a limit. The sources name no FODMAP that rises with the amount; fructans is shown only as a placeholder."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "George Eats, citing Monash, reports carrots low up to 500 g per person as of August 2026.",
+          "sourceIds": [
+            "b1-ge-carrots"
+          ]
+        },
+        {
+          "text": "Monash uses carrot to bulk out dishes built on foods with tighter limits, such as sweet potato.",
+          "sourceIds": [
+            "mon-stack-2016"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Potatoes",
+          "slug": "potatoes"
+        },
+        {
+          "name": "Cucumber",
+          "slug": "cucumber"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is carrot cake low FODMAP?",
+          "a": "The carrots are fine. Regular carrot cake uses wheat flour and often raisins, so look for a recipe with low FODMAP flour."
+        },
+        {
+          "q": "Is carrot juice low FODMAP?",
+          "a": "No public lab result for carrot juice was found. Whole carrots are the tested form."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "green-beans",
+      "name": "green beans",
+      "aliases": [
+        "green bean",
+        "string beans",
+        "french beans",
+        "snap beans",
+        "haricots verts"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "green-beans",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve. Monash rates 15 green beans (75 g) low. Dietitian sites citing Monash report that 25 beans (125 g) carry a moderate amount of sorbitol, so pair them with other vegetables for a bigger plate.",
+      "groups": [
+        "sorbitol"
+      ],
+      "servings": [
+        {
+          "form": "green beans, raw",
+          "lowMaxG": 75,
+          "moderateFromG": 125,
+          "highFromG": null,
+          "scaleMaxG": 180,
+          "groups": [
+            "sorbitol"
+          ],
+          "household": "15 beans",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "kk-beans",
+            "b1-alby-portion"
+          ],
+          "note": "Low amount from Monash; the moderate amount is as reported by A Little Bit Yummy from Monash's data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Green beans appear on Monash's shopping list of low FODMAP vegetables at a 75 g serve.",
+          "sourceIds": [
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Broccoli",
+          "slug": "broccoli"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        },
+        {
+          "name": "Zucchini",
+          "slug": "zucchini"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is green bean casserole low FODMAP?",
+          "a": "The beans are fine at 15 per serve, but classic casseroles use onion and canned soup. A version with garlic-infused oil and lactose-free milk keeps it lower."
+        },
+        {
+          "q": "Are green beans legumes high in GOS like other beans?",
+          "a": "Fresh green beans are eaten as a pod vegetable; the FODMAP reported in larger serves is sorbitol, not GOS."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "mushrooms",
+      "name": "mushrooms",
+      "aliases": [
+        "mushroom",
+        "button mushrooms",
+        "white mushrooms",
+        "champignons",
+        "oyster mushrooms",
+        "portobello"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "east-asian"
+      ],
+      "illustration": "mushrooms",
+      "tier": "lab-tested",
+      "answer": "Mostly no. Fresh button mushrooms are high in mannitol, with only about 7 g reported as low. Oyster mushrooms are the exception: Monash lists 75 g as a low serve. Canned button mushrooms are reported low at 75 g.",
+      "groups": [
+        "mannitol",
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "fresh button mushrooms",
+          "lowMaxG": 7,
+          "moderateFromG": 10,
+          "highFromG": null,
+          "scaleMaxG": 40,
+          "groups": [
+            "mannitol",
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-kk-mushrooms",
+            "mon-step1"
+          ],
+          "note": "Grams as reported by Karlijn's Kitchen from Monash's data (Jan 2024). Monash lists button mushroom as a high FODMAP food."
+        },
+        {
+          "form": "oyster mushrooms",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 150,
+          "groups": [
+            "mannitol"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-kk-mushrooms"
+          ],
+          "note": "Karlijn's Kitchen reports that Monash gives no upper limit for oyster mushrooms."
+        },
+        {
+          "form": "canned button mushrooms in brine, drained",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "mannitol"
+          ],
+          "household": "1 cup",
+          "sourceIds": [
+            "b1-kk-mushrooms"
+          ],
+          "note": "Grams as reported by dietitian sites from Monash's data."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash's retest found button mushrooms contain fructans as well as mannitol in larger serves, so it dropped them as the mannitol test food in favour of portobello.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "For canned button mushrooms, Karlijn's Kitchen reports 75 g (1 cup), while A Little Bit Yummy reports a serve of 6 mushrooms.",
+          "sourceIds": [
+            "b1-kk-mushrooms",
+            "b1-alby-canned"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash names mushrooms as one of the vegetables richest in mannitol.",
+          "sourceIds": [
+            "b1-mon-where"
+          ]
+        },
+        {
+          "text": "In a 2026 Monash lab study, microwaving mushrooms in water for 3 minutes and draining them cut their FODMAPs by 58%, but not enough to make them low.",
+          "sourceIds": [
+            "b1-mon-micro-2026"
+          ]
+        },
+        {
+          "text": "FODMAP Friendly also found many mushroom types high in mannitol, with shimeji much lower than shiitake or enoki.",
+          "sourceIds": [
+            "b1-ff-mush-2015"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Oyster mushrooms"
+        },
+        {
+          "name": "Eggplant",
+          "slug": "eggplant"
+        },
+        {
+          "name": "Zucchini",
+          "slug": "zucchini"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are portobello mushrooms low FODMAP?",
+          "a": "No. Monash now uses portobello as its food for testing mannitol, because it contains mannitol and no other FODMAPs."
+        },
+        {
+          "q": "Are canned mushrooms lower in FODMAPs than fresh?",
+          "a": "Yes. Canning leaches water-soluble FODMAPs into the brine, so drained canned button mushrooms are reported low at a standard serve."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "peas",
+      "name": "peas",
+      "aliases": [
+        "green peas",
+        "garden peas",
+        "frozen peas",
+        "sugar snap peas",
+        "snow peas",
+        "mangetout"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "south-asian"
+      ],
+      "illustration": "peas",
+      "tier": "lab-tested",
+      "answer": "Green peas: no, not at a standard serve. Monash's 2025 retest rated 75 g of frozen green peas high in fructans. Sugar snap peas are different: Monash now rates a standard 75 g serve low.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "green peas, frozen",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": 75,
+          "scaleMaxG": 110,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024",
+            "mon-step1"
+          ],
+          "note": "Rated high at 1 serve (75 g), mainly fructans with trace GOS. Monash's public pages give no low amount for green peas."
+        },
+        {
+          "form": "sugar snap peas",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024"
+          ],
+          "note": "Low at 1 serve (75 g); contains fructans in larger serves."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested frozen green peas (still high, now mainly fructans rather than GOS) and sugar snap peas (from high in fructose to low at a standard serve).",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        },
+        {
+          "date": "3 Feb 2025",
+          "text": "Snow peas sit on Monash's low FODMAP shopping list at a 75 g serve. In 2015 Monash had listed only 5 pods (16 g) as low.",
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-mon-10foods-2015"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Karlijn's Kitchen, citing Monash, lists canned peas as low up to 54 g. We found no public Monash figure for canned peas.",
+          "sourceIds": [
+            "b1-kk-veglist"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash's Step 1 sheet lists green peas among the higher-FODMAP vegetables to swap out.",
+          "sourceIds": [
+            "mon-step1"
+          ]
+        },
+        {
+          "text": "FODMAP Friendly's public food list puts peas on the high side too.",
+          "sourceIds": [
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Green beans",
+          "slug": "green-beans"
+        },
+        {
+          "name": "Edamame",
+          "slug": "edamame"
+        },
+        {
+          "name": "Snow peas"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are snow peas low FODMAP?",
+          "a": "Monash's 2025 shopping list includes snow peas at a standard 75 g serve."
+        },
+        {
+          "q": "Is pea protein low FODMAP?",
+          "a": "Pea protein isolate is a separate product from whole peas, so the pea results here don't apply to it. Look for a brand that has been lab tested."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "celery",
+      "name": "celery",
+      "aliases": [
+        "celery stalk",
+        "celery sticks"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "celery",
+      "tier": "lab-tested",
+      "answer": "Not at a standard serve. Monash's 2025 retest rated a 75 g serve of celery stalk moderate in mannitol (it used to be high). Monash's public pages give no low amount, and dietitian sites disagree on one.",
+      "groups": [
+        "mannitol"
+      ],
+      "servings": [
+        {
+          "form": "celery stalk",
+          "lowMaxG": null,
+          "moderateFromG": 75,
+          "highFromG": null,
+          "scaleMaxG": 110,
+          "groups": [
+            "mannitol"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024"
+          ],
+          "note": "Rated moderate at 1 serve (75 g). No low amount is published outside Monash's app."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested celery stalk: at a standard serve it moved from high to moderate in mannitol. It remains Monash's suggested food for testing mannitol.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Before the retest, Karlijn's Kitchen (citing Monash) gave 10 g as low, moderate from 15 g and high from 75 g. Her list updated in Sep 2025 gives celery up to 51 g.",
+          "sourceIds": [
+            "b1-kk-celery",
+            "b1-kk-veglist"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash names celery as one of the vegetables richest in mannitol.",
+          "sourceIds": [
+            "b1-mon-where"
+          ]
+        },
+        {
+          "text": "Celery leaves and celeriac (celery root) are reported to be much lower in FODMAPs than the stalk.",
+          "sourceIds": [
+            "b1-kk-celery"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Cucumber",
+          "slug": "cucumber"
+        },
+        {
+          "name": "Fennel",
+          "slug": "fennel"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is celery juice low FODMAP?",
+          "a": "No public lab result for celery juice was found. Juicing concentrates a lot of stalk into one glass, so it is likely higher than a few sticks."
+        },
+        {
+          "q": "Can I use celery in soup?",
+          "a": "Monash's lab work shows FODMAPs are water-soluble and move into cooking water, so the broth carries celery's mannitol too. Keep the amount small."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "spinach",
+      "name": "spinach",
+      "aliases": [
+        "baby spinach",
+        "english spinach",
+        "spinach leaves"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "south-asian",
+        "middle-eastern"
+      ],
+      "illustration": "spinach",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash rates 1½ cups of baby spinach (75 g) low. Dietitian sites citing Monash report baby spinach turns moderate in fructans from 150 g, while mature (English) spinach stays low in much larger amounts.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "baby spinach, raw",
+          "lowMaxG": 75,
+          "moderateFromG": 150,
+          "highFromG": null,
+          "scaleMaxG": 210,
+          "groups": [
+            "fructans"
+          ],
+          "household": "1½ cups",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "b1-kk-spinach"
+          ],
+          "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+        },
+        {
+          "form": "English (mature) spinach, raw",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 150,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-kk-spinach"
+          ],
+          "note": "The sources name no FODMAP that rises with the amount; fructans is shown only as a placeholder."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "Karlijn's Kitchen's 2025 list says mature spinach is low up to 500 g, while Monash's public shopping list only gives the standard 75 g serve.",
+          "sourceIds": [
+            "b1-kk-veglist",
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash lists a 75 g serve of baby spinach as adding about 3 g of fibre.",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Kale",
+          "slug": "kale"
+        },
+        {
+          "name": "Lettuce",
+          "slug": "lettuce"
+        },
+        {
+          "name": "Bok choy",
+          "slug": "bok-choy"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is spinach in a smoothie low FODMAP?",
+          "a": "Yes, at around 1½ cups of baby spinach. The other ingredients, like fruit and milk, usually decide whether the smoothie is low."
+        },
+        {
+          "q": "Is saag or palak low FODMAP?",
+          "a": "The spinach is fine, but most recipes start with onion and garlic. A version with garlic-infused oil and asafoetida keeps it lower."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "beetroot",
+      "name": "beetroot",
+      "aliases": [
+        "beets",
+        "beet",
+        "red beet",
+        "pickled beetroot",
+        "canned beetroot"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "middle-eastern"
+      ],
+      "illustration": "beetroot",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve, after a 2025 retest. Monash now rates 75 g of fresh beetroot low, with GOS and fructans in larger serves. Pickled beetroot is also on Monash's low list at 75 g.",
+      "groups": [
+        "gos",
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "fresh beetroot",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "gos",
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024"
+          ],
+          "note": "Low at 1 serve (75 g); contains GOS and fructans in larger serves."
+        },
+        {
+          "form": "pickled beetroot",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "gos",
+            "fructans"
+          ],
+          "sourceIds": [
+            "mon-shop-2025"
+          ],
+          "note": "Monash's shopping list names no FODMAP group here; the groups shown are the ones Monash found in fresh beetroot."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested fresh beetroot: it moved from high (GOS and fructans) to low at a standard serve, and is no longer a fructan test food.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "In Monash's lab work, pickling cut the FODMAP content of beetroot by 89–97%.",
+          "sourceIds": [
+            "mon-vegan-2018",
+            "tuck-2018"
+          ]
+        },
+        {
+          "text": "FODMAP Friendly's public list agrees, placing beetroot among its low FODMAP vegetables.",
+          "sourceIds": [
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        },
+        {
+          "name": "Red cabbage",
+          "slug": "red-cabbage"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is beetroot juice low FODMAP?",
+          "a": "No public lab result for beetroot juice was found. A glass may hold more beetroot than the tested 75 g."
+        },
+        {
+          "q": "Is canned beetroot low FODMAP?",
+          "a": "Monash lists pickled beetroot at 75 g. We found no public result for plain canned beetroot; check the label for onion."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "asparagus",
+      "name": "asparagus",
+      "aliases": [
+        "asparagus spears",
+        "green asparagus"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "mediterranean"
+      ],
+      "illustration": "asparagus",
+      "tier": "lab-tested",
+      "answer": "No, not at a standard serve. Monash's 2025 retest still rates 75 g of asparagus high, now in fructose. Any low amount is small: dietitian sites citing Monash give from about ⅔ of a spear up to 42 g.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "green asparagus",
+          "lowMaxG": null,
+          "moderateFromG": null,
+          "highFromG": 75,
+          "scaleMaxG": 110,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024",
+            "mon-step1"
+          ],
+          "note": "Rated high at 1 serve (75 g). No low amount is published by Monash outside its app."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested asparagus: still high at a standard serve, but now for fructose only (it used to be fructose and fructans).",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Karlijn's Kitchen (Apr 2024, citing Monash) reports ⅔ of a spear as low, 1 spear as moderate in fructose and 5 spears high. Her list updated in Sep 2025 gives up to 42 g.",
+          "sourceIds": [
+            "b1-kk-asparagus",
+            "b1-kk-veglist"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "White asparagus has not been tested by Monash, according to Karlijn's Kitchen.",
+          "sourceIds": [
+            "b1-kk-asparagus"
+          ]
+        },
+        {
+          "text": "On FODMAP Friendly's public list, asparagus sits with the high FODMAP vegetables as well.",
+          "sourceIds": [
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Green beans",
+          "slug": "green-beans"
+        },
+        {
+          "name": "Zucchini",
+          "slug": "zucchini"
+        },
+        {
+          "name": "Broccoli",
+          "slug": "broccoli"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why is asparagus high FODMAP?",
+          "a": "It carries excess fructose: more fructose than glucose. Monash still uses asparagus as its fructose test food."
+        },
+        {
+          "q": "Is a single asparagus spear low FODMAP?",
+          "a": "Reports say one spear is already moderate in fructose, so keep it to a garnish if fructose bothers you."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "cauliflower",
+      "name": "cauliflower",
+      "aliases": [
+        "cauliflower florets",
+        "cauliflower rice",
+        "purple cauliflower"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "south-asian",
+        "middle-eastern"
+      ],
+      "illustration": "cauliflower",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve, since a 2025 retest. Monash now rates 75 g of white cauliflower low, with fructans in larger serves. It used to be listed high in mannitol, so many older lists are out of date.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "white cauliflower",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024",
+            "b1-alby-cauli-2025"
+          ],
+          "note": "Rated low at Monash's standard 75 g serve; fructans build up in bigger portions."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested white cauliflower: it moved from high in mannitol to low at a standard serve, with fructans in larger serves.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        },
+        {
+          "date": "29 Oct 2026",
+          "text": "Monash says cauliflower was retested again and now has a larger low serve. It doesn't give the new amount publicly.",
+          "sourceIds": [
+            "b1-mon-swaps-2026"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "FODMAP Friendly's public list still puts cauliflower with the high FODMAP vegetables.",
+          "sourceIds": [
+            "ff-list",
+            "b1-mon-reintro-2025"
+          ]
+        },
+        {
+          "text": "A Little Bit Yummy reports both white and purple cauliflower as low at ¾ cup, without giving grams.",
+          "sourceIds": [
+            "b1-alby-cauli-2025"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash adds a caution: cauliflower has other gas-forming components besides FODMAPs, so a low rating doesn't rule out bloating.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Broccoli",
+          "slug": "broccoli"
+        },
+        {
+          "name": "Potatoes",
+          "slug": "potatoes"
+        },
+        {
+          "name": "Rice",
+          "slug": "rice"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is cauliflower rice low FODMAP?",
+          "a": "Yes, if the portion stays near 75 g of cauliflower. Pair it with plain rice for a bigger bowl."
+        },
+        {
+          "q": "Is cauliflower still a mannitol food?",
+          "a": "Not by Monash's 2025 data, which found fructans rather than mannitol. It is no longer suggested for testing mannitol."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "cucumber",
+      "name": "cucumber",
+      "aliases": [
+        "cucumbers",
+        "continental cucumber",
+        "english cucumber",
+        "lebanese cucumber"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "middle-eastern",
+        "mediterranean"
+      ],
+      "illustration": "cucumber",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash rates 75 g of cucumber low. After its 2024 fructose review, Monash lists cucumber as moderate from 132 g and high from 178 g, so one cucumber in a big salad is worth weighing.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "continental cucumber, raw",
+          "lowMaxG": 75,
+          "moderateFromG": 132,
+          "highFromG": 178,
+          "scaleMaxG": 250,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "b1-mon-fructose-2024",
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "date": "22 Jul 2024",
+          "text": "Monash lowered its fructose cut-off for vegetables. Cucumber's moderate amount fell from 360 g to 132 g, and its high amount from 545 g to 178 g. The 75 g low serve did not change.",
+          "sourceIds": [
+            "b1-mon-fructose-2024"
+          ]
+        }
+      ],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash found small cucumbers and pickled gherkins both low at a standard serve.",
+          "sourceIds": [
+            "b1-mon-ferment-2017"
+          ]
+        },
+        {
+          "text": "Cucumber is on FODMAP Friendly's low list as well.",
+          "sourceIds": [
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Lettuce",
+          "slug": "lettuce"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        },
+        {
+          "name": "Bell pepper",
+          "slug": "bell-pepper"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are pickles low FODMAP?",
+          "a": "Monash rates pickled gherkins low at a standard serve. Check the brine for garlic or onion."
+        },
+        {
+          "q": "Is tzatziki low FODMAP?",
+          "a": "Cucumber is fine, but tzatziki usually has garlic and regular yogurt. Use lactose-free yogurt and garlic-infused oil."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "kale",
+      "name": "kale",
+      "aliases": [
+        "curly kale",
+        "lacinato kale",
+        "cavolo nero",
+        "tuscan kale"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "kale",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash rates ½ cup of chopped kale (75 g) low. Dietitian sites citing Monash report kale turns moderate in GOS only from about 222 g, so a generous handful fits easily.",
+      "groups": [
+        "gos"
+      ],
+      "servings": [
+        {
+          "form": "kale, raw",
+          "lowMaxG": 75,
+          "moderateFromG": 222,
+          "highFromG": null,
+          "scaleMaxG": 310,
+          "groups": [
+            "gos"
+          ],
+          "household": "½ cup chopped",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "mon-shop-2025",
+            "b1-kk-kale"
+          ],
+          "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash lists kale among high-fibre low FODMAP foods, with about 2 g of fibre per 75 g serve.",
+          "sourceIds": [
+            "mon-fibre-2021"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Spinach",
+          "slug": "spinach"
+        },
+        {
+          "name": "Cabbage",
+          "slug": "cabbage"
+        },
+        {
+          "name": "Bok choy",
+          "slug": "bok-choy"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are kale chips low FODMAP?",
+          "a": "The kale is fine. Check flavoured store-bought chips for garlic or onion powder."
+        },
+        {
+          "q": "Is kale better raw or cooked on a low FODMAP diet?",
+          "a": "Both count the same by weight. Cooked kale shrinks, so weigh it raw."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "brussels-sprouts",
+      "name": "Brussels sprouts",
+      "aliases": [
+        "brussels sprouts",
+        "brussel sprouts",
+        "sprouts"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "brussels-sprouts",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve, following Monash's 2025 retest. It now rates 75 g of Brussels sprouts low, with fructans only in larger serves. In 2020 Monash had used 75 g of sprouts as an example of a high-fructan serve.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "Brussels sprouts",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructans"
+          ],
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "b1-mon-lights-2024"
+          ],
+          "note": "Green at a standard 75 g serve in Monash's 2025 testing; larger serves carry more fructans."
+        }
+      ],
+      "changes": [
+        {
+          "date": "28 Apr 2025",
+          "text": "Monash retested Brussels sprouts: they moved from high in fructans to low at a standard serve, and are no longer a fructan test food.",
+          "sourceIds": [
+            "b1-mon-reintro-2025",
+            "mon-fructans-2020"
+          ]
+        }
+      ],
+      "disagreements": [
+        {
+          "text": "Karlijn's Kitchen's 2024 cabbage guide, written before the retest, gives only 50 g (2 to 3 sprouts) as low; her 2025 list shows 75 g.",
+          "sourceIds": [
+            "b1-kk-cabbage",
+            "b1-kk-veglist"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Sprouts may still be gassy for some people: Monash points to non-FODMAP components in them.",
+          "sourceIds": [
+            "b1-mon-reintro-2025"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Green beans",
+          "slug": "green-beans"
+        },
+        {
+          "name": "Broccoli",
+          "slug": "broccoli"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        }
+      ],
+      "faq": [
+        {
+          "q": "How many Brussels sprouts are low FODMAP?",
+          "a": "Monash gives the low amount by weight, 75 g. Sprouts vary in size, so weigh them rather than counting."
+        },
+        {
+          "q": "Why do Brussels sprouts still make me gassy?",
+          "a": "Monash says sprouts contain other gas-forming parts besides FODMAPs, so some people react even at a low serve."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "butternut-squash",
+      "name": "butternut squash",
+      "aliases": [
+        "butternut pumpkin",
+        "butternut"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "butternut-squash",
+      "tier": "lab-tested",
+      "answer": "Only in small amounts. Dietitian sites citing Monash report about ⅓ cup (63 g) of butternut squash as low, moderate from 75 g and high from 85 g, from fructose and fructans. Kabocha (Japanese) pumpkin is the easier swap.",
+      "groups": [
+        "fructose",
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "butternut squash, unpeeled (as tested)",
+          "lowMaxG": 63,
+          "moderateFromG": 75,
+          "highFromG": 85,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructose",
+            "fructans"
+          ],
+          "household": "about ⅓ cup",
+          "sourceIds": [
+            "b1-ge-pumpkin",
+            "b1-kk-pumpkin"
+          ],
+          "note": "Grams as reported by dietitian sites from Monash's data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [
+        {
+          "text": "George Eats says Monash has no listing for unpeeled butternut squash, yet gives the 63 g figure for unpeeled butternut on the same page; it is unclear whether the test was raw, cooked, peeled or unpeeled.",
+          "sourceIds": [
+            "b1-ge-pumpkin"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "text": "Monash lists kabocha (Japanese) pumpkin as a low FODMAP vegetable at a standard serve.",
+          "sourceIds": [
+            "mon-shop-2025",
+            "mon-step1"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Pumpkin (kabocha)",
+          "slug": "pumpkin"
+        },
+        {
+          "name": "Sweet potato",
+          "slug": "sweet-potato"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is butternut squash soup low FODMAP?",
+          "a": "Only if the squash per bowl stays small and the soup skips onion and garlic. Bulk it with carrot and potato."
+        },
+        {
+          "q": "Which pumpkin is lowest in FODMAPs?",
+          "a": "Kabocha (Japanese) pumpkin is on Monash's low list at a standard serve, so it handles bigger portions than butternut."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "eggplant",
+      "name": "eggplant",
+      "aliases": [
+        "aubergine",
+        "brinjal",
+        "eggplants"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global",
+        "mediterranean",
+        "middle-eastern",
+        "south-asian"
+      ],
+      "illustration": "eggplant",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash rates 1 cup of eggplant (75 g) low. Larger amounts turn moderate and then high in the polyol sorbitol; dietitian sites citing Monash put the moderate step at about 178 g.",
+      "groups": [
+        "sorbitol"
+      ],
+      "servings": [
+        {
+          "form": "eggplant, unpeeled",
+          "lowMaxG": 75,
+          "moderateFromG": 178,
+          "highFromG": null,
+          "scaleMaxG": 250,
+          "groups": [
+            "sorbitol"
+          ],
+          "household": "1 cup",
+          "sourceIds": [
+            "mon-fibre-2021",
+            "mon-stack-2016",
+            "b1-kk-veglist"
+          ],
+          "note": "Low amount from Monash; the moderate amount is as reported by Karlijn's Kitchen from Monash's data."
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash uses eggplant as an example of a green food with an upper limit: bigger servings become amber, then red, for sorbitol.",
+          "sourceIds": [
+            "mon-stack-2016"
+          ]
+        },
+        {
+          "text": "Monash lists eggplant as low at a standard serve and suggests it as a plant-based \"steak\".",
+          "sourceIds": [
+            "b1-mon-swaps-2026"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Zucchini",
+          "slug": "zucchini"
+        },
+        {
+          "name": "Bell pepper",
+          "slug": "bell-pepper"
+        },
+        {
+          "name": "Tomatoes",
+          "slug": "tomatoes"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is baba ganoush low FODMAP?",
+          "a": "The eggplant is fine at about 1 cup, but baba ganoush usually has garlic. Make it with garlic-infused oil."
+        },
+        {
+          "q": "Does eggplant shrink when cooked?",
+          "a": "Yes, a lot. Weigh it raw so the portion matches the tested 75 g."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "lettuce",
+      "name": "lettuce",
+      "aliases": [
+        "iceberg lettuce",
+        "cos lettuce",
+        "romaine",
+        "butter lettuce",
+        "salad leaves"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "lettuce",
+      "tier": "lab-tested",
+      "answer": "Yes. Monash lists 75 g of lettuce as a low serve. Butter lettuce is a little tighter: since Monash's 2024 fructose review its low serve is 65 g.",
+      "groups": [
+        "fructose"
+      ],
+      "servings": [
+        {
+          "form": "lettuce (iceberg, cos and similar)",
+          "lowMaxG": 75,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 150,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "mon-shop-2025",
+            "b1-kk-veglist"
+          ],
+          "note": "No upper limit is published; fructose is the FODMAP Monash names for butter lettuce."
+        },
+        {
+          "form": "butter lettuce, raw",
+          "lowMaxG": 65,
+          "moderateFromG": null,
+          "highFromG": null,
+          "scaleMaxG": 120,
+          "groups": [
+            "fructose"
+          ],
+          "sourceIds": [
+            "b1-mon-fructose-2024"
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "date": "22 Jul 2024",
+          "text": "Monash lowered its fructose cut-off for vegetables, and butter lettuce's low serve fell from 75 g to 65 g.",
+          "sourceIds": [
+            "b1-mon-fructose-2024"
+          ]
+        }
+      ],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Monash's Step 1 sheet suggests lettuce as a low FODMAP swap for higher-FODMAP vegetables.",
+          "sourceIds": [
+            "mon-step1"
+          ]
+        },
+        {
+          "text": "FODMAP Friendly's lab, testing separately, also puts lettuce on its low list.",
+          "sourceIds": [
+            "ff-list"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Spinach",
+          "slug": "spinach"
+        },
+        {
+          "name": "Arugula",
+          "slug": "arugula"
+        },
+        {
+          "name": "Cucumber",
+          "slug": "cucumber"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is a side salad low FODMAP?",
+          "a": "The leaves usually are. Dressings and toppings decide it: watch for onion, garlic and honey."
+        },
+        {
+          "q": "Is romaine low FODMAP?",
+          "a": "Monash's shopping list includes lettuce at 75 g; romaine (cos) is a common type of lettuce."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    },
+    {
+      "slug": "red-cabbage",
+      "name": "red cabbage",
+      "aliases": [
+        "purple cabbage",
+        "red cabbages"
+      ],
+      "category": "vegetables",
+      "regions": [
+        "global"
+      ],
+      "illustration": "red-cabbage",
+      "tier": "lab-tested",
+      "answer": "Yes, at a standard serve. Monash rates ½ cup of red cabbage (75 g) low. Above 150 g it turns moderate in fructans, and above 180 g high, so a big slaw can add up.",
+      "groups": [
+        "fructans"
+      ],
+      "servings": [
+        {
+          "form": "red cabbage",
+          "lowMaxG": 75,
+          "moderateFromG": 150,
+          "highFromG": 180,
+          "scaleMaxG": 250,
+          "groups": [
+            "fructans"
+          ],
+          "household": "½ cup",
+          "sourceIds": [
+            "mon-stack-2016",
+            "mon-shop-2025"
+          ]
+        }
+      ],
+      "changes": [],
+      "disagreements": [],
+      "notes": [
+        {
+          "text": "Fermented red cabbage tested moderate at a standard serve in Monash's lab, while raw red cabbage was low.",
+          "sourceIds": [
+            "b1-mon-ferment-2017"
+          ]
+        },
+        {
+          "text": "Karlijn's Kitchen, citing Monash's app, reports the same 75 g low and 150 g moderate amounts.",
+          "sourceIds": [
+            "b1-kk-cabbage"
+          ]
+        }
+      ],
+      "swaps": [
+        {
+          "name": "Cabbage",
+          "slug": "cabbage"
+        },
+        {
+          "name": "Lettuce",
+          "slug": "lettuce"
+        },
+        {
+          "name": "Carrots",
+          "slug": "carrots"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is red cabbage slaw low FODMAP?",
+          "a": "Keep the red cabbage near ½ cup per person and use a dressing without onion or garlic."
+        },
+        {
+          "q": "Is red cabbage lower in FODMAPs than white cabbage?",
+          "a": "Both are low at 75 g. They differ in the FODMAP that rises: fructans in red cabbage, sorbitol in white."
+        }
+      ],
+      "published": "2026-11-19",
+      "checked": "2026-11-19",
+      "status": "verified"
+    }
+  ]
+}

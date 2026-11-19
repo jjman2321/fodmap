@@ -152,3 +152,10 @@ Owner: "yeah add all the foods ig and make the site 10/10".
 - **Units:** milks and drinks are shown in ml, as the sources measure them (1 ml ≈ 1 g; noted on each serving).
 - **No-FODMAP foods:** plain meat, fish, eggs and plain olive oil show "Low FODMAP: contains no FODMAPs, any amount". There's no invented gram limit, and they add nothing to the meal check.
 - **Lab rating without grams:** e.g. kefir, which Monash rates high without a serve size. It shows "High FODMAP" with "normal serve" and no portion slider, instead of being treated as an estimate.
+
+## More answer types for clarity (Claude, 2026-11-19; owner can overrule)
+- **"Small amounts only" (amber):** when the low amount is under half a typical serve. Typical serves: vegetables 75 g (Monash's own rating serve), fruit 100 g, grains 100 g, legumes 75 g, nuts and seeds 30 g, cheese 40 g, condiments 15 g, herbs 2 g, drinks 250 ml. So cherries (low at 20 g) never get a big green "Low FODMAP".
+- **"Moderate FODMAP":** for foods rated moderate at a standard serve with no low amount (e.g. celery after the 2025 retest).
+- **"Lab-tested, amount not public":** for green tea and kombucha, which Monash tested but publishes no amount for. Never "not lab-tested".
+- **Placeholder FODMAP groups:** where no source names the limiting FODMAP (potatoes, carrots, blueberries…), the page says "not named by the sources", and the meal check ignores them.
+- **Newer retests over older primary posts:** for grapes, mango, raisins, firm banana and dried cranberries, dietitian sites report newer, stricter Monash retests. The newer figure leads, and the old Monash figure shows under "what changed", so a now-moderate amount is never shown in green.

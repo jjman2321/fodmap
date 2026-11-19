@@ -8,7 +8,7 @@ export const Group = z.enum(GROUPS);
 export type Group = GroupT;
 
 // How sure the answer is. Only lab data may ever say "low" (DECISIONS §0).
-export const Tier = z.enum(["lab-tested", "depends-on-amount", "high", "estimated", "unknown"]);
+export const Tier = z.enum(["lab-tested", "depends-on-amount", "high", "estimated", "unknown", "amount-not-public"]);
 export type Tier = z.infer<typeof Tier>;
 
 export const Source = z.object({
@@ -34,6 +34,7 @@ export const Serving = z.object({
   scaleMaxG: grams,                  // right end of the portion bar
   groups: z.array(Group),            // the FODMAP(s) that rise with the amount (empty only for noFodmaps foods)
   unit: z.enum(["g", "ml"]).default("g"), // drinks and milks are measured in ml
+  groupUnknown: z.boolean().default(false), // no source names the limiting FODMAP; the group is a placeholder
   household: z.string().optional(),  // "about ½ cup" for lowMaxG
   sourceIds: z.array(z.string()).min(1),
   note: z.string().optional(),
