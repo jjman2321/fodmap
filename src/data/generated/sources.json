@@ -251,21 +251,354 @@
   "accessed": "2026-11-19"
  },
  {
+  "id": "b2-mon-3step-2026",
+  "kind": "public-statement",
+  "title": "Treating IBS with a 3-step FODMAP diet (info sheet, PDF)",
+  "publisher": "Monash University",
+  "url": "https://monashfodmap.com/documents/203/3-step_FODMAP_Diet_2026_A4_info_sheet.pdf",
+  "published": "2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-chat-2016",
+  "kind": "public-statement",
+  "title": "#FODMAPchat Twitter forum: summary of responses",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/fodmapchat-twitter-forum-summary-of/",
+  "published": "20 Sep 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-herbs-2017",
+  "kind": "public-statement",
+  "title": "Using herbs & spices on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/using-herbs-spices-low-fodmap-diet/",
+  "published": "8 Nov 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-flavour-2015",
+  "kind": "public-statement",
+  "title": "Adding flavour without adding symptoms",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/adding-flavour-without-adding-symptoms/",
+  "published": "19 Mar 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-processing-2017",
+  "kind": "public-statement",
+  "title": "Food processing and FODMAPs",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/food-processing-and-fodmaps-what-you/",
+  "published": "7 Feb 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-pickled-2017",
+  "kind": "public-statement",
+  "title": "Pickled onions",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/pickled-onionsmore-questions-than/",
+  "published": "7 Mar 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-asia-2016",
+  "kind": "public-statement",
+  "title": "The low FODMAP diet in East and South East Asia",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://www.monashfodmap.com/blog/the-low-fodmap-diet-in-east-and-south/",
+  "published": "20 Apr 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-mon-asian-2024",
+  "kind": "public-statement",
+  "title": "Low FODMAP Asian condiments, sauces and seasonings",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/low-fodmap-asian-condiments-sauces-and-seasonings/",
+  "published": "10 Jul 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ff-onion-2020",
+  "kind": "public-statement",
+  "title": "Navigating life without onion and garlic",
+  "publisher": "FODMAP Friendly",
+  "url": "https://fodmapfriendly.com/blog-posts/onionandgarlic/",
+  "published": "14 Oct 2020",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-kk-bellpep",
+  "kind": "secondary",
+  "title": "Are bell peppers low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/bell-peppers-low-fodmap/",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-kk-bellpep-2022",
+  "kind": "secondary",
+  "title": "Monash University update: tomato and bell pepper",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/monash-university-update-tomato-and-bell-pepper-limited-low-fodmap/",
+  "published": "5 Aug 2022",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-kk-zucchini",
+  "kind": "secondary",
+  "title": "Is zucchini low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-zucchini-low-fodmap/",
+  "published": "25 Jun 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-kk-soy",
+  "kind": "secondary",
+  "title": "Is soy low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/is-soy-low-fodmap/",
+  "published": "updated 10 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-kk-pickles",
+  "kind": "secondary",
+  "title": "Are pickles low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/are-pickles-low-fodmap/",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-tagine",
+  "kind": "secondary",
+  "title": "FODMAP friendly vegetable tagine",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/fodmap-friendly-vegetable-tagine/",
+  "published": "updated 17 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-pico",
+  "kind": "secondary",
+  "title": "Low FODMAP pico de gallo",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-pico-de-gallo/",
+  "published": "updated 11 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-zucbread",
+  "kind": "secondary",
+  "title": "Gluten free zucchini bread (FODMAP friendly)",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/gluten-free-zucchini-bread-fodmap-friendly/",
+  "published": "updated 19 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-ginger",
+  "kind": "secondary",
+  "title": "Is ginger low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/is-ginger-low-fodmap/",
+  "published": "updated Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-goddess",
+  "kind": "secondary",
+  "title": "Low FODMAP Green Goddess dressing",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-green-goddess-dressing/",
+  "published": "updated 5 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-taco",
+  "kind": "secondary",
+  "title": "Low FODMAP taco seasoning",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-taco-seasoning/",
+  "published": "updated 15 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-thaicurry",
+  "kind": "secondary",
+  "title": "Low-FODMAP Thai red curry paste",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-thai-red-curry-paste/",
+  "published": "updated 10 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-jerk",
+  "kind": "secondary",
+  "title": "Low FODMAP Jerk seasoning",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-jerk-seasoning/",
+  "published": "updated 31 Jul 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-ge-springdip",
+  "kind": "secondary",
+  "title": "FODMAP friendly spring onion dip",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/fodmap-friendly-spring-onion-dip/",
+  "published": "updated 19 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-alby-fructans",
+  "kind": "secondary",
+  "title": "Fructans & the low FODMAP diet (table of fructans per serve, citing Muir et al.)",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/fructans-the-low-fodmap-diet/",
+  "published": "updated 21 Apr 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-alby-leek",
+  "kind": "secondary",
+  "title": "Leek (ingredient guide)",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/ingredients/leek/",
+  "published": "reviewed 22 Jan 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-alby-replace",
+  "kind": "secondary",
+  "title": "Replacing onion and garlic on the low FODMAP diet",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/replacing-onion-and-garlic-on-the-low-fodmap-diet/",
+  "published": "updated 2 Jun 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-alby-kraut",
+  "kind": "secondary",
+  "title": "Is fermented cabbage (sauerkraut) actually low FODMAP?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/is-fermented-cabbage-sauerkraut-actually-low-fodmap/",
+  "published": "updated 25 Aug 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-fennel",
+  "kind": "secondary",
+  "title": "Fennel (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/fennel/",
+  "published": "updated 28 Oct 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-pumpkin",
+  "kind": "secondary",
+  "title": "Pumpkin & squash, canned & fresh (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/pumpkin-canned/",
+  "published": "updated 22 Oct 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-leeks",
+  "kind": "secondary",
+  "title": "Leeks (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/leeks/",
+  "published": "updated 16 Mar 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-scallions",
+  "kind": "secondary",
+  "title": "Scallions (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/scallions-fodmaps/",
+  "published": "updated 16 Mar 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-alliums",
+  "kind": "secondary",
+  "title": "Yes, you can eat garlic and onion on the low FODMAP diet: here's how",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/yes-you-can-eat-garlic-and-onion-on-the-low-fodmap-diet-heres-how/",
+  "published": "25 Apr 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-chiles",
+  "kind": "secondary",
+  "title": "All about chile, chili & chilli & the low FODMAP diet",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/all-about-chile-chili-chilli-the-low-fodmap-diet/",
+  "published": "updated 11 Sep 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-ginger",
+  "kind": "secondary",
+  "title": "Ginger (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/ginger/",
+  "published": "updated 10 Nov 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-plantbased",
+  "kind": "secondary",
+  "title": "Eating plant-based on the low FODMAP diet (list of herbs and spices tested by Monash)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/eating-plant-based-on-the-low-fodmap-diet/",
+  "published": "updated 9 Feb 2023",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-taco",
+  "kind": "secondary",
+  "title": "Low FODMAP taco seasoning (notes on cumin and paprika testing)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/recipes/low-fodmap-taco-seasoning/",
+  "published": "updated 21 Oct 2022",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-bokchoy",
+  "kind": "secondary",
+  "title": "Bok choy (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/bok-choy/",
+  "published": "updated 12 Jul 2021",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b2-fe-arugula",
+  "kind": "secondary",
+  "title": "Arugula (ingredient guide)",
+  "publisher": "FODMAP Everyday",
+  "url": "https://www.fodmapeveryday.com/ingredients/arugula/",
+  "published": "updated 23 Feb 2020",
+  "accessed": "2026-11-19"
+ },
+ {
   "id": "b3-mon-banana-2017",
   "kind": "public-statement",
   "title": "Update: bananas re-tested!",
   "publisher": "Monash University (FODMAP blog)",
   "url": "https://www.monashfodmap.com/blog/update-bananas-re-tested/",
   "published": "16 May 2017",
-  "accessed": "2026-11-19"
- },
- {
-  "id": "b3-mon-info-2026",
-  "kind": "public-statement",
-  "title": "Treating IBS with a 3-step FODMAP diet (A4 info sheet, PDF)",
-  "publisher": "Monash University",
-  "url": "https://monashfodmap.com/documents/203/3-step_FODMAP_Diet_2026_A4_info_sheet.pdf",
-  "published": "2026",
   "accessed": "2026-11-19"
  },
  {
@@ -985,15 +1318,6 @@
   "accessed": "2026-11-19"
  },
  {
-  "id": "b7-mon-flavour-2015",
-  "kind": "public-statement",
-  "title": "Adding flavour without adding symptoms",
-  "publisher": "Monash University (FODMAP blog)",
-  "url": "https://www.monashfodmap.com/blog/adding-flavour-without-adding-symptoms/",
-  "published": "19 Mar 2015",
-  "accessed": "2026-11-19"
- },
- {
   "id": "b7-mon-easter-2015",
   "kind": "public-statement",
   "title": "Low FODMAP Easter (chocolate serves)",
@@ -1030,15 +1354,6 @@
   "accessed": "2026-11-19"
  },
  {
-  "id": "b7-mon-proc-2017",
-  "kind": "public-statement",
-  "title": "Food processing and FODMAPs",
-  "publisher": "Monash University (FODMAP blog)",
-  "url": "https://www.monashfodmap.com/blog/food-processing-and-fodmaps-what-you/",
-  "published": "7 Feb 2017",
-  "accessed": "2026-11-19"
- },
- {
   "id": "b7-kk-honey",
   "kind": "secondary",
   "title": "Is honey low FODMAP?",
@@ -1063,15 +1378,6 @@
   "publisher": "Karlijn's Kitchen",
   "url": "https://www.karlijnskitchen.com/en/is-mayonnaise-low-fodmap/",
   "published": "29 Oct 2024",
-  "accessed": "2026-11-19"
- },
- {
-  "id": "b7-kk-soy",
-  "kind": "secondary",
-  "title": "Is soy low FODMAP?",
-  "publisher": "Karlijn's Kitchen",
-  "url": "https://www.karlijnskitchen.com/en/is-soy-low-fodmap/",
-  "published": "updated 10 Feb 2024",
   "accessed": "2026-11-19"
  },
  {

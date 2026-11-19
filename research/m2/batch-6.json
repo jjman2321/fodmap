@@ -1,1328 +1,1337 @@
 {
-  "sources": [
+ "sources": [
+  {
+   "id": "mon-step1",
+   "kind": "public-statement",
+   "title": "Step 1: the low FODMAP diet (patient resource, PDF)",
+   "publisher": "Monash University",
+   "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "ff-list",
+   "kind": "public-statement",
+   "title": "Foods high and low in FODMAPs",
+   "publisher": "FODMAP Friendly",
+   "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "mon-oils-2023",
+   "kind": "public-statement",
+   "title": "All about onion, garlic and infused oils on the low FODMAP diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/all-about-onion-garlic-and-infused-oils-on-the-low-fodmap-diet",
+   "published": "2 May 2023",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "mon-faq",
+   "kind": "public-statement",
+   "title": "Frequently asked questions",
+   "publisher": "Monash University",
+   "url": "https://www.monashfodmap.com/faq/",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "mon-myths-2015",
+   "kind": "public-statement",
+   "title": "Cooking with onion and garlic: myths and facts",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/cooking-with-onion-and-garlic-myths-and/",
+   "published": "1 Jun 2015",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-milkalt-2016",
+   "kind": "public-statement",
+   "title": "Milk alternatives on a low FODMAP diet",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/milk-alternatives",
+   "published": "6 Jan 2016",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-dairyalt-2024",
+   "kind": "public-statement",
+   "title": "Dairy alternatives (beverage and yoghurt): low FODMAP options",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/dairy-alternatives-beverage-and-yoghurt-low-fodmap-options",
+   "published": "20 Feb 2024",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-meat-2024",
+   "kind": "public-statement",
+   "title": "Meat, seafood, eggs and cooking fats: low FODMAP?",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/meat-seafood-eggs-and-cooking-fats-low-fodmap/",
+   "published": "23 Jan 2024",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-tofu-2015",
+   "kind": "public-statement",
+   "title": "Tofu and FODMAPs",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/talking-tofu/",
+   "published": "10 Dec 2015",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-ferment-2017",
+   "kind": "public-statement",
+   "title": "Fermented foods and FODMAPs",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/fermented-foods-and-fodmaps/",
+   "published": "25 Jan 2017",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-dairylac-2018",
+   "kind": "public-statement",
+   "title": "What is the difference between dairy and lactose?",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/what-difference-between-dairy-and-lactose/",
+   "published": "21 Nov 2018",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-mon-plantswaps-2026",
+   "kind": "public-statement",
+   "title": "Low FODMAP plant-based swaps",
+   "publisher": "Monash University (FODMAP blog)",
+   "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
+   "published": "29 Oct 2026",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-alby-milk",
+   "kind": "secondary",
+   "title": "Low FODMAP milk options",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://www.alittlebityummy.com/blog/low-fodmap-milk-options/",
+   "published": "updated 26 Sep 2024",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-kk-milk",
+   "kind": "secondary",
+   "title": "Which milk is low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/?p=26175",
+   "published": "updated 9 Feb 2024",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-kk-soy",
+   "kind": "secondary",
+   "title": "Is soy low FODMAP?",
+   "publisher": "Karlijn's Kitchen",
+   "url": "https://www.karlijnskitchen.com/?p=20486",
+   "published": "updated 10 Feb 2024",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-alby-soy",
+   "kind": "secondary",
+   "title": "Confused about soy and the low FODMAP diet",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://alittlebityummy.com/confused-about-soy-the-low-fodmap-diet/",
+   "published": "updated 17 Jan 2025",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-ge-tofu",
+   "kind": "secondary",
+   "title": "Low FODMAP tofu recipes",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/recipes/low-fodmap-tofu-recipes/",
+   "published": "updated 12 Aug 2026",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-ge-almonds",
+   "kind": "secondary",
+   "title": "Are almonds low FODMAP?",
+   "publisher": "George Eats",
+   "url": "https://georgeats.com/posts/resources/are-almonds-low-fodmap/",
+   "published": "2026",
+   "accessed": "2026-11-19"
+  },
+  {
+   "id": "b6-alby-probiotic",
+   "kind": "secondary",
+   "title": "6 low FODMAP probiotic foods",
+   "publisher": "A Little Bit Yummy",
+   "url": "https://alittlebityummy.com/?p=1997",
+   "published": "updated 21 Aug 2017",
+   "accessed": "2026-11-19"
+  }
+ ],
+ "foods": [
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
     {
-      "id": "mon-step1",
-      "kind": "public-statement",
-      "title": "Step 1: the low FODMAP diet (patient resource, PDF)",
-      "publisher": "Monash University",
-      "url": "https://monashfodmap.com/documents/207/Monash_FODMAP_Resource_-_Step_1_Low_FODMAP_Diet.pdf",
-      "accessed": "2026-11-19"
+     "text": "In Monash's table of fermented foods, both milk and kefir are rated high. Fermenting milk into kefir didn't move it into the low group.",
+     "sourceIds": [
+      "b6-mon-ferment-2017"
+     ]
     },
     {
-      "id": "ff-list",
-      "kind": "public-statement",
-      "title": "Foods high and low in FODMAPs",
-      "publisher": "FODMAP Friendly",
-      "url": "https://fodmapfriendly.com/for-consumers/foods-high-low-fodmap/",
-      "accessed": "2026-11-19"
+     "text": "A dietitian blog points to kefir with added lactase: the enzyme splits the lactose, which is what makes regular kefir a problem.",
+     "sourceIds": [
+      "b6-alby-probiotic"
+     ]
     },
     {
-      "id": "mon-oils-2023",
-      "kind": "public-statement",
-      "title": "All about onion, garlic and infused oils on the low FODMAP diet",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/all-about-onion-garlic-and-infused-oils-on-the-low-fodmap-diet",
-      "published": "2 May 2023",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "mon-faq",
-      "kind": "public-statement",
-      "title": "Frequently asked questions",
-      "publisher": "Monash University",
-      "url": "https://www.monashfodmap.com/faq/",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "mon-myths-2015",
-      "kind": "public-statement",
-      "title": "Cooking with onion and garlic: myths and facts",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/cooking-with-onion-and-garlic-myths-and/",
-      "published": "1 Jun 2015",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-milkalt-2016",
-      "kind": "public-statement",
-      "title": "Milk alternatives on a low FODMAP diet",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/milk-alternatives",
-      "published": "6 Jan 2016",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-dairyalt-2024",
-      "kind": "public-statement",
-      "title": "Dairy alternatives (beverage and yoghurt): low FODMAP options",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/dairy-alternatives-beverage-and-yoghurt-low-fodmap-options",
-      "published": "20 Feb 2024",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-meat-2024",
-      "kind": "public-statement",
-      "title": "Meat, seafood, eggs and cooking fats: low FODMAP?",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/meat-seafood-eggs-and-cooking-fats-low-fodmap/",
-      "published": "23 Jan 2024",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-tofu-2015",
-      "kind": "public-statement",
-      "title": "Tofu and FODMAPs",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/talking-tofu/",
-      "published": "10 Dec 2015",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-ferment-2017",
-      "kind": "public-statement",
-      "title": "Fermented foods and FODMAPs",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/fermented-foods-and-fodmaps/",
-      "published": "25 Jan 2017",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-dairylac-2018",
-      "kind": "public-statement",
-      "title": "What is the difference between dairy and lactose?",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/what-difference-between-dairy-and-lactose/",
-      "published": "21 Nov 2018",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-mon-plantswaps-2026",
-      "kind": "public-statement",
-      "title": "Low FODMAP plant-based swaps",
-      "publisher": "Monash University (FODMAP blog)",
-      "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
-      "published": "29 Oct 2026",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-alby-milk",
-      "kind": "secondary",
-      "title": "Low FODMAP milk options",
-      "publisher": "A Little Bit Yummy",
-      "url": "https://www.alittlebityummy.com/blog/low-fodmap-milk-options/",
-      "published": "updated 26 Sep 2024",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-kk-milk",
-      "kind": "secondary",
-      "title": "Which milk is low FODMAP?",
-      "publisher": "Karlijn's Kitchen",
-      "url": "https://www.karlijnskitchen.com/?p=26175",
-      "published": "updated 9 Feb 2024",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-kk-soy",
-      "kind": "secondary",
-      "title": "Is soy low FODMAP?",
-      "publisher": "Karlijn's Kitchen",
-      "url": "https://www.karlijnskitchen.com/?p=20486",
-      "published": "updated 10 Feb 2024",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-alby-soy",
-      "kind": "secondary",
-      "title": "Confused about soy and the low FODMAP diet",
-      "publisher": "A Little Bit Yummy",
-      "url": "https://alittlebityummy.com/confused-about-soy-the-low-fodmap-diet/",
-      "published": "updated 17 Jan 2025",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-ge-tofu",
-      "kind": "secondary",
-      "title": "Low FODMAP tofu recipes",
-      "publisher": "George Eats",
-      "url": "https://georgeats.com/recipes/low-fodmap-tofu-recipes/",
-      "published": "updated 12 Aug 2026",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-ge-almonds",
-      "kind": "secondary",
-      "title": "Are almonds low FODMAP?",
-      "publisher": "George Eats",
-      "url": "https://georgeats.com/posts/resources/are-almonds-low-fodmap/",
-      "published": "2026",
-      "accessed": "2026-11-19"
-    },
-    {
-      "id": "b6-alby-probiotic",
-      "kind": "secondary",
-      "title": "6 low FODMAP probiotic foods",
-      "publisher": "A Little Bit Yummy",
-      "url": "https://alittlebityummy.com/?p=1997",
-      "published": "updated 21 Aug 2017",
-      "accessed": "2026-11-19"
+     "text": "Some kefirs are flavoured with fruit, so read the ingredients as well as checking for lactase.",
+     "sourceIds": [
+      "b6-alby-probiotic"
+     ]
     }
-  ],
-  "foods": [
+   ],
+   "swaps": [
     {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "In Monash's table of fermented foods, both milk and kefir are rated high. Fermenting milk into kefir didn't move it into the low group.",
-          "sourceIds": [
-            "b6-mon-ferment-2017"
-          ]
-        },
-        {
-          "text": "A dietitian blog points to kefir with added lactase: the enzyme splits the lactose, which is what makes regular kefir a problem.",
-          "sourceIds": [
-            "b6-alby-probiotic"
-          ]
-        },
-        {
-          "text": "Some kefirs are flavoured with fruit, so read the ingredients as well as checking for lactase.",
-          "sourceIds": [
-            "b6-alby-probiotic"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Lactose-free milk",
-          "slug": "lactose-free-milk"
-        },
-        {
-          "name": "Lactose-free kefir"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is lactose-free kefir low FODMAP?",
-          "a": "No public lab serve exists for it. Kefir with added lactase has most of its lactose broken down, so it's the lower-FODMAP choice; start with a small glass."
-        },
-        {
-          "q": "Doesn't fermentation remove the lactose in kefir?",
-          "a": "Not enough, according to Monash: it rates kefir high, the same as milk."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "kefir",
-      "name": "kefir",
-      "aliases": [
-        "milk kefir",
-        "kefir drink",
-        "cultured milk drink"
-      ],
-      "category": "dairy",
-      "regions": [
-        "global"
-      ],
-      "illustration": "kefir",
-      "tier": "estimated",
-      "answer": "Usually not, if it's regular milk kefir. Monash lists kefir as high FODMAP, the same rating as the milk it's made from, but publishes no serve size. Lactose is the FODMAP to watch, so kefir made with added lactase is the lower-lactose option.",
-      "estimateAnswer": {
-        "word": "Usually high",
-        "line": "Monash rates milk kefir high, like milk, but gives no gram amount. Lactose is the issue."
-      },
-      "groups": [
-        "lactose"
-      ],
-      "servings": [
-        {
-          "form": "regular milk kefir",
-          "lowMaxG": null,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 250,
-          "groups": [
-            "lactose"
-          ],
-          "sourceIds": [
-            "b6-mon-ferment-2017",
-            "b6-alby-probiotic"
-          ],
-          "note": "Monash rates kefir high but has not published the serve size it tested, so no gram band is shown."
-        }
-      ]
+     "name": "Lactose-free milk",
+     "slug": "lactose-free-milk"
     },
     {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash's Step 1 guide and FODMAP Friendly's food list both put lactose-free milk on the low side and regular cow's milk on the high side.",
-          "sourceIds": [
-            "mon-step1",
-            "ff-list"
-          ]
-        },
-        {
-          "text": "Monash says most people with lactose malabsorption can handle about 12 to 15 g of lactose a day, roughly what's in 250 ml of regular milk.",
-          "sourceIds": [
-            "b6-mon-dairylac-2018"
-          ]
-        },
-        {
-          "text": "Lactose-free milk is still dairy. Monash points out that it lets you keep the benefits of dairy while skipping the lactose.",
-          "sourceIds": [
-            "b6-mon-dairylac-2018"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Almond milk",
-          "slug": "almond-milk"
-        },
-        {
-          "name": "Soy milk (soy protein)",
-          "slug": "soy-milk"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is lactose-free milk dairy-free?",
-          "a": "No. It's cow's milk with the lactose broken down, so it still contains milk protein. Choose a plant milk if you avoid dairy itself."
-        },
-        {
-          "q": "Can I use lactose-free milk in coffee and cereal?",
-          "a": "Yes. A cup of lactose-free milk is a low FODMAP serve, which covers a bowl of cereal or several coffees."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "lactose-free-milk",
-      "name": "lactose-free milk",
-      "aliases": [
-        "lactose free milk",
-        "lactose-free cow's milk",
-        "LF milk"
-      ],
-      "category": "dairy",
-      "regions": [
-        "global"
-      ],
-      "illustration": "lactose-free-milk",
-      "tier": "lab-tested",
-      "answer": "Yes. Lactose-free milk is low FODMAP at 1 cup (250 ml), as reported by dietitian sites citing Monash. Monash and FODMAP Friendly both list it as a low FODMAP swap for regular cow's milk, which is high in lactose.",
-      "groups": [
-        "lactose"
-      ],
-      "servings": [
-        {
-          "form": "lactose-free cow's milk",
-          "lowMaxG": 250,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 350,
-          "groups": [
-            "lactose"
-          ],
-          "household": "1 cup",
-          "sourceIds": [
-            "b6-alby-milk",
-            "b6-kk-milk",
-            "mon-step1"
-          ],
-          "note": "Sources give 250 ml; shown here as grams, counting 1 ml of milk as about 1 g."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [
-        {
-          "text": "Karlijn's Kitchen gives the low serve as 1 cup or 240 ml, a small rounding difference.",
-          "sourceIds": [
-            "b6-kk-milk"
-          ]
-        },
-        {
-          "text": "George Eats reports a much larger maximum still-low amount, up to 500 g per person. That is a ceiling, not the standard serve shown above.",
-          "sourceIds": [
-            "b6-ge-almonds"
-          ]
-        }
-      ],
-      "notes": [
-        {
-          "text": "Monash explains that a milk can be low FODMAP even when its main ingredient isn't, because the drink is mostly liquid. It names almond milk as an example.",
-          "sourceIds": [
-            "b6-mon-dairyalt-2024"
-          ]
-        },
-        {
-          "text": "Almond milk appears on the low list in Monash's Step 1 guide and in FODMAP Friendly's food list.",
-          "sourceIds": [
-            "mon-step1",
-            "ff-list",
-            "b6-mon-milkalt-2016"
-          ]
-        },
-        {
-          "text": "Whole almonds turn moderate for GOS from about 25 g, so almond milk is gentler than a handful of nuts.",
-          "sourceIds": [
-            "b6-ge-almonds"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Lactose-free milk",
-          "slug": "lactose-free-milk"
-        },
-        {
-          "name": "Soy milk (soy protein)",
-          "slug": "soy-milk"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is sweetened almond milk low FODMAP?",
-          "a": "The published serve is for almond milk in general. Check the label for high FODMAP sweeteners such as honey or agave before choosing a sweetened one."
-        },
-        {
-          "q": "Is almond milk better than oat milk on a low FODMAP diet?",
-          "a": "For bigger servings, yes. Almond milk is low at a full cup, while oat milk is low only up to about 104 ml."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "almond-milk",
-      "name": "almond milk",
-      "aliases": [
-        "almond beverage",
-        "almond drink",
-        "unsweetened almond milk"
-      ],
-      "category": "dairy",
-      "regions": [
-        "global"
-      ],
-      "illustration": "almond-milk",
-      "tier": "lab-tested",
-      "answer": "Yes. Almond milk is low FODMAP at 1 cup (250 ml), according to dietitian sites citing Monash testing. Almonds themselves carry GOS, but most almond milk is largely water, so a glass stays low.",
-      "groups": [
-        "gos"
-      ],
-      "servings": [
-        {
-          "form": "almond milk",
-          "lowMaxG": 250,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 350,
-          "groups": [
-            "gos"
-          ],
-          "household": "1 cup",
-          "sourceIds": [
-            "b6-alby-milk",
-            "b6-mon-dairyalt-2024"
-          ],
-          "note": "Source gives 250 ml; shown as grams, counting 1 ml as about 1 g. Monash's public posts don't name the FODMAP group; GOS is the one in almonds."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [
-        {
-          "text": "Dietitian sites report a moderate rating from about ½ cup: 120 ml (A Little Bit Yummy, Australian oat milk) or 121 g (Karlijn's Kitchen).",
-          "sourceIds": [
-            "b6-alby-milk",
-            "b6-kk-milk"
-          ]
-        },
-        {
-          "text": "A Little Bit Yummy says results differ by country: UK oat milk was reported low at 125 ml in its article, but only 30 ml in the author's later reply to a reader.",
-          "sourceIds": [
-            "b6-alby-milk"
-          ]
-        }
-      ],
-      "notes": [
-        {
-          "text": "Monash's Step 1 guide lists oat milk on the high side, at normal glass sizes, even though rolled oats are on the low list.",
-          "sourceIds": [
-            "mon-step1"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Almond milk",
-          "slug": "almond-milk"
-        },
-        {
-          "name": "Lactose-free milk",
-          "slug": "lactose-free-milk"
-        },
-        {
-          "name": "Soy milk (soy protein)",
-          "slug": "soy-milk"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Can I have oat milk in coffee on a low FODMAP diet?",
-          "a": "A small splash fits: Monash puts the low limit at 104 ml. A large oat latte can go past that."
-        },
-        {
-          "q": "Why is oat milk higher than oats?",
-          "a": "Oat milk is rated by the glass, and a full 250 ml glass tested high. Rolled oats are rated by a smaller dry serve."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "oat-milk",
-      "name": "oat milk",
-      "aliases": [
-        "oat drink",
-        "oat beverage",
-        "oatmilk"
-      ],
-      "category": "dairy",
-      "regions": [
-        "global"
-      ],
-      "illustration": "oat-milk",
-      "tier": "lab-tested",
-      "answer": "Only in small amounts. Monash says oat milk is low FODMAP up to 104 ml, under half a cup, and high at 250 ml. That suits a splash in coffee, not a full glass. Fructans and GOS are the FODMAPs that rise as you pour more.",
-      "groups": [
-        "fructans",
-        "gos"
-      ],
-      "servings": [
-        {
-          "form": "oat milk",
-          "lowMaxG": 104,
-          "moderateFromG": null,
-          "highFromG": 250,
-          "scaleMaxG": 350,
-          "groups": [
-            "fructans",
-            "gos"
-          ],
-          "sourceIds": [
-            "b6-mon-dairyalt-2024",
-            "b6-kk-milk"
-          ],
-          "note": "Monash gives 104 ml and 250 ml; shown as grams, counting 1 ml as about 1 g. Monash didn't publish where moderate starts."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [
-        {
-          "text": "Karlijn's Kitchen puts the soy-protein milk limit slightly higher, up to 257 ml.",
-          "sourceIds": [
-            "b6-kk-soy"
-          ]
-        },
-        {
-          "text": "A Little Bit Yummy says the small low serve for whole or hulled bean soy milk ranges from 2 tablespoons to 60 ml, depending on the country tested.",
-          "sourceIds": [
-            "b6-alby-soy"
-          ]
-        }
-      ],
-      "notes": [
-        {
-          "text": "Why the difference: whole soybeans are high in GOS, which dissolves into the milk. Soy protein milk starts with protein extracted from the beans, leaving the GOS behind.",
-          "sourceIds": [
-            "b6-mon-dairyalt-2024",
-            "b6-mon-milkalt-2016"
-          ]
-        },
-        {
-          "text": "Monash's Step 1 guide and FODMAP Friendly's food list both name soy-protein milk as low and soybean milk as high.",
-          "sourceIds": [
-            "mon-step1",
-            "ff-list"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Almond milk",
-          "slug": "almond-milk"
-        },
-        {
-          "name": "Lactose-free milk",
-          "slug": "lactose-free-milk"
-        }
-      ],
-      "faq": [
-        {
-          "q": "How do I know if my soy milk is made from soy protein?",
-          "a": "Read the ingredients. 'Soy protein' or 'soy protein isolate' points to the low FODMAP kind; 'whole soybeans' or 'soybeans' points to the high-GOS kind."
-        },
-        {
-          "q": "Is soy milk the same as tofu for FODMAPs?",
-          "a": "No. They're rated separately: firm tofu is low at a standard serve, while whole-bean soy milk is high."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "soy-milk",
-      "name": "soy milk",
-      "aliases": [
-        "soya milk",
-        "soy drink",
-        "soy protein milk"
-      ],
-      "category": "dairy",
-      "regions": [
-        "east-asian",
-        "global"
-      ],
-      "illustration": "soy-milk",
-      "tier": "lab-tested",
-      "answer": "It depends on how it's made. Soy milk made from soy protein is low FODMAP at 1 cup (250 ml), per dietitian sites citing Monash. Soy milk made from whole soybeans is high in GOS: only about 30 ml is low. The ingredient list tells you which one you have.",
-      "groups": [
-        "gos"
-      ],
-      "servings": [
-        {
-          "form": "soy milk made from soy protein",
-          "lowMaxG": 250,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 350,
-          "groups": [
-            "gos"
-          ],
-          "household": "1 cup",
-          "sourceIds": [
-            "b6-alby-soy",
-            "b6-alby-milk",
-            "b6-mon-dairyalt-2024"
-          ],
-          "note": "Source gives 250 ml; shown as grams, counting 1 ml as about 1 g."
-        },
-        {
-          "form": "soy milk made from whole soybeans",
-          "lowMaxG": 30,
-          "moderateFromG": null,
-          "highFromG": 125,
-          "scaleMaxG": 180,
-          "groups": [
-            "gos"
-          ],
-          "sourceIds": [
-            "b6-kk-soy",
-            "b6-mon-dairyalt-2024"
-          ],
-          "note": "Karlijn's Kitchen, citing Monash. Given in ml; shown as grams, counting 1 ml as about 1 g."
-        },
-        {
-          "form": "soy milk made from hulled soybeans",
-          "lowMaxG": 60,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 100,
-          "groups": [
-            "gos"
-          ],
-          "sourceIds": [
-            "b6-kk-soy",
-            "b6-mon-milkalt-2016"
-          ],
-          "note": "Karlijn's Kitchen, citing Monash. Monash's own post only says small serves are low. No upper band published."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [
-        {
-          "text": "A Little Bit Yummy reports stricter numbers for carton coconut milk: low at 125 ml, moderate at 150 ml and high at 250 ml. Monash's 2024 post rates 250 ml moderate.",
-          "sourceIds": [
-            "b6-alby-milk",
-            "b6-mon-dairyalt-2024"
-          ]
-        }
-      ],
-      "notes": [
-        {
-          "text": "Monash's older guide also listed carton coconut milk as low only in small serves.",
-          "sourceIds": [
-            "b6-mon-milkalt-2016"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Lactose-free milk",
-          "slug": "lactose-free-milk"
-        },
-        {
-          "name": "Almond milk",
-          "slug": "almond-milk"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is coconut milk in curry low FODMAP?",
-          "a": "It can be. Keep your share of canned coconut milk to about ¼ cup and use garlic-infused oil instead of garlic and onion."
-        },
-        {
-          "q": "Is coconut cream low FODMAP?",
-          "a": "We haven't found a public lab serve for coconut cream, so we don't give a number for it here."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "coconut-milk",
-      "name": "coconut milk",
-      "aliases": [
-        "coconut milk drink",
-        "canned coconut milk",
-        "UHT coconut milk"
-      ],
-      "category": "dairy",
-      "regions": [
-        "south-asian",
-        "east-asian",
-        "global"
-      ],
-      "illustration": "coconut-milk",
-      "tier": "lab-tested",
-      "answer": "Yes, in measured amounts. Monash rates unsweetened carton (UHT) coconut milk low at ¾ cup and moderate at 1 cup (250 ml). Thick canned coconut milk for cooking is stricter: dietitian sites citing Monash give ¼ cup (60 g) as low. Sorbitol is the FODMAP that rises.",
-      "groups": [
-        "sorbitol"
-      ],
-      "servings": [
-        {
-          "form": "unsweetened UHT coconut milk (carton drink)",
-          "lowMaxG": 180,
-          "moderateFromG": 250,
-          "highFromG": null,
-          "scaleMaxG": 350,
-          "groups": [
-            "sorbitol"
-          ],
-          "household": "¾ cup",
-          "sourceIds": [
-            "b6-mon-dairyalt-2024",
-            "b6-kk-milk"
-          ],
-          "note": "Monash gives ¾ cup low and 250 ml moderate. The 180 ml for ¾ cup is from Karlijn's Kitchen; shown as grams, counting 1 ml as about 1 g."
-        },
-        {
-          "form": "canned coconut milk (for cooking)",
-          "lowMaxG": 60,
-          "moderateFromG": 120,
-          "highFromG": null,
-          "scaleMaxG": 170,
-          "groups": [
-            "sorbitol"
-          ],
-          "household": "¼ cup",
-          "sourceIds": [
-            "b6-kk-milk",
-            "b6-alby-milk"
-          ],
-          "note": "Dietitian sites citing Monash; no Monash public post gives these numbers."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash weighs a regular egg at about 41 g, with roughly 5 g of protein.",
-          "sourceIds": [
-            "b6-mon-meat-2024"
-          ]
-        },
-        {
-          "text": "The fructans group is shown because onion and garlic are the usual additions to egg dishes, not because eggs contain any.",
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "ff-list"
-          ]
-        },
-        {
-          "text": "Eggs are on the low list in both Monash's Step 1 guide and FODMAP Friendly's food list.",
-          "sourceIds": [
-            "mon-step1",
-            "ff-list"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Firm tofu",
-          "slug": "tofu"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Are scrambled eggs low FODMAP?",
-          "a": "Yes, if you scramble them with lactose-free milk or a plant milk like almond milk and leave out onion and garlic."
-        },
-        {
-          "q": "How many eggs can I eat on a low FODMAP diet?",
-          "a": "Eggs have no FODMAP limit. Any limit you've heard of comes from general health advice, not FODMAPs."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "eggs",
-      "name": "eggs",
-      "aliases": [
-        "egg",
-        "boiled eggs",
-        "scrambled eggs",
-        "fried egg"
-      ],
-      "category": "protein",
-      "regions": [
-        "global"
-      ],
-      "illustration": "eggs",
-      "tier": "lab-tested",
-      "answer": "Yes. Plain eggs are naturally low FODMAP: Monash notes a regular egg has only about 0.3 g of carbohydrate in total, and FODMAPs are carbohydrates. The risk comes from what you cook them with, such as onion, garlic or regular milk.",
-      "groups": [
-        "fructans"
-      ],
-      "servings": [
-        {
-          "form": "eggs, plain (boiled, fried, poached or scrambled)",
-          "lowMaxG": 100,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 200,
-          "groups": [
-            "fructans"
-          ],
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "mon-step1",
-            "ff-list"
-          ],
-          "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash says marinated meats can contain garlic, honey or applesauce, and suggests choosing plain meat when shopping or eating out.",
-          "sourceIds": [
-            "b6-mon-meat-2024"
-          ]
-        },
-        {
-          "text": "FODMAP Friendly lists fresh chicken as low and puts crumbed or battered meats and onion or garlic sauces on the high side.",
-          "sourceIds": [
-            "ff-list"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Beef",
-          "slug": "beef"
-        },
-        {
-          "name": "Salmon",
-          "slug": "salmon"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is rotisserie chicken low FODMAP?",
-          "a": "Often not: the seasoning usually includes garlic or onion powder. Check the ingredients or ask how it's seasoned."
-        },
-        {
-          "q": "Is chicken stock low FODMAP?",
-          "a": "Plain chicken is fine, but most stocks are made with onion and garlic. Look for a stock without them."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "chicken",
-      "name": "chicken",
-      "aliases": [
-        "chicken breast",
-        "chicken thigh",
-        "poultry"
-      ],
-      "category": "protein",
-      "regions": [
-        "global"
-      ],
-      "illustration": "chicken",
-      "tier": "lab-tested",
-      "answer": "Yes. Plain chicken is naturally low FODMAP: Monash lists chicken among fresh meats with almost no carbohydrate. Marinades, stuffing, breading and gravy are where garlic, onion, honey and wheat creep in.",
-      "groups": [
-        "fructans"
-      ],
-      "servings": [
-        {
-          "form": "plain chicken (fresh, unmarinated)",
-          "lowMaxG": 100,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 200,
-          "groups": [
-            "fructans"
-          ],
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "ff-list",
-            "mon-step1"
-          ],
-          "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash names beef alongside chicken, pork, veal and turkey as meats that are naturally low FODMAP.",
-          "sourceIds": [
-            "b6-mon-meat-2024"
-          ]
-        },
-        {
-          "text": "FODMAP Friendly lists fresh meat as low, while crumbed meats and gravies made with onion or garlic sit on its high list.",
-          "sourceIds": [
-            "ff-list"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Chicken",
-          "slug": "chicken"
-        },
-        {
-          "name": "Salmon",
-          "slug": "salmon"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Are beef burgers low FODMAP?",
-          "a": "A plain beef patty is. Bought patties often contain onion, garlic or breadcrumbs, and burger buns are usually wheat."
-        },
-        {
-          "q": "Is beef jerky low FODMAP?",
-          "a": "Usually not: most jerky marinades use garlic, onion or honey. Read the ingredients."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "beef",
-      "name": "beef",
-      "aliases": [
-        "steak",
-        "minced beef",
-        "ground beef",
-        "red meat"
-      ],
-      "category": "protein",
-      "regions": [
-        "global"
-      ],
-      "illustration": "beef",
-      "tier": "lab-tested",
-      "answer": "Yes. Plain beef is naturally low FODMAP, as Monash explains: fresh meat holds very little carbohydrate by the time it's sold. Sausages, burgers, rubs and marinades are the parts to check, since they often add garlic, onion or wheat.",
-      "groups": [
-        "fructans"
-      ],
-      "servings": [
-        {
-          "form": "plain beef (steak or mince, unseasoned)",
-          "lowMaxG": 100,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 200,
-          "groups": [
-            "fructans"
-          ],
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "ff-list",
-            "mon-step1"
-          ],
-          "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash lists tuna, mackerel and salmon as examples of fish that are naturally low FODMAP.",
-          "sourceIds": [
-            "b6-mon-meat-2024"
-          ]
-        },
-        {
-          "text": "FODMAP Friendly lists fresh fish as low; battered or crumbed fish falls under its high-FODMAP crumbed foods.",
-          "sourceIds": [
-            "ff-list"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Chicken",
-          "slug": "chicken"
-        },
-        {
-          "name": "Firm tofu",
-          "slug": "tofu"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is smoked salmon low FODMAP?",
-          "a": "Salmon itself has no FODMAPs. Some smoked salmon is flavoured with extra seasonings, so check the ingredient list."
-        },
-        {
-          "q": "Is teriyaki salmon low FODMAP?",
-          "a": "The salmon is, but bottled teriyaki sauces often contain garlic, onion or honey. A homemade glaze lets you control that."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "salmon",
-      "name": "salmon",
-      "aliases": [
-        "salmon fillet",
-        "smoked salmon",
-        "canned salmon"
-      ],
-      "category": "protein",
-      "regions": [
-        "global"
-      ],
-      "illustration": "salmon",
-      "tier": "lab-tested",
-      "answer": "Yes. Plain salmon is naturally low FODMAP: Monash names salmon among fish that contain very little to no carbohydrate. Watch sauces, crumbs and glazes, which can add garlic, onion, honey or wheat.",
-      "groups": [
-        "fructans"
-      ],
-      "servings": [
-        {
-          "form": "plain salmon (fresh or frozen fillet)",
-          "lowMaxG": 100,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 200,
-          "groups": [
-            "fructans"
-          ],
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "ff-list",
-            "mon-step1"
-          ],
-          "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [
-        {
-          "text": "A Little Bit Yummy describes the silken tofu limit as about 2 tablespoons rather than giving grams.",
-          "sourceIds": [
-            "b6-alby-soy"
-          ]
-        }
-      ],
-      "notes": [
-        {
-          "text": "Monash explains the gap with water: fructans and GOS dissolve in water, and pressing firm tofu squeezes much of it out. Unpressed silken tofu keeps it.",
-          "sourceIds": [
-            "b6-mon-tofu-2015"
-          ]
-        },
-        {
-          "text": "Firm tofu is on the low list in Monash's Step 1 guide and FODMAP Friendly's list; silken tofu is on Monash's high list.",
-          "sourceIds": [
-            "mon-step1",
-            "ff-list"
-          ]
-        },
-        {
-          "text": "Monash suggests mashed extra-firm tofu with turmeric as a stand-in for scrambled eggs.",
-          "sourceIds": [
-            "b6-mon-plantswaps-2026"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Eggs",
-          "slug": "eggs"
-        },
-        {
-          "name": "Chicken",
-          "slug": "chicken"
-        },
-        {
-          "name": "Tempeh"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is extra-firm tofu low FODMAP?",
-          "a": "No separate lab serve is published for extra-firm. It's pressed even more than firm tofu, so it's usually grouped with firm."
-        },
-        {
-          "q": "Can I use silken tofu in smoothies?",
-          "a": "Only a little: the published low amount is about 39 g. Firm tofu or lactose-free yogurt are easier swaps."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "tofu",
-      "name": "tofu",
-      "aliases": [
-        "firm tofu",
-        "silken tofu",
-        "bean curd"
-      ],
-      "category": "protein",
-      "regions": [
-        "east-asian",
-        "global"
-      ],
-      "illustration": "tofu",
-      "tier": "lab-tested",
-      "answer": "Firm tofu, yes: 170 g, about 1 cup cubed, is a low FODMAP serve per dietitian sites citing Monash, with fructans turning moderate from 175 g. Silken tofu is much stricter: low only up to about 39 g, with GOS moderate from 46 g.",
-      "groups": [
-        "fructans",
-        "gos"
-      ],
-      "servings": [
-        {
-          "form": "firm tofu, drained",
-          "lowMaxG": 170,
-          "moderateFromG": 175,
-          "highFromG": null,
-          "scaleMaxG": 240,
-          "groups": [
-            "fructans"
-          ],
-          "sourceIds": [
-            "b6-alby-soy",
-            "b6-ge-tofu",
-            "b6-mon-tofu-2015"
-          ]
-        },
-        {
-          "form": "silken tofu",
-          "lowMaxG": 39,
-          "moderateFromG": 46,
-          "highFromG": null,
-          "scaleMaxG": 70,
-          "groups": [
-            "gos"
-          ],
-          "sourceIds": [
-            "b6-ge-tofu",
-            "b6-mon-tofu-2015"
-          ],
-          "note": "George Eats, citing Monash. Monash's own post says silken tofu is high at a standard serve."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash says cooking oils are all naturally low FODMAP because they're made up of fatty acids, and suggests small amounts of oils such as extra virgin olive oil.",
-          "sourceIds": [
-            "b6-mon-meat-2024"
-          ]
-        },
-        {
-          "text": "The fructans group is shown because olive oil is often blended with garlic or onion in dressings, and fructans don't dissolve into oil.",
-          "sourceIds": [
-            "mon-oils-2023"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Garlic-infused oil",
-          "slug": "garlic-infused-oil"
-        },
-        {
-          "name": "Butter",
-          "slug": "butter"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is olive oil dressing low FODMAP?",
-          "a": "Plain oil and vinegar or lemon juice is. Bought dressings often add garlic, onion or honey, so check the label."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "olive-oil",
-      "name": "olive oil",
-      "aliases": [
-        "extra virgin olive oil",
-        "EVOO",
-        "cooking oil"
-      ],
-      "category": "condiments",
-      "regions": [
-        "mediterranean",
-        "middle-eastern",
-        "global"
-      ],
-      "illustration": "olive-oil",
-      "tier": "lab-tested",
-      "answer": "Yes. Olive oil, like other cooking oils, is naturally low FODMAP because it's made of fat, not carbohydrate. Monash's example low FODMAP meal includes 1 tablespoon (20 g) of olive oil, infused with garlic for flavour.",
-      "groups": [
-        "fructans"
-      ],
-      "servings": [
-        {
-          "form": "olive oil (plain or extra virgin)",
-          "lowMaxG": 20,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 40,
-          "groups": [
-            "fructans"
-          ],
-          "household": "1 tablespoon",
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "mon-step1"
-          ],
-          "note": "Contains no FODMAPs according to the source; 1 tablespoon (20 g) is the olive oil portion in Monash's example meal, not a limit."
-        }
-      ]
-    },
-    {
-      "changes": [],
-      "disagreements": [],
-      "notes": [
-        {
-          "text": "Monash calls flavour-infused oils naturally low FODMAP, because the aroma passes into the oil while the fructans stay in the garlic.",
-          "sourceIds": [
-            "b6-mon-meat-2024",
-            "mon-oils-2023",
-            "mon-faq"
-          ]
-        },
-        {
-          "text": "At home you can warm whole garlic pieces in oil for a minute or two, then lift them out before cooking. This works for oil-based dishes like stir-fries, not soups, where water draws the fructans out.",
-          "sourceIds": [
-            "mon-faq",
-            "mon-myths-2015",
-            "mon-step1"
-          ]
-        },
-        {
-          "text": "Some brands of infused oil carry the Monash logo, which means a product sample was lab tested below Monash's cut-offs.",
-          "sourceIds": [
-            "mon-oils-2023"
-          ]
-        }
-      ],
-      "swaps": [
-        {
-          "name": "Fresh garlic",
-          "slug": "garlic",
-          "why": "high in fructans"
-        },
-        {
-          "name": "Olive oil",
-          "slug": "olive-oil"
-        }
-      ],
-      "faq": [
-        {
-          "q": "Is garlic oil with garlic pieces in it low FODMAP?",
-          "a": "No. The pieces themselves are high in fructans. Choose an oil that is clear of garlic bits, or strain it."
-        },
-        {
-          "q": "Can I use garlic-infused oil in soup?",
-          "a": "Yes, the oil itself is fine in soup. What doesn't work is cooking garlic cloves in the soup and fishing them out, since fructans leach into water."
-        }
-      ],
-      "published": "2026-11-19",
-      "checked": "2026-11-19",
-      "status": "verified",
-      "slug": "garlic-infused-oil",
-      "name": "garlic-infused oil",
-      "aliases": [
-        "garlic oil",
-        "garlic infused olive oil",
-        "infused oil"
-      ],
-      "category": "condiments",
-      "regions": [
-        "global",
-        "mediterranean"
-      ],
-      "illustration": "garlic-infused-oil",
-      "tier": "lab-tested",
-      "answer": "Yes. Garlic-infused oil is low FODMAP: the fructans in garlic dissolve in water but not in fat, so the oil gets the flavour without them. Monash shows 1 tablespoon (20 g) as a green serve in its example meal. Strain out every garlic piece.",
-      "groups": [
-        "fructans"
-      ],
-      "servings": [
-        {
-          "form": "garlic-infused oil, garlic removed",
-          "lowMaxG": 20,
-          "moderateFromG": null,
-          "highFromG": null,
-          "scaleMaxG": 40,
-          "groups": [
-            "fructans"
-          ],
-          "household": "1 tablespoon",
-          "sourceIds": [
-            "mon-step1",
-            "mon-oils-2023"
-          ],
-          "note": "The serve Monash uses in its example meal. No upper limit has been published."
-        }
-      ]
+     "name": "Lactose-free kefir"
     }
-  ]
+   ],
+   "faq": [
+    {
+     "q": "Is lactose-free kefir low FODMAP?",
+     "a": "No public lab serve exists for it. Kefir with added lactase has most of its lactose broken down, so it's the lower-FODMAP choice; start with a small glass."
+    },
+    {
+     "q": "Doesn't fermentation remove the lactose in kefir?",
+     "a": "Not enough, according to Monash: it rates kefir high, the same as milk."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "kefir",
+   "name": "kefir",
+   "aliases": [
+    "milk kefir",
+    "kefir drink",
+    "cultured milk drink"
+   ],
+   "category": "dairy",
+   "regions": [
+    "global"
+   ],
+   "illustration": "kefir",
+   "tier": "estimated",
+   "answer": "Usually not, if it's regular milk kefir. Monash lists kefir as high FODMAP, the same rating as the milk it's made from, but publishes no serve size. Lactose is the FODMAP to watch, so kefir made with added lactase is the lower-lactose option.",
+   "estimateAnswer": {
+    "word": "Usually high",
+    "line": "Monash rates milk kefir high, like milk, but gives no gram amount. Lactose is the issue."
+   },
+   "groups": [
+    "lactose"
+   ],
+   "servings": [
+    {
+     "form": "regular milk kefir",
+     "lowMaxG": null,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 250,
+     "groups": [
+      "lactose"
+     ],
+     "sourceIds": [
+      "b6-mon-ferment-2017",
+      "b6-alby-probiotic"
+     ],
+     "note": "Monash rates kefir high but has not published the serve size it tested, so no gram band is shown."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash's Step 1 guide and FODMAP Friendly's food list both put lactose-free milk on the low side and regular cow's milk on the high side.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list"
+     ]
+    },
+    {
+     "text": "Monash says most people with lactose malabsorption can handle about 12 to 15 g of lactose a day, roughly what's in 250 ml of regular milk.",
+     "sourceIds": [
+      "b6-mon-dairylac-2018"
+     ]
+    },
+    {
+     "text": "Lactose-free milk is still dairy. Monash points out that it lets you keep the benefits of dairy while skipping the lactose.",
+     "sourceIds": [
+      "b6-mon-dairylac-2018"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Almond milk",
+     "slug": "almond-milk"
+    },
+    {
+     "name": "Soy milk (soy protein)",
+     "slug": "soy-milk"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is lactose-free milk dairy-free?",
+     "a": "No. It's cow's milk with the lactose broken down, so it still contains milk protein. Choose a plant milk if you avoid dairy itself."
+    },
+    {
+     "q": "Can I use lactose-free milk in coffee and cereal?",
+     "a": "Yes. A cup of lactose-free milk is a low FODMAP serve, which covers a bowl of cereal or several coffees."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "lactose-free-milk",
+   "name": "lactose-free milk",
+   "aliases": [
+    "lactose free milk",
+    "lactose-free cow's milk",
+    "LF milk"
+   ],
+   "category": "dairy",
+   "regions": [
+    "global"
+   ],
+   "illustration": "lactose-free-milk",
+   "tier": "lab-tested",
+   "answer": "Yes. Lactose-free milk is low FODMAP at 1 cup (250 ml), as reported by dietitian sites citing Monash. Monash and FODMAP Friendly both list it as a low FODMAP swap for regular cow's milk, which is high in lactose.",
+   "groups": [
+    "lactose"
+   ],
+   "servings": [
+    {
+     "form": "lactose-free cow's milk",
+     "lowMaxG": 250,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 350,
+     "groups": [
+      "lactose"
+     ],
+     "household": "1 cup",
+     "sourceIds": [
+      "b6-alby-milk",
+      "b6-kk-milk",
+      "mon-step1"
+     ],
+     "note": "Sources give 250 ml; shown here as grams, counting 1 ml of milk as about 1 g."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Karlijn's Kitchen gives the low serve as 1 cup or 240 ml, a small rounding difference.",
+     "sourceIds": [
+      "b6-kk-milk"
+     ]
+    },
+    {
+     "text": "George Eats reports a much larger maximum still-low amount, up to 500 g per person. That is a ceiling, not the standard serve shown above.",
+     "sourceIds": [
+      "b6-ge-almonds"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash explains that a milk can be low FODMAP even when its main ingredient isn't, because the drink is mostly liquid. It names almond milk as an example.",
+     "sourceIds": [
+      "b6-mon-dairyalt-2024"
+     ]
+    },
+    {
+     "text": "Almond milk appears on the low list in Monash's Step 1 guide and in FODMAP Friendly's food list.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list",
+      "b6-mon-milkalt-2016"
+     ]
+    },
+    {
+     "text": "Whole almonds turn moderate for GOS from about 25 g, so almond milk is gentler than a handful of nuts.",
+     "sourceIds": [
+      "b6-ge-almonds"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Lactose-free milk",
+     "slug": "lactose-free-milk"
+    },
+    {
+     "name": "Soy milk (soy protein)",
+     "slug": "soy-milk"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is sweetened almond milk low FODMAP?",
+     "a": "The published serve is for almond milk in general. Check the label for high FODMAP sweeteners such as honey or agave before choosing a sweetened one."
+    },
+    {
+     "q": "Is almond milk better than oat milk on a low FODMAP diet?",
+     "a": "For bigger servings, yes. Almond milk is low at a full cup, while oat milk is low only up to about 104 ml."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "almond-milk",
+   "name": "almond milk",
+   "aliases": [
+    "almond beverage",
+    "almond drink",
+    "unsweetened almond milk"
+   ],
+   "category": "dairy",
+   "regions": [
+    "global"
+   ],
+   "illustration": "almond-milk",
+   "tier": "lab-tested",
+   "answer": "Yes. Almond milk is low FODMAP at 1 cup (250 ml), according to dietitian sites citing Monash testing. Almonds themselves carry GOS, but most almond milk is largely water, so a glass stays low.",
+   "groups": [
+    "gos"
+   ],
+   "servings": [
+    {
+     "form": "almond milk",
+     "lowMaxG": 250,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 350,
+     "groups": [
+      "gos"
+     ],
+     "household": "1 cup",
+     "sourceIds": [
+      "b6-alby-milk",
+      "b6-mon-dairyalt-2024"
+     ],
+     "note": "Source gives 250 ml; shown as grams, counting 1 ml as about 1 g. Monash's public posts don't name the FODMAP group; GOS is the one in almonds."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Dietitian sites report a moderate rating from about ½ cup: 120 ml (A Little Bit Yummy, Australian oat milk) or 121 g (Karlijn's Kitchen).",
+     "sourceIds": [
+      "b6-alby-milk",
+      "b6-kk-milk"
+     ]
+    },
+    {
+     "text": "A Little Bit Yummy says results differ by country: UK oat milk was reported low at 125 ml in its article, but only 30 ml in the author's later reply to a reader.",
+     "sourceIds": [
+      "b6-alby-milk"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash's Step 1 guide lists oat milk on the high side, at normal glass sizes, even though rolled oats are on the low list.",
+     "sourceIds": [
+      "mon-step1"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Almond milk",
+     "slug": "almond-milk"
+    },
+    {
+     "name": "Lactose-free milk",
+     "slug": "lactose-free-milk"
+    },
+    {
+     "name": "Soy milk (soy protein)",
+     "slug": "soy-milk"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Can I have oat milk in coffee on a low FODMAP diet?",
+     "a": "A small splash fits: Monash puts the low limit at 104 ml. A large oat latte can go past that."
+    },
+    {
+     "q": "Why is oat milk higher than oats?",
+     "a": "Oat milk is rated by the glass, and a full 250 ml glass tested high. Rolled oats are rated by a smaller dry serve."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "oat-milk",
+   "name": "oat milk",
+   "aliases": [
+    "oat drink",
+    "oat beverage",
+    "oatmilk"
+   ],
+   "category": "dairy",
+   "regions": [
+    "global"
+   ],
+   "illustration": "oat-milk",
+   "tier": "lab-tested",
+   "answer": "Only in small amounts. Monash says oat milk is low FODMAP up to 104 ml, under half a cup, and high at 250 ml. That suits a splash in coffee, not a full glass. Fructans and GOS are the FODMAPs that rise as you pour more.",
+   "groups": [
+    "fructans",
+    "gos"
+   ],
+   "servings": [
+    {
+     "form": "oat milk",
+     "lowMaxG": 104,
+     "moderateFromG": null,
+     "highFromG": 250,
+     "scaleMaxG": 350,
+     "groups": [
+      "fructans",
+      "gos"
+     ],
+     "sourceIds": [
+      "b6-mon-dairyalt-2024",
+      "b6-kk-milk"
+     ],
+     "note": "Monash gives 104 ml and 250 ml; shown as grams, counting 1 ml as about 1 g. Monash didn't publish where moderate starts."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "Karlijn's Kitchen puts the soy-protein milk limit slightly higher, up to 257 ml.",
+     "sourceIds": [
+      "b6-kk-soy"
+     ]
+    },
+    {
+     "text": "A Little Bit Yummy says the small low serve for whole or hulled bean soy milk ranges from 2 tablespoons to 60 ml, depending on the country tested.",
+     "sourceIds": [
+      "b6-alby-soy"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Why the difference: whole soybeans are high in GOS, which dissolves into the milk. Soy protein milk starts with protein extracted from the beans, leaving the GOS behind.",
+     "sourceIds": [
+      "b6-mon-dairyalt-2024",
+      "b6-mon-milkalt-2016"
+     ]
+    },
+    {
+     "text": "Monash's Step 1 guide and FODMAP Friendly's food list both name soy-protein milk as low and soybean milk as high.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Almond milk",
+     "slug": "almond-milk"
+    },
+    {
+     "name": "Lactose-free milk",
+     "slug": "lactose-free-milk"
+    }
+   ],
+   "faq": [
+    {
+     "q": "How do I know if my soy milk is made from soy protein?",
+     "a": "Read the ingredients. 'Soy protein' or 'soy protein isolate' points to the low FODMAP kind; 'whole soybeans' or 'soybeans' points to the high-GOS kind."
+    },
+    {
+     "q": "Is soy milk the same as tofu for FODMAPs?",
+     "a": "No. They're rated separately: firm tofu is low at a standard serve, while whole-bean soy milk is high."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "soy-milk",
+   "name": "soy milk",
+   "aliases": [
+    "soya milk",
+    "soy drink",
+    "soy protein milk"
+   ],
+   "category": "dairy",
+   "regions": [
+    "east-asian",
+    "global"
+   ],
+   "illustration": "soy-milk",
+   "tier": "lab-tested",
+   "answer": "It depends on how it's made. Soy milk made from soy protein is low FODMAP at 1 cup (250 ml), per dietitian sites citing Monash. Soy milk made from whole soybeans is high in GOS: only about 30 ml is low. The ingredient list tells you which one you have.",
+   "groups": [
+    "gos"
+   ],
+   "servings": [
+    {
+     "form": "soy milk made from soy protein",
+     "lowMaxG": 250,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 350,
+     "groups": [
+      "gos"
+     ],
+     "household": "1 cup",
+     "sourceIds": [
+      "b6-alby-soy",
+      "b6-alby-milk",
+      "b6-mon-dairyalt-2024"
+     ],
+     "note": "Source gives 250 ml; shown as grams, counting 1 ml as about 1 g."
+    },
+    {
+     "form": "soy milk made from whole soybeans",
+     "lowMaxG": 30,
+     "moderateFromG": null,
+     "highFromG": 125,
+     "scaleMaxG": 180,
+     "groups": [
+      "gos"
+     ],
+     "sourceIds": [
+      "b6-kk-soy",
+      "b6-mon-dairyalt-2024"
+     ],
+     "note": "Karlijn's Kitchen, citing Monash. Given in ml; shown as grams, counting 1 ml as about 1 g."
+    },
+    {
+     "form": "soy milk made from hulled soybeans",
+     "lowMaxG": 60,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 100,
+     "groups": [
+      "gos"
+     ],
+     "sourceIds": [
+      "b6-kk-soy",
+      "b6-mon-milkalt-2016"
+     ],
+     "note": "Karlijn's Kitchen, citing Monash. Monash's own post only says small serves are low. No upper band published."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "A Little Bit Yummy reports stricter numbers for carton coconut milk: low at 125 ml, moderate at 150 ml and high at 250 ml. Monash's 2024 post rates 250 ml moderate.",
+     "sourceIds": [
+      "b6-alby-milk",
+      "b6-mon-dairyalt-2024"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash's older guide also listed carton coconut milk as low only in small serves.",
+     "sourceIds": [
+      "b6-mon-milkalt-2016"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Lactose-free milk",
+     "slug": "lactose-free-milk"
+    },
+    {
+     "name": "Almond milk",
+     "slug": "almond-milk"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is coconut milk in curry low FODMAP?",
+     "a": "It can be. Keep your share of canned coconut milk to about ¼ cup and use garlic-infused oil instead of garlic and onion."
+    },
+    {
+     "q": "Is coconut cream low FODMAP?",
+     "a": "We haven't found a public lab serve for coconut cream, so we don't give a number for it here."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "coconut-milk",
+   "name": "coconut milk",
+   "aliases": [
+    "coconut milk drink",
+    "canned coconut milk",
+    "UHT coconut milk"
+   ],
+   "category": "dairy",
+   "regions": [
+    "south-asian",
+    "east-asian",
+    "global"
+   ],
+   "illustration": "coconut-milk",
+   "tier": "lab-tested",
+   "answer": "Yes, in measured amounts. Monash rates unsweetened carton (UHT) coconut milk low at ¾ cup and moderate at 1 cup (250 ml). Thick canned coconut milk for cooking is stricter: dietitian sites citing Monash give ¼ cup (60 g) as low. Sorbitol is the FODMAP that rises.",
+   "groups": [
+    "sorbitol"
+   ],
+   "servings": [
+    {
+     "form": "unsweetened UHT coconut milk (carton drink)",
+     "lowMaxG": 180,
+     "moderateFromG": 250,
+     "highFromG": null,
+     "scaleMaxG": 350,
+     "groups": [
+      "sorbitol"
+     ],
+     "household": "¾ cup",
+     "sourceIds": [
+      "b6-mon-dairyalt-2024",
+      "b6-kk-milk"
+     ],
+     "note": "Monash gives ¾ cup low and 250 ml moderate. The 180 ml for ¾ cup is from Karlijn's Kitchen; shown as grams, counting 1 ml as about 1 g."
+    },
+    {
+     "form": "canned coconut milk (for cooking)",
+     "lowMaxG": 60,
+     "moderateFromG": 120,
+     "highFromG": null,
+     "scaleMaxG": 170,
+     "groups": [
+      "sorbitol"
+     ],
+     "household": "¼ cup",
+     "sourceIds": [
+      "b6-kk-milk",
+      "b6-alby-milk"
+     ],
+     "note": "Dietitian sites citing Monash; no Monash public post gives these numbers."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash weighs a regular egg at about 41 g, with roughly 5 g of protein.",
+     "sourceIds": [
+      "b6-mon-meat-2024"
+     ]
+    },
+    {
+     "text": "The fructans group is shown because onion and garlic are the usual additions to egg dishes, not because eggs contain any.",
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "ff-list"
+     ]
+    },
+    {
+     "text": "Eggs are on the low list in both Monash's Step 1 guide and FODMAP Friendly's food list.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Firm tofu",
+     "slug": "tofu"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are scrambled eggs low FODMAP?",
+     "a": "Yes, if you scramble them with lactose-free milk or a plant milk like almond milk and leave out onion and garlic."
+    },
+    {
+     "q": "How many eggs can I eat on a low FODMAP diet?",
+     "a": "Eggs have no FODMAP limit. Any limit you've heard of comes from general health advice, not FODMAPs."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "eggs",
+   "name": "eggs",
+   "aliases": [
+    "egg",
+    "boiled eggs",
+    "scrambled eggs",
+    "fried egg"
+   ],
+   "category": "protein",
+   "regions": [
+    "global"
+   ],
+   "illustration": "eggs",
+   "tier": "lab-tested",
+   "answer": "Yes. Plain eggs are naturally low FODMAP: Monash notes a regular egg has only about 0.3 g of carbohydrate in total, and FODMAPs are carbohydrates. The risk comes from what you cook them with, such as onion, garlic or regular milk.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "eggs, plain (boiled, fried, poached or scrambled)",
+     "lowMaxG": 100,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 200,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "mon-step1",
+      "ff-list"
+     ],
+     "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash says marinated meats can contain garlic, honey or applesauce, and suggests choosing plain meat when shopping or eating out.",
+     "sourceIds": [
+      "b6-mon-meat-2024"
+     ]
+    },
+    {
+     "text": "FODMAP Friendly lists fresh chicken as low and puts crumbed or battered meats and onion or garlic sauces on the high side.",
+     "sourceIds": [
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Beef",
+     "slug": "beef"
+    },
+    {
+     "name": "Salmon",
+     "slug": "salmon"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is rotisserie chicken low FODMAP?",
+     "a": "Often not: the seasoning usually includes garlic or onion powder. Check the ingredients or ask how it's seasoned."
+    },
+    {
+     "q": "Is chicken stock low FODMAP?",
+     "a": "Plain chicken is fine, but most stocks are made with onion and garlic. Look for a stock without them."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "chicken",
+   "name": "chicken",
+   "aliases": [
+    "chicken breast",
+    "chicken thigh",
+    "poultry"
+   ],
+   "category": "protein",
+   "regions": [
+    "global"
+   ],
+   "illustration": "chicken",
+   "tier": "lab-tested",
+   "answer": "Yes. Plain chicken is naturally low FODMAP: Monash lists chicken among fresh meats with almost no carbohydrate. Marinades, stuffing, breading and gravy are where garlic, onion, honey and wheat creep in.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "plain chicken (fresh, unmarinated)",
+     "lowMaxG": 100,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 200,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "ff-list",
+      "mon-step1"
+     ],
+     "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash names beef alongside chicken, pork, veal and turkey as meats that are naturally low FODMAP.",
+     "sourceIds": [
+      "b6-mon-meat-2024"
+     ]
+    },
+    {
+     "text": "FODMAP Friendly lists fresh meat as low, while crumbed meats and gravies made with onion or garlic sit on its high list.",
+     "sourceIds": [
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Chicken",
+     "slug": "chicken"
+    },
+    {
+     "name": "Salmon",
+     "slug": "salmon"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Are beef burgers low FODMAP?",
+     "a": "A plain beef patty is. Bought patties often contain onion, garlic or breadcrumbs, and burger buns are usually wheat."
+    },
+    {
+     "q": "Is beef jerky low FODMAP?",
+     "a": "Usually not: most jerky marinades use garlic, onion or honey. Read the ingredients."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "beef",
+   "name": "beef",
+   "aliases": [
+    "steak",
+    "minced beef",
+    "ground beef",
+    "red meat"
+   ],
+   "category": "protein",
+   "regions": [
+    "global"
+   ],
+   "illustration": "beef",
+   "tier": "lab-tested",
+   "answer": "Yes. Plain beef is naturally low FODMAP, as Monash explains: fresh meat holds very little carbohydrate by the time it's sold. Sausages, burgers, rubs and marinades are the parts to check, since they often add garlic, onion or wheat.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "plain beef (steak or mince, unseasoned)",
+     "lowMaxG": 100,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 200,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "ff-list",
+      "mon-step1"
+     ],
+     "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash lists tuna, mackerel and salmon as examples of fish that are naturally low FODMAP.",
+     "sourceIds": [
+      "b6-mon-meat-2024"
+     ]
+    },
+    {
+     "text": "FODMAP Friendly lists fresh fish as low; battered or crumbed fish falls under its high-FODMAP crumbed foods.",
+     "sourceIds": [
+      "ff-list"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Chicken",
+     "slug": "chicken"
+    },
+    {
+     "name": "Firm tofu",
+     "slug": "tofu"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is smoked salmon low FODMAP?",
+     "a": "Salmon itself has no FODMAPs. Some smoked salmon is flavoured with extra seasonings, so check the ingredient list."
+    },
+    {
+     "q": "Is teriyaki salmon low FODMAP?",
+     "a": "The salmon is, but bottled teriyaki sauces often contain garlic, onion or honey. A homemade glaze lets you control that."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "salmon",
+   "name": "salmon",
+   "aliases": [
+    "salmon fillet",
+    "smoked salmon",
+    "canned salmon"
+   ],
+   "category": "protein",
+   "regions": [
+    "global"
+   ],
+   "illustration": "salmon",
+   "tier": "lab-tested",
+   "answer": "Yes. Plain salmon is naturally low FODMAP: Monash names salmon among fish that contain very little to no carbohydrate. Watch sauces, crumbs and glazes, which can add garlic, onion, honey or wheat.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "plain salmon (fresh or frozen fillet)",
+     "lowMaxG": 100,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 200,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "ff-list",
+      "mon-step1"
+     ],
+     "note": "Contains no FODMAPs according to the source; the amount shown is a normal portion, not a limit."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [
+    {
+     "text": "A Little Bit Yummy describes the silken tofu limit as about 2 tablespoons rather than giving grams.",
+     "sourceIds": [
+      "b6-alby-soy"
+     ]
+    },
+    {
+     "text": "Dietitian sites report a slightly larger low serve of firm tofu, 170 g. Monash's public fibre guide lists 160 g (⅔ cup cubed), which we show.",
+     "sourceIds": [
+      "b6-ge-tofu",
+      "mon-fibre-2021"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "Monash explains the gap with water: fructans and GOS dissolve in water, and pressing firm tofu squeezes much of it out. Unpressed silken tofu keeps it.",
+     "sourceIds": [
+      "b6-mon-tofu-2015"
+     ]
+    },
+    {
+     "text": "Firm tofu is on the low list in Monash's Step 1 guide and FODMAP Friendly's list; silken tofu is on Monash's high list.",
+     "sourceIds": [
+      "mon-step1",
+      "ff-list"
+     ]
+    },
+    {
+     "text": "Monash suggests mashed extra-firm tofu with turmeric as a stand-in for scrambled eggs.",
+     "sourceIds": [
+      "b6-mon-plantswaps-2026"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Eggs",
+     "slug": "eggs"
+    },
+    {
+     "name": "Chicken",
+     "slug": "chicken"
+    },
+    {
+     "name": "Tempeh"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is extra-firm tofu low FODMAP?",
+     "a": "No separate lab serve is published for extra-firm. It's pressed even more than firm tofu, so it's usually grouped with firm."
+    },
+    {
+     "q": "Can I use silken tofu in smoothies?",
+     "a": "Only a little: the published low amount is about 39 g. Firm tofu or lactose-free yogurt are easier swaps."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "tofu",
+   "name": "tofu",
+   "aliases": [
+    "firm tofu",
+    "silken tofu",
+    "bean curd"
+   ],
+   "category": "protein",
+   "regions": [
+    "east-asian",
+    "global"
+   ],
+   "illustration": "tofu",
+   "tier": "lab-tested",
+   "answer": "Firm tofu, yes: 160 g (⅔ cup cubed) is a low FODMAP serve in Monash's fibre guide; fructans turn moderate from about 175 g. Silken tofu is much stricter: low only up to about 39 g, with GOS moderate from 46 g.",
+   "groups": [
+    "fructans",
+    "gos"
+   ],
+   "servings": [
+    {
+     "form": "firm tofu, drained",
+     "lowMaxG": 160,
+     "moderateFromG": 175,
+     "highFromG": null,
+     "scaleMaxG": 240,
+     "groups": [
+      "fructans"
+     ],
+     "sourceIds": [
+      "mon-fibre-2021",
+      "b6-alby-soy",
+      "b6-ge-tofu",
+      "b6-mon-tofu-2015"
+     ],
+     "household": "⅔ cup cubed"
+    },
+    {
+     "form": "silken tofu",
+     "lowMaxG": 39,
+     "moderateFromG": 46,
+     "highFromG": null,
+     "scaleMaxG": 70,
+     "groups": [
+      "gos"
+     ],
+     "sourceIds": [
+      "b6-ge-tofu",
+      "b6-mon-tofu-2015"
+     ],
+     "note": "George Eats, citing Monash. Monash's own post says silken tofu is high at a standard serve."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash says cooking oils are all naturally low FODMAP because they're made up of fatty acids, and suggests small amounts of oils such as extra virgin olive oil.",
+     "sourceIds": [
+      "b6-mon-meat-2024"
+     ]
+    },
+    {
+     "text": "The fructans group is shown because olive oil is often blended with garlic or onion in dressings, and fructans don't dissolve into oil.",
+     "sourceIds": [
+      "mon-oils-2023"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Garlic-infused oil",
+     "slug": "garlic-infused-oil"
+    },
+    {
+     "name": "Butter",
+     "slug": "butter"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is olive oil dressing low FODMAP?",
+     "a": "Plain oil and vinegar or lemon juice is. Bought dressings often add garlic, onion or honey, so check the label."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "olive-oil",
+   "name": "olive oil",
+   "aliases": [
+    "extra virgin olive oil",
+    "EVOO",
+    "cooking oil"
+   ],
+   "category": "condiments",
+   "regions": [
+    "mediterranean",
+    "middle-eastern",
+    "global"
+   ],
+   "illustration": "olive-oil",
+   "tier": "lab-tested",
+   "answer": "Yes. Olive oil, like other cooking oils, is naturally low FODMAP because it's made of fat, not carbohydrate. Monash's example low FODMAP meal includes 1 tablespoon (20 g) of olive oil, infused with garlic for flavour.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "olive oil (plain or extra virgin)",
+     "lowMaxG": 20,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 40,
+     "groups": [
+      "fructans"
+     ],
+     "household": "1 tablespoon",
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "mon-step1"
+     ],
+     "note": "Contains no FODMAPs according to the source; 1 tablespoon (20 g) is the olive oil portion in Monash's example meal, not a limit."
+    }
+   ]
+  },
+  {
+   "changes": [],
+   "disagreements": [],
+   "notes": [
+    {
+     "text": "Monash calls flavour-infused oils naturally low FODMAP, because the aroma passes into the oil while the fructans stay in the garlic.",
+     "sourceIds": [
+      "b6-mon-meat-2024",
+      "mon-oils-2023",
+      "mon-faq"
+     ]
+    },
+    {
+     "text": "At home you can warm whole garlic pieces in oil for a minute or two, then lift them out before cooking. This works for oil-based dishes like stir-fries, not soups, where water draws the fructans out.",
+     "sourceIds": [
+      "mon-faq",
+      "mon-myths-2015",
+      "mon-step1"
+     ]
+    },
+    {
+     "text": "Some brands of infused oil carry the Monash logo, which means a product sample was lab tested below Monash's cut-offs.",
+     "sourceIds": [
+      "mon-oils-2023"
+     ]
+    }
+   ],
+   "swaps": [
+    {
+     "name": "Fresh garlic",
+     "slug": "garlic",
+     "why": "high in fructans"
+    },
+    {
+     "name": "Olive oil",
+     "slug": "olive-oil"
+    }
+   ],
+   "faq": [
+    {
+     "q": "Is garlic oil with garlic pieces in it low FODMAP?",
+     "a": "No. The pieces themselves are high in fructans. Choose an oil that is clear of garlic bits, or strain it."
+    },
+    {
+     "q": "Can I use garlic-infused oil in soup?",
+     "a": "Yes, the oil itself is fine in soup. What doesn't work is cooking garlic cloves in the soup and fishing them out, since fructans leach into water."
+    }
+   ],
+   "published": "2026-11-19",
+   "checked": "2026-11-19",
+   "status": "verified",
+   "slug": "garlic-infused-oil",
+   "name": "garlic-infused oil",
+   "aliases": [
+    "garlic oil",
+    "garlic infused olive oil",
+    "infused oil"
+   ],
+   "category": "condiments",
+   "regions": [
+    "global",
+    "mediterranean"
+   ],
+   "illustration": "garlic-infused-oil",
+   "tier": "lab-tested",
+   "answer": "Yes. Garlic-infused oil is low FODMAP: the fructans in garlic dissolve in water but not in fat, so the oil gets the flavour without them. Monash shows 1 tablespoon (20 g) as a green serve in its example meal. Strain out every garlic piece.",
+   "groups": [
+    "fructans"
+   ],
+   "servings": [
+    {
+     "form": "garlic-infused oil, garlic removed",
+     "lowMaxG": 20,
+     "moderateFromG": null,
+     "highFromG": null,
+     "scaleMaxG": 40,
+     "groups": [
+      "fructans"
+     ],
+     "household": "1 tablespoon",
+     "sourceIds": [
+      "mon-step1",
+      "mon-oils-2023"
+     ],
+     "note": "The serve Monash uses in its example meal. No upper limit has been published."
+    }
+   ]
+  }
+ ]
 }

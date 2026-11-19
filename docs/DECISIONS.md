@@ -159,3 +159,9 @@ Owner: "yeah add all the foods ig and make the site 10/10".
 - **"Lab-tested, amount not public":** for green tea and kombucha, which Monash tested but publishes no amount for. Never "not lab-tested".
 - **Placeholder FODMAP groups:** where no source names the limiting FODMAP (potatoes, carrots, blueberries…), the page says "not named by the sources", and the meal check ignores them.
 - **Newer retests over older primary posts:** for grapes, mango, raisins, firm banana and dried cranberries, dietitian sites report newer, stricter Monash retests. The newer figure leads, and the old Monash figure shows under "what changed", so a now-moderate amount is never shown in green.
+
+## M2 spot-check (Claude, 2026-11-19)
+- **Check:** compared 28 of the 133 new foods (21%) by hand against Monash's public fibre guide (monashfodmap.com/blog/getting-enough-fibre).
+- **Matched exactly (26):** oats, brown rice, quinoa, buckwheat, bulgur, almonds, peanuts, walnuts, chia, flaxseed, macadamias, almond meal, broccoli, carrots, baby spinach, kale, potatoes, green beans, eggplant, corn, pineapple, raspberries, orange, kiwi, coconut, plus household measures.
+- **Corrected:** firm tofu, from 170 g (a dietitian site) to Monash's 160 g (⅔ cup cubed). The 170 g now shows under "sources disagree".
+- **Kept on purpose:** firm banana at 95 g. A newer retest reported by dietitian sites leads; the guide's 100 g is older.

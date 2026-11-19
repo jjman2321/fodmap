@@ -13,6 +13,7 @@ import { JsonLd, breadcrumbs, ORG_ID } from "@/lib/jsonld";
 import { fmtDate, headline } from "@/lib/verdict";
 import { abs } from "@/lib/site";
 import { amt } from "@/lib/units";
+import { question } from "@/lib/grammar";
 
 export const dynamicParams = false;
 export function generateStaticParams() { return foods.map((f) => ({ slug: f.slug })); }
@@ -22,7 +23,7 @@ const CATEGORY_LABEL: Record<string, string> = { vegetables: "Vegetables", fruit
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const food = getFood((await params).slug);
   if (!food) return {};
-  const title = fmt(m.food.title, { name: food.name });
+  const title = question(food.name);
   return { title: { absolute: `${title} ${headline(food).short}`.slice(0, 60) }, description: food.answer.slice(0, 158), alternates: { canonical: `/food/${food.slug}` } };
 }
 
@@ -35,7 +36,7 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
   const cite = (ids: string[]) => (<sup className="ml-0.5 text-[11px]">{ids.map((id) => (<a key={id} href={`#src-${n(id)}`} className="text-brand-ink no-underline">[{n(id)}]</a>))}</sup>);
   const stackMates = sameGroup(food).slice(0, 6);
   const rel = related(food);
-  const title = fmt(m.food.title, { name: food.name });
+  const title = question(food.name);
 
   return (
     <article className="mx-auto max-w-3xl px-4 pb-8 pt-5">
@@ -98,7 +99,7 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
         </Row>
         {rel.length > 0 && (
           <Row title={m.food.related}>
-            <ul className="flex flex-wrap gap-2">{rel.map((f) => (<li key={f.slug}><Link href={`/food/${f.slug}`} className="inline-flex rounded-full bg-chip px-3 py-1.5 text-[14px]">Is {f.name} low FODMAP?</Link></li>))}</ul>
+            <ul className="flex flex-wrap gap-2">{rel.map((f) => (<li key={f.slug}><Link href={`/food/${f.slug}`} className="inline-flex rounded-full bg-chip px-3 py-1.5 text-[14px]">{question(f.name)}</Link></li>))}</ul>
           </Row>
         )}
       </div>

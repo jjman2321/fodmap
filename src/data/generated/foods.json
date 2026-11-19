@@ -109,7 +109,8 @@
     "slug": "carrots"
    },
    {
-    "name": "Bok choy"
+    "name": "Bok choy",
+    "slug": "bok-choy"
    }
   ],
   "faq": [
@@ -342,7 +343,8 @@
     "slug": "cucumber"
    },
    {
-    "name": "Bell pepper"
+    "name": "Bell pepper",
+    "slug": "bell-pepper"
    },
    {
     "name": "Carrots",
@@ -528,7 +530,8 @@
     "slug": "red-cabbage"
    },
    {
-    "name": "Bok choy"
+    "name": "Bok choy",
+    "slug": "bok-choy"
    },
    {
     "name": "Lettuce",
@@ -686,7 +689,8 @@
     "slug": "carrots"
    },
    {
-    "name": "Zucchini"
+    "name": "Zucchini",
+    "slug": "zucchini"
    }
   ],
   "faq": [
@@ -821,7 +825,8 @@
     "slug": "eggplant"
    },
    {
-    "name": "Zucchini"
+    "name": "Zucchini",
+    "slug": "zucchini"
    }
   ],
   "faq": [
@@ -938,7 +943,8 @@
     "slug": "green-beans"
    },
    {
-    "name": "Edamame"
+    "name": "Edamame",
+    "slug": "edamame"
    },
    {
     "name": "Snow peas"
@@ -1030,7 +1036,8 @@
     "slug": "cucumber"
    },
    {
-    "name": "Fennel"
+    "name": "Fennel",
+    "slug": "fennel"
    },
    {
     "name": "Carrots",
@@ -1133,7 +1140,8 @@
     "slug": "lettuce"
    },
    {
-    "name": "Bok choy"
+    "name": "Bok choy",
+    "slug": "bok-choy"
    }
   ],
   "faq": [
@@ -1328,7 +1336,8 @@
     "slug": "green-beans"
    },
    {
-    "name": "Zucchini"
+    "name": "Zucchini",
+    "slug": "zucchini"
    },
    {
     "name": "Broccoli",
@@ -1525,7 +1534,8 @@
     "slug": "carrots"
    },
    {
-    "name": "Bell pepper"
+    "name": "Bell pepper",
+    "slug": "bell-pepper"
    }
   ],
   "faq": [
@@ -1600,7 +1610,8 @@
     "slug": "cabbage"
    },
    {
-    "name": "Bok choy"
+    "name": "Bok choy",
+    "slug": "bok-choy"
    }
   ],
   "faq": [
@@ -1764,7 +1775,8 @@
   ],
   "swaps": [
    {
-    "name": "Pumpkin (kabocha)"
+    "name": "Pumpkin (kabocha)",
+    "slug": "pumpkin"
    },
    {
     "name": "Sweet potato",
@@ -1847,10 +1859,12 @@
   ],
   "swaps": [
    {
-    "name": "Zucchini"
+    "name": "Zucchini",
+    "slug": "zucchini"
    },
    {
-    "name": "Bell pepper"
+    "name": "Bell pepper",
+    "slug": "bell-pepper"
    },
    {
     "name": "Tomatoes",
@@ -1951,7 +1965,8 @@
     "slug": "spinach"
    },
    {
-    "name": "Arugula"
+    "name": "Arugula",
+    "slug": "arugula"
    },
    {
     "name": "Cucumber",
@@ -2044,6 +2059,2069 @@
    {
     "q": "Is red cabbage lower in FODMAPs than white cabbage?",
     "a": "Both are low at 75 g. They differ in the FODMAP that rises: fructans in red cabbage, sorbitol in white."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "pumpkin",
+  "name": "pumpkin",
+  "aliases": [
+   "kabocha",
+   "Japanese pumpkin",
+   "Kent pumpkin",
+   "canned pumpkin",
+   "pumpkin puree"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "east-asian"
+  ],
+  "illustration": "pumpkin",
+  "tier": "lab-tested",
+  "answer": "Yes, at a normal serve. Monash lists 75 g of kabocha (Japanese or Kent) pumpkin as low. Reported lab data puts it at moderate from 162 g and high from 206 g, from fructans. Canned pumpkin is low at 75 g (⅓ cup). Other squashes, such as butternut, have smaller low serves.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "kabocha (Japanese or Kent) pumpkin, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 162,
+    "highFromG": 206,
+    "scaleMaxG": 290,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b2-fe-pumpkin",
+     "b2-ge-tagine"
+    ],
+    "note": "The 75 g serve is on Monash's public shopping list. The moderate and high amounts are as reported by dietitian sites from Monash data."
+   },
+   {
+    "form": "canned pumpkin",
+    "lowMaxG": 75,
+    "moderateFromG": 105,
+    "highFromG": 128,
+    "scaleMaxG": 180,
+    "groups": [
+     "fructans"
+    ],
+    "household": "⅓ cup",
+    "sourceIds": [
+     "b2-fe-pumpkin",
+     "b1-kk-pumpkin"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash data. The pumpkin variety inside the can isn't stated."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2024",
+    "text": "Kabocha first tested with no FODMAPs at all. A later Monash retest found fructans in bigger portions, so it now has a 75 g low serve.",
+    "sourceIds": [
+     "b2-fe-pumpkin",
+     "b1-kk-pumpkin"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's lab reportedly rates Japanese or Kent pumpkin lower: 57 g raw, or 75 g cooked with a 94 g maximum.",
+    "sourceIds": [
+     "b2-fe-pumpkin"
+    ]
+   },
+   {
+    "text": "For canned pumpkin, FODMAP Friendly reportedly allows 120 g, up to 150 g, and found GOS as well as fructans.",
+    "sourceIds": [
+     "b2-fe-pumpkin"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash lists Japanese pumpkin among its low FODMAP swaps in its Step 1 guide.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   },
+   {
+    "text": "In Monash's roasted pepper and pumpkin dip, using butternut instead of Japanese pumpkin means splitting the batch into more servings to stay within limits.",
+    "sourceIds": [
+     "mon-hummus-blog"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   },
+   {
+    "name": "Potatoes",
+    "slug": "potatoes"
+   },
+   {
+    "name": "Zucchini",
+    "slug": "zucchini"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is butternut squash low FODMAP like pumpkin?",
+    "a": "Only in a smaller portion. Dietitian sites report Monash's low serve for unpeeled butternut at 63 g, below kabocha's 75 g."
+   },
+   {
+    "q": "Is pumpkin pie low FODMAP?",
+    "a": "The filling can fit if each slice holds no more than about 75 g of canned pumpkin. The crust, milk and sweetener need checking too."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "arugula",
+  "name": "arugula",
+  "aliases": [
+   "rocket",
+   "roquette",
+   "rucola"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "mediterranean",
+   "global"
+  ],
+  "illustration": "arugula",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash's standard serve of arugula (rocket) is 1 cup, about 35 g, and it reportedly found only trace FODMAPs. Dietitian sites say it stayed low up to 500 g, the largest amount tested, so it works as a salad base.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "arugula, raw leaves",
+    "lowMaxG": 35,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 50,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup",
+    "sourceIds": [
+     "b2-fe-arugula",
+     "b1-kk-veglist"
+    ],
+    "note": "Only trace FODMAPs were found, so this is a normal portion, not a limit. The source names no FODMAP group."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2020",
+    "text": "For years Monash reported no FODMAPs in arugula. An app update changed this to trace amounts, still with no upper limit.",
+    "sourceIds": [
+     "b2-fe-arugula"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen gives the largest still-low amount instead of a standard serve: up to 500 g.",
+    "sourceIds": [
+     "b1-kk-veglist"
+    ]
+   }
+  ],
+  "notes": [],
+  "swaps": [
+   {
+    "name": "Spinach",
+    "slug": "spinach"
+   },
+   {
+    "name": "Lettuce",
+    "slug": "lettuce"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is arugula pesto low FODMAP?",
+    "a": "The arugula is fine. Most pesto recipes add garlic, so use garlic-infused oil in its place."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "bok-choy",
+  "name": "bok choy",
+  "aliases": [
+   "bok choi",
+   "pak choi",
+   "pak choy",
+   "Chinese white cabbage"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "east-asian"
+  ],
+  "illustration": "bok-choy",
+  "tier": "lab-tested",
+  "answer": "Yes, at a standard serve. Monash lists 75 g of bok choy, about 1 cup chopped, as low. Dietitian sites report a moderate amount of sorbitol from 100 g, so a very large stir-fry portion can tip it over.",
+  "groups": [
+   "sorbitol"
+  ],
+  "servings": [
+   {
+    "form": "bok choy, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 100,
+    "highFromG": null,
+    "scaleMaxG": 140,
+    "groups": [
+     "sorbitol"
+    ],
+    "household": "1 cup chopped",
+    "sourceIds": [
+     "mon-shop-2025",
+     "b2-fe-bokchoy",
+     "b1-kk-cabbage"
+    ],
+    "note": "The moderate amount is as reported by Karlijn's Kitchen from Monash data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's Step 1 guide and its public food list both name bok choy as a low FODMAP vegetable.",
+    "sourceIds": [
+     "mon-step1",
+     "b1-mon-where"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cabbage",
+    "slug": "cabbage"
+   },
+   {
+    "name": "Spinach",
+    "slug": "spinach"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I have bok choy in a stir-fry every day?",
+    "a": "Yes, if each meal stays near 75 g. Bigger amounts add sorbitol, which adds up with other polyol foods in the same meal."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "leek",
+  "name": "leek",
+  "aliases": [
+   "leeks",
+   "leek greens",
+   "leek leaves"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "leek",
+  "tier": "lab-tested",
+  "answer": "Partly. The dark green leaves are low: Monash's serve is 1 cup chopped (75 g), and they reportedly stayed low up to 500 g. The white bulb holds fructans, so only about 14 g of it (2 generous tablespoons, finely chopped) is reported as low.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "leek leaves (green part only)",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup chopped",
+    "sourceIds": [
+     "b2-fe-leeks",
+     "b2-alby-leek"
+    ],
+    "note": "Reported to stay low up to 500 g, the most Monash tested."
+   },
+   {
+    "form": "leek white bulb, raw",
+    "lowMaxG": 14,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 20,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 generous tbsp (Australian), finely chopped",
+    "sourceIds": [
+     "b2-fe-leeks"
+    ],
+    "note": "No moderate or high amount has been published for the bulb."
+   }
+  ],
+  "changes": [
+   {
+    "date": "by 2026",
+    "text": "Monash's leaf serve was first listed as 100 g, then 75 g. A small low serve for the white bulb (14 g) was added later, and an unclear mixed leaf-and-bulb entry was removed.",
+    "sourceIds": [
+     "b2-fe-leeks"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Monash's public diet sheets still list leek among high-FODMAP vegetables without saying which part, which fits the bulb rather than the leaves.",
+    "sourceIds": [
+     "b2-mon-3step-2026",
+     "b1-mon-where"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly's lab reportedly rates ½ cup (37 g) of leaves as low with an 82 g maximum, and 47 g of bulb as low.",
+    "sourceIds": [
+     "b2-fe-leeks"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash now uses raw leek bulb as one of its fructan test foods in the reintroduction phase.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   },
+   {
+    "text": "Older lab data measured about 0.5 g of fructans per 100 g of whole leek, far less than onion at about 1.8 g.",
+    "sourceIds": [
+     "b2-alby-fructans",
+     "muir-2007"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Spring onion greens",
+    "slug": "spring-onion"
+   },
+   {
+    "name": "Chives",
+    "slug": "chives"
+   },
+   {
+    "name": "Garlic-infused oil",
+    "slug": "garlic-infused-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is leek and potato soup low FODMAP?",
+    "a": "Only when it's made with the green leaves. Fructans from the white bulb dissolve into the soup, so a classic version is likely high."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "onion",
+  "name": "onion",
+  "aliases": [
+   "onions",
+   "white onion",
+   "brown onion",
+   "yellow onion",
+   "red onion",
+   "Spanish onion"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "middle-eastern",
+   "south-asian",
+   "latin-american",
+   "mediterranean"
+  ],
+  "illustration": "onion",
+  "tier": "lab-tested",
+  "answer": "No. Monash lists onion as high in fructans. Only tiny amounts test low: about 10 g of red onion is the reported Monash low serve, and FODMAP Friendly reportedly rates brown onion high from 30 g. Drained large pickled onions are a lower-FODMAP option.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "white, brown or yellow onion",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": 30,
+    "scaleMaxG": 45,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-mon-3step-2026",
+     "mon-oils-2023",
+     "b2-fe-alliums"
+    ],
+    "note": "Monash has published no low serve for these onions. The 30 g high point is FODMAP Friendly's, as reported by a dietitian site."
+   },
+   {
+    "form": "red onion, raw",
+    "lowMaxG": 10,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 15,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-alliums"
+    ],
+    "note": "Reported Monash low serve. No moderate or high amount has been published."
+   },
+   {
+    "form": "large pickled onion, drained",
+    "lowMaxG": 60,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 85,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-alliums",
+     "b2-mon-pickled-2017"
+    ],
+    "note": "Reported to be high in fructans above 107 g. Small pickled onions tested very differently."
+   }
+  ],
+  "changes": [
+   {
+    "date": "by 2025",
+    "text": "Monash's low serve for large pickled onions was first 45 g and was later raised to 60 g.",
+    "sourceIds": [
+     "b2-fe-alliums",
+     "b2-kk-pickles"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's lab reportedly allows 26 g of brown onion and 27 g of red onion, more than Monash's 10 g of red onion.",
+    "sourceIds": [
+     "b2-fe-alliums"
+    ]
+   },
+   {
+    "text": "George Eats reports large pickled onions as low up to 84 g, with moderate fructans from 85 g.",
+    "sourceIds": [
+     "b2-ge-taco"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Older lab data measured about 1.8 g of fructans per 100 g of white onion.",
+    "sourceIds": [
+     "b2-alby-fructans",
+     "muir-2007"
+    ]
+   },
+   {
+    "text": "Monash keeps onion of any variety as its test food for onion fructans in the reintroduction phase.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   },
+   {
+    "text": "Fructans dissolve in water but not in oil, so onion-infused oil keeps the flavor without the fructans.",
+    "sourceIds": [
+     "mon-oils-2023"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Spring onion greens",
+    "slug": "spring-onion"
+   },
+   {
+    "name": "Chives",
+    "slug": "chives"
+   },
+   {
+    "name": "Leek leaves",
+    "slug": "leek"
+   },
+   {
+    "name": "Garlic-infused oil",
+    "slug": "garlic-infused-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does cooking onion make it low FODMAP?",
+    "a": "Not in normal cooking: fructans move into the water of soups and sauces. Monash found microwaving diced onion in water cut its FODMAPs by 71%, but it still wasn't low."
+   },
+   {
+    "q": "Is onion-infused oil low FODMAP?",
+    "a": "Yes, as long as the onion pieces are taken out. The fructans stay in the onion, not the oil."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "spring-onion",
+  "name": "spring onion",
+  "aliases": [
+   "scallion",
+   "scallions",
+   "green onion",
+   "spring onion greens",
+   "scallion greens"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "east-asian",
+   "global"
+  ],
+  "illustration": "spring-onion",
+  "tier": "lab-tested",
+  "answer": "The green tops, yes. Monash reports ¾ cup (75 g) of spring onion greens as low, with a moderate amount of fructose from 97 g. The white bulb carries fructans: a 32 g Monash low serve is reported, but many guides still say to skip the bulb at first.",
+  "groups": [
+   "fructose",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "green tops",
+    "lowMaxG": 75,
+    "moderateFromG": 97,
+    "highFromG": null,
+    "scaleMaxG": 140,
+    "groups": [
+     "fructose"
+    ],
+    "household": "¾ cup",
+    "sourceIds": [
+     "b2-fe-scallions",
+     "b2-ge-pico",
+     "b1-kk-veglist"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash's latest retest."
+   },
+   {
+    "form": "white bulb",
+    "lowMaxG": 32,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 45,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-alliums"
+    ],
+    "note": "Reported Monash low serve. No moderate or high amount has been published."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2022",
+    "text": "Early tests found no FODMAPs in 16 g of greens. A September 2022 retest set 75 g as low and moderate from 265 g. A later retest kept 75 g but moved the moderate point down to 97 g.",
+    "sourceIds": [
+     "b2-fe-scallions"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly lists the spring onion bulb as high. Its lab reportedly rates scallion greens low at 16 g, with a 160 g maximum.",
+    "sourceIds": [
+     "ff-list",
+     "b2-fe-alliums"
+    ]
+   },
+   {
+    "text": "One George Eats recipe says Monash regards the greens as having negligible FODMAPs, which doesn't match the 97 g moderate point above.",
+    "sourceIds": [
+     "b2-ge-springdip"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash suggests the green tops as a garnish for onion flavor without the fructans.",
+    "sourceIds": [
+     "mon-step1",
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Older lab data found the spring onion bulb rich in fructans, at about 6.3 g per 100 g.",
+    "sourceIds": [
+     "b2-alby-fructans",
+     "muir-2007"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Chives",
+    "slug": "chives"
+   },
+   {
+    "name": "Leek leaves",
+    "slug": "leek"
+   },
+   {
+    "name": "Garlic-infused oil",
+    "slug": "garlic-infused-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are scallions and spring onions the same thing?",
+    "a": "Monash lists them as one food. In the US, spring onions can be a variety with a larger bulb, so sticking to the green parts is the simplest rule."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "shallots",
+  "name": "shallots",
+  "aliases": [
+   "shallot",
+   "eschalot",
+   "French shallot",
+   "fried shallots"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "east-asian",
+   "global"
+  ],
+  "illustration": "shallots",
+  "tier": "lab-tested",
+  "answer": "No. Shallots are among the richest sources of fructans, at about 8.9 g per 100 g in lab tests, roughly five times as much as onion. Monash reportedly tested large amounts and found no low serve. Spring onion greens, chives or garlic-infused oil give a similar savory note.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "shallots, raw",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 30,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-alliums",
+     "b2-mon-asia-2016",
+     "ff-list"
+    ],
+    "note": "No low serve has been published by Monash, and no gram amount for the high point is public."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's lab reportedly rates 1 g of shallot as low, an amount too small to matter in most cooking.",
+    "sourceIds": [
+     "b2-fe-alliums"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Lab data put shallots at about 8.9 g of fructans per 100 g, behind only garlic and Jerusalem artichoke among the vegetables measured.",
+    "sourceIds": [
+     "muir-2007",
+     "molecules-2023",
+     "b2-alby-fructans"
+    ]
+   },
+   {
+    "text": "Monash names shallots among the main high-FODMAP ingredients in East and South East Asian cooking, including fried shallots and curry pastes.",
+    "sourceIds": [
+     "b2-mon-asia-2016"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Spring onion greens",
+    "slug": "spring-onion"
+   },
+   {
+    "name": "Chives",
+    "slug": "chives"
+   },
+   {
+    "name": "Garlic-infused oil",
+    "slug": "garlic-infused-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are fried shallots low FODMAP?",
+    "a": "No test of fried shallots has been published. Fructans don't move into the frying oil, so they stay in the crispy shallot."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "fennel",
+  "name": "fennel",
+  "aliases": [
+   "fennel bulb",
+   "fennel fronds",
+   "Florence fennel",
+   "anise bulb"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "mediterranean"
+  ],
+  "illustration": "fennel",
+  "tier": "lab-tested",
+  "answer": "Yes, at a normal serve. Monash's retested low serve is ¾ cup (75 g) of raw fennel bulb. Reported lab data shows a moderate amount of fructose from 145 g and high from 195 g, when fructans appear too. The feathery fronds are low at 3 tablespoons (15 g).",
+  "groups": [
+   "fructose",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fennel bulb, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 145,
+    "highFromG": 195,
+    "scaleMaxG": 275,
+    "groups": [
+     "fructose",
+     "fructans"
+    ],
+    "household": "¾ cup",
+    "sourceIds": [
+     "b2-fe-fennel",
+     "b1-kk-veglist"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash's retest."
+   },
+   {
+    "form": "fennel fronds (leaves)",
+    "lowMaxG": 15,
+    "moderateFromG": 325,
+    "highFromG": 409,
+    "scaleMaxG": 575,
+    "groups": [
+     "fructans"
+    ],
+    "household": "3 tbsp",
+    "sourceIds": [
+     "b2-fe-fennel"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "by 2024",
+    "text": "Monash's first low serve for raw fennel bulb was ½ cup (49 g). A retest raised it to ¾ cup (75 g).",
+    "sourceIds": [
+     "b2-fe-fennel"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats gives the largest still-low amount instead: up to 144 g of bulb, as of August 2026.",
+    "sourceIds": [
+     "b2-ge-pico"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly reportedly rates ½ cup (48 g) of bulb as low with a 144 g maximum, and names fructans and mannitol.",
+    "sourceIds": [
+     "b2-fe-fennel"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Fennel seeds were reported low at 1 teaspoon (2 g) by both Monash and FODMAP Friendly.",
+    "sourceIds": [
+     "b2-fe-fennel"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   },
+   {
+    "name": "Bok choy",
+    "slug": "bok-choy"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is roasted fennel low FODMAP?",
+    "a": "The tests used raw bulb, so weigh it before cooking and keep to about 75 g per person."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "bell-pepper",
+  "name": "bell pepper",
+  "aliases": [
+   "capsicum",
+   "sweet pepper",
+   "red pepper",
+   "green pepper",
+   "red bell pepper",
+   "green bell pepper"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "latin-american",
+   "mediterranean"
+  ],
+  "illustration": "bell-pepper",
+  "tier": "lab-tested",
+  "answer": "Green bell pepper, yes: Monash lists 75 g as low, with fructans only moderate from 250 g. Red is a different story: about 43 g (⅓ cup) is low, with fructose moderate from 57 g and high from 75 g. Yellow and orange peppers sit close to red.",
+  "groups": [
+   "fructans",
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "green bell pepper, raw",
+    "lowMaxG": 75,
+    "moderateFromG": 250,
+    "highFromG": 310,
+    "scaleMaxG": 435,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "mon-shop-2025",
+     "b2-kk-bellpep",
+     "b2-fe-chiles"
+    ],
+    "note": "The 75 g serve is on Monash's public shopping list. The moderate and high amounts are as reported by dietitian sites."
+   },
+   {
+    "form": "red bell pepper, raw",
+    "lowMaxG": 43,
+    "moderateFromG": 57,
+    "highFromG": 75,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructose"
+    ],
+    "household": "⅓ cup",
+    "sourceIds": [
+     "b2-kk-bellpep",
+     "b2-fe-chiles"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash's retest."
+   },
+   {
+    "form": "yellow bell pepper, raw",
+    "lowMaxG": 35,
+    "moderateFromG": 47,
+    "highFromG": 75,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b2-fe-chiles"
+    ]
+   },
+   {
+    "form": "orange bell pepper, raw",
+    "lowMaxG": 38,
+    "moderateFromG": 51,
+    "highFromG": 75,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructose"
+    ],
+    "sourceIds": [
+     "b2-fe-chiles",
+     "b2-kk-bellpep"
+    ]
+   }
+  ],
+  "changes": [
+   {
+    "date": "2022",
+    "text": "Monash first found no FODMAPs in red bell pepper, and its January 2021 fibre guide still listed 75 g as a low serve. A retest cut the low serve to 43 g.",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b2-kk-bellpep-2022",
+     "b2-fe-chiles"
+    ]
+   },
+   {
+    "date": "before 2024",
+    "text": "Green bell pepper's low serve went from 52 g in early testing to 75 g after a retest.",
+    "sourceIds": [
+     "b2-fe-chiles"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly's lab reportedly rates 75 g of red pepper as low, with a maximum of 750 g, later 825 g. For yellow pepper it later found no low amount.",
+    "sourceIds": [
+     "b2-fe-chiles"
+    ]
+   },
+   {
+    "text": "Karlijn's Kitchen gives yellow and orange together as 38 g low, 51 g moderate and 75 g high.",
+    "sourceIds": [
+     "b2-kk-bellpep"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's diet sheets list red bell pepper among high-FODMAP vegetables and green bell pepper as the low swap.",
+    "sourceIds": [
+     "b2-mon-3step-2026",
+     "mon-step1"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   },
+   {
+    "name": "Zucchini",
+    "slug": "zucchini"
+   },
+   {
+    "name": "Carrots",
+    "slug": "carrots"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are roasted red peppers low FODMAP?",
+    "a": "We haven't found a public test of roasted peppers. Keep to about 43 g of red pepper per serve, or mix in green pepper for volume."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "zucchini",
+  "name": "zucchini",
+  "aliases": [
+   "courgette",
+   "zucchinis",
+   "zoodles"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "global",
+   "mediterranean",
+   "middle-eastern"
+  ],
+  "illustration": "zucchini",
+  "tier": "lab-tested",
+  "answer": "Yes, in a modest serve. Monash's current diet sheet lists 65 g of zucchini as low. Reported lab data shows moderate fructans from 75 g and high from 87 g, so one medium zucchini, about 195 g, is more than a single low serve.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "zucchini, raw",
+    "lowMaxG": 65,
+    "moderateFromG": 75,
+    "highFromG": 87,
+    "scaleMaxG": 125,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-mon-3step-2026",
+     "b2-fe-pumpkin",
+     "b2-kk-zucchini"
+    ],
+    "note": "The 65 g serve is from Monash's 2026 diet sheet. The moderate and high amounts are as reported by dietitian sites."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats reports zucchini as low up to 74 g as of August 2026, with moderate fructans from 75 g. An earlier report put the low serve at 67 g.",
+    "sourceIds": [
+     "b2-ge-zucbread",
+     "b2-fe-pumpkin"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly's lab reportedly rates 75 g of raw green zucchini as low, with a 525 g maximum.",
+    "sourceIds": [
+     "b2-fe-pumpkin"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash weighs one medium zucchini at about 195 g in its recipes.",
+    "sourceIds": [
+     "mon-oils-2023"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   },
+   {
+    "name": "Eggplant",
+    "slug": "eggplant"
+   },
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is zucchini bread low FODMAP?",
+    "a": "It depends more on the flour and sweetener. Spread across a whole loaf, the zucchini in one slice is usually a small amount."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "edamame",
+  "name": "edamame",
+  "aliases": [
+   "edamame beans",
+   "young soybeans",
+   "green soybeans"
+  ],
+  "category": "legumes",
+  "regions": [
+   "east-asian"
+  ],
+  "illustration": "edamame",
+  "tier": "lab-tested",
+  "answer": "Yes, at a normal serve. Dietitian sites report a Monash low serve of 75 g of shelled edamame, and the newest report says it stays low up to about 195 g before fructans turn moderate. Edamame behaves very differently from mature soybeans, which are high FODMAP.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "shelled edamame",
+    "lowMaxG": 75,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 105,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b1-kk-veglist",
+     "ge-beans"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash data. See below for the larger still-low amount."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2023–2024",
+    "text": "Earlier reports gave ½ cup (90 g, cooked) as the low serve, with high fructans from 210 g.",
+    "sourceIds": [
+     "b2-fe-plantbased",
+     "b2-kk-soy"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats reports edamame as low up to 195 g as of August 2026, with moderate fructans in larger serves.",
+    "sourceIds": [
+     "ge-beans"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Mature soybeans are high in GOS and fructans, so whole soybeans and milk made from them are not the same as edamame.",
+    "sourceIds": [
+     "b2-kk-soy"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Firm tofu",
+    "slug": "tofu"
+   },
+   {
+    "name": "Green beans",
+    "slug": "green-beans"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does edamame have GOS like other beans?",
+    "a": "Reported testing names fructans, not GOS, as the FODMAP that builds up in large edamame servings."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "jalapeno",
+  "name": "jalapeño",
+  "aliases": [
+   "jalapeno",
+   "jalapeños",
+   "jalapeno pepper",
+   "pickled jalapeños"
+  ],
+  "category": "vegetables",
+  "regions": [
+   "latin-american"
+  ],
+  "illustration": "jalapeno",
+  "tier": "lab-tested",
+  "answer": "Yes, in normal amounts. Dietitian sites report a Monash low serve of 30 g of raw jalapeño (one small chile), with fructose moderate from about 40 g. Pickled jalapeños had only trace FODMAPs and stayed low up to 500 g, the most tested.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "jalapeño, raw",
+    "lowMaxG": 30,
+    "moderateFromG": 40,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "fructose"
+    ],
+    "household": "1 small chile",
+    "sourceIds": [
+     "b2-fe-chiles",
+     "b2-ge-pico"
+    ],
+    "note": "Grams as reported by dietitian sites from Monash data."
+   },
+   {
+    "form": "pickled jalapeño, drained",
+    "lowMaxG": 15,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 25,
+    "groups": [
+     "fructose"
+    ],
+    "household": "1 tbsp (Australian), drained",
+    "sourceIds": [
+     "b2-fe-chiles",
+     "b2-kk-pickles"
+    ],
+    "note": "Only trace FODMAPs were found, and it stayed low up to 500 g, so this is a normal portion, not a limit."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats gives the largest still-low amount for raw jalapeño instead: up to 39 g.",
+    "sourceIds": [
+     "b2-ge-pico"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Peppers contain capsaicin, which can cause heartburn or stomach pain in some people for reasons unrelated to FODMAPs.",
+    "sourceIds": [
+     "b2-kk-bellpep"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Green bell pepper",
+    "slug": "bell-pepper"
+   },
+   {
+    "name": "Paprika",
+    "slug": "paprika"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is salsa with jalapeño low FODMAP?",
+    "a": "The jalapeño is fine in small amounts, but most store-bought salsa also has onion and garlic, so read the label."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "sauerkraut",
+  "name": "sauerkraut",
+  "aliases": [
+   "fermented cabbage",
+   "sauerkohl"
+  ],
+  "category": "condiments",
+  "regions": [
+   "global"
+  ],
+  "illustration": "sauerkraut",
+  "tier": "lab-tested",
+  "answer": "Only a small spoonful. Fermenting cabbage turns some of its sugar into mannitol, a polyol. Monash rates 1 tablespoon as low and a full cup as high. Dietitian sites report 2 tablespoons (23 g) as low, with a moderate amount of mannitol from 35 g.",
+  "groups": [
+   "mannitol"
+  ],
+  "servings": [
+   {
+    "form": "white cabbage sauerkraut",
+    "lowMaxG": 23,
+    "moderateFromG": 35,
+    "highFromG": null,
+    "scaleMaxG": 50,
+    "groups": [
+     "mannitol"
+    ],
+    "household": "2 tbsp",
+    "sourceIds": [
+     "b1-kk-cabbage",
+     "b2-mon-chat-2016",
+     "b1-mon-ferment-2017"
+    ],
+    "note": "Grams as reported by Karlijn's Kitchen. Monash says a full cup is high but gives no gram figure for it."
+   }
+  ],
+  "changes": [
+   {
+    "date": "28 Apr 2025",
+    "text": "Monash now uses white-cabbage sauerkraut as one of its mannitol test foods in the reintroduction phase.",
+    "sourceIds": [
+     "b1-mon-reintro-2025"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Monash's 2016 post put the low serve at 1 tablespoon, smaller than the 2 tablespoons (23 g) that dietitian sites now report.",
+    "sourceIds": [
+     "b2-mon-chat-2016",
+     "b1-kk-cabbage"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Plain cabbage is low in a 1 cup serve, but the same cup fermented into sauerkraut is high in mannitol.",
+    "sourceIds": [
+     "b1-mon-ferment-2017"
+    ]
+   },
+   {
+    "text": "Red cabbage sauerkraut rated moderate in Monash's table, against high for the white version. A dietitian site reported it low at ½ cup in older app data.",
+    "sourceIds": [
+     "b1-mon-ferment-2017",
+     "b2-alby-kraut"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Fresh cabbage slaw",
+    "slug": "cabbage"
+   },
+   {
+    "name": "Pickled jalapeños",
+    "slug": "jalapeno"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I eat sauerkraut for gut health on a low FODMAP diet?",
+    "a": "A spoonful fits. Larger servings add mannitol, so try them during the reintroduction phase instead."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "kimchi",
+  "name": "kimchi",
+  "aliases": [
+   "kimchee",
+   "gimchi",
+   "Korean fermented cabbage"
+  ],
+  "category": "condiments",
+  "regions": [
+   "east-asian"
+  ],
+  "illustration": "kimchi",
+  "tier": "lab-tested",
+  "answer": "In a small side portion. Dietitian sites report that Monash lists 47 g of kimchi as low, with a moderate amount of mannitol from 71 g. As with sauerkraut, fermentation creates mannitol. Recipes and brands vary, so the tested kimchi may not match yours.",
+  "groups": [
+   "mannitol"
+  ],
+  "servings": [
+   {
+    "form": "kimchi",
+    "lowMaxG": 47,
+    "moderateFromG": 71,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "mannitol"
+    ],
+    "sourceIds": [
+     "b1-kk-cabbage"
+    ],
+    "note": "Grams as reported by Karlijn's Kitchen from the Monash app."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2016 to 2024",
+    "text": "In 2016 a dietitian site noted Monash hadn't tested kimchi yet. By 2024 a tested serve of 47 g was being reported.",
+    "sourceIds": [
+     "b2-alby-kraut",
+     "b1-kk-cabbage"
+    ]
+   }
+  ],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Lactic fermentation converts fructose in cabbage into mannitol, which is why fermented cabbage tests higher than fresh.",
+    "sourceIds": [
+     "b2-alby-kraut",
+     "b1-mon-ferment-2017"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Bok choy",
+    "slug": "bok-choy"
+   },
+   {
+    "name": "Cucumber",
+    "slug": "cucumber"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is kimchi high FODMAP?",
+    "a": "Not in a side-dish portion of about 47 g. A big bowl adds mannitol, so keep it as a topping or side."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "ginger",
+  "name": "ginger",
+  "aliases": [
+   "fresh ginger",
+   "ginger root",
+   "pickled ginger"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "east-asian",
+   "south-asian",
+   "global"
+  ],
+  "illustration": "ginger",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash's low serve for fresh ginger is 5 g, raised from 3 g, with no upper limit given, and FODMAP Friendly reportedly found no FODMAPs at all. Fresh ginger is a handy way to add flavor in place of onion and garlic.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh ginger root",
+    "lowMaxG": 5,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-ge-ginger",
+     "b2-fe-ginger"
+    ],
+    "note": "No upper limit was given. The source names no FODMAP group."
+   }
+  ],
+  "changes": [
+   {
+    "date": "by 2024",
+    "text": "Monash's serve for fresh ginger was first 1 teaspoon (3 g) and was raised to 5 g after more testing.",
+    "sourceIds": [
+     "b2-fe-ginger"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly reportedly found no FODMAPs in fresh ginger or in plain pickled ginger.",
+    "sourceIds": [
+     "b2-fe-ginger",
+     "b2-ge-ginger"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash names ginger, with garlic-infused oil and spring onion greens, as a versatile flavor base for low FODMAP cooking.",
+    "sourceIds": [
+     "b2-mon-asian-2024",
+     "b2-mon-flavour-2015"
+    ]
+   },
+   {
+    "text": "Ginger ale is reported low up to 244 g in Monash data. No Monash entry for ground ginger was found.",
+    "sourceIds": [
+     "b2-ge-ginger"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Is ginger tea low FODMAP?",
+    "a": "Ginger tea itself hasn't been tested, but a homemade infusion of fresh ginger is likely fine given ginger's results."
+   },
+   {
+    "q": "Is ground ginger low FODMAP?",
+    "a": "No public test was found. It's likely similar to fresh ginger, but that's an assumption, not a lab result."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cinnamon",
+  "name": "cinnamon",
+  "aliases": [
+   "ground cinnamon",
+   "cinnamon sticks",
+   "cassia",
+   "Ceylon cinnamon"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "global",
+   "middle-eastern",
+   "south-asian"
+  ],
+  "illustration": "cinnamon",
+  "tier": "estimated",
+  "answer": "Probably fine in normal amounts. Monash names cinnamon among spices used in low FODMAP cooking, and a dietitian site reports a Monash-tested serve of 1 teaspoon. We found no public gram figure, so we can't show a lab-tested amount here.",
+  "estimateAnswer": {
+   "word": "Likely fine",
+   "line": "A 1 teaspoon serve is reported to have passed Monash testing, but no gram figure is public."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "ground cinnamon",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-plantbased",
+     "b2-mon-herbs-2017",
+     "mon-shop-2025"
+    ],
+    "note": "No public gram figure, so no amounts are shown. The source names no FODMAP group."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash lists cinnamon in its Mexican cuisine row and other cuisine rows of low FODMAP herbs and spices.",
+    "sourceIds": [
+     "b2-mon-herbs-2017"
+    ]
+   },
+   {
+    "text": "Monash advises avoiding seasoning mixes and blends, which can hide garlic or onion.",
+    "sourceIds": [
+     "b2-mon-flavour-2015",
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Can I bake with cinnamon on a low FODMAP diet?",
+    "a": "Yes. A teaspoon spread through a recipe is a small amount per serve; the flour and sweetener matter far more."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cilantro",
+  "name": "cilantro",
+  "aliases": [
+   "coriander leaves",
+   "fresh coriander",
+   "Chinese parsley"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "latin-american",
+   "south-asian",
+   "east-asian",
+   "middle-eastern"
+  ],
+  "illustration": "cilantro",
+  "tier": "lab-tested",
+  "answer": "Yes. Fresh cilantro (coriander leaves) is reported low at 1 cup in Monash testing, which weighs only about 16 g. Monash also lists fresh herbs among its low FODMAP staples. Dried coriander seed is a separate spice, reported low up to 20 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh cilantro leaves",
+    "lowMaxG": 16,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 25,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup",
+    "sourceIds": [
+     "b2-fe-plantbased",
+     "mon-shop-2025"
+    ],
+    "note": "No moderate or high amount has been published. The source names no FODMAP group."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Dried coriander is reported low up to 20 g in Monash data, with moderate fructose in larger serves.",
+    "sourceIds": [
+     "b2-ge-taco"
+    ]
+   },
+   {
+    "text": "Monash lists coriander with parsley, thyme, basil and rosemary as fresh herbs that add flavor without FODMAPs.",
+    "sourceIds": [
+     "b2-mon-flavour-2015",
+     "b2-mon-herbs-2017"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Is cilantro lime rice low FODMAP?",
+    "a": "The cilantro and rice are fine. Check any added garlic or onion, which many recipes include."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "basil",
+  "name": "basil",
+  "aliases": [
+   "fresh basil",
+   "sweet basil",
+   "Thai basil",
+   "basil leaves"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "mediterranean",
+   "east-asian"
+  ],
+  "illustration": "basil",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash testing reportedly rates 1 cup of fresh basil, about 16 g, as low, and Monash lists fresh and dried herbs among low FODMAP staples. Basil is so light that a cup is a generous handful. Classic pesto is the catch, because of its garlic.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh basil leaves",
+    "lowMaxG": 16,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 25,
+    "groups": [
+     "fructans"
+    ],
+    "household": "1 cup",
+    "sourceIds": [
+     "b2-fe-plantbased",
+     "mon-shop-2025"
+    ],
+    "note": "No moderate or high amount has been published. The source names no FODMAP group."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash lists basil in Italian and Indian cooking and Thai basil in Asian cooking as low FODMAP flavorings.",
+    "sourceIds": [
+     "b2-mon-herbs-2017"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Is pesto low FODMAP?",
+    "a": "Basil is fine, but most pesto has garlic. Make it with garlic-infused oil, and check the nut amount per serve."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "paprika",
+  "name": "paprika",
+  "aliases": [
+   "sweet paprika",
+   "smoked paprika",
+   "ground paprika",
+   "pimentón"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "paprika",
+  "tier": "lab-tested",
+  "answer": "Yes, in normal amounts. Monash's reported low serve for paprika is 1 teaspoon (2 g), and larger amounts add fructose. Newer reports say smoked paprika reaches a moderate amount at 5 g. FODMAP Friendly reportedly found no FODMAPs in paprika.",
+  "groups": [
+   "fructose"
+  ],
+  "servings": [
+   {
+    "form": "ground paprika (sweet or regular)",
+    "lowMaxG": 2,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 3,
+    "groups": [
+     "fructose"
+    ],
+    "household": "1 tsp",
+    "sourceIds": [
+     "b2-fe-taco",
+     "b2-ge-thaicurry"
+    ],
+    "note": "Reported Monash low serve. No upper limit was given at the time."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2026",
+    "text": "George Eats reported that Monash added an upper threshold for regular paprika, with moderate fructose after 7 g.",
+    "sourceIds": [
+     "b2-ge-taco"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Reports on smoked paprika differ: one George Eats page says it is low up to 5 g, another says it is moderate at 5 g.",
+    "sourceIds": [
+     "b2-ge-jerk",
+     "b2-ge-tagine"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly reportedly lists paprika as free of FODMAPs.",
+    "sourceIds": [
+     "b2-ge-taco",
+     "b2-ge-thaicurry"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash lists paprika in Mexican, Moroccan and Spanish cooking as a low FODMAP spice.",
+    "sourceIds": [
+     "b2-mon-herbs-2017"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Is smoked paprika low FODMAP?",
+    "a": "In small amounts. Reports put its moderate point at about 5 g, so keep the amount per serve modest."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cumin",
+  "name": "cumin",
+  "aliases": [
+   "ground cumin",
+   "cumin seed",
+   "jeera",
+   "black cumin"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "middle-eastern",
+   "south-asian",
+   "latin-american",
+   "african"
+  ],
+  "illustration": "cumin",
+  "tier": "lab-tested",
+  "answer": "Yes, in normal amounts. A dietitian site reports that Monash tested ground cumin and black cumin seed and rated 2 g portions as low. Monash also lists cumin among spices for low FODMAP cooking. Spice blends are the risk, since many add garlic or onion.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "ground cumin",
+    "lowMaxG": 2,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 3,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-taco"
+    ],
+    "note": "Reported Monash low serve. No upper limit has been published. The source names no FODMAP group."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash names cumin in its Mexican, Indian, Middle Eastern and Moroccan rows of low FODMAP spices.",
+    "sourceIds": [
+     "b2-mon-herbs-2017",
+     "b2-mon-flavour-2015"
+    ]
+   },
+   {
+    "text": "Monash's shopping list allows most spices, as long as they don't contain garlic or onion.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Is whole cumin seed low FODMAP?",
+    "a": "Black cumin seed (kalonji) was also reported low at 2 g. Regular whole cumin seed is likely similar, but we found no separate public test."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "garlic-powder",
+  "name": "garlic powder",
+  "aliases": [
+   "granulated garlic",
+   "dried garlic",
+   "garlic salt"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "global"
+  ],
+  "illustration": "garlic-powder",
+  "tier": "estimated",
+  "answer": "Usually not. Garlic powder is dried garlic, and Monash lists it beside fresh garlic as a high-fructan ingredient to look for on labels. Drying removes water, so the fructans are more concentrated by weight. No lab-tested serve is public. Garlic-infused oil is the usual swap.",
+  "estimateAnswer": {
+   "word": "Usually high",
+   "line": "Monash lists garlic powder as a high-fructan ingredient. No public lab amount exists."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "garlic powder",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-mon-processing-2017",
+     "b2-alby-replace"
+    ],
+    "note": "Not lab-tested in public data. Estimated from what it's made of."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Fresh garlic is high in fructans even at 3 g, and dried garlic has had its water taken out.",
+    "sourceIds": [
+     "mon-fructans-2020",
+     "b2-alby-replace"
+    ]
+   },
+   {
+    "text": "Monash's label guide also flags garlic salt and garlic extract as fructan sources.",
+    "sourceIds": [
+     "b2-mon-processing-2017"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Garlic-infused oil",
+    "slug": "garlic-infused-oil"
+   },
+   {
+    "name": "Chives",
+    "slug": "chives"
+   },
+   {
+    "name": "Asafoetida (a pinch)"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much garlic powder is too much?",
+    "a": "No public lab amount exists. Since fresh garlic is already high at 3 g, assume garlic powder is high in any normal amount."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "onion-powder",
+  "name": "onion powder",
+  "aliases": [
+   "dried onion",
+   "onion salt",
+   "dehydrated onion"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "global"
+  ],
+  "illustration": "onion-powder",
+  "tier": "estimated",
+  "answer": "Usually not. Onion powder is dried onion, and Monash lists it with onion as a high-fructan ingredient to check for on labels. Drying concentrates the fructans by weight, and no lab-tested serve is public. Spring onion greens, chives or onion-infused oil give onion flavor instead.",
+  "estimateAnswer": {
+   "word": "Usually high",
+   "line": "Monash lists onion powder as a high-fructan ingredient. No public lab amount exists."
+  },
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "onion powder",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 10,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-mon-processing-2017",
+     "b2-alby-replace"
+    ],
+    "note": "Not lab-tested in public data. Estimated from what it's made of."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Many packaged flavors use onion and garlic powder, so it turns up in snacks, stocks and seasonings.",
+    "sourceIds": [
+     "b2-ff-onion-2020"
+    ]
+   },
+   {
+    "text": "Monash suggests a pinch of asafoetida powder for onion flavor in curries, rice dishes and stews.",
+    "sourceIds": [
+     "b2-mon-asian-2024",
+     "b2-mon-flavour-2015"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Spring onion greens",
+    "slug": "spring-onion"
+   },
+   {
+    "name": "Chives",
+    "slug": "chives"
+   },
+   {
+    "name": "Garlic-infused oil",
+    "slug": "garlic-infused-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is onion salt low FODMAP?",
+    "a": "No. Monash lists onion salt alongside onion powder as a high-fructan ingredient."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "chives",
+  "name": "chives",
+  "aliases": [
+   "chive",
+   "fresh chives",
+   "garlic chives",
+   "Asian chives"
+  ],
+  "category": "herbs-spices",
+  "regions": [
+   "global"
+  ],
+  "illustration": "chives",
+  "tier": "lab-tested",
+  "answer": "Yes. Chives are one of the easiest onion swaps: Monash and FODMAP Friendly both reportedly found no FODMAPs, with a standard serve of 4 g. Dried chives (2 g serve) and Asian or garlic chives (80 g serve) are reported low too.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "fresh chives",
+    "lowMaxG": 4,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 6,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b2-fe-alliums",
+     "mon-faq"
+    ],
+    "note": "No FODMAPs were reportedly detected, so this is a normal portion, not a limit. The source names no FODMAP group."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats gives the largest still-low amount instead: up to 500 g per person.",
+    "sourceIds": [
+     "b2-ge-goddess"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's FAQ names chives, with spring onion greens and asafoetida, as ways to add flavor without onion or garlic.",
+    "sourceIds": [
+     "mon-faq",
+     "b2-mon-flavour-2015"
+    ]
+   }
+  ],
+  "swaps": [],
+  "faq": [
+   {
+    "q": "Are garlic chives low FODMAP?",
+    "a": "Yes. Asian (garlic) chives were reported low at an 80 g serve, and they add a mild garlic taste."
    }
   ],
   "published": "2026-11-19",
@@ -2353,7 +4431,7 @@
    {
     "text": "Monash and FODMAP Friendly both list pineapple among their low FODMAP fruits.",
     "sourceIds": [
-     "b3-mon-info-2026",
+     "b2-mon-3step-2026",
      "ff-list"
     ]
    }
@@ -2627,7 +4705,7 @@
     "text": "Monash names apples among the fruits richest in both excess fructose and sorbitol, and lists apple juice as high.",
     "sourceIds": [
      "b1-mon-where",
-     "b3-mon-info-2026"
+     "b2-mon-3step-2026"
     ]
    },
    {
@@ -2798,7 +4876,7 @@
     "text": "Monash names cherries among the fruits high in both excess fructose and sorbitol.",
     "sourceIds": [
      "b1-mon-where",
-     "b3-mon-info-2026"
+     "b2-mon-3step-2026"
     ]
    },
    {
@@ -2886,7 +4964,7 @@
    {
     "text": "Monash and FODMAP Friendly both list oranges among low FODMAP fruits.",
     "sourceIds": [
-     "b3-mon-info-2026",
+     "b2-mon-3step-2026",
      "ff-list"
     ]
    }
@@ -2946,7 +5024,7 @@
     ],
     "household": "¾ cup",
     "sourceIds": [
-     "b3-mon-info-2026",
+     "b2-mon-3step-2026",
      "b3-kk-melon-2024",
      "ge-fruits"
     ]
@@ -3841,7 +5919,7 @@
    {
     "text": "Monash and FODMAP Friendly both list watermelon in their high FODMAP fruit column.",
     "sourceIds": [
-     "b3-mon-info-2026",
+     "b2-mon-3step-2026",
      "ff-list"
     ]
    },
@@ -5395,7 +7473,8 @@
     "slug": "chickpeas"
    },
    {
-    "name": "Edamame"
+    "name": "Edamame",
+    "slug": "edamame"
    }
   ],
   "faq": [
@@ -6394,7 +8473,7 @@
     "text": "Pumpkin seeds appear in the low FODMAP column of Monash's food list and 3-step sheet, and of FODMAP Friendly's list.",
     "sourceIds": [
      "b1-mon-where",
-     "b3-mon-info-2026",
+     "b2-mon-3step-2026",
      "ff-list"
     ]
    },
@@ -8474,6 +10553,13 @@
     "sourceIds": [
      "b6-alby-soy"
     ]
+   },
+   {
+    "text": "Dietitian sites report a slightly larger low serve of firm tofu, 170 g. Monash's public fibre guide lists 160 g (⅔ cup cubed), which we show.",
+    "sourceIds": [
+     "b6-ge-tofu",
+     "mon-fibre-2021"
+    ]
    }
   ],
   "notes": [
@@ -8537,7 +10623,7 @@
   ],
   "illustration": "tofu",
   "tier": "lab-tested",
-  "answer": "Firm tofu, yes: 170 g, about 1 cup cubed, is a low FODMAP serve per dietitian sites citing Monash, with fructans turning moderate from 175 g. Silken tofu is much stricter: low only up to about 39 g, with GOS moderate from 46 g.",
+  "answer": "Firm tofu, yes: 160 g (⅔ cup cubed) is a low FODMAP serve in Monash's fibre guide; fructans turn moderate from about 175 g. Silken tofu is much stricter: low only up to about 39 g, with GOS moderate from 46 g.",
   "groups": [
    "fructans",
    "gos"
@@ -8545,7 +10631,7 @@
   "servings": [
    {
     "form": "firm tofu, drained",
-    "lowMaxG": 170,
+    "lowMaxG": 160,
     "moderateFromG": 175,
     "highFromG": null,
     "scaleMaxG": 240,
@@ -8553,10 +10639,12 @@
      "fructans"
     ],
     "sourceIds": [
+     "mon-fibre-2021",
      "b6-alby-soy",
      "b6-ge-tofu",
      "b6-mon-tofu-2015"
-    ]
+    ],
+    "household": "⅔ cup cubed"
    },
    {
     "form": "silken tofu",
@@ -8902,7 +10990,7 @@
     "text": "Monash's food list names maple syrup, table sugar and rice malt syrup as low FODMAP sweeteners, and suggests maple syrup for adding flavour.",
     "sourceIds": [
      "b1-mon-where",
-     "b7-mon-flavour-2015",
+     "b2-mon-flavour-2015",
      "ff-list"
     ]
    },
@@ -8967,7 +11055,7 @@
     ],
     "household": "2 tablespoons",
     "sourceIds": [
-     "b7-kk-soy",
+     "b2-kk-soy",
      "b7-alby-soy"
     ],
     "note": "Sources don't name a limiting FODMAP. Fructans is shown because soy sauce is brewed with wheat.",
@@ -8984,7 +11072,7 @@
     ],
     "household": "1 tablespoon",
     "sourceIds": [
-     "b7-kk-soy",
+     "b2-kk-soy",
      "b7-alby-soy"
     ]
    }
@@ -9014,7 +11102,7 @@
    {
     "text": "Tamari, the wheat-free version, hasn't been tested separately. Because regular soy sauce is low, tamari probably is too.",
     "sourceIds": [
-     "b7-kk-soy"
+     "b2-kk-soy"
     ]
    }
   ],
@@ -9628,7 +11716,7 @@
    {
     "text": "Fermentation can lower fructans and GOS, but it doesn't always bring a food down to a low rating.",
     "sourceIds": [
-     "b7-mon-proc-2017",
+     "b2-mon-processing-2017",
      "b7-alby-acv"
     ]
    }
@@ -9947,7 +12035,7 @@
      "gos"
     ],
     "sourceIds": [
-     "b7-kk-soy",
+     "b2-kk-soy",
      "b7-alby-condiments"
     ],
     "note": "Sources disagree on the spoon size for 12 g, so we show grams only. They don't name the FODMAP; GOS is shown because miso is made from soybeans.",
@@ -9959,7 +12047,7 @@
    {
     "text": "The spoon size for 12 g differs: Karlijn's Kitchen calls it 2 tablespoons, A Little Bit Yummy's 2019 list says 2 sachets, and its 2025 soy guide says 1 tablespoon.",
     "sourceIds": [
-     "b7-kk-soy",
+     "b2-kk-soy",
      "b7-alby-condiments",
      "b7-alby-soy"
     ]
@@ -9975,7 +12063,7 @@
    {
     "text": "Miso is fermented soybeans. Fermentation lets microbes feed on fructans and GOS, which lowers them.",
     "sourceIds": [
-     "b7-mon-proc-2017",
+     "b2-mon-processing-2017",
      "b7-alby-soy"
     ]
    }

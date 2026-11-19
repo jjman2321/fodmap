@@ -44,8 +44,8 @@ export function AnswerCard({ food, cite }: { food: Food; cite: (ids: string[]) =
     lights.push(s.lowMaxG !== null ? { tone: "low", label: "Low", grams: amt(s, s.lowMaxG), sub: s.household, level: 1 } : { tone: "none", label: "Low", grams: "none", sub: "no low amount", level: 0 });
     if (s.moderateFromG !== null) lights.push({ tone: "mid", label: "Moderate", grams: amt(s, s.moderateFromG), level: 2 });
     if (s.highFromG !== null) lights.push({ tone: "high", label: "High", grams: `${amt(s, s.highFromG)}+`, sub: s.lowMaxG === null ? "smallest tested" : undefined, level: 3 });
-    if (s.lowMaxG === null && s.highFromG === null) lights.push({ tone: "high", label: "High", grams: "normal serve", level: 3 });
-    else if (s.moderateFromG === null && s.highFromG === null) lights.push({ tone: "none", label: "More", grams: "not tested", sub: `above ${amt(s, s.lowMaxG)}`, level: 2 });
+    if (s.lowMaxG === null && s.moderateFromG === null && s.highFromG === null) lights.push({ tone: "high", label: "High", grams: "normal serve", level: 3 });
+    else if (s.lowMaxG !== null && s.moderateFromG === null && s.highFromG === null) lights.push({ tone: "none", label: "More", grams: "not tested", sub: `above ${amt(s, s.lowMaxG)}`, level: 2 });
   }
   const textTone = TONE[tone].text;
 
@@ -66,7 +66,7 @@ export function AnswerCard({ food, cite }: { food: Food; cite: (ids: string[]) =
       </ul>
       )}
       <p className="mt-4 text-[14px] text-muted">
-        {v === "free" ? <>Nothing to watch for FODMAPs</> : <>Watch for: <b className="text-ink">{groups}</b></>} · {v === "estimate" || v === "unknown" ? m.tier[food.tier] : "Lab data"}{cite(s.sourceIds)}
+        {v === "free" ? <>Nothing to watch for FODMAPs · </> : v === "estimate" ? null : <>Watch for: <b className="text-ink">{groups}</b> · </>}{v === "estimate" || v === "unknown" ? m.tier[food.tier] : "Lab data"}{cite(s.sourceIds)}
       </p>
     </section>
   );

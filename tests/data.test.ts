@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { allFoods, foods, getSource, citedSources } from "@/data";
 import { headline } from "@/lib/verdict";
-import { fmt, messages as m } from "@/lib/i18n";
+import { question } from "@/lib/grammar";
 import en from "@/messages/en.json";
 
 const DAY = 86_400_000;
@@ -37,7 +37,7 @@ describe("data rules (DECISIONS §0)", () => {
         for (const s of f.swaps) if (s.slug) expect(foods.some((o) => o.slug === s.slug), `${f.slug} → ${s.slug}`).toBe(true);
       });
       it("title ≤ 60 characters", () => {
-        expect(`${fmt(m.food.title, { name: f.name })} ${headline(f).short}`.slice(0, 60).length).toBeLessThanOrEqual(60);
+        expect(`${question(f.name)} ${headline(f).short}`.slice(0, 60).length).toBeLessThanOrEqual(60);
       });
       it("copy lint: no health claims", () => {
         const text = [f.answer, ...f.notes.map((n) => n.text), ...f.faq.flatMap((q) => [q.q, q.a]), ...f.swaps.map((s) => s.why ?? "")].join(" ");
