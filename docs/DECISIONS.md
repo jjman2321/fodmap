@@ -102,3 +102,12 @@ Owner: "research and lmk". Claude's call after research, open to owner change: *
 
 ## M1 plan approved (owner, 2026-11-18)
 Owner chose "Yes, build M1". Direction 1 "Market fresh" plus direction 2's hairline rows is confirmed. Build per `docs/plans/M1-foundation.md`.
+
+## M1 review: "looks mid" (owner, 2026-11-19)
+Owner picked "Looks mid" on the M1 screenshots. Claude's diagnosis:
+1. The answer isn't the hero: the grams sit in a small chip and a paragraph.
+2. Pictures repeat: 4 foods share one bowl, and pomegranate reuses the strawberry.
+3. The portion bar is thin, with no labels.
+4. Every block is the same white card, and the home page is 10 identical rows.
+
+3 food-page hero options were mocked up: `docs/designs/m1-polish/hero-options.png`. A "Big answer" (BitePal/Oura) 9/10, B "Picture header" (Julienne) 8/10, C "Portion plate" 7.5/10. Waiting for the pick.
