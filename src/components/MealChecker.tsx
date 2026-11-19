@@ -4,6 +4,7 @@ import type { Food } from "@/data/schema";
 import { GROUP_LABEL, type Group } from "@/lib/groups";
 import { stack, stackStatus, zoneFor } from "@/lib/fodmap";
 import { matches, type IndexItem } from "@/lib/match";
+import { useIndex } from "@/lib/useIndex";
 import { ZONE_STYLE } from "./ZoneChip";
 import { fmt, messages as m } from "@/lib/i18n";
 
@@ -11,7 +12,9 @@ type Line = { slug: string; grams: number };
 const STATUS = { ok: { zone: "low", label: "Within one low serving" }, watch: { zone: "moderate", label: "May add up: watch this group" }, high: { zone: "high", label: "High" } } as const;
 
 // Meal stacker: add foods + grams, see each FODMAP group's estimated load. Always labelled an estimate.
-export function MealChecker({ items }: { items: IndexItem[] }) {
+export function MealChecker() {
+  const { items, load } = useIndex();
+  useEffect(() => { load(); }, [load]);
   const [lines, setLines] = useState<Line[]>([]);
   const [q, setQ] = useState("");
   const bySlug = useMemo(() => new Map(items.map((i) => [i.slug, i])), [items]);

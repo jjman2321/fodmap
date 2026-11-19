@@ -1,12 +1,12 @@
 import { Food, Source, type FoodInput } from "./schema";
-import { SOURCES } from "./sources";
-import { FOODS_RAW } from "./foods";
+import { ALL_SOURCES } from "./sources";
+import { ALL_FOODS_RAW } from "./foods";
 
-export const sources = SOURCES.map((s) => Source.parse(s));
+export const sources = ALL_SOURCES.map((s) => Source.parse(s));
 const sourceById = new Map(sources.map((s) => [s.id, s]));
 export const getSource = (id: string) => sourceById.get(id);
 
-export const allFoods: Food[] = (FOODS_RAW as FoodInput[]).map((f) => Food.parse(f));
+export const allFoods: Food[] = (ALL_FOODS_RAW as FoodInput[]).map((f) => Food.parse(f));
 // Only verified foods get a page (DitchSubs lesson: unverified rows never publish).
 export const foods = allFoods.filter((f) => f.status === "verified").sort((a, b) => a.name.localeCompare(b.name));
 const bySlug = new Map(foods.map((f) => [f.slug, f]));

@@ -16,7 +16,7 @@ import { abs } from "@/lib/site";
 export const dynamicParams = false;
 export function generateStaticParams() { return foods.map((f) => ({ slug: f.slug })); }
 
-const CATEGORY_LABEL: Record<string, string> = { vegetables: "Vegetables", fruit: "Fruit", "nuts-seeds": "Nuts and seeds", dairy: "Dairy", grains: "Grains and bread", legumes: "Beans and lentils", condiments: "Sauces and spreads", "herbs-spices": "Herbs and spices" };
+const CATEGORY_LABEL: Record<string, string> = { vegetables: "Vegetables", fruit: "Fruit", "nuts-seeds": "Nuts and seeds", dairy: "Dairy", grains: "Grains and bread", legumes: "Beans and lentils", condiments: "Sauces and spreads", "herbs-spices": "Herbs and spices", protein: "Meat, fish and eggs", drinks: "Drinks" };
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const food = getFood((await params).slug);
@@ -39,13 +39,13 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
   return (
     <article className="mx-auto max-w-3xl px-4 pb-8 pt-5">
       <JsonLd graph={[
-        breadcrumbs([{ name: "Foods", path: "/foods" }, { name: food.name, path: `/food/${food.slug}` }]),
+        breadcrumbs([{ name: "Foods", path: "/foods" }, { name: CATEGORY_LABEL[food.category], path: `/category/${food.category}` }, { name: food.name, path: `/food/${food.slug}` }]),
         { "@type": "Article", headline: title, description: food.answer, datePublished: food.published, dateModified: food.checked, author: { "@id": ORG_ID }, publisher: { "@id": ORG_ID }, mainEntityOfPage: abs(`/food/${food.slug}`),
           about: { "@type": "Thing", name: food.name }, citation: cited.map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url, publisher: s.publisher })) },
       ]} />
       <div className="flex items-start justify-between gap-4">
         <div>
-          <nav aria-label="Breadcrumb" className="text-[13px] text-muted"><Link href="/foods" className="hover:text-ink">Foods</Link> › {CATEGORY_LABEL[food.category]}</nav>
+          <nav aria-label="Breadcrumb" className="text-[13px] text-muted"><Link href="/foods" className="hover:text-ink">Foods</Link> › <Link href={`/category/${food.category}`} className="hover:text-ink">{CATEGORY_LABEL[food.category]}</Link></nav>
           <h1 className="mt-2 text-[30px] font-semibold sm:text-[42px]">{title}</h1>
         </div>
         <FoodArt name={food.illustration} size={104} priority />

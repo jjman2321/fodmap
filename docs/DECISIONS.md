@@ -142,3 +142,8 @@ Owner: "not bad improve the diagrams and maybe on the home page aswell make it c
 
 ## No answers on the home page (owner, 2026-11-19)
 Owner: "no dont display the details on home page they should click to see". Home tiles and search results show only the picture and name; the answer lives on the food page. (The Middle Eastern hub keeps its Low/High pills for now.)
+
+## M2 approved: add the foods, aim for 10/10 (owner, 2026-11-19)
+Owner: "yeah add all the foods ig and make the site 10/10".
+- **Scale, said once:** "all foods" (~3,500) at once would trigger Google's scaled-content rules. M2 adds ~115 foods (~125 total) chosen from DataForSEO volumes plus the Middle Eastern gaps; later batches follow Search Console data.
+- **"10/10" means:** every number sourced, a clear picture per food, category hubs, Lighthouse ≥ 95, and the technical SEO done. It gets scored honestly at the end of M2/M3.

@@ -43,7 +43,7 @@ export const Food = z.object({
   slug: z.string().regex(/^[a-z0-9-]+$/),
   name: z.string().min(2),           // as used in a sentence: "sweet potato"
   aliases: z.array(z.string()).default([]),
-  category: z.enum(["vegetables", "fruit", "nuts-seeds", "dairy", "grains", "legumes", "condiments", "herbs-spices"]),
+  category: z.enum(["vegetables", "fruit", "nuts-seeds", "dairy", "grains", "legumes", "condiments", "herbs-spices", "protein", "drinks"]),
   regions: z.array(z.enum(["middle-eastern", "south-asian", "east-asian", "latin-american", "mediterranean", "african", "global"])).min(1),
   illustration: z.string(),
   tier: Tier,

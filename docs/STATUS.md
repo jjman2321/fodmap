@@ -9,7 +9,8 @@ Start of every session: read this file, then `docs/DECISIONS.md` (it wins over a
 - Foods (every number sourced, research in `research/food-facts/`): garlic, sweet potato, avocado, tahini, strawberries, chickpeas, hummus (not lab-tested), pomegranate, lentils, feta.
 - Checks: lint, typecheck, 88 tests, axe accessibility 0 issues (8 pages, light + dark), Cloudflare build OK, Worker 1.99 MB gzip (free plan limit 3 MB).
 - Screenshots: `docs/designs/m1/` (phone 390×844 + desktop 1280×900, light + dark).
-- Not measured yet: Lighthouse speed (planned for M3, median of 3 on phone settings).
+- Lighthouse (phone, local `next start`, 3 runs, 2026-11-19): home 94–97, food page 96–97, category 96–98. Accessibility 100, best practices 100, SEO 100 with indexing on (66–69 while `SITE_INDEXING=off`, expected). Re-measure on the Cloudflare Worker in M3.
+- Site crawl (`node scripts/sitecheck.cjs`): 26 pages, 0 problems (status, one H1, canonical, share image, footer disclaimer, no broken links).
 
 ## Next
 1. ⏳ Owner reviews M1 v2 (big-answer hero, new pictures, tiles): `docs/designs/m1/review-phone-v2.png`.
@@ -23,6 +24,9 @@ npm run check                       # lint + typecheck + tests
 SITE_INDEXING=off npx next build && npx next start -p 3000
 node scripts/shots.cjs http://localhost:3000 docs/designs/m1   # screenshots
 node scripts/a11y.cjs http://localhost:3000                    # accessibility
+node scripts/sitecheck.cjs http://localhost:3000               # crawl: links, H1, canonical, share image
+scripts/lighthouse.sh http://localhost:3000 / /food/garlic     # speed, median of 3
+npx tsx scripts/import-m2.ts                                   # import research/m2 batches → src/data/generated
 npx opennextjs-cloudflare build && npx wrangler deploy --dry-run --outdir /tmp/wr   # Worker build + size
 ```
 

@@ -8,7 +8,7 @@ import { headline, fmtDate, formLabel } from "@/lib/verdict";
 
 export const metadata: Metadata = { title: "Printable low FODMAP list with grams", description: "A one-page low FODMAP list by food group, with the low amount in grams and the FODMAP to watch.", alternates: { canonical: "/printable" } };
 
-const CAT: [string, string][] = [["vegetables", "Vegetables"], ["fruit", "Fruit"], ["legumes", "Beans and lentils"], ["grains", "Grains and bread"], ["dairy", "Dairy"], ["nuts-seeds", "Nuts and seeds"], ["condiments", "Sauces and spreads"], ["herbs-spices", "Herbs and spices"]];
+const CAT: [string, string][] = [["vegetables", "Vegetables"], ["fruit", "Fruit"], ["legumes", "Beans and lentils"], ["grains", "Grains and bread"], ["dairy", "Dairy"], ["nuts-seeds", "Nuts and seeds"], ["condiments", "Sauces and spreads"], ["herbs-spices", "Herbs and spices"], ["protein", "Meat, fish and eggs"], ["drinks", "Drinks"]];
 
 export default function PrintablePage() {
   const latest = foods.map((f) => f.checked).sort().at(-1) ?? "";

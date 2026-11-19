@@ -1,4 +1,5 @@
 import type { Source } from "./schema";
+import generated from "./generated/sources.json";
 
 // Every source the site cites. Public material only: never the Monash or FODMAP Friendly apps (DECISIONS §0).
 // Gathered and checked 2026-11-18: research/food-facts/food-facts-2026-11-18.json (quotes + how each was read).
@@ -42,3 +43,6 @@ export const SOURCES: Source[] = [
   sec("fe-pomegranate", "Roasted delicata squash salad with pomegranate (search snippet)", "FODMAP Everyday", "https://www.fodmapeveryday.com/recipes/low-fodmap-roasted-delicata-squash-arugula-salad-with-goat-cheese-and-pomegranate/"),
   sec("ge-feta", "Winter citrus salad with feta and fennel (search snippet)", "George Eats", "https://georgeats.com/recipes/winter-citrus-salad-with-feta-and-fennel/"),
 ];
+
+// M2 research batches (scripts/import-m2.ts).
+export const ALL_SOURCES: Source[] = [...SOURCES, ...(generated as Source[])];
