@@ -12,6 +12,7 @@ import { fmt, messages as m } from "@/lib/i18n";
 import { JsonLd, breadcrumbs, ORG_ID } from "@/lib/jsonld";
 import { fmtDate, headline } from "@/lib/verdict";
 import { abs } from "@/lib/site";
+import { amt } from "@/lib/units";
 
 export const dynamicParams = false;
 export function generateStaticParams() { return foods.map((f) => ({ slug: f.slug })); }
@@ -54,7 +55,7 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
       <AnswerCard food={food} cite={cite} />
 
       <div className="mt-8">
-        {food.tier !== "estimated" && food.tier !== "unknown" && (
+        {food.tier !== "estimated" && food.tier !== "unknown" && !food.noFodmaps && (main.lowMaxG !== null || main.highFromG !== null) && (
           <Row title="Check your portion">
             <PortionSlider serving={main} />
           </Row>
@@ -73,7 +74,7 @@ export default async function FoodPage({ params }: { params: Promise<{ slug: str
         {food.servings.length > 1 && (
           <Row title={m.food.forms}>
             <table className="w-full text-[15px]"><thead><tr className="text-left text-muted"><th className="py-1 font-medium">Form</th><th className="font-medium">Low up to</th><th className="font-medium">High from</th></tr></thead>
-              <tbody>{food.servings.map((s) => (<tr key={s.form} className="border-t border-line"><td className="py-2">{s.form}</td><td>{s.lowMaxG === null ? "None tested" : `${s.lowMaxG} g`}</td><td>{s.highFromG === null ? "—" : `${s.highFromG} g`}{cite(s.sourceIds)}</td></tr>))}</tbody></table>
+              <tbody>{food.servings.map((s) => (<tr key={s.form} className="border-t border-line"><td className="py-2">{s.form}</td><td>{s.lowMaxG === null ? "None tested" : amt(s, s.lowMaxG)}</td><td>{s.highFromG === null ? "—" : amt(s, s.highFromG)}{cite(s.sourceIds)}</td></tr>))}</tbody></table>
           </Row>
         )}
         {food.changes.length > 0 && (<Row title={m.food.changed}><ul className="space-y-2">{food.changes.map((c) => (<li key={c.text}><b>{c.date}:</b> {c.text}{cite(c.sourceIds)}</li>))}</ul></Row>)}

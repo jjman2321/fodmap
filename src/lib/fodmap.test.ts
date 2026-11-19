@@ -2,8 +2,8 @@ import { describe, expect, it } from "vitest";
 import { bands, stack, stackStatus, zoneFor } from "./fodmap";
 import type { Food, Serving } from "@/data/schema";
 
-const sweet: Serving = { form: "cooked", lowMaxG: 75, moderateFromG: 100, highFromG: 112, scaleMaxG: 150, groups: ["mannitol"], sourceIds: ["x"] };
-const allHigh: Serving = { form: "raw", lowMaxG: null, moderateFromG: null, highFromG: 3, scaleMaxG: 10, groups: ["fructans"], sourceIds: ["x"] };
+const sweet: Serving = { form: "cooked", lowMaxG: 75, moderateFromG: 100, highFromG: 112, scaleMaxG: 150, groups: ["mannitol"], unit: "g", sourceIds: ["x"] };
+const allHigh: Serving = { form: "raw", lowMaxG: null, moderateFromG: null, highFromG: 3, scaleMaxG: 10, groups: ["fructans"], unit: "g", sourceIds: ["x"] };
 
 describe("zoneFor", () => {
   it("never guesses between tested amounts", () => {

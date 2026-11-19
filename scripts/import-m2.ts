@@ -17,6 +17,19 @@ const report: string[] = [];
 const existing = new Set(FOODS_RAW.map((f) => f.slug));
 const BANNED = [/\bsafe\b/i, /\bcures?\b/i, /\btreats?\b/i, /ibs[- ]friendly/i, /\bcertified\b/i, /monash[- ]approved/i, /\bguaranteed?\b/i];
 
+// Editorial decisions applied on import (DECISIONS 2026-11-19):
+// - plain meat, fish, eggs and plain oils contain no FODMAPs → noFodmaps (no fake gram limit, ignored by the meal check);
+// - milks and drinks are measured in ml;
+// - kefir: Monash's public rating is "high" (lab data without a gram figure) → lab-tested, high.
+const NO_FODMAP = new Set(["eggs", "chicken", "beef", "salmon", "olive-oil"]);
+const ML = new Set(["lactose-free-milk", "almond-milk", "oat-milk", "soy-milk", "coconut-milk", "kefir"]);
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function curate(f: any) {
+  if (NO_FODMAP.has(f.slug)) { f.noFodmaps = true; f.groups = []; for (const s of f.servings) s.groups = []; }
+  if (ML.has(f.slug) || f.category === "drinks") for (const s of f.servings) s.unit = "ml";
+  if (f.slug === "kefir") { f.tier = "lab-tested"; delete f.estimateAnswer; }
+}
+
 function norm(u: string) { return u.trim().replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, "").toLowerCase(); }
 
 for (const file of files) {
@@ -44,6 +57,7 @@ for (const file of files) {
       disagreements: (f0.disagreements ?? []).map((c: { sourceIds: string[] }) => ({ ...c, sourceIds: fix(c.sourceIds ?? []) })),
       notes: (f0.notes ?? []).map((c: { sourceIds: string[] }) => ({ ...c, sourceIds: fix(c.sourceIds ?? []) })),
     };
+    curate(f1);
     const p = Food.safeParse(f1);
     const problems: string[] = [];
     if (!p.success) problems.push(...p.error.issues.slice(0, 3).map((i) => `${i.path.join(".")}: ${i.message}`));
@@ -58,7 +72,7 @@ for (const file of files) {
         const pts = [s.lowMaxG, s.moderateFromG, s.highFromG].filter((x): x is number => x !== null);
         if (pts.some((x, i) => i && x < pts[i - 1])) problems.push(`${s.form}: zones out of order`);
         if (pts.some((x) => x > s.scaleMaxG)) problems.push(`${s.form}: zone beyond scale`);
-        if (!s.groups.length) problems.push(`${s.form}: no group`);
+        if (!s.groups.length && !f.noFodmaps) problems.push(`${s.form}: no group`);
       }
       const text = [f.answer, ...f.notes.map((n) => n.text), ...f.faq.flatMap((q) => [q.q, q.a])].join(" ");
       for (const b of BANNED) if (b.test(text)) problems.push(`banned word ${b}`);

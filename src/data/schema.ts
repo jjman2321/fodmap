@@ -32,7 +32,8 @@ export const Serving = z.object({
   moderateFromG: grams.nullable(),
   highFromG: grams.nullable(),      // null = no upper limit found at normal amounts
   scaleMaxG: grams,                  // right end of the portion bar
-  groups: z.array(Group),            // the FODMAP(s) that rise with the amount
+  groups: z.array(Group),            // the FODMAP(s) that rise with the amount (empty only for noFodmaps foods)
+  unit: z.enum(["g", "ml"]).default("g"), // drinks and milks are measured in ml
   household: z.string().optional(),  // "about ½ cup" for lowMaxG
   sourceIds: z.array(z.string()).min(1),
   note: z.string().optional(),
@@ -51,6 +52,8 @@ export const Food = z.object({
   // Only for foods without lab data: the plain one-word answer and line shown in the hero ("Usually not").
   estimateAnswer: z.object({ word: z.string().max(14), line: z.string().max(120) }).optional(),
   groups: z.array(Group),
+  // Plain meat, fish, eggs, most oils: no FODMAPs at all. Shown as "No FODMAPs", ignored by the meal check.
+  noFodmaps: z.boolean().default(false),
   servings: z.array(Serving).min(1),
   changes: z.array(z.object({ date: z.string(), text: z.string(), sourceIds: z.array(z.string()).min(1) })).default([]),
   disagreements: z.array(z.object({ text: z.string(), sourceIds: z.array(z.string()).min(1) })).default([]),

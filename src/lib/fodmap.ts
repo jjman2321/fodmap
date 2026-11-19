@@ -10,10 +10,11 @@ export function zoneFor(s: Serving, g: number): Zone {
   return "untested";
 }
 
-export type Verdict = "low" | "depends" | "high" | "estimate" | "unknown";
+export type Verdict = "low" | "depends" | "high" | "estimate" | "unknown" | "free";
 
 // The headline answer for the main form (first serving).
 export function verdict(food: Food): Verdict {
+  if (food.noFodmaps) return "free";
   if (food.tier === "estimated") return "estimate";
   if (food.tier === "unknown") return "unknown";
   const s = food.servings[0];

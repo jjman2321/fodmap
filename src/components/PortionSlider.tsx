@@ -5,6 +5,7 @@ import { GROUP_LABEL } from "@/lib/groups";
 import { bands, zoneFor } from "@/lib/fodmap";
 import { ZONE_STYLE } from "./ZoneChip";
 import { messages as m } from "@/lib/i18n";
+import { amt } from "@/lib/units";
 
 const SHORT = { low: "Low", moderate: "Mod", high: "High", untested: "Untested" } as const;
 
@@ -27,7 +28,7 @@ export function PortionSlider({ serving, start }: { serving: Serving; start?: nu
   return (
     <div>
       <div className="flex items-center justify-between gap-3">
-        <label htmlFor={id} className="font-display text-[32px] font-extrabold leading-none tracking-[-0.03em] tabular-nums">{g} g<span className="sr-only"> portion</span></label>
+        <label htmlFor={id} className="font-display text-[32px] font-extrabold leading-none tracking-[-0.03em] tabular-nums">{amt(serving, g)}<span className="sr-only"> portion</span></label>
         <span role="status" aria-live="polite" className={`rounded-full px-3 py-1.5 text-[16px] font-bold ${ZONE_STYLE[z].cls}`}>
           <span aria-hidden className="mr-1">{ZONE_STYLE[z].shape}</span>{m.zone[z]}{z !== "untested" && z !== "low" && groups ? ` in ${groups.toLowerCase()}` : ""}
         </span>
@@ -38,19 +39,19 @@ export function PortionSlider({ serving, start }: { serving: Serving; start?: nu
         </div>
         <div aria-hidden className="pointer-events-none absolute top-1/2 h-8 w-8 -translate-x-1/2 -translate-y-1/2 rounded-full border-[3px] border-ink bg-card shadow-md" style={{ left: `${pct}%` }} />
         <input id={id} type="range" min={0} max={serving.scaleMaxG} step={step} value={g} onChange={(e) => setG(Number(e.target.value))}
-          aria-valuetext={`${g} grams: ${m.zone[z]}`} className="absolute inset-0 h-full w-full cursor-pointer opacity-0" />
+          aria-valuetext={`${amt(serving, g)}: ${m.zone[z]}`} className="absolute inset-0 h-full w-full cursor-pointer opacity-0" />
       </div>
       <div className="mt-2 flex gap-1 text-[12.5px] font-semibold" aria-hidden>
         {segs.map((b) => (<span key={b.zone + b.from} className={`truncate ${b.zone === "low" ? "text-brand-ink" : b.zone === "moderate" ? "text-mid-ink" : b.zone === "high" ? "text-high-ink" : "text-muted"}`} style={{ flexGrow: b.to - b.from, flexBasis: 0 }}>
           {b.to - b.from >= (b.zone === "untested" ? 0.24 : 0.12) ? `${ZONE_STYLE[b.zone].shape} ${SHORT[b.zone]}` : ""}</span>))}
       </div>
       <div className="relative mt-1 h-4 text-[12px] text-muted tabular-nums" aria-hidden>
-        {ticks.map((t, i) => (<span key={t} className="absolute whitespace-nowrap" style={{ left: `${(t / serving.scaleMaxG) * 100}%`, transform: i === 0 ? "none" : i === ticks.length - 1 ? "translateX(-100%)" : "translateX(-50%)" }}>{t} g</span>))}
+        {ticks.map((t, i) => (<span key={t} className="absolute whitespace-nowrap" style={{ left: `${(t / serving.scaleMaxG) * 100}%`, transform: i === 0 ? "none" : i === ticks.length - 1 ? "translateX(-100%)" : "translateX(-50%)" }}>{amt(serving, t)}</span>))}
       </div>
       {picks.length > 1 && (
         <div className="mt-4 flex flex-wrap gap-2" aria-label="Tested amounts">
           {picks.map((p) => (<button key={p} type="button" onClick={() => setG(p)} aria-pressed={g === p}
-            className={`rounded-full border px-3 py-1.5 text-[14px] font-semibold tabular-nums ${g === p ? "border-ink bg-ink text-paper" : "border-line bg-card hover:border-brand"}`}>{p} g</button>))}
+            className={`rounded-full border px-3 py-1.5 text-[14px] font-semibold tabular-nums ${g === p ? "border-ink bg-ink text-paper" : "border-line bg-card hover:border-brand"}`}>{amt(serving, p)}</button>))}
         </div>
       )}
     </div>

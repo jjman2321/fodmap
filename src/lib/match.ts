@@ -1,7 +1,7 @@
 // Client-safe: no food data imported here (it would ship to phones).
 export type IndexItem = {
   slug: string; name: string; aliases: string[]; chip: string; zone: string; art: string;
-  servings: { form: string; lowMaxG: number | null; moderateFromG: number | null; highFromG: number | null; scaleMaxG: number; groups: string[] }[];
+  servings: { form: string; lowMaxG: number | null; moderateFromG: number | null; highFromG: number | null; scaleMaxG: number; groups: string[]; unit: string }[];
   swaps: { name: string; slug?: string }[];
 };
 

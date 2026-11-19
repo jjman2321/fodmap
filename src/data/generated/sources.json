@@ -1,1 +1,128 @@
-[]
+[
+ {
+  "id": "b6-mon-milkalt-2016",
+  "kind": "public-statement",
+  "title": "Milk alternatives on a low FODMAP diet",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/milk-alternatives",
+  "published": "6 Jan 2016",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-mon-dairyalt-2024",
+  "kind": "public-statement",
+  "title": "Dairy alternatives (beverage and yoghurt): low FODMAP options",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/dairy-alternatives-beverage-and-yoghurt-low-fodmap-options",
+  "published": "20 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-mon-meat-2024",
+  "kind": "public-statement",
+  "title": "Meat, seafood, eggs and cooking fats: low FODMAP?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/meat-seafood-eggs-and-cooking-fats-low-fodmap/",
+  "published": "23 Jan 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-mon-tofu-2015",
+  "kind": "public-statement",
+  "title": "Tofu and FODMAPs",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/talking-tofu/",
+  "published": "10 Dec 2015",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-mon-ferment-2017",
+  "kind": "public-statement",
+  "title": "Fermented foods and FODMAPs",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/fermented-foods-and-fodmaps/",
+  "published": "25 Jan 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-mon-dairylac-2018",
+  "kind": "public-statement",
+  "title": "What is the difference between dairy and lactose?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/what-difference-between-dairy-and-lactose/",
+  "published": "21 Nov 2018",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-mon-plantswaps-2026",
+  "kind": "public-statement",
+  "title": "Low FODMAP plant-based swaps",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
+  "published": "29 Oct 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-alby-milk",
+  "kind": "secondary",
+  "title": "Low FODMAP milk options",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://www.alittlebityummy.com/blog/low-fodmap-milk-options/",
+  "published": "updated 26 Sep 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-kk-milk",
+  "kind": "secondary",
+  "title": "Which milk is low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/?p=26175",
+  "published": "updated 9 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-kk-soy",
+  "kind": "secondary",
+  "title": "Is soy low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/?p=20486",
+  "published": "updated 10 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-alby-soy",
+  "kind": "secondary",
+  "title": "Confused about soy and the low FODMAP diet",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/confused-about-soy-the-low-fodmap-diet/",
+  "published": "updated 17 Jan 2025",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-ge-tofu",
+  "kind": "secondary",
+  "title": "Low FODMAP tofu recipes",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/recipes/low-fodmap-tofu-recipes/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-ge-almonds",
+  "kind": "secondary",
+  "title": "Are almonds low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/are-almonds-low-fodmap/",
+  "published": "2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b6-alby-probiotic",
+  "kind": "secondary",
+  "title": "6 low FODMAP probiotic foods",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/?p=1997",
+  "published": "updated 21 Aug 2017",
+  "accessed": "2026-11-19"
+ }
+]

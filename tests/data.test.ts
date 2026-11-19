@@ -30,7 +30,7 @@ describe("data rules (DECISIONS §0)", () => {
           const pts = [s.lowMaxG, s.moderateFromG, s.highFromG].filter((x): x is number => x !== null);
           expect([...pts].sort((a, b) => a - b)).toEqual(pts);
           for (const p of pts) expect(p).toBeLessThanOrEqual(s.scaleMaxG);
-          expect(s.groups.length, `${f.slug} ${s.form} needs a FODMAP group`).toBeGreaterThan(0);
+          if (!f.noFodmaps) expect(s.groups.length, `${f.slug} ${s.form} needs a FODMAP group`).toBeGreaterThan(0);
         }
       });
       it("swap links point to real pages", () => {

@@ -3,14 +3,16 @@ import type { Food } from "@/data/schema";
 import { verdict } from "@/lib/fodmap";
 import { FoodArt } from "./FoodArt";
 import { ZoneChip } from "./ZoneChip";
+import { amt } from "@/lib/units";
 
 // One food: picture, name, one Low/High pill with the grams. Kept quiet so a grid of them stays calm.
 export function FoodTile({ food, showAnswer = true }: { food: Food; showAnswer?: boolean }) {
   const s = food.servings[0];
   const v = verdict(food);
   const chip =
-    v === "depends" ? { zone: "low" as const, label: `Low · up to ${s.lowMaxG} g` } :
-    v === "low" ? { zone: "low" as const, label: `Low · ${s.lowMaxG} g` } :
+    v === "free" ? { zone: "low" as const, label: "No FODMAPs" } :
+    v === "depends" ? { zone: "low" as const, label: `Low · up to ${amt(s, s.lowMaxG)}` } :
+    v === "low" ? { zone: "low" as const, label: `Low · ${amt(s, s.lowMaxG)}` } :
     v === "high" ? { zone: "high" as const, label: "High" } :
     { zone: "untested" as const, label: food.estimateAnswer?.word ?? "Not tested" };
   return (

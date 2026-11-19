@@ -10,7 +10,7 @@ export function checkerIndex(): IndexItem[] {
     const h = headline(f);
     return {
       slug: f.slug, name: f.name, aliases: f.aliases, chip: h.chip, zone: h.zone, art: f.illustration,
-      servings: f.servings.map(({ form, lowMaxG, moderateFromG, highFromG, scaleMaxG, groups }) => ({ form, lowMaxG, moderateFromG, highFromG, scaleMaxG, groups })),
+      servings: f.servings.map(({ form, lowMaxG, moderateFromG, highFromG, scaleMaxG, groups, unit }) => ({ form, lowMaxG, moderateFromG, highFromG, scaleMaxG, groups, unit })),
       swaps: f.swaps.map(({ name, slug }) => ({ name, slug })),
     };
   });

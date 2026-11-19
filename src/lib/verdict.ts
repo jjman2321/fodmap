@@ -1,13 +1,15 @@
 import type { Food } from "@/data/schema";
 import { verdict } from "./fodmap";
+import { amt } from "./units";
 import type { Zone } from "./fodmap";
 
 // The verdict chip and the ≤60-char title phrase for a food, from its main serving.
 export function headline(food: Food): { zone: Zone; chip: string; short: string } {
   const s = food.servings[0];
   switch (verdict(food)) {
-    case "low": return { zone: "low", chip: `Low at ${s.lowMaxG} g`, short: `Low at ${s.lowMaxG} g` };
-    case "depends": return { zone: "low", chip: `Low up to ${s.lowMaxG} g`, short: `Low up to ${s.lowMaxG} g` };
+    case "free": return { zone: "low", chip: "No FODMAPs", short: "Contains no FODMAPs" };
+    case "low": return { zone: "low", chip: `Low at ${amt(s, s.lowMaxG)}`, short: `Low at ${amt(s, s.lowMaxG)}` };
+    case "depends": return { zone: "low", chip: `Low up to ${amt(s, s.lowMaxG)}`, short: `Low up to ${amt(s, s.lowMaxG)}` };
     case "high": return { zone: "high", chip: "High", short: "High, even in small amounts" };
     case "estimate": return { zone: "untested", chip: "Not lab-tested", short: "Not lab-tested yet" };
     default: return { zone: "untested", chip: "No lab data yet", short: "No lab data yet" };

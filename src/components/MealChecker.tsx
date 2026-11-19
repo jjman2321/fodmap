@@ -46,7 +46,7 @@ export function MealChecker() {
                 <div className="mt-1 flex items-center gap-3">
                   <input type="range" min={0} max={s.scaleMaxG} step={s.scaleMaxG <= 20 ? 0.5 : 1} value={l.grams} aria-label={`${it.name} grams`} aria-valuetext={`${l.grams} grams: ${m.zone[z]}`}
                     onChange={(e) => setLines(lines.map((x, j) => (j === i ? { ...x, grams: Number(e.target.value) } : x)))} className="w-full accent-[var(--brand)]" />
-                  <span className="w-28 text-right text-[14px] tabular-nums">{l.grams} g · <span aria-hidden>{ZONE_STYLE[z].shape}</span> {m.zone[z]}</span>
+                  <span className="w-28 text-right text-[14px] tabular-nums">{l.grams} {s.unit} · <span aria-hidden>{ZONE_STYLE[z].shape}</span> {m.zone[z]}</span>
                 </div>
               </li>
             );
