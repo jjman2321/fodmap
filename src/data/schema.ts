@@ -54,6 +54,8 @@ export const Food = z.object({
   groups: z.array(Group),
   // Plain meat, fish, eggs, most oils: no FODMAPs at all. Shown as "No FODMAPs", ignored by the meal check.
   noFodmaps: z.boolean().default(false),
+  // For noFodmaps foods that have traces (butter, parmesan): the box label and sentence shown instead of "No FODMAPs".
+  freeNote: z.object({ label: z.string().max(16), line: z.string().max(120) }).optional(),
   servings: z.array(Serving).min(1),
   changes: z.array(z.object({ date: z.string(), text: z.string(), sourceIds: z.array(z.string()).min(1) })).default([]),
   disagreements: z.array(z.object({ text: z.string(), sourceIds: z.array(z.string()).min(1) })).default([]),

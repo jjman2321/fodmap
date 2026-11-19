@@ -22,12 +22,15 @@ const BANNED = [/\bsafe\b/i, /\bcures?\b/i, /\btreats?\b/i, /ibs[- ]friendly/i, 
 // - milks and drinks are measured in ml;
 // - kefir: Monash's public rating is "high" (lab data without a gram figure) → lab-tested, high.
 const NO_FODMAP = new Set(["eggs", "chicken", "beef", "salmon", "olive-oil"]);
+const TRACE = new Set(["butter", "parmesan"]);
 const ML = new Set(["lactose-free-milk", "almond-milk", "oat-milk", "soy-milk", "coconut-milk", "kefir"]);
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function curate(f: any) {
   if (NO_FODMAP.has(f.slug)) { f.noFodmaps = true; f.groups = []; for (const s of f.servings) s.groups = []; }
   if (ML.has(f.slug) || f.category === "drinks") for (const s of f.servings) s.unit = "ml";
   if (f.slug === "kefir") { f.tier = "lab-tested"; delete f.estimateAnswer; }
+  // Butter and parmesan: only traces of lactose, no realistic gram limit published.
+  if (TRACE.has(f.slug)) { f.noFodmaps = true; f.freeNote = { label: "Trace lactose", line: "Only traces of lactose, so normal amounts are low FODMAP." }; f.groups = []; for (const s of f.servings) s.groups = []; }
 }
 
 function norm(u: string) { return u.trim().replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, "").toLowerCase(); }

@@ -10,7 +10,7 @@ export function FoodTile({ food, showAnswer = true }: { food: Food; showAnswer?:
   const s = food.servings[0];
   const v = verdict(food);
   const chip =
-    v === "free" ? { zone: "low" as const, label: "No FODMAPs" } :
+    v === "free" ? { zone: "low" as const, label: food.freeNote?.label ?? "No FODMAPs" } :
     v === "depends" ? { zone: "low" as const, label: `Low · up to ${amt(s, s.lowMaxG)}` } :
     v === "low" ? { zone: "low" as const, label: `Low · ${amt(s, s.lowMaxG)}` } :
     v === "high" ? { zone: "high" as const, label: "High" } :

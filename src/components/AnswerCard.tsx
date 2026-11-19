@@ -28,13 +28,13 @@ export function AnswerCard({ food, cite }: { food: Food; cite: (ids: string[]) =
   const amount = s.lowMaxG !== null ? `${amt(s, s.lowMaxG)}${s.household ? ` (${s.household})` : ""}` : "";
   const line =
     v === "depends" ? <>In a portion up to <b>{amount}</b>.{s.highFromG ? <> High from {amt(s, s.highFromG)}.</> : s.moderateFromG ? <> Moderate from {amt(s, s.moderateFromG)}.</> : null}</> :
-    v === "free" ? <>It contains no FODMAPs, so the amount doesn&apos;t matter for FODMAPs.</> :
+    v === "free" ? <>{food.freeNote?.line ?? "It contains no FODMAPs, so the amount doesn't matter for FODMAPs."}</> :
     v === "low" ? <>At <b>{amount}</b>, the amount tested.</> :
     v === "high" ? (s.highFromG ? <>Even at <b>{amt(s, s.highFromG)}</b>, from {groups}. No low amount found.</> : <>High in <b>{groups}</b> at a normal serve. No low amount found.</>) :
     <>{food.estimateAnswer?.line ?? "No lab has published a tested serve yet."}</>;
 
   const lights: Light[] = [];
-  if (v === "free") lights.push({ tone: "low", label: "No FODMAPs", grams: "any amount", level: 0 });
+  if (v === "free") lights.push({ tone: "low", label: food.freeNote?.label ?? "No FODMAPs", grams: food.freeNote ? "normal amounts" : "any amount", level: 0 });
   else if (v !== "estimate" && v !== "unknown") {
     lights.push(s.lowMaxG !== null ? { tone: "low", label: "Low", grams: amt(s, s.lowMaxG), sub: s.household, level: 1 } : { tone: "none", label: "Low", grams: "none", sub: "no low amount", level: 0 });
     if (s.moderateFromG !== null) lights.push({ tone: "mid", label: "Moderate", grams: amt(s, s.moderateFromG), level: 2 });

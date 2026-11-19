@@ -1,5 +1,157 @@
 [
  {
+  "id": "b5-mon-highlow",
+  "kind": "public-statement",
+  "title": "Where FODMAPs are found in foods (high and low FODMAP foods)",
+  "publisher": "Monash University",
+  "url": "https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-mon-3step",
+  "kind": "public-statement",
+  "title": "3-step FODMAP diet info sheet (2026, PDF)",
+  "publisher": "Monash University",
+  "url": "https://monashfodmap.com/documents/203/3-step_FODMAP_Diet_2026_A4_info_sheet.pdf",
+  "published": "2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-mon-gos-enzyme-2017",
+  "kind": "public-statement",
+  "title": "New research: enzyme therapy can help reduce symptoms in IBS patients sensitive to GOS",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/new-research-enzyme-therapy-can-help-reduce-symptoms-ibs-patients-sensitive-galacto-oligosaccharides-gos-present-legumes-soy-milk-and-nuts/",
+  "published": "16 Nov 2017",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-mon-dairy-2018",
+  "kind": "public-statement",
+  "title": "What is the difference between dairy and lactose?",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/what-difference-between-dairy-and-lactose/",
+  "published": "21 Nov 2018",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-mon-plantswaps-2026",
+  "kind": "public-statement",
+  "title": "Low FODMAP plant-based swaps",
+  "publisher": "Monash University (FODMAP blog)",
+  "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
+  "published": "29 Oct 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-ff-lactose-2021",
+  "kind": "public-statement",
+  "title": "Lactose sensitivity: tolerating yoghurt, lactose free vs low lactose and FODMAP stacking",
+  "publisher": "FODMAP Friendly",
+  "url": "https://fodmapfriendly.com/blog-posts/lactose/",
+  "published": "8 Sep 2021",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-ge-nuts",
+  "kind": "secondary",
+  "title": "Low FODMAP nuts and seeds",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/low-fodmap-nuts-and-seeds/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-ge-almonds",
+  "kind": "secondary",
+  "title": "Are almonds low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/are-almonds-low-fodmap/",
+  "published": "updated 11 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-ge-pb",
+  "kind": "secondary",
+  "title": "Is peanut butter low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/is-peanut-butter-low-fodmap/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-ge-mozz",
+  "kind": "secondary",
+  "title": "Is mozzarella low FODMAP?",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/posts/resources/is-mozzarella-low-fodmap/",
+  "published": "updated 12 Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-ge-yoghurt",
+  "kind": "secondary",
+  "title": "Low FODMAP yoghurt varieties (+ recipes)",
+  "publisher": "George Eats",
+  "url": "https://georgeats.com/?p=23797",
+  "published": "updated Aug 2026",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-kk-nuts",
+  "kind": "secondary",
+  "title": "What nuts are low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/?p=35090",
+  "published": "updated 9 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-kk-pb",
+  "kind": "secondary",
+  "title": "Is peanut butter low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/?p=35093",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-kk-butter",
+  "kind": "secondary",
+  "title": "Is butter low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/?p=16545",
+  "published": "updated 24 Feb 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-kk-cheese",
+  "kind": "secondary",
+  "title": "What cheeses are low FODMAP?",
+  "publisher": "Karlijn's Kitchen",
+  "url": "https://www.karlijnskitchen.com/en/what-cheeses-are-low-fodmap/",
+  "published": "updated 2 Jun 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-alby-nuts",
+  "kind": "secondary",
+  "title": "What nuts are low FODMAP?",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/what-nuts-are-low-fodmap/",
+  "published": "updated 5 Dec 2024",
+  "accessed": "2026-11-19"
+ },
+ {
+  "id": "b5-alby-dairy",
+  "kind": "secondary",
+  "title": "Let's talk about dairy and the low FODMAP diet",
+  "publisher": "A Little Bit Yummy",
+  "url": "https://alittlebityummy.com/blog/lets-talk-about-dairy-the-low-fodmap-diet",
+  "published": "updated 8 Aug 2016",
+  "accessed": "2026-11-19"
+ },
+ {
   "id": "b6-mon-milkalt-2016",
   "kind": "public-statement",
   "title": "Milk alternatives on a low FODMAP diet",
@@ -45,24 +197,6 @@
   "accessed": "2026-11-19"
  },
  {
-  "id": "b6-mon-dairylac-2018",
-  "kind": "public-statement",
-  "title": "What is the difference between dairy and lactose?",
-  "publisher": "Monash University (FODMAP blog)",
-  "url": "https://monashfodmap.com/blog/what-difference-between-dairy-and-lactose/",
-  "published": "21 Nov 2018",
-  "accessed": "2026-11-19"
- },
- {
-  "id": "b6-mon-plantswaps-2026",
-  "kind": "public-statement",
-  "title": "Low FODMAP plant-based swaps",
-  "publisher": "Monash University (FODMAP blog)",
-  "url": "https://monashfodmap.com/blog/low-fodmap-plant-based-swaps/",
-  "published": "29 Oct 2026",
-  "accessed": "2026-11-19"
- },
- {
   "id": "b6-alby-milk",
   "kind": "secondary",
   "title": "Low FODMAP milk options",
@@ -105,15 +239,6 @@
   "publisher": "George Eats",
   "url": "https://georgeats.com/recipes/low-fodmap-tofu-recipes/",
   "published": "updated 12 Aug 2026",
-  "accessed": "2026-11-19"
- },
- {
-  "id": "b6-ge-almonds",
-  "kind": "secondary",
-  "title": "Are almonds low FODMAP?",
-  "publisher": "George Eats",
-  "url": "https://georgeats.com/posts/resources/are-almonds-low-fodmap/",
-  "published": "2026",
   "accessed": "2026-11-19"
  },
  {

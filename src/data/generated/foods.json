@@ -1,5 +1,1829 @@
 [
  {
+  "slug": "peanut-butter",
+  "name": "peanut butter",
+  "aliases": [
+   "peanut paste",
+   "smooth peanut butter",
+   "crunchy peanut butter",
+   "natural peanut butter"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global"
+  ],
+  "illustration": "peanut-butter",
+  "tier": "lab-tested",
+  "answer": "Yes, as a normal spread. Dietitians who follow Monash's lab results list 2 tablespoons (50 g) of plain peanut butter as low FODMAP, or 32 g for the American-style kind. Choose a jar made from just peanuts and salt.",
+  "groups": [
+   "gos",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "peanut butter",
+    "lowMaxG": 50,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 100,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "household": "2 tbsp",
+    "sourceIds": [
+     "b5-kk-pb",
+     "b5-ge-pb"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites. No upper limit is currently published."
+   },
+   {
+    "form": "American-style peanut butter",
+    "lowMaxG": 32,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 64,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "household": "2 tbsp",
+    "sourceIds": [
+     "b5-kk-pb",
+     "b5-ge-pb"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2026",
+    "text": "George Eats reports that Monash used to list 140 g of peanut butter as moderate, and has since removed that upper limit while it updates its data.",
+    "sourceIds": [
+     "b5-ge-pb"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats reports that FODMAP Friendly rates peanut butter low up to 167 g, far above Monash's two-tablespoon serve.",
+    "sourceIds": [
+     "b5-ge-pb"
+    ]
+   },
+   {
+    "text": "Both Monash entries are '2 tablespoons' but weigh 50 g and 32 g. The sources don't explain the gap, so weighing is more reliable than a spoon.",
+    "sourceIds": [
+     "b5-kk-pb"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's low FODMAP shopping list names peanut butter among its spreads.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   },
+   {
+    "text": "George Eats suggests a peanut butter whose only ingredients are peanuts and salt.",
+    "sourceIds": [
+     "b5-ge-pb"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Peanuts",
+    "slug": "peanuts"
+   },
+   {
+    "name": "Almond butter, in a smaller spoon",
+    "slug": "almond-butter"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is crunchy peanut butter low FODMAP?",
+    "a": "The sources don't split smooth from crunchy. Read the label for added sweeteners or fibres and keep to the usual two-tablespoon spread."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "almonds",
+  "name": "almonds",
+  "aliases": [
+   "almond",
+   "raw almonds",
+   "roasted almonds"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "mediterranean",
+   "middle-eastern"
+  ],
+  "illustration": "almonds",
+  "tier": "lab-tested",
+  "answer": "Yes, in a small handful. Monash lists 10 almonds (12 g) as a low FODMAP serve. Dietitian sites that track Monash's newer data put the limit nearer 22 to 24 g, with GOS turning moderate from 25 g, so a big handful is where it adds up.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "almonds, with skin",
+    "lowMaxG": 12,
+    "moderateFromG": 25,
+    "highFromG": null,
+    "scaleMaxG": 35,
+    "groups": [
+     "gos"
+    ],
+    "household": "10 nuts",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-nuts",
+     "b5-ge-almonds"
+    ],
+    "note": "The 12 g serve is Monash's own (2021). The moderate amount comes from George Eats, reporting Monash's current data."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2026",
+    "text": "George Eats reports that Monash now lists almonds as low up to about 22 to 24 g (around 20 nuts), roughly double the older 10-nut serve.",
+    "sourceIds": [
+     "b5-ge-nuts",
+     "b5-ge-almonds"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats gives 22 g on its nut list and 24 g on its almond page. Both say GOS becomes moderate at 25 g.",
+    "sourceIds": [
+     "b5-ge-nuts",
+     "b5-ge-almonds"
+    ]
+   },
+   {
+    "text": "Older guides based on earlier Monash data treated 20 almonds as a moderate serve.",
+    "sourceIds": [
+     "b5-alby-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's Step 1 sheet puts almonds next to cashews among the foods to swap out at usual serves, which is why the portion matters.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   },
+   {
+    "text": "A small handful of nuts such as almonds or walnuts is one of Monash's snack ideas.",
+    "sourceIds": [
+     "mon-stackexpl-2022"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Macadamias",
+    "slug": "macadamia-nuts"
+   },
+   {
+    "name": "Peanuts",
+    "slug": "peanuts"
+   },
+   {
+    "name": "Walnuts",
+    "slug": "walnuts"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How many almonds can I eat on a low FODMAP diet?",
+    "a": "Ten almonds is Monash's standard low serve. Newer data reported by dietitians suggests about 20 is still low; past that, GOS climbs."
+   },
+   {
+    "q": "Is almond milk low FODMAP?",
+    "a": "Yes. Monash lists almond milk among its low FODMAP dairy alternatives."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "peanuts",
+  "name": "peanuts",
+  "aliases": [
+   "peanut",
+   "groundnuts",
+   "roasted peanuts"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "african"
+  ],
+  "illustration": "peanuts",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists 32 peanuts (28 g) as a low FODMAP serve, and dietitian sites report that its current data sets no upper limit. Both Monash and FODMAP Friendly put peanuts with the low FODMAP nuts.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "peanuts",
+    "lowMaxG": 28,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 60,
+    "groups": [
+     "gos"
+    ],
+    "household": "32 nuts",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-pb",
+     "b5-kk-pb"
+    ],
+    "note": "No upper limit is currently published; the bar shows Monash's standard serve."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats reports that FODMAP Friendly rates peanuts low up to 600 g, far more than anyone eats at once.",
+    "sourceIds": [
+     "b5-ge-pb"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash and FODMAP Friendly both list peanuts with the low FODMAP nuts.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Monash names GOS and fructans as the main FODMAPs in nuts in general.",
+    "sourceIds": [
+     "b5-mon-highlow"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Peanut butter",
+    "slug": "peanut-butter"
+   },
+   {
+    "name": "Macadamias",
+    "slug": "macadamia-nuts"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are salted or roasted peanuts low FODMAP?",
+    "a": "The published serve is for plain peanuts. Seasoned mixes can contain onion or garlic powder, so check the label."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cashews",
+  "name": "cashews",
+  "aliases": [
+   "cashew",
+   "cashew nuts",
+   "activated cashews"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "south-asian"
+  ],
+  "illustration": "cashews",
+  "tier": "lab-tested",
+  "answer": "Mostly no. Monash and FODMAP Friendly both list cashews as high FODMAP. Dietitians reporting Monash data say only about 2 cashews (3 g) stay low, and 30 g is high in GOS and fructans. Activated cashews fare better, at about 10 nuts (16 g).",
+  "groups": [
+   "gos",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "cashews",
+    "lowMaxG": 3,
+    "moderateFromG": null,
+    "highFromG": 30,
+    "scaleMaxG": 42,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "household": "about 2 nuts",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   },
+   {
+    "form": "activated cashews",
+    "lowMaxG": 16,
+    "moderateFromG": null,
+    "highFromG": 30,
+    "scaleMaxG": 42,
+    "groups": [
+     "gos"
+    ],
+    "household": "about 10 nuts",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (2024) gives 15 g for activated cashews, close to the 16 g above.",
+    "sourceIds": [
+     "b5-kk-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash and FODMAP Friendly both put cashews in their high FODMAP nut lists.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Monash named cashews and pistachios as high-GOS foods in its 2017 enzyme study post.",
+    "sourceIds": [
+     "b5-mon-gos-enzyme-2017"
+    ]
+   },
+   {
+    "text": "Monash notes that processing such as activating nuts can lower their FODMAP content.",
+    "sourceIds": [
+     "mon-vegan-2018"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Macadamias",
+    "slug": "macadamia-nuts"
+   },
+   {
+    "name": "Peanuts",
+    "slug": "peanuts"
+   },
+   {
+    "name": "Walnuts",
+    "slug": "walnuts"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is cashew butter or cashew milk low FODMAP?",
+    "a": "The sources we use don't publish a low serve for either. Cashews themselves are high, so go carefully with both until there is data."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "walnuts",
+  "name": "walnuts",
+  "aliases": [
+   "walnut",
+   "walnut halves"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "mediterranean",
+   "middle-eastern"
+  ],
+  "illustration": "walnuts",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists 10 walnut halves (30 g) as a low FODMAP serve. Dietitian sites report that Monash's newer data turns moderate in GOS just above that, at 31 g, so stay close to 30 g per sitting.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "walnuts",
+    "lowMaxG": 30,
+    "moderateFromG": 31,
+    "highFromG": null,
+    "scaleMaxG": 50,
+    "groups": [
+     "gos"
+    ],
+    "household": "10 nut halves",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-nuts"
+    ],
+    "note": "The moderate amount comes from George Eats, reporting Monash's current data."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2026",
+    "text": "George Eats reports that Monash's current walnut limits are much lower than the ones its app listed before.",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (Feb 2024), using the older data, listed walnuts as low up to 100 g.",
+    "sourceIds": [
+     "b5-kk-nuts"
+    ]
+   },
+   {
+    "text": "A Little Bit Yummy counts the low serve as 15 halves rather than 10; nut size varies, so grams are the safer guide.",
+    "sourceIds": [
+     "b5-alby-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash and FODMAP Friendly both list walnuts with the low FODMAP nuts.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Macadamias",
+    "slug": "macadamia-nuts"
+   },
+   {
+    "name": "Peanuts",
+    "slug": "peanuts"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I put walnuts in banana bread?",
+    "a": "Yes, as long as each slice holds well under a 30 g serve of walnuts. Divide the recipe's walnuts by the slices to check."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "pistachios",
+  "name": "pistachios",
+  "aliases": [
+   "pistachio",
+   "pistachio nuts"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "middle-eastern",
+   "mediterranean",
+   "global"
+  ],
+  "illustration": "pistachios",
+  "tier": "lab-tested",
+  "answer": "Mostly no. Monash and FODMAP Friendly both list pistachios as high FODMAP. Dietitians reporting Monash data say about 7 pistachios (5 g) is low, GOS turns moderate from 6 g, and 30 g is high in GOS and fructans.",
+  "groups": [
+   "gos",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "pistachios",
+    "lowMaxG": 5,
+    "moderateFromG": 6,
+    "highFromG": 30,
+    "scaleMaxG": 42,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "household": "about 7 nuts",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash and FODMAP Friendly both put pistachios in their high FODMAP nut lists.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "ff-list",
+     "b5-kk-nuts"
+    ]
+   },
+   {
+    "text": "Monash named pistachios as a high-GOS food in its 2017 enzyme study post.",
+    "sourceIds": [
+     "b5-mon-gos-enzyme-2017"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Peanuts",
+    "slug": "peanuts"
+   },
+   {
+    "name": "Macadamias",
+    "slug": "macadamia-nuts"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is baklava or pistachio ice cream low FODMAP?",
+    "a": "No lab has tested them. Pistachios turn moderate after just a few nuts, so a dessert heavy in pistachio is likely to add up."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "pumpkin-seeds",
+  "name": "pumpkin seeds",
+  "aliases": [
+   "pepitas",
+   "pumpkin seed",
+   "hulled pumpkin seeds"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "latin-american"
+  ],
+  "illustration": "pumpkin-seeds",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash and FODMAP Friendly both list pumpkin seeds (pepitas) as low FODMAP. Dietitians reporting Monash's data say they stay low up to 81 g, with fructans moderate from 82 g, so a sprinkle or a handful fits easily.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "pumpkin seeds (pepitas)",
+    "lowMaxG": 81,
+    "moderateFromG": 82,
+    "highFromG": null,
+    "scaleMaxG": 115,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b5-ge-nuts"
+    ],
+    "note": "No gram serve is published on Monash's or FODMAP Friendly's own sites. This is the largest amount still reported low by George Eats from Monash data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (2024) gives a smaller low amount of 60 g (about 2 oz).",
+    "sourceIds": [
+     "b5-kk-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Pumpkin seeds appear in the low FODMAP column of Monash's food list and 3-step sheet, and of FODMAP Friendly's list.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "b5-mon-3step",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Monash's shopping list includes pumpkin seeds among its seeds.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Sesame seeds",
+    "slug": "sesame-seeds"
+   },
+   {
+    "name": "Chia seeds",
+    "slug": "chia-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are home-roasted pumpkin seeds with shells the same?",
+    "a": "Our sources cover pepitas, the green hulled seeds. Whole seeds in the shell weren't covered, so we can't give a number for them."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "chia-seeds",
+  "name": "chia seeds",
+  "aliases": [
+   "chia",
+   "chia seed",
+   "black chia",
+   "white chia"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "latin-american"
+  ],
+  "illustration": "chia-seeds",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists 2 tablespoons (24 g) of chia seeds as a low FODMAP serve, and it's one of the richest fibre sources on its list. Dietitian sites report that fructans turn moderate only from 37 g.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "chia seeds, dried",
+    "lowMaxG": 24,
+    "moderateFromG": 37,
+    "highFromG": null,
+    "scaleMaxG": 52,
+    "groups": [
+     "fructans"
+    ],
+    "household": "2 tbsp",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-nuts"
+    ],
+    "note": "The moderate amount comes from George Eats, reporting Monash's current data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats reports both black and white chia as low up to 36 g, a little above Monash's standard 24 g serve.",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's fibre list counts 2 tablespoons of chia as about 8 g of fibre.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   },
+   {
+    "text": "Monash's shopping list includes chia among its seeds.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Flaxseed",
+    "slug": "flaxseed"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is chia pudding low FODMAP?",
+    "a": "It can be. Make it with a low FODMAP milk such as lactose-free or almond milk, and keep the chia near 2 tablespoons per bowl."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "flaxseed",
+  "name": "flaxseed",
+  "aliases": [
+   "linseed",
+   "flax seeds",
+   "flaxseeds",
+   "ground flaxseed",
+   "flaxmeal"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global"
+  ],
+  "illustration": "flaxseed",
+  "tier": "lab-tested",
+  "answer": "Yes, in a tablespoon. Monash lists 1 tablespoon (15 g) of linseed or flaxseed as a low FODMAP serve. Dietitian sites report that GOS turns moderate from 17 g, so measure it rather than pouring.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "flaxseed (linseed)",
+    "lowMaxG": 15,
+    "moderateFromG": 17,
+    "highFromG": null,
+    "scaleMaxG": 24,
+    "groups": [
+     "gos"
+    ],
+    "household": "1 tbsp",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-nuts"
+    ],
+    "note": "The moderate amount comes from George Eats, reporting Monash's current data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats puts the most that stays low at 16 g, just above Monash's 15 g serve.",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's fibre list counts 1 tablespoon of flaxseed as about 4 g of fibre.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   },
+   {
+    "text": "For plant-based baking, Monash suggests a flax egg: 1 tablespoon of flaxmeal mixed with 1 tablespoon of water.",
+    "sourceIds": [
+     "b5-mon-plantswaps-2026"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Chia seeds",
+    "slug": "chia-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is ground flaxseed different from whole?",
+    "a": "The published serve doesn't separate them. Monash's flax egg uses a tablespoon of flaxmeal, the same size as the low serve."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "sesame-seeds",
+  "name": "sesame seeds",
+  "aliases": [
+   "sesame",
+   "sesame seed",
+   "white sesame",
+   "black sesame"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "middle-eastern",
+   "east-asian",
+   "global"
+  ],
+  "illustration": "sesame-seeds",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists sesame among its low FODMAP seeds, and dietitians reporting its lab data say sesame seeds stay low up to 51 g, with fructans moderate from 52 g. A sprinkle over food is far below that.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "sesame seeds",
+    "lowMaxG": 51,
+    "moderateFromG": 52,
+    "highFromG": null,
+    "scaleMaxG": 75,
+    "groups": [
+     "fructans"
+    ],
+    "sourceIds": [
+     "b5-ge-nuts"
+    ],
+    "note": "No gram serve is published on Monash's or FODMAP Friendly's own sites. This is the largest amount still reported low by George Eats from Monash data."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen (2024) gives a smaller low amount of 30 g (about 1 oz).",
+    "sourceIds": [
+     "b5-kk-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's shopping list includes sesame among its seeds.",
+    "sourceIds": [
+     "mon-shop-2025"
+    ]
+   },
+   {
+    "text": "Monash lists 2 tablespoons (30 g) of unhulled tahini, the paste made from sesame, as a low serve.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Tahini",
+    "slug": "tahini"
+   },
+   {
+    "name": "Pumpkin seeds",
+    "slug": "pumpkin-seeds"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is tahini low FODMAP too?",
+    "a": "Yes. Monash lists 2 tablespoons of unhulled tahini as a low FODMAP serve. Our tahini page has the details."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "macadamia-nuts",
+  "name": "macadamia nuts",
+  "aliases": [
+   "macadamias",
+   "macadamia",
+   "macadamia nut"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global"
+  ],
+  "illustration": "macadamia-nuts",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash lists 20 macadamias (40 g) as a low FODMAP serve, and both Monash and FODMAP Friendly put them with the low FODMAP nuts. Dietitian sites report that fructans only become moderate at very large amounts.",
+  "groups": [
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "macadamias, raw",
+    "lowMaxG": 40,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 80,
+    "groups": [
+     "fructans"
+    ],
+    "household": "20 nuts",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats lists Monash's current serve as 30 g, smaller than the 40 g above, but reports moderate fructans only from 328 g.",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ]
+   },
+   {
+    "text": "A Little Bit Yummy counts the low serve as 15 nuts.",
+    "sourceIds": [
+     "b5-alby-nuts"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash and FODMAP Friendly both list macadamias with the low FODMAP nuts.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "ff-list"
+    ]
+   },
+   {
+    "text": "Monash's fibre list counts 20 macadamias as about 3 g of fibre.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Walnuts",
+    "slug": "walnuts"
+   },
+   {
+    "name": "Peanuts",
+    "slug": "peanuts"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is macadamia milk low FODMAP?",
+    "a": "Monash's Step 1 sheet lists macadamia milk among its low FODMAP dairy alternatives."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "almond-butter",
+  "name": "almond butter",
+  "aliases": [
+   "almond spread",
+   "almond nut butter"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global"
+  ],
+  "illustration": "almond-butter",
+  "tier": "lab-tested",
+  "answer": "Yes, in a tablespoon. Dietitian sites reporting Monash's lab data list 1 tablespoon (20 g) of almond butter as low FODMAP; just above that it becomes moderate in GOS and fructans. Peanut butter allows a bigger spread.",
+  "groups": [
+   "gos",
+   "fructans"
+  ],
+  "servings": [
+   {
+    "form": "almond butter",
+    "lowMaxG": 20,
+    "moderateFromG": 21,
+    "highFromG": null,
+    "scaleMaxG": 45,
+    "groups": [
+     "gos",
+     "fructans"
+    ],
+    "household": "1 tbsp",
+    "sourceIds": [
+     "b5-kk-pb",
+     "b5-ge-almonds"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "George Eats reports a moderate level from 21 g; Karlijn's Kitchen (2024) puts it at 32 g. Both agree on 20 g as low.",
+    "sourceIds": [
+     "b5-ge-almonds",
+     "b5-kk-pb"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Whole almonds share the same GOS, so almond butter and almonds in one meal add up.",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-almonds"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Peanut butter",
+    "slug": "peanut-butter"
+   },
+   {
+    "name": "Tahini",
+    "slug": "tahini"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I have almond butter on toast?",
+    "a": "Yes. Keep it to about one level tablespoon and pair it with a low FODMAP bread such as sourdough."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "almond-flour",
+  "name": "almond flour",
+  "aliases": [
+   "almond meal",
+   "ground almonds",
+   "blanched almond flour"
+  ],
+  "category": "nuts-seeds",
+  "regions": [
+   "global",
+   "mediterranean"
+  ],
+  "illustration": "almond-flour",
+  "tier": "lab-tested",
+  "answer": "Yes, in small amounts. Monash lists ¼ cup (24 g) of almond meal as a low FODMAP serve. Dietitian sites report that Monash's newer data stays low to about 33 to 38 g, with GOS moderate from 39 g. In baking, it depends on how much ends up in each slice.",
+  "groups": [
+   "gos"
+  ],
+  "servings": [
+   {
+    "form": "almond meal",
+    "lowMaxG": 24,
+    "moderateFromG": 39,
+    "highFromG": null,
+    "scaleMaxG": 55,
+    "groups": [
+     "gos"
+    ],
+    "household": "¼ cup",
+    "sourceIds": [
+     "mon-fibre-2021",
+     "b5-ge-nuts",
+     "b5-ge-almonds"
+    ],
+    "note": "The 24 g serve is Monash's own (2021). The moderate amount comes from George Eats, reporting Monash's current data."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2026",
+    "text": "George Eats reports a larger current low amount for almond meal: 33 g (about ⅓ cup) on its nut list.",
+    "sourceIds": [
+     "b5-ge-nuts"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats gives 33 g on its nut list and up to 38 g on its almond page; both say GOS is moderate at 39 g.",
+    "sourceIds": [
+     "b5-ge-nuts",
+     "b5-ge-almonds"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's figure is for almond meal. We didn't find a separate public figure for fine blanched almond flour.",
+    "sourceIds": [
+     "mon-fibre-2021"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Rice flour"
+   },
+   {
+    "name": "Oats"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are almond flour cakes low FODMAP?",
+    "a": "Only if each slice holds no more than a low serve of almond meal. Divide the recipe's almond meal by the number of slices to check."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "butter",
+  "name": "butter",
+  "aliases": [
+   "salted butter",
+   "unsalted butter"
+  ],
+  "category": "dairy",
+  "regions": [
+   "global"
+  ],
+  "illustration": "butter",
+  "tier": "lab-tested",
+  "answer": "Yes. Butter is almost all fat with only traces of lactose, and Monash lists it among the dairy foods that are naturally low in lactose. No upper limit has been published, though very fatty meals can unsettle some guts for reasons other than FODMAPs.",
+  "groups": [],
+  "servings": [
+   {
+    "form": "butter",
+    "lowMaxG": 100,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 200,
+    "groups": [],
+    "sourceIds": [
+     "b5-mon-highlow",
+     "mon-step1",
+     "b5-mon-dairy-2018"
+    ],
+    "note": "Only traces of lactose according to the sources; the amount shown is a normal portion, not a limit."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's Step 1 sheet lists butter with plain meat, eggs and oils in the low FODMAP column.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   },
+   {
+    "text": "Karlijn's Kitchen reports that Monash rates a tablespoon of butter low with no maximum, and flags that a lot of fat can affect gut movement.",
+    "sourceIds": [
+     "b5-kk-butter"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Olive oil",
+    "slug": "olive-oil"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is butter lactose-free?",
+    "a": "Not completely. Churned butter keeps a trace of lactose, but a normal serve holds only tiny amounts."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified",
+  "noFodmaps": true,
+  "freeNote": {
+   "label": "Trace lactose",
+   "line": "Only traces of lactose, so normal amounts are low FODMAP."
+  }
+ },
+ {
+  "slug": "cottage-cheese",
+  "name": "cottage cheese",
+  "aliases": [
+   "cottage cheese curds"
+  ],
+  "category": "dairy",
+  "regions": [
+   "global"
+  ],
+  "illustration": "cottage-cheese",
+  "tier": "lab-tested",
+  "answer": "Yes, in a small serve. Monash rates 36 g of cottage cheese low, with about 0.7 g of lactose. As a fresh cheese it carries more lactose than hard cheeses, and public data doesn't rate larger bowls.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "cottage cheese",
+    "lowMaxG": 36,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 70,
+    "groups": [
+     "lactose"
+    ],
+    "sourceIds": [
+     "mon-lactose-2016"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "Karlijn's Kitchen suggests 40 g, based on her own reading of product labels, and finds 60 g holds an average amount of lactose.",
+    "sourceIds": [
+     "b5-kk-cheese"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's Step 1 advice is to swap regular dairy for lactose-free versions where possible.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Feta",
+    "slug": "feta"
+   },
+   {
+    "name": "Cheddar",
+    "slug": "cheddar"
+   },
+   {
+    "name": "Lactose-free cottage cheese"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I have a bigger bowl of cottage cheese?",
+    "a": "Public lab data only covers a small serve. For a larger bowl, a lactose-free cottage cheese avoids the question."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "greek-yogurt",
+  "name": "Greek yogurt",
+  "aliases": [
+   "greek yoghurt",
+   "strained yogurt",
+   "plain greek yogurt"
+  ],
+  "category": "dairy",
+  "regions": [
+   "mediterranean",
+   "middle-eastern",
+   "global"
+  ],
+  "illustration": "greek-yogurt",
+  "tier": "lab-tested",
+  "answer": "It depends on whose test. FODMAP Friendly passed 200 g of Greek yoghurt as low FODMAP. Dietitians reporting Monash's data give a far smaller low serve for regular-fat Greek yoghurt: 23 g, with moderate lactose from 93 g. Lactose-free Greek yoghurt sidesteps the question.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "Greek yoghurt",
+    "lowMaxG": 200,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 280,
+    "groups": [
+     "lactose"
+    ],
+    "household": "⅘ cup",
+    "sourceIds": [
+     "b5-ff-lactose-2021"
+    ],
+    "note": "FODMAP Friendly's tested amount. Monash-based figures are much lower; see the next bar."
+   },
+   {
+    "form": "regular-fat Greek yoghurt (Monash data)",
+    "lowMaxG": 23,
+    "moderateFromG": 93,
+    "highFromG": null,
+    "scaleMaxG": 130,
+    "groups": [
+     "lactose"
+    ],
+    "sourceIds": [
+     "b5-ge-yoghurt"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [],
+  "disagreements": [
+   {
+    "text": "FODMAP Friendly rates 200 g low, while George Eats reports Monash's low serve as 23 g. Brands differ in how much whey is strained off, which may explain part of the gap.",
+    "sourceIds": [
+     "b5-ff-lactose-2021",
+     "b5-ge-yoghurt"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Monash's lactose table rates 170 g of natural (unstrained) yoghurt high, at 8.5 g of lactose.",
+    "sourceIds": [
+     "mon-lactose-2016"
+    ]
+   },
+   {
+    "text": "FODMAP Friendly notes that straining and fermentation lower lactose further, and suggests lactose-free yoghurt in phase 1.",
+    "sourceIds": [
+     "b5-ff-lactose-2021"
+    ]
+   },
+   {
+    "text": "George Eats reports that Monash rates lactose-free plain yoghurt low up to 500 g.",
+    "sourceIds": [
+     "b5-ge-yoghurt"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lactose-free Greek yoghurt"
+   },
+   {
+    "name": "Kefir",
+    "slug": "kefir"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is Greek yogurt lower in lactose than regular yogurt?",
+    "a": "Usually. Straining drains off whey, and FODMAP Friendly says that lowers lactose. How much depends on the brand."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "mozzarella",
+  "name": "mozzarella",
+  "aliases": [
+   "mozzarella cheese",
+   "fresh mozzarella",
+   "buffalo mozzarella"
+  ],
+  "category": "dairy",
+  "regions": [
+   "mediterranean",
+   "global"
+  ],
+  "illustration": "mozzarella",
+  "tier": "lab-tested",
+  "answer": "Yes. Dietitians reporting Monash's data list 40 g of mozzarella (about ¼ cup) as a low FODMAP serve. It holds a little more lactose than aged hard cheeses, and Monash's older data allowed much bigger amounts.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "mozzarella",
+    "lowMaxG": 40,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 80,
+    "groups": [
+     "lactose"
+    ],
+    "household": "about ¼ cup",
+    "sourceIds": [
+     "b5-ge-mozz",
+     "b5-kk-cheese"
+    ],
+    "note": "From dietitian sites reporting Monash's lab results; not on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [
+   {
+    "date": "2026",
+    "text": "George Eats reports that Monash's app used to rate mozzarella low up to 630 g (about 4 cups), and that some upper limits were removed during an update.",
+    "sourceIds": [
+     "b5-ge-mozz"
+    ]
+   }
+  ],
+  "disagreements": [
+   {
+    "text": "George Eats reports that FODMAP Friendly rates mozzarella low up to 600 g per person.",
+    "sourceIds": [
+     "b5-ge-mozz"
+    ]
+   }
+  ],
+  "notes": [
+   {
+    "text": "Karlijn's Kitchen notes that lactose varies between brands and that buffalo mozzarella tends to have less than regular.",
+    "sourceIds": [
+     "b5-kk-cheese"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cheddar",
+    "slug": "cheddar"
+   },
+   {
+    "name": "Parmesan",
+    "slug": "parmesan"
+   },
+   {
+    "name": "Feta",
+    "slug": "feta"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is pizza with mozzarella low FODMAP?",
+    "a": "The cheese can be, at about 40 g. The usual problems are a wheat base and garlic or onion in the sauce."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "parmesan",
+  "name": "parmesan",
+  "aliases": [
+   "parmigiano reggiano",
+   "parmesan cheese",
+   "grana padano"
+  ],
+  "category": "dairy",
+  "regions": [
+   "mediterranean",
+   "global"
+  ],
+  "illustration": "parmesan",
+  "tier": "lab-tested",
+  "answer": "Yes. Parmesan is a hard, aged cheese with next to no lactose, and Monash groups hard cheeses with the low FODMAP foods. Karlijn's Kitchen lists 40 g as a serving, far more than a usual grating over pasta.",
+  "groups": [],
+  "servings": [
+   {
+    "form": "parmesan",
+    "lowMaxG": 40,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 80,
+    "groups": [],
+    "sourceIds": [
+     "b5-kk-cheese",
+     "mon-faq"
+    ],
+    "note": "Close to lactose-free according to the sources; the amount shown is a normal portion, not a limit."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash says hard and ripened cheeses are low in lactose, and some are lactose-free.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   },
+   {
+    "text": "Monash's Step 1 advice is to choose aged or hard cheeses because they are naturally low in lactose.",
+    "sourceIds": [
+     "mon-step1"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Cheddar",
+    "slug": "cheddar"
+   },
+   {
+    "name": "Feta",
+    "slug": "feta"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is parmesan lactose-free?",
+    "a": "Close to it. Karlijn's Kitchen reports 0 g of lactose per 100 g, and Monash says some hard cheeses are lactose-free."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified",
+  "noFodmaps": true,
+  "freeNote": {
+   "label": "Trace lactose",
+   "line": "Only traces of lactose, so normal amounts are low FODMAP."
+  }
+ },
+ {
+  "slug": "cheddar",
+  "name": "cheddar",
+  "aliases": [
+   "cheddar cheese",
+   "tasty cheese",
+   "mature cheddar"
+  ],
+  "category": "dairy",
+  "regions": [
+   "global"
+  ],
+  "illustration": "cheddar",
+  "tier": "lab-tested",
+  "answer": "Yes. Monash rates 40 g of cheddar (about 2 slices) low, with just 0.04 g of lactose. Aged hard cheeses keep almost none of their lactose; processed cheese slices are a different product and can hold more.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "cheddar",
+    "lowMaxG": 40,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 80,
+    "groups": [
+     "lactose"
+    ],
+    "household": "2 slices",
+    "sourceIds": [
+     "mon-lactose-2016"
+    ]
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Karlijn's Kitchen warns that processed cheddar slices can be high in lactose, unlike block cheddar.",
+    "sourceIds": [
+     "b5-kk-cheese"
+    ]
+   },
+   {
+    "text": "Hard cheeses sit in the low FODMAP column of Monash's food list and FODMAP Friendly's list.",
+    "sourceIds": [
+     "b5-mon-highlow",
+     "ff-list"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Parmesan",
+    "slug": "parmesan"
+   },
+   {
+    "name": "Feta",
+    "slug": "feta"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is mature cheddar better than mild?",
+    "a": "Both count as hard cheeses, which Monash lists as low in lactose. The sources don't give separate numbers for mild and mature."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "cream-cheese",
+  "name": "cream cheese",
+  "aliases": [
+   "philadelphia",
+   "soft cheese spread"
+  ],
+  "category": "dairy",
+  "regions": [
+   "global"
+  ],
+  "illustration": "cream-cheese",
+  "tier": "lab-tested",
+  "answer": "Yes, as a thin spread. Monash says cream cheese has a moderate amount of lactose and rated an 80 g serve moderate. Karlijn's Kitchen reports Monash's low serve as 40 g. Lactose-free cream cheese is the easy swap.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "cream cheese",
+    "lowMaxG": 40,
+    "moderateFromG": 80,
+    "highFromG": null,
+    "scaleMaxG": 115,
+    "groups": [
+     "lactose"
+    ],
+    "sourceIds": [
+     "b5-kk-cheese",
+     "mon-lactose-2016"
+    ],
+    "note": "The low amount is reported by Karlijn's Kitchen; the moderate amount (2 g lactose in 80 g) is from Monash's own blog."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's FAQ names cream cheese, ricotta and halloumi as cheeses with moderate lactose.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lactose-free cream cheese"
+   },
+   {
+    "name": "Feta",
+    "slug": "feta"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much cream cheese on a bagel is low FODMAP?",
+    "a": "About 40 g is the reported low serve, a generous spread. The bagel matters too: most are wheat, which has its own limit."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "sour-cream",
+  "name": "sour cream",
+  "aliases": [
+   "soured cream",
+   "sour cream dip"
+  ],
+  "category": "dairy",
+  "regions": [
+   "global",
+   "latin-american"
+  ],
+  "illustration": "sour-cream",
+  "tier": "estimated",
+  "answer": "Not clear for small spoonfuls: we found no public low serve we could verify. Monash's lactose data rates 125 ml of sour cream moderate, and a dietitian site rates ¼ cup (63 g) moderate too. Lactose-free sour cream is the simpler choice.",
+  "estimateAnswer": {
+   "word": "Depends",
+   "line": "A ¼ cup is already moderate in lactose. No public low serve has been published for a smaller spoon."
+  },
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "sour cream",
+    "lowMaxG": null,
+    "moderateFromG": null,
+    "highFromG": null,
+    "scaleMaxG": 130,
+    "groups": [
+     "lactose"
+    ],
+    "sourceIds": [
+     "mon-lactose-2016",
+     "b5-alby-dairy"
+    ],
+    "note": "No public low amount. Estimated from published lactose levels."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Monash's 2016 lactose table lists 125 ml of sour cream at about 3.1 g of lactose, a moderate amount.",
+    "sourceIds": [
+     "mon-lactose-2016"
+    ]
+   },
+   {
+    "text": "A Little Bit Yummy lists ¼ cup (63 g) at 1.6 g of lactose and 100 g at 2.5 g, both moderate.",
+    "sourceIds": [
+     "b5-alby-dairy"
+    ]
+   },
+   {
+    "text": "Monash points out that lactose-free sour cream is widely available.",
+    "sourceIds": [
+     "mon-lactose-2016"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Lactose-free sour cream"
+   },
+   {
+    "name": "Lactose-free Greek yoghurt"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is a spoonful of sour cream on tacos OK?",
+    "a": "No public lab number covers a small spoonful. A ¼ cup is moderate, so a smaller dollop holds less lactose; lactose-free sour cream removes the doubt."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
+  "slug": "goat-cheese",
+  "name": "goat cheese",
+  "aliases": [
+   "goat's cheese",
+   "chevre",
+   "chèvre",
+   "soft goat cheese"
+  ],
+  "category": "dairy",
+  "regions": [
+   "mediterranean",
+   "global"
+  ],
+  "illustration": "goat-cheese",
+  "tier": "lab-tested",
+  "answer": "Yes, in a modest serve. Karlijn's Kitchen lists 40 g of soft goat cheese as low FODMAP, with lactose reaching a moderate level only at 250 g. Aged goat cheese has even less lactose, though no lab has tested it.",
+  "groups": [
+   "lactose"
+  ],
+  "servings": [
+   {
+    "form": "soft goat cheese",
+    "lowMaxG": 40,
+    "moderateFromG": 250,
+    "highFromG": null,
+    "scaleMaxG": 350,
+    "groups": [
+     "lactose"
+    ],
+    "sourceIds": [
+     "b5-kk-cheese"
+    ],
+    "note": "From Karlijn's Kitchen; we couldn't find a figure on Monash's or FODMAP Friendly's own sites."
+   }
+  ],
+  "changes": [],
+  "disagreements": [],
+  "notes": [
+   {
+    "text": "Karlijn's Kitchen measured about 2 g of lactose per 100 g in soft goat cheese and notes it varies by brand.",
+    "sourceIds": [
+     "b5-kk-cheese"
+    ]
+   },
+   {
+    "text": "Monash says matured and ripened cheeses are low in lactose.",
+    "sourceIds": [
+     "mon-faq"
+    ]
+   }
+  ],
+  "swaps": [
+   {
+    "name": "Feta",
+    "slug": "feta"
+   },
+   {
+    "name": "Parmesan",
+    "slug": "parmesan"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is goat cheese better than cow's cheese for lactose?",
+    "a": "Not automatically. Soft goat cheese still holds some lactose, so the portion matters just as it does for soft cow's-milk cheese."
+   }
+  ],
+  "published": "2026-11-19",
+  "checked": "2026-11-19",
+  "status": "verified"
+ },
+ {
   "changes": [],
   "disagreements": [],
   "notes": [
@@ -94,13 +1918,13 @@
    {
     "text": "Monash says most people with lactose malabsorption can handle about 12 to 15 g of lactose a day, roughly what's in 250 ml of regular milk.",
     "sourceIds": [
-     "b6-mon-dairylac-2018"
+     "b5-mon-dairy-2018"
     ]
    },
    {
     "text": "Lactose-free milk is still dairy. Monash points out that it lets you keep the benefits of dairy while skipping the lactose.",
     "sourceIds": [
-     "b6-mon-dairylac-2018"
+     "b5-mon-dairy-2018"
     ]
    }
   ],
@@ -177,7 +2001,7 @@
    {
     "text": "George Eats reports a much larger maximum still-low amount, up to 500 g per person. That is a ceiling, not the standard serve shown above.",
     "sourceIds": [
-     "b6-ge-almonds"
+     "b5-ge-almonds"
     ]
    }
   ],
@@ -199,7 +2023,7 @@
    {
     "text": "Whole almonds turn moderate for GOS from about 25 g, so almond milk is gentler than a handful of nuts.",
     "sourceIds": [
-     "b6-ge-almonds"
+     "b5-ge-almonds"
     ]
    }
   ],
@@ -902,7 +2726,7 @@
    {
     "text": "Monash suggests mashed extra-firm tofu with turmeric as a stand-in for scrambled eggs.",
     "sourceIds": [
-     "b6-mon-plantswaps-2026"
+     "b5-mon-plantswaps-2026"
     ]
    }
   ],
@@ -1007,7 +2831,8 @@
     "slug": "garlic-infused-oil"
    },
    {
-    "name": "Butter"
+    "name": "Butter",
+    "slug": "butter"
    }
   ],
   "faq": [
